@@ -1,0 +1,31 @@
+{
+  "gameId": 1147,
+  "name": "RadRed.Species.polteageist",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/855.png",
+    "normal": "pokelink-community:/radred/assets/sprites/855.png",
+    "party": "pokelink-community:/radred/assets/sprites/855.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 65,
+    "spAtk": 134,
+    "spDef": 114,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.weak_armor",
+    "RadRed.Abilities.weak_armor",
+    "RadRed.Abilities.heatproof"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 255
+}

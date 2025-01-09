@@ -1,0 +1,32 @@
+{
+  "gameId": 1131,
+  "name": "RadRed.Species.coalossal",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/839.png",
+    "normal": "pokelink-community:/radred/assets/sprites/839.png",
+    "party": "pokelink-community:/radred/assets/sprites/839.png"
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 80,
+    "def": 120,
+    "spAtk": 80,
+    "spDef": 90,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.steam_engine",
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.flash_fire"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

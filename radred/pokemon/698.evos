@@ -1,0 +1,11 @@
+{
+  "evolutions": [
+    {
+      "to": 699,
+      "conditions": {
+        "pokemon.evolve.level": 39,
+        "pokemon.evolve.time": "timeOfDay.night"
+      }
+    }
+  ]
+}

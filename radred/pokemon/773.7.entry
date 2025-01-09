@@ -1,0 +1,33 @@
+{
+  "form": 7,
+  "gameId": 1054,
+  "name": "RadRed.Species.silvally",
+  "formName": "RadRed.Forms.ghost",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/773.7.png",
+    "normal": "pokelink-community:/radred/assets/sprites/773.7.png",
+    "party": "pokelink-community:/radred/assets/sprites/773.7.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spAtk": 100,
+    "spDef": 100,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.battle_armor"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

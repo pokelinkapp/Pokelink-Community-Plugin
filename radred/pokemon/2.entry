@@ -1,0 +1,32 @@
+{
+  "gameId": 2,
+  "name": "RadRed.Species.ivysaur",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/2.png",
+    "party": "pokelink-community:/radred/assets/sprites/2.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 63,
+    "spAtk": 80,
+    "spDef": 80,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.chlorophyll"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

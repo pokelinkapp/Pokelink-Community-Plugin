@@ -1,0 +1,32 @@
+{
+  "gameId": 1324,
+  "name": "RadRed.Species.smoliv",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/928.png",
+    "normal": "pokelink-community:/radred/assets/sprites/928.png",
+    "party": "pokelink-community:/radred/assets/sprites/928.png"
+  },
+  "baseStats": {
+    "hp": 41,
+    "atk": 35,
+    "def": 45,
+    "spAtk": 58,
+    "spDef": 51,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.harvest"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

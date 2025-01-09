@@ -1,0 +1,32 @@
+{
+  "gameId": 1257,
+  "name": "RadRed.Species.roaring_moon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1005.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1005.png",
+    "party": "pokelink-community:/radred/assets/sprites/1005.png"
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 139,
+    "def": 71,
+    "spAtk": 55,
+    "spDef": 101,
+    "spd": 119
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 0,
+  "color": "color.blue",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 10,
+  "genderRatio": 255
+}

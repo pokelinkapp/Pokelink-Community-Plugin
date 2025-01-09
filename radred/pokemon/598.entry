@@ -1,0 +1,32 @@
+{
+  "gameId": 651,
+  "name": "RadRed.Species.ferrothorn",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/598.png",
+    "normal": "pokelink-community:/radred/assets/sprites/598.png",
+    "party": "pokelink-community:/radred/assets/sprites/598.png"
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 94,
+    "def": 131,
+    "spAtk": 54,
+    "spDef": 116,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.iron_barbs",
+    "RadRed.Abilities.iron_barbs",
+    "RadRed.Abilities.iron_barbs"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

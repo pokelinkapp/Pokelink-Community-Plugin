@@ -1,0 +1,31 @@
+{
+  "gameId": 647,
+  "name": "RadRed.Species.alomomola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/594.png",
+    "normal": "pokelink-community:/radred/assets/sprites/594.png",
+    "party": "pokelink-community:/radred/assets/sprites/594.png"
+  },
+  "baseStats": {
+    "hp": 165,
+    "atk": 75,
+    "def": 80,
+    "spAtk": 40,
+    "spDef": 45,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 40,
+  "expGroup": 4,
+  "catchRate": 75,
+  "genderRatio": 127
+}

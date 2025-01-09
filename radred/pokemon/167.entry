@@ -1,0 +1,32 @@
+{
+  "gameId": 167,
+  "name": "RadRed.Species.spinarak",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/167.png",
+    "normal": "pokelink-community:/radred/assets/sprites/167.png",
+    "party": "pokelink-community:/radred/assets/sprites/167.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 60,
+    "def": 40,
+    "spAtk": 40,
+    "spDef": 40,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.insomnia",
+    "RadRed.Abilities.sniper"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 4,
+  "catchRate": 255,
+  "genderRatio": 127
+}

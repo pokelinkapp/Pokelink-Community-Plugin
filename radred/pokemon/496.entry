@@ -1,0 +1,31 @@
+{
+  "gameId": 549,
+  "name": "RadRed.Species.servine",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/496.png",
+    "normal": "pokelink-community:/radred/assets/sprites/496.png",
+    "party": "pokelink-community:/radred/assets/sprites/496.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 75,
+    "spAtk": 60,
+    "spDef": 75,
+    "spd": 83
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.contrary"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 774,
+  "name": "RadRed.Species.vivillon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/666.png",
+    "normal": "pokelink-community:/radred/assets/sprites/666.png",
+    "party": "pokelink-community:/radred/assets/sprites/666.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 52,
+    "def": 50,
+    "spAtk": 90,
+    "spDef": 50,
+    "spd": 89
+  },
+  "abilities": [
+    "RadRed.Abilities.shield_dust",
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.friend_guard"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

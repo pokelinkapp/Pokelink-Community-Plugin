@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 903,
+  "name": "RadRed.Species.absol",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/359.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/359.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/359.1.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 150,
+    "def": 60,
+    "spAtk": 115,
+    "spDef": 60,
+    "spd": 115
+  },
+  "abilities": [
+    "RadRed.Abilities.magic_bounce",
+    "RadRed.Abilities.sharpness",
+    "RadRed.Abilities.magic_bounce"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 30,
+  "genderRatio": 127
+}

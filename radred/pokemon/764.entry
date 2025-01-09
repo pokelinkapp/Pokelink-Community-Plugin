@@ -1,0 +1,31 @@
+{
+  "gameId": 981,
+  "name": "RadRed.Species.comfey",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/764.png",
+    "normal": "pokelink-community:/radred/assets/sprites/764.png",
+    "party": "pokelink-community:/radred/assets/sprites/764.png"
+  },
+  "baseStats": {
+    "hp": 51,
+    "atk": 52,
+    "def": 90,
+    "spAtk": 82,
+    "spDef": 110,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.triage",
+    "RadRed.Abilities.triage",
+    "RadRed.Abilities.natural_cure"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 60,
+  "genderRatio": 191
+}

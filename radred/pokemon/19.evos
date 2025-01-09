@@ -1,0 +1,20 @@
+{
+  "evolutions": [
+    {
+      "to": 20,
+      "conditions": {
+        "pokemon.evolve.level": 20
+      },
+      "fromForm": 0
+    },
+    {
+      "to": 20,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.time": "timeOfDay.night"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

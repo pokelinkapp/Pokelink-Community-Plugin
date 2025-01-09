@@ -1,0 +1,32 @@
+{
+  "gameId": 617,
+  "name": "RadRed.Species.tirtouga",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/564.png",
+    "normal": "pokelink-community:/radred/assets/sprites/564.png",
+    "party": "pokelink-community:/radred/assets/sprites/564.png"
+  },
+  "baseStats": {
+    "hp": 54,
+    "atk": 78,
+    "def": 103,
+    "spAtk": 53,
+    "spDef": 45,
+    "spd": 22
+  },
+  "abilities": [
+    "RadRed.Abilities.solid_rock",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.swift_swim"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 31
+}

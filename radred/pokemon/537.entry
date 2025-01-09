@@ -1,0 +1,32 @@
+{
+  "gameId": 590,
+  "name": "RadRed.Species.seismitoad",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/537.png",
+    "normal": "pokelink-community:/radred/assets/sprites/537.png",
+    "party": "pokelink-community:/radred/assets/sprites/537.png"
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 95,
+    "def": 75,
+    "spAtk": 85,
+    "spDef": 75,
+    "spd": 74
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.water_absorb"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

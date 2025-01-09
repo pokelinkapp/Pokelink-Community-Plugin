@@ -1,0 +1,32 @@
+{
+  "gameId": 1174,
+  "name": "RadRed.Species.dracovish",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/882.png",
+    "normal": "pokelink-community:/radred/assets/sprites/882.png",
+    "party": "pokelink-community:/radred/assets/sprites/882.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 100,
+    "spAtk": 70,
+    "spDef": 80,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.strong_jaw",
+    "RadRed.Abilities.sand_rush"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 35,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 149,
+  "name": "RadRed.Species.dragonite",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/149.png",
+    "normal": "pokelink-community:/radred/assets/sprites/149.png",
+    "party": "pokelink-community:/radred/assets/sprites/149.png"
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 134,
+    "def": 95,
+    "spAtk": 100,
+    "spDef": 100,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.multiscale"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 35,
+  "color": "color.brown",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

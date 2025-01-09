@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 1000,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.gimmighoulCoins": 999
+        }
+      }
+    }
+  ]
+}

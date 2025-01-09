@@ -1,0 +1,31 @@
+{
+  "gameId": 674,
+  "name": "RadRed.Species.druddigon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/621.png",
+    "normal": "pokelink-community:/radred/assets/sprites/621.png",
+    "party": "pokelink-community:/radred/assets/sprites/621.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 120,
+    "def": 90,
+    "spAtk": 60,
+    "spDef": 90,
+    "spd": 41
+  },
+  "abilities": [
+    "RadRed.Abilities.rough_skin",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.mold_breaker"
+  ],
+  "types": [
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 30,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

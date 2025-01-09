@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1031,
+  "name": "RadRed.Species.geodude",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/74.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/74.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/74.1.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 80,
+    "def": 100,
+    "spAtk": 30,
+    "spDef": 30,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.galvanize"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

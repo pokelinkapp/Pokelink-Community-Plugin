@@ -1,0 +1,32 @@
+{
+  "gameId": 598,
+  "name": "RadRed.Species.scolipede",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/545.png",
+    "normal": "pokelink-community:/radred/assets/sprites/545.png",
+    "party": "pokelink-community:/radred/assets/sprites/545.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 89,
+    "spAtk": 55,
+    "spDef": 69,
+    "spd": 112
+  },
+  "abilities": [
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.speed_boost"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 107,
+  "name": "RadRed.Species.hitmonchan",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/107.png",
+    "normal": "pokelink-community:/radred/assets/sprites/107.png",
+    "party": "pokelink-community:/radred/assets/sprites/107.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 115,
+    "def": 79,
+    "spAtk": 35,
+    "spDef": 110,
+    "spd": 76
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 0
+}

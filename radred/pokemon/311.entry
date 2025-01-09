@@ -1,0 +1,31 @@
+{
+  "gameId": 353,
+  "name": "RadRed.Species.plusle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/311.png",
+    "normal": "pokelink-community:/radred/assets/sprites/311.png",
+    "party": "pokelink-community:/radred/assets/sprites/311.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 40,
+    "spAtk": 85,
+    "spDef": 75,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.plus",
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.transistor"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 200,
+  "genderRatio": 127
+}

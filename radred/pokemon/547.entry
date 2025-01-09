@@ -1,0 +1,32 @@
+{
+  "gameId": 600,
+  "name": "RadRed.Species.whimsicott",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/547.png",
+    "normal": "pokelink-community:/radred/assets/sprites/547.png",
+    "party": "pokelink-community:/radred/assets/sprites/547.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 67,
+    "def": 85,
+    "spAtk": 77,
+    "spDef": 75,
+    "spd": 116
+  },
+  "abilities": [
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.chlorophyll"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

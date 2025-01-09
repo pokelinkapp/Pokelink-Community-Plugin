@@ -1,0 +1,31 @@
+{
+  "gameId": 568,
+  "name": "RadRed.Species.panpour",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/515.png",
+    "normal": "pokelink-community:/radred/assets/sprites/515.png",
+    "party": "pokelink-community:/radred/assets/sprites/515.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 53,
+    "def": 48,
+    "spAtk": 53,
+    "spDef": 48,
+    "spd": 64
+  },
+  "abilities": [
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.torrent"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 31
+}

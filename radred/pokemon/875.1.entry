@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 1201,
+  "name": "RadRed.Species.eiscue",
+  "formName": "RadRed.Forms.noice",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/875.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/875.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/875.1.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 70,
+    "spAtk": 45,
+    "spDef": 50,
+    "spd": 130
+  },
+  "abilities": [
+    "RadRed.Abilities.ice_face",
+    "RadRed.Abilities.ice_face",
+    "RadRed.Abilities.ice_face"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 127
+}

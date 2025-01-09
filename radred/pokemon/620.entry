@@ -1,0 +1,31 @@
+{
+  "gameId": 673,
+  "name": "RadRed.Species.mienshao",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/620.png",
+    "normal": "pokelink-community:/radred/assets/sprites/620.png",
+    "party": "pokelink-community:/radred/assets/sprites/620.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 60,
+    "spAtk": 95,
+    "spDef": 60,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.regenerator",
+    "RadRed.Abilities.reckless"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 208,
+  "name": "RadRed.Species.steelix",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/208.png",
+    "normal": "pokelink-community:/radred/assets/sprites/208.png",
+    "party": "pokelink-community:/radred/assets/sprites/208.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 85,
+    "def": 200,
+    "spAtk": 55,
+    "spDef": 65,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 25,
+  "genderRatio": 127
+}

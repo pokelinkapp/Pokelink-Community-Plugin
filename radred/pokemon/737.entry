@@ -1,0 +1,32 @@
+{
+  "gameId": 954,
+  "name": "RadRed.Species.charjabug",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/737.png",
+    "normal": "pokelink-community:/radred/assets/sprites/737.png",
+    "party": "pokelink-community:/radred/assets/sprites/737.png"
+  },
+  "baseStats": {
+    "hp": 57,
+    "atk": 82,
+    "def": 95,
+    "spAtk": 55,
+    "spDef": 75,
+    "spd": 36
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.swarm"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 120,
+  "genderRatio": 127
+}

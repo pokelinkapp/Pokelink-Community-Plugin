@@ -1,0 +1,32 @@
+{
+  "gameId": 342,
+  "name": "RadRed.Species.sealeo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/364.png",
+    "normal": "pokelink-community:/radred/assets/sprites/364.png",
+    "party": "pokelink-community:/radred/assets/sprites/364.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 60,
+    "def": 70,
+    "spAtk": 75,
+    "spDef": 70,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.ice_body",
+    "RadRed.Abilities.oblivious"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

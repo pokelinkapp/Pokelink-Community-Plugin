@@ -1,0 +1,32 @@
+{
+  "gameId": 250,
+  "name": "RadRed.Species.ho_oh",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/250.png",
+    "normal": "pokelink-community:/radred/assets/sprites/250.png",
+    "party": "pokelink-community:/radred/assets/sprites/250.png"
+  },
+  "baseStats": {
+    "hp": 106,
+    "atk": 130,
+    "def": 90,
+    "spAtk": 110,
+    "spDef": 154,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.regenerator",
+    "RadRed.Abilities.phoenix_down"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 0,
+  "color": "color.red",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

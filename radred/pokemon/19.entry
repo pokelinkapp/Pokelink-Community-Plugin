@@ -1,0 +1,31 @@
+{
+  "gameId": 19,
+  "name": "RadRed.Species.rattata",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/19.png",
+    "normal": "pokelink-community:/radred/assets/sprites/19.png",
+    "party": "pokelink-community:/radred/assets/sprites/19.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 56,
+    "def": 35,
+    "spAtk": 25,
+    "spDef": 35,
+    "spd": 72
+  },
+  "abilities": [
+    "RadRed.Abilities.run_away",
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.hustle"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

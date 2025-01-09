@@ -1,0 +1,31 @@
+{
+  "gameId": 86,
+  "name": "RadRed.Species.seel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/86.png",
+    "normal": "pokelink-community:/radred/assets/sprites/86.png",
+    "party": "pokelink-community:/radred/assets/sprites/86.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 45,
+    "def": 55,
+    "spAtk": 45,
+    "spDef": 70,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.ice_body"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

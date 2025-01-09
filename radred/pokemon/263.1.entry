@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1222,
+  "name": "RadRed.Species.zigzagoon",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/263.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/263.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/263.1.png"
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 30,
+    "def": 41,
+    "spAtk": 30,
+    "spDef": 41,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.quick_feet"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

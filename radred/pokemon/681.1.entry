@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 833,
+  "name": "RadRed.Species.aegislash",
+  "formName": "RadRed.Forms.blade",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/681.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/681.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/681.1.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 140,
+    "def": 50,
+    "spAtk": 140,
+    "spDef": 50,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.stance_change",
+    "RadRed.Abilities.stance_change",
+    "RadRed.Abilities.stance_change"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

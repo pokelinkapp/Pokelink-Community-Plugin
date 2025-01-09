@@ -1,0 +1,31 @@
+{
+  "gameId": 670,
+  "name": "RadRed.Species.accelgor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/617.png",
+    "normal": "pokelink-community:/radred/assets/sprites/617.png",
+    "party": "pokelink-community:/radred/assets/sprites/617.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 40,
+    "spAtk": 100,
+    "spDef": 60,
+    "spd": 145
+  },
+  "abilities": [
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.unburden",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

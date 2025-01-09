@@ -1,0 +1,32 @@
+{
+  "gameId": 844,
+  "name": "RadRed.Species.pawmo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/922.png",
+    "normal": "pokelink-community:/radred/assets/sprites/922.png",
+    "party": "pokelink-community:/radred/assets/sprites/922.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 75,
+    "def": 40,
+    "spAtk": 50,
+    "spDef": 40,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 80,
+  "genderRatio": 127
+}

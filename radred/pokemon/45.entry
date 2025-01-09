@@ -1,0 +1,32 @@
+{
+  "gameId": 45,
+  "name": "RadRed.Species.vileplume",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/45.png",
+    "normal": "pokelink-community:/radred/assets/sprites/45.png",
+    "party": "pokelink-community:/radred/assets/sprites/45.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 85,
+    "spAtk": 110,
+    "spDef": 90,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.effect_spore"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

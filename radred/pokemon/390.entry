@@ -1,0 +1,31 @@
+{
+  "gameId": 443,
+  "name": "RadRed.Species.chimchar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/390.png",
+    "normal": "pokelink-community:/radred/assets/sprites/390.png",
+    "party": "pokelink-community:/radred/assets/sprites/390.png"
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 58,
+    "def": 44,
+    "spAtk": 58,
+    "spDef": 44,
+    "spd": 61
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

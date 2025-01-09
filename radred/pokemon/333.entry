@@ -1,0 +1,32 @@
+{
+  "gameId": 358,
+  "name": "RadRed.Species.swablu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/333.png",
+    "normal": "pokelink-community:/radred/assets/sprites/333.png",
+    "party": "pokelink-community:/radred/assets/sprites/333.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 40,
+    "def": 60,
+    "spAtk": 40,
+    "spDef": 75,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.cloud_nine"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 255,
+  "genderRatio": 127
+}

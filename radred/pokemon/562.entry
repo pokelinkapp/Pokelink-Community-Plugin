@@ -1,0 +1,31 @@
+{
+  "gameId": 615,
+  "name": "RadRed.Species.yamask",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/562.png",
+    "normal": "pokelink-community:/radred/assets/sprites/562.png",
+    "party": "pokelink-community:/radred/assets/sprites/562.png"
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 30,
+    "def": 85,
+    "spAtk": 55,
+    "spDef": 65,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.mummy",
+    "RadRed.Abilities.mummy",
+    "RadRed.Abilities.shadow_shield"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

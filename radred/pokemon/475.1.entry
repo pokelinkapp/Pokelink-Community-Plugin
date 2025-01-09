@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 916,
+  "name": "RadRed.Species.gallade",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/475.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/475.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/475.1.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 165,
+    "def": 95,
+    "spAtk": 65,
+    "spDef": 115,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.sharpness",
+    "RadRed.Abilities.sharpness",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 0
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 103,
+  "name": "RadRed.Species.exeggutor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/103.png",
+    "normal": "pokelink-community:/radred/assets/sprites/103.png",
+    "party": "pokelink-community:/radred/assets/sprites/103.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 85,
+    "spAtk": 125,
+    "spDef": 75,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.harvest"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,20 @@
+{
+  "evolutions": [
+    {
+      "to": 1013,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.unremarkable_teacup"
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 1013,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.masterpiece_teacup"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

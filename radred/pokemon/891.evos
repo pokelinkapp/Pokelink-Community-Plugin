@@ -1,0 +1,17 @@
+{
+  "evolutions": [
+    {
+      "to": 892,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.scroll_of_darkness"
+      }
+    },
+    {
+      "to": 892,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.scroll_of_waters"
+      },
+      "toForm": 1
+    }
+  ]
+}

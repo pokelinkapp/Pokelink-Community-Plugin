@@ -1,0 +1,31 @@
+{
+  "gameId": 1349,
+  "name": "RadRed.Species.maschiff",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/942.png",
+    "normal": "pokelink-community:/radred/assets/sprites/942.png",
+    "party": "pokelink-community:/radred/assets/sprites/942.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 78,
+    "def": 60,
+    "spAtk": 40,
+    "spDef": 51,
+    "spd": 51
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.run_away",
+    "RadRed.Abilities.stakeout"
+  ],
+  "types": [
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 150,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 113,
+  "name": "RadRed.Species.chansey",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/113.png",
+    "normal": "pokelink-community:/radred/assets/sprites/113.png",
+    "party": "pokelink-community:/radred/assets/sprites/113.png"
+  },
+  "baseStats": {
+    "hp": 250,
+    "atk": 5,
+    "def": 5,
+    "spAtk": 35,
+    "spDef": 105,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.serene_grace",
+    "RadRed.Abilities.natural_cure"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 140,
+  "color": "color.pink",
+  "hatchCycles": 40,
+  "expGroup": 4,
+  "catchRate": 30,
+  "genderRatio": 254
+}

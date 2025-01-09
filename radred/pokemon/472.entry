@@ -1,0 +1,32 @@
+{
+  "gameId": 525,
+  "name": "RadRed.Species.gliscor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/472.png",
+    "normal": "pokelink-community:/radred/assets/sprites/472.png",
+    "party": "pokelink-community:/radred/assets/sprites/472.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 95,
+    "def": 125,
+    "spAtk": 45,
+    "spDef": 75,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.hyper_cutter",
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.poison_heal"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 30,
+  "genderRatio": 127
+}

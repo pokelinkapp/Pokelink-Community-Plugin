@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1264,
+  "name": "RadRed.Species.calyrex",
+  "formName": "RadRed.Forms.ice",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/898.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/898.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/898.1.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 165,
+    "def": 150,
+    "spAtk": 85,
+    "spDef": 130,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.as_one",
+    "RadRed.Abilities.as_one",
+    "RadRed.Abilities.as_one"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 100,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

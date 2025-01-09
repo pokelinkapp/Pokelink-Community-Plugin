@@ -1,0 +1,32 @@
+{
+  "gameId": 187,
+  "name": "RadRed.Species.hoppip",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/187.png",
+    "normal": "pokelink-community:/radred/assets/sprites/187.png",
+    "party": "pokelink-community:/radred/assets/sprites/187.png"
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 35,
+    "def": 40,
+    "spAtk": 35,
+    "spDef": 55,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.leaf_guard",
+    "RadRed.Abilities.infiltrator"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

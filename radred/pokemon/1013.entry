@@ -1,0 +1,32 @@
+{
+  "gameId": 1362,
+  "name": "RadRed.Species.sinistcha",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1013.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1013.png",
+    "party": "pokelink-community:/radred/assets/sprites/1013.png"
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 60,
+    "def": 106,
+    "spAtk": 121,
+    "spDef": 80,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.heatproof",
+    "RadRed.Abilities.heatproof",
+    "RadRed.Abilities.heatproof"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 255
+}

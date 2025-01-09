@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 773,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.friendship": "friendship.high"
+        }
+      }
+    }
+  ]
+}

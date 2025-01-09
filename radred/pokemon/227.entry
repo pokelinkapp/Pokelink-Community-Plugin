@@ -1,0 +1,32 @@
+{
+  "gameId": 227,
+  "name": "RadRed.Species.skarmory",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/227.png",
+    "normal": "pokelink-community:/radred/assets/sprites/227.png",
+    "party": "pokelink-community:/radred/assets/sprites/227.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 80,
+    "def": 140,
+    "spAtk": 40,
+    "spDef": 70,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.weak_armor"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 25,
+  "genderRatio": 127
+}

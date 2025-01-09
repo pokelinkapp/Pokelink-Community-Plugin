@@ -1,0 +1,31 @@
+{
+  "gameId": 631,
+  "name": "RadRed.Species.duosion",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/578.png",
+    "normal": "pokelink-community:/radred/assets/sprites/578.png",
+    "party": "pokelink-community:/radred/assets/sprites/578.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 40,
+    "def": 50,
+    "spAtk": 125,
+    "spDef": 60,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.magic_guard",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 100,
+  "genderRatio": 127
+}

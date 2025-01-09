@@ -1,0 +1,32 @@
+{
+  "gameId": 538,
+  "name": "RadRed.Species.heatran",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/485.png",
+    "normal": "pokelink-community:/radred/assets/sprites/485.png",
+    "party": "pokelink-community:/radred/assets/sprites/485.png"
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 90,
+    "def": 106,
+    "spAtk": 130,
+    "spDef": 106,
+    "spd": 77
+  },
+  "abilities": [
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.flame_body"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 100,
+  "color": "color.brown",
+  "hatchCycles": 10,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 127
+}

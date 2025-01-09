@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1251,
+  "name": "RadRed.Species.flapple",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/841.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/841.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/841.1.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 145,
+    "def": 90,
+    "spAtk": 135,
+    "spDef": 70,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.dragons_maw",
+    "RadRed.Abilities.dragons_maw",
+    "RadRed.Abilities.dragons_maw"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 45,
+  "genderRatio": 127
+}

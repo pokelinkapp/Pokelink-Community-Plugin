@@ -1,0 +1,33 @@
+{
+  "form": 2,
+  "gameId": 1041,
+  "name": "RadRed.Species.deoxys",
+  "formName": "RadRed.Forms.defense",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/386.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/386.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/386.2.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 70,
+    "def": 160,
+    "spAtk": 70,
+    "spDef": 160,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 0,
+  "color": "color.red",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

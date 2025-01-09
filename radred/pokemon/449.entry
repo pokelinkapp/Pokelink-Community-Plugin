@@ -1,0 +1,31 @@
+{
+  "gameId": 502,
+  "name": "RadRed.Species.hippopotas",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/449.png",
+    "normal": "pokelink-community:/radred/assets/sprites/449.png",
+    "party": "pokelink-community:/radred/assets/sprites/449.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 72,
+    "def": 78,
+    "spAtk": 38,
+    "spDef": 42,
+    "spd": 32
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_stream",
+    "RadRed.Abilities.sand_stream",
+    "RadRed.Abilities.sand_force"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 30,
+  "expGroup": 5,
+  "catchRate": 140,
+  "genderRatio": 127
+}

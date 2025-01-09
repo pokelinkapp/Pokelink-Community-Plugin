@@ -1,0 +1,32 @@
+{
+  "gameId": 826,
+  "name": "RadRed.Species.zygarde",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/718.png",
+    "normal": "pokelink-community:/radred/assets/sprites/718.png",
+    "party": "pokelink-community:/radred/assets/sprites/718.png"
+  },
+  "baseStats": {
+    "hp": 108,
+    "atk": 100,
+    "def": 121,
+    "spAtk": 81,
+    "spDef": 95,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.power_construct",
+    "RadRed.Abilities.power_construct",
+    "RadRed.Abilities.power_construct"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 0,
+  "color": "color.green",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

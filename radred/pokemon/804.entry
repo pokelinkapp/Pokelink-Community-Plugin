@@ -1,0 +1,32 @@
+{
+  "gameId": 1075,
+  "name": "RadRed.Species.naganadel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/804.png",
+    "normal": "pokelink-community:/radred/assets/sprites/804.png",
+    "party": "pokelink-community:/radred/assets/sprites/804.png"
+  },
+  "baseStats": {
+    "hp": 73,
+    "atk": 73,
+    "def": 73,
+    "spAtk": 127,
+    "spDef": 73,
+    "spd": 121
+  },
+  "abilities": [
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 207,
+  "name": "RadRed.Species.gligar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/207.png",
+    "normal": "pokelink-community:/radred/assets/sprites/207.png",
+    "party": "pokelink-community:/radred/assets/sprites/207.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 105,
+    "spAtk": 35,
+    "spDef": 65,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.hyper_cutter",
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.immunity"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 60,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 633,
+  "name": "RadRed.Species.ducklett",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/580.png",
+    "normal": "pokelink-community:/radred/assets/sprites/580.png",
+    "party": "pokelink-community:/radred/assets/sprites/580.png"
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 44,
+    "def": 50,
+    "spAtk": 44,
+    "spDef": 50,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.hydration"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

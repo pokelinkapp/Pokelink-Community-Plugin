@@ -1,0 +1,32 @@
+{
+  "gameId": 194,
+  "name": "RadRed.Species.wooper",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/194.png",
+    "normal": "pokelink-community:/radred/assets/sprites/194.png",
+    "party": "pokelink-community:/radred/assets/sprites/194.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 45,
+    "def": 45,
+    "spAtk": 25,
+    "spDef": 25,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.damp",
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.unaware"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

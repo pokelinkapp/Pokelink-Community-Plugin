@@ -1,0 +1,31 @@
+{
+  "gameId": 1116,
+  "name": "RadRed.Species.blipbug",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/824.png",
+    "normal": "pokelink-community:/radred/assets/sprites/824.png",
+    "party": "pokelink-community:/radred/assets/sprites/824.png"
+  },
+  "baseStats": {
+    "hp": 25,
+    "atk": 20,
+    "def": 20,
+    "spAtk": 25,
+    "spDef": 45,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

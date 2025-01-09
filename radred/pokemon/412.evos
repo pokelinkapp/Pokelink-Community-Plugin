@@ -1,0 +1,37 @@
+{
+  "evolutions": [
+    {
+      "to": 414,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.gender": "Gender.male"
+      }
+    },
+    {
+      "to": 413,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.location": "area.inGrass",
+        "pokemon.evolve.gender": "Gender.female"
+      }
+    },
+    {
+      "to": 413,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.location": "area.inCaves",
+        "pokemon.evolve.gender": "Gender.female"
+      },
+      "toForm": 1
+    },
+    {
+      "to": 413,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.location": "area.inBuildings",
+        "pokemon.evolve.gender": "Gender.female"
+      },
+      "toForm": 2
+    }
+  ]
+}

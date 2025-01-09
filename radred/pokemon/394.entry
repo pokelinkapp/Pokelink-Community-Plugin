@@ -1,0 +1,31 @@
+{
+  "gameId": 447,
+  "name": "RadRed.Species.prinplup",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/394.png",
+    "normal": "pokelink-community:/radred/assets/sprites/394.png",
+    "party": "pokelink-community:/radred/assets/sprites/394.png"
+  },
+  "baseStats": {
+    "hp": 64,
+    "atk": 66,
+    "def": 68,
+    "spAtk": 81,
+    "spDef": 76,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.competitive"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

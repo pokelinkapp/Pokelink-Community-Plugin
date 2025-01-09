@@ -1,0 +1,20 @@
+{
+  "evolutions": [
+    {
+      "to": 101,
+      "conditions": {
+        "pokemon.evolve.level": 30
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 101,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.leaf_stone"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

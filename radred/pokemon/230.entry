@@ -1,0 +1,32 @@
+{
+  "gameId": 230,
+  "name": "RadRed.Species.kingdra",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/230.png",
+    "normal": "pokelink-community:/radred/assets/sprites/230.png",
+    "party": "pokelink-community:/radred/assets/sprites/230.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 95,
+    "def": 95,
+    "spAtk": 95,
+    "spDef": 95,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.sniper",
+    "RadRed.Abilities.damp"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

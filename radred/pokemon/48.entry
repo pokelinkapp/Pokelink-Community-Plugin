@@ -1,0 +1,32 @@
+{
+  "gameId": 48,
+  "name": "RadRed.Species.venonat",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/48.png",
+    "normal": "pokelink-community:/radred/assets/sprites/48.png",
+    "party": "pokelink-community:/radred/assets/sprites/48.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 55,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.tinted_lens",
+    "RadRed.Abilities.run_away"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

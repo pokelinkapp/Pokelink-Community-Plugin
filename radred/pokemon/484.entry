@@ -1,0 +1,32 @@
+{
+  "gameId": 537,
+  "name": "RadRed.Species.palkia",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/484.png",
+    "normal": "pokelink-community:/radred/assets/sprites/484.png",
+    "party": "pokelink-community:/radred/assets/sprites/484.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 120,
+    "def": 100,
+    "spAtk": 150,
+    "spDef": 120,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

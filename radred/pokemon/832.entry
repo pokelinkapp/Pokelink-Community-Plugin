@@ -1,0 +1,31 @@
+{
+  "gameId": 1124,
+  "name": "RadRed.Species.dubwool",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/832.png",
+    "normal": "pokelink-community:/radred/assets/sprites/832.png",
+    "party": "pokelink-community:/radred/assets/sprites/832.png"
+  },
+  "baseStats": {
+    "hp": 82,
+    "atk": 80,
+    "def": 100,
+    "spAtk": 60,
+    "spDef": 90,
+    "spd": 88
+  },
+  "abilities": [
+    "RadRed.Abilities.fluffy",
+    "RadRed.Abilities.steadfast",
+    "RadRed.Abilities.bulletproof"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 127,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 550,
+  "name": "RadRed.Species.serperior",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/497.png",
+    "normal": "pokelink-community:/radred/assets/sprites/497.png",
+    "party": "pokelink-community:/radred/assets/sprites/497.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 75,
+    "def": 95,
+    "spAtk": 75,
+    "spDef": 95,
+    "spd": 113
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.contrary"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

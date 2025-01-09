@@ -1,0 +1,31 @@
+{
+  "gameId": 109,
+  "name": "RadRed.Species.koffing",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/109.png",
+    "normal": "pokelink-community:/radred/assets/sprites/109.png",
+    "party": "pokelink-community:/radred/assets/sprites/109.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 95,
+    "spAtk": 60,
+    "spDef": 45,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.neutralize_gas",
+    "RadRed.Abilities.toxic_debris"
+  ],
+  "types": [
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

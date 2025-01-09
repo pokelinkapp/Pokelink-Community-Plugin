@@ -1,0 +1,32 @@
+{
+  "gameId": 359,
+  "name": "RadRed.Species.altaria",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/334.png",
+    "normal": "pokelink-community:/radred/assets/sprites/334.png",
+    "party": "pokelink-community:/radred/assets/sprites/334.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 70,
+    "def": 90,
+    "spAtk": 70,
+    "spDef": 105,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.cloud_nine"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 45,
+  "genderRatio": 127
+}

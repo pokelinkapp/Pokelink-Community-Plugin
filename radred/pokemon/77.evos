@@ -1,0 +1,20 @@
+{
+  "evolutions": [
+    {
+      "to": 78,
+      "conditions": {
+        "pokemon.evolve.level": 40
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 78,
+      "conditions": {
+        "pokemon.evolve.level": 40
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

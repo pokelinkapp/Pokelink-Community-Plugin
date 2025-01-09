@@ -1,0 +1,31 @@
+{
+  "gameId": 1189,
+  "name": "RadRed.Species.regidrago",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/895.png",
+    "normal": "pokelink-community:/radred/assets/sprites/895.png",
+    "party": "pokelink-community:/radred/assets/sprites/895.png"
+  },
+  "baseStats": {
+    "hp": 200,
+    "atk": 100,
+    "def": 50,
+    "spAtk": 100,
+    "spDef": 50,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.dragons_maw",
+    "RadRed.Abilities.dragons_maw",
+    "RadRed.Abilities.dragons_maw"
+  ],
+  "types": [
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 35,
+  "color": "color.green",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

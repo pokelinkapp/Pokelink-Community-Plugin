@@ -1,0 +1,32 @@
+{
+  "gameId": 145,
+  "name": "RadRed.Species.zapdos",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/145.png",
+    "normal": "pokelink-community:/radred/assets/sprites/145.png",
+    "party": "pokelink-community:/radred/assets/sprites/145.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 90,
+    "def": 85,
+    "spAtk": 125,
+    "spDef": 90,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.static"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 35,
+  "color": "color.yellow",
+  "hatchCycles": 80,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

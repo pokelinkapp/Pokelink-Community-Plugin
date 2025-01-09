@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 687,
+      "conditions": {
+        "pokemon.evolve.holdConsoleUpsideDown": {
+          "pokemon.evolve.level": 30
+        }
+      }
+    }
+  ]
+}

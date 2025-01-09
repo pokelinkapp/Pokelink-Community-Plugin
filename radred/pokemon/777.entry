@@ -1,0 +1,32 @@
+{
+  "gameId": 994,
+  "name": "RadRed.Species.togedemaru",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/777.png",
+    "normal": "pokelink-community:/radred/assets/sprites/777.png",
+    "party": "pokelink-community:/radred/assets/sprites/777.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 108,
+    "def": 63,
+    "spAtk": 40,
+    "spDef": 73,
+    "spd": 96
+  },
+  "abilities": [
+    "RadRed.Abilities.iron_barbs",
+    "RadRed.Abilities.motor_drive",
+    "RadRed.Abilities.sturdy"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 10,
+  "expGroup": 0,
+  "catchRate": 180,
+  "genderRatio": 127
+}

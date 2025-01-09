@@ -1,0 +1,32 @@
+{
+  "gameId": 389,
+  "name": "RadRed.Species.cradily",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/346.png",
+    "normal": "pokelink-community:/radred/assets/sprites/346.png",
+    "party": "pokelink-community:/radred/assets/sprites/346.png"
+  },
+  "baseStats": {
+    "hp": 86,
+    "atk": 81,
+    "def": 97,
+    "spAtk": 81,
+    "spDef": 107,
+    "spd": 43
+  },
+  "abilities": [
+    "RadRed.Abilities.suction_cups",
+    "RadRed.Abilities.suction_cups",
+    "RadRed.Abilities.storm_drain"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 30,
+  "expGroup": 1,
+  "catchRate": 45,
+  "genderRatio": 31
+}

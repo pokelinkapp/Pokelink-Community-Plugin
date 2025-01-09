@@ -1,0 +1,32 @@
+{
+  "gameId": 1118,
+  "name": "RadRed.Species.orbeetle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/826.png",
+    "normal": "pokelink-community:/radred/assets/sprites/826.png",
+    "party": "pokelink-community:/radred/assets/sprites/826.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 45,
+    "def": 110,
+    "spAtk": 80,
+    "spDef": 120,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

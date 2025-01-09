@@ -1,0 +1,31 @@
+{
+  "gameId": 956,
+  "name": "RadRed.Species.crabrawler",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/739.png",
+    "normal": "pokelink-community:/radred/assets/sprites/739.png",
+    "party": "pokelink-community:/radred/assets/sprites/739.png"
+  },
+  "baseStats": {
+    "hp": 47,
+    "atk": 82,
+    "def": 57,
+    "spAtk": 42,
+    "spDef": 47,
+    "spd": 63
+  },
+  "abilities": [
+    "RadRed.Abilities.hyper_cutter",
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.anger_point"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 225,
+  "genderRatio": 127
+}

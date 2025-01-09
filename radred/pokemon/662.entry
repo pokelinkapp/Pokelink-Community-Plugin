@@ -1,0 +1,32 @@
+{
+  "gameId": 770,
+  "name": "RadRed.Species.fletchinder",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/662.png",
+    "normal": "pokelink-community:/radred/assets/sprites/662.png",
+    "party": "pokelink-community:/radred/assets/sprites/662.png"
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 73,
+    "def": 55,
+    "spAtk": 56,
+    "spDef": 52,
+    "spd": 84
+  },
+  "abilities": [
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.gale_wings"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

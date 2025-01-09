@@ -1,0 +1,31 @@
+{
+  "gameId": 1006,
+  "name": "RadRed.Species.cosmog",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/789.png",
+    "normal": "pokelink-community:/radred/assets/sprites/789.png",
+    "party": "pokelink-community:/radred/assets/sprites/789.png"
+  },
+  "baseStats": {
+    "hp": 43,
+    "atk": 29,
+    "def": 31,
+    "spAtk": 29,
+    "spDef": 31,
+    "spd": 37
+  },
+  "abilities": [
+    "RadRed.Abilities.unaware",
+    "RadRed.Abilities.unaware",
+    "RadRed.Abilities.unaware"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 0,
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

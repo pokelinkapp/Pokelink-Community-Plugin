@@ -1,0 +1,31 @@
+{
+  "gameId": 626,
+  "name": "RadRed.Species.cinccino",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/573.png",
+    "normal": "pokelink-community:/radred/assets/sprites/573.png",
+    "party": "pokelink-community:/radred/assets/sprites/573.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 95,
+    "def": 60,
+    "spAtk": 65,
+    "spDef": 60,
+    "spd": 115
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.skill_link"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 4,
+  "catchRate": 60,
+  "genderRatio": 191
+}

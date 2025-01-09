@@ -1,0 +1,10 @@
+{
+  "evolutions": [
+    {
+      "to": 61,
+      "conditions": {
+        "pokemon.evolve.level": 25
+      }
+    }
+  ]
+}

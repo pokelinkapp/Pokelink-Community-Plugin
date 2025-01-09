@@ -1,0 +1,31 @@
+{
+  "gameId": 88,
+  "name": "RadRed.Species.grimer",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/88.png",
+    "normal": "pokelink-community:/radred/assets/sprites/88.png",
+    "party": "pokelink-community:/radred/assets/sprites/88.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "spd": 25
+  },
+  "abilities": [
+    "RadRed.Abilities.stench",
+    "RadRed.Abilities.sticky_hold",
+    "RadRed.Abilities.poison_touch"
+  ],
+  "types": [
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

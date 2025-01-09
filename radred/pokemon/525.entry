@@ -1,0 +1,31 @@
+{
+  "gameId": 578,
+  "name": "RadRed.Species.boldore",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/525.png",
+    "normal": "pokelink-community:/radred/assets/sprites/525.png",
+    "party": "pokelink-community:/radred/assets/sprites/525.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 105,
+    "def": 105,
+    "spAtk": 50,
+    "spDef": 40,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.weak_armor",
+    "RadRed.Abilities.sand_force"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

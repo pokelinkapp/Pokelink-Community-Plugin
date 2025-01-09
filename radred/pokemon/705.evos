@@ -1,0 +1,22 @@
+{
+  "evolutions": [
+    {
+      "to": 706,
+      "conditions": {
+        "pokemon.evolve.level": 50,
+        "pokemon.evolve.weather": "weather.raining"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    },
+    {
+      "to": 706,
+      "conditions": {
+        "pokemon.evolve.level": 50,
+        "pokemon.evolve.weather": "weather.raining"
+      },
+      "toForm": 0,
+      "fromForm": 0
+    }
+  ]
+}

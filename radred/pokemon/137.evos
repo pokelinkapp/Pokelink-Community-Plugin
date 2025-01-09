@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 233,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.upgrade"
+        }
+      }
+    }
+  ]
+}

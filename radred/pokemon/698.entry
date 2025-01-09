@@ -1,0 +1,32 @@
+{
+  "gameId": 806,
+  "name": "RadRed.Species.amaura",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/698.png",
+    "normal": "pokelink-community:/radred/assets/sprites/698.png",
+    "party": "pokelink-community:/radred/assets/sprites/698.png"
+  },
+  "baseStats": {
+    "hp": 77,
+    "atk": 59,
+    "def": 50,
+    "spAtk": 67,
+    "spDef": 63,
+    "spd": 46
+  },
+  "abilities": [
+    "RadRed.Abilities.refrigerate",
+    "RadRed.Abilities.refrigerate",
+    "RadRed.Abilities.snow_warning"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 31
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 690,
+  "name": "RadRed.Species.volcarona",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/637.png",
+    "normal": "pokelink-community:/radred/assets/sprites/637.png",
+    "party": "pokelink-community:/radred/assets/sprites/637.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 60,
+    "def": 65,
+    "spAtk": 135,
+    "spDef": 105,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.swarm"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 15,
+  "genderRatio": 127
+}

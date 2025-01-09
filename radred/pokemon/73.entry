@@ -1,0 +1,32 @@
+{
+  "gameId": 73,
+  "name": "RadRed.Species.tentacruel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/73.png",
+    "normal": "pokelink-community:/radred/assets/sprites/73.png",
+    "party": "pokelink-community:/radred/assets/sprites/73.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 60,
+    "def": 80,
+    "spAtk": 90,
+    "spDef": 120,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.liquid_ooze",
+    "RadRed.Abilities.rain_dish"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 127
+}

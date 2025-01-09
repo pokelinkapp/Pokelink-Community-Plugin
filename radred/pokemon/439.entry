@@ -1,0 +1,32 @@
+{
+  "gameId": 492,
+  "name": "RadRed.Species.mime_jr",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/439.png",
+    "normal": "pokelink-community:/radred/assets/sprites/439.png",
+    "party": "pokelink-community:/radred/assets/sprites/439.png"
+  },
+  "baseStats": {
+    "hp": 20,
+    "atk": 25,
+    "def": 45,
+    "spAtk": 70,
+    "spDef": 90,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.soundproof",
+    "RadRed.Abilities.filter",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 145,
+  "genderRatio": 127
+}

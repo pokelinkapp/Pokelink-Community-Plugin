@@ -1,0 +1,32 @@
+{
+  "gameId": 1150,
+  "name": "RadRed.Species.hatterene",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/858.png",
+    "normal": "pokelink-community:/radred/assets/sprites/858.png",
+    "party": "pokelink-community:/radred/assets/sprites/858.png"
+  },
+  "baseStats": {
+    "hp": 57,
+    "atk": 90,
+    "def": 95,
+    "spAtk": 136,
+    "spDef": 103,
+    "spd": 29
+  },
+  "abilities": [
+    "RadRed.Abilities.magic_bounce",
+    "RadRed.Abilities.magic_bounce",
+    "RadRed.Abilities.magic_bounce"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 254
+}

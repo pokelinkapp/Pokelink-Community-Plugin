@@ -1,0 +1,32 @@
+{
+  "gameId": 26,
+  "name": "RadRed.Species.raichu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/26.png",
+    "normal": "pokelink-community:/radred/assets/sprites/26.png",
+    "party": "pokelink-community:/radred/assets/sprites/26.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 100,
+    "def": 55,
+    "spAtk": 100,
+    "spDef": 80,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.lightning_rod"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 10,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1279,
+  "name": "RadRed.Species.ursaring",
+  "formName": "RadRed.Forms.sevii",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/217.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/217.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/217.1.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 110,
+    "def": 90,
+    "spAtk": 55,
+    "spDef": 90,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.quick_feet",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

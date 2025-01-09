@@ -1,0 +1,32 @@
+{
+  "gameId": 15,
+  "name": "RadRed.Species.beedrill",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/15.png",
+    "normal": "pokelink-community:/radred/assets/sprites/15.png",
+    "party": "pokelink-community:/radred/assets/sprites/15.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 40,
+    "spAtk": 45,
+    "spDef": 80,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.sniper"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

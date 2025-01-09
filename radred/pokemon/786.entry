@@ -1,0 +1,32 @@
+{
+  "gameId": 1003,
+  "name": "RadRed.Species.tapu_lele",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/786.png",
+    "normal": "pokelink-community:/radred/assets/sprites/786.png",
+    "party": "pokelink-community:/radred/assets/sprites/786.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 85,
+    "def": 75,
+    "spAtk": 130,
+    "spDef": 115,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.psychic_surge",
+    "RadRed.Abilities.psychic_surge",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 15,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

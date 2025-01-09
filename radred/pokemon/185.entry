@@ -1,0 +1,31 @@
+{
+  "gameId": 185,
+  "name": "RadRed.Species.sudowoodo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/185.png",
+    "normal": "pokelink-community:/radred/assets/sprites/185.png",
+    "party": "pokelink-community:/radred/assets/sprites/185.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 115,
+    "spAtk": 30,
+    "spDef": 65,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 65,
+  "genderRatio": 127
+}

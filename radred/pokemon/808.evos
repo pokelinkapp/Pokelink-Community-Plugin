@@ -1,0 +1,14 @@
+{
+  "evolutions": [
+    {
+      "to": 809,
+      "conditions": {
+        "pokemon.evolve.game": "pokemon.go",
+        "pokemon.evolve.candy": {
+          "count": 400,
+          "species": "pkhex.species.meltan"
+        }
+      }
+    }
+  ]
+}

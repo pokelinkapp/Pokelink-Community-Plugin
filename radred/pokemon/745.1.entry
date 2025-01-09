@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 1046,
+  "name": "RadRed.Species.lycanroc",
+  "formName": "RadRed.Forms.midnight",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/745.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/745.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/745.1.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 115,
+    "def": 75,
+    "spAtk": 55,
+    "spDef": 75,
+    "spd": 82
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.vital_spirit",
+    "RadRed.Abilities.no_guard"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

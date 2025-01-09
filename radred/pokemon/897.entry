@@ -1,0 +1,31 @@
+{
+  "gameId": 1266,
+  "name": "RadRed.Species.spectrier",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/897.png",
+    "normal": "pokelink-community:/radred/assets/sprites/897.png",
+    "party": "pokelink-community:/radred/assets/sprites/897.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 65,
+    "def": 60,
+    "spAtk": 145,
+    "spDef": 80,
+    "spd": 130
+  },
+  "abilities": [
+    "RadRed.Abilities.grim_neigh",
+    "RadRed.Abilities.grim_neigh",
+    "RadRed.Abilities.grim_neigh"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 244,
+  "name": "RadRed.Species.entei",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/244.png",
+    "normal": "pokelink-community:/radred/assets/sprites/244.png",
+    "party": "pokelink-community:/radred/assets/sprites/244.png"
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 115,
+    "def": 85,
+    "spAtk": 90,
+    "spDef": 75,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 35,
+  "color": "color.brown",
+  "hatchCycles": 80,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

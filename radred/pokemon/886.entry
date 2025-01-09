@@ -1,0 +1,32 @@
+{
+  "gameId": 1178,
+  "name": "RadRed.Species.drakloak",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/886.png",
+    "normal": "pokelink-community:/radred/assets/sprites/886.png",
+    "party": "pokelink-community:/radred/assets/sprites/886.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 80,
+    "def": 50,
+    "spAtk": 60,
+    "spDef": 50,
+    "spd": 102
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.stalwart"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

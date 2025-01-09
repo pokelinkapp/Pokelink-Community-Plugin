@@ -1,0 +1,32 @@
+{
+  "gameId": 225,
+  "name": "RadRed.Species.delibird",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/225.png",
+    "normal": "pokelink-community:/radred/assets/sprites/225.png",
+    "party": "pokelink-community:/radred/assets/sprites/225.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 100,
+    "def": 45,
+    "spAtk": 65,
+    "spDef": 45,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.vital_spirit",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.refrigerate"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 45,
+  "genderRatio": 127
+}

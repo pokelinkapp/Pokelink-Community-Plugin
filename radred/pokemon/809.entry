@@ -1,0 +1,31 @@
+{
+  "gameId": 1084,
+  "name": "RadRed.Species.melmetal",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/809.png",
+    "normal": "pokelink-community:/radred/assets/sprites/809.png",
+    "party": "pokelink-community:/radred/assets/sprites/809.png"
+  },
+  "baseStats": {
+    "hp": 135,
+    "atk": 143,
+    "def": 143,
+    "spAtk": 80,
+    "spDef": 65,
+    "spd": 34
+  },
+  "abilities": [
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 694,
+  "name": "RadRed.Species.tornadus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/641.png",
+    "normal": "pokelink-community:/radred/assets/sprites/641.png",
+    "party": "pokelink-community:/radred/assets/sprites/641.png"
+  },
+  "baseStats": {
+    "hp": 79,
+    "atk": 115,
+    "def": 70,
+    "spAtk": 125,
+    "spDef": 80,
+    "spd": 111
+  },
+  "abilities": [
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.defiant"
+  ],
+  "types": [
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 90,
+  "color": "color.green",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 0
+}

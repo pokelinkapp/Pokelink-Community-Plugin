@@ -1,0 +1,31 @@
+{
+  "gameId": 1318,
+  "name": "RadRed.Species.rellor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/953.png",
+    "normal": "pokelink-community:/radred/assets/sprites/953.png",
+    "party": "pokelink-community:/radred/assets/sprites/953.png"
+  },
+  "baseStats": {
+    "hp": 41,
+    "atk": 50,
+    "def": 60,
+    "spAtk": 31,
+    "spDef": 58,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.shed_skin"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 190,
+  "genderRatio": 127
+}

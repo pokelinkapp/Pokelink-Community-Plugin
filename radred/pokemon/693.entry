@@ -1,0 +1,31 @@
+{
+  "gameId": 801,
+  "name": "RadRed.Species.clawitzer",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/693.png",
+    "normal": "pokelink-community:/radred/assets/sprites/693.png",
+    "party": "pokelink-community:/radred/assets/sprites/693.png"
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 73,
+    "def": 88,
+    "spAtk": 120,
+    "spDef": 89,
+    "spd": 72
+  },
+  "abilities": [
+    "RadRed.Abilities.mega_launcher",
+    "RadRed.Abilities.mega_launcher",
+    "RadRed.Abilities.mega_launcher"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 5,
+  "catchRate": 55,
+  "genderRatio": 127
+}

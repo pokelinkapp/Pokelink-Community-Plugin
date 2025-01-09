@@ -1,0 +1,31 @@
+{
+  "gameId": 366,
+  "name": "RadRed.Species.slaking",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/289.png",
+    "normal": "pokelink-community:/radred/assets/sprites/289.png",
+    "party": "pokelink-community:/radred/assets/sprites/289.png"
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 160,
+    "def": 100,
+    "spAtk": 95,
+    "spDef": 65,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.truant",
+    "RadRed.Abilities.truant",
+    "RadRed.Abilities.truant"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

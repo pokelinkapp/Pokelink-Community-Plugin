@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 901,
+  "name": "RadRed.Species.altaria",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/334.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/334.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/334.1.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 110,
+    "def": 110,
+    "spAtk": 110,
+    "spDef": 105,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.pixilate",
+    "RadRed.Abilities.pixilate",
+    "RadRed.Abilities.pixilate"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 45,
+  "genderRatio": 127
+}

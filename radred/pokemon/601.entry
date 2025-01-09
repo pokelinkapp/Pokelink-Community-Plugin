@@ -1,0 +1,31 @@
+{
+  "gameId": 654,
+  "name": "RadRed.Species.klinklang",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/601.png",
+    "normal": "pokelink-community:/radred/assets/sprites/601.png",
+    "party": "pokelink-community:/radred/assets/sprites/601.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 100,
+    "def": 115,
+    "spAtk": 70,
+    "spDef": 85,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.steely_spirit"
+  ],
+  "types": [
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 30,
+  "genderRatio": 255
+}

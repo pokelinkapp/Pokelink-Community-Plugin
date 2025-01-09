@@ -1,0 +1,31 @@
+{
+  "gameId": 570,
+  "name": "RadRed.Species.munna",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/517.png",
+    "normal": "pokelink-community:/radred/assets/sprites/517.png",
+    "party": "pokelink-community:/radred/assets/sprites/517.png"
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 25,
+    "def": 45,
+    "spAtk": 67,
+    "spDef": 55,
+    "spd": 24
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 10,
+  "expGroup": 4,
+  "catchRate": 190,
+  "genderRatio": 127
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1286,
+  "name": "RadRed.Species.milotic",
+  "formName": "RadRed.Forms.sevii",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/350.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/350.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/350.1.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 60,
+    "def": 84,
+    "spAtk": 105,
+    "spDef": 125,
+    "spd": 81
+  },
+  "abilities": [
+    "RadRed.Abilities.marvel_scale",
+    "RadRed.Abilities.competitive",
+    "RadRed.Abilities.serene_grace"
+  ],
+  "types": [
+    "pkhex.type.fairy",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 60,
+  "genderRatio": 127
+}

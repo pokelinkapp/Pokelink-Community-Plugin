@@ -1,0 +1,32 @@
+{
+  "gameId": 1144,
+  "name": "RadRed.Species.clobbopus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/852.png",
+    "normal": "pokelink-community:/radred/assets/sprites/852.png",
+    "party": "pokelink-community:/radred/assets/sprites/852.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 68,
+    "def": 60,
+    "spAtk": 50,
+    "spDef": 50,
+    "spd": 32
+  },
+  "abilities": [
+    "RadRed.Abilities.limber",
+    "RadRed.Abilities.limber",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 180,
+  "genderRatio": 127
+}

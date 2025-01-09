@@ -1,0 +1,34 @@
+{
+  "form": 2,
+  "gameId": 919,
+  "name": "RadRed.Species.dialga",
+  "formName": "RadRed.Forms.primal",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/483.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/483.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/483.2.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 120,
+    "def": 150,
+    "spAtk": 185,
+    "spDef": 130,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.primal_armor",
+    "RadRed.Abilities.primal_armor",
+    "RadRed.Abilities.primal_armor"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1023,
+  "name": "RadRed.Species.sandshrew",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/27.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/27.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/27.1.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 90,
+    "spAtk": 10,
+    "spDef": 35,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.slush_rush",
+    "RadRed.Abilities.slush_rush",
+    "RadRed.Abilities.ice_body"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

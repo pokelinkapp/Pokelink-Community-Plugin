@@ -1,0 +1,31 @@
+{
+  "gameId": 1136,
+  "name": "RadRed.Species.sandaconda",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/844.png",
+    "normal": "pokelink-community:/radred/assets/sprites/844.png",
+    "party": "pokelink-community:/radred/assets/sprites/844.png"
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 107,
+    "def": 125,
+    "spAtk": 65,
+    "spDef": 70,
+    "spd": 71
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_spit",
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.sand_veil"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 120,
+  "genderRatio": 127
+}

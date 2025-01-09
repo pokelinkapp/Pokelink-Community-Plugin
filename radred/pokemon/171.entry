@@ -1,0 +1,32 @@
+{
+  "gameId": 171,
+  "name": "RadRed.Species.lanturn",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/171.png",
+    "normal": "pokelink-community:/radred/assets/sprites/171.png",
+    "party": "pokelink-community:/radred/assets/sprites/171.png"
+  },
+  "baseStats": {
+    "hp": 125,
+    "atk": 58,
+    "def": 58,
+    "spAtk": 76,
+    "spDef": 76,
+    "spd": 67
+  },
+  "abilities": [
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.illuminate",
+    "RadRed.Abilities.water_absorb"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 75,
+  "genderRatio": 127
+}

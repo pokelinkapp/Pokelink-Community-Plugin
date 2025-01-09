@@ -1,0 +1,31 @@
+{
+  "gameId": 160,
+  "name": "RadRed.Species.feraligatr",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/160.png",
+    "normal": "pokelink-community:/radred/assets/sprites/160.png",
+    "party": "pokelink-community:/radred/assets/sprites/160.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 105,
+    "def": 100,
+    "spAtk": 79,
+    "spDef": 83,
+    "spd": 78
+  },
+  "abilities": [
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.strong_jaw"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

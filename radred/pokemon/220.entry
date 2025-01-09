@@ -1,0 +1,32 @@
+{
+  "gameId": 220,
+  "name": "RadRed.Species.swinub",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/220.png",
+    "normal": "pokelink-community:/radred/assets/sprites/220.png",
+    "party": "pokelink-community:/radred/assets/sprites/220.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 40,
+    "spAtk": 30,
+    "spDef": 30,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 225,
+  "genderRatio": 127
+}

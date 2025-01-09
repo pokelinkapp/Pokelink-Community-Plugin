@@ -1,0 +1,31 @@
+{
+  "gameId": 1078,
+  "name": "RadRed.Species.zeraora",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/807.png",
+    "normal": "pokelink-community:/radred/assets/sprites/807.png",
+    "party": "pokelink-community:/radred/assets/sprites/807.png"
+  },
+  "baseStats": {
+    "hp": 88,
+    "atk": 112,
+    "def": 75,
+    "spAtk": 102,
+    "spDef": 80,
+    "spd": 143
+  },
+  "abilities": [
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.volt_absorb"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 0,
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

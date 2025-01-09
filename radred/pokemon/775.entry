@@ -1,0 +1,31 @@
+{
+  "gameId": 992,
+  "name": "RadRed.Species.komala",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/775.png",
+    "normal": "pokelink-community:/radred/assets/sprites/775.png",
+    "party": "pokelink-community:/radred/assets/sprites/775.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 115,
+    "def": 65,
+    "spAtk": 75,
+    "spDef": 95,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.comatose",
+    "RadRed.Abilities.comatose",
+    "RadRed.Abilities.comatose"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

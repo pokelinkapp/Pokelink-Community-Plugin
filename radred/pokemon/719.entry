@@ -1,0 +1,32 @@
+{
+  "gameId": 827,
+  "name": "RadRed.Species.diancie",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/719.png",
+    "normal": "pokelink-community:/radred/assets/sprites/719.png",
+    "party": "pokelink-community:/radred/assets/sprites/719.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 100,
+    "def": 150,
+    "spAtk": 100,
+    "spDef": 150,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.clear_body"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

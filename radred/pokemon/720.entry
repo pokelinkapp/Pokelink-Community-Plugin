@@ -1,0 +1,32 @@
+{
+  "gameId": 828,
+  "name": "RadRed.Species.hoopa",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/720.png",
+    "normal": "pokelink-community:/radred/assets/sprites/720.png",
+    "party": "pokelink-community:/radred/assets/sprites/720.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 110,
+    "def": 60,
+    "spAtk": 150,
+    "spDef": 130,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.magician",
+    "RadRed.Abilities.magician",
+    "RadRed.Abilities.magician"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 100,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

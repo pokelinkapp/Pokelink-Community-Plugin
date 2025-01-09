@@ -1,0 +1,32 @@
+{
+  "gameId": 16,
+  "name": "RadRed.Species.pidgey",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/16.png",
+    "normal": "pokelink-community:/radred/assets/sprites/16.png",
+    "party": "pokelink-community:/radred/assets/sprites/16.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "spAtk": 35,
+    "spDef": 35,
+    "spd": 56
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.no_guard"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

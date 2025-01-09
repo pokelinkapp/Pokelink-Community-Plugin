@@ -1,0 +1,32 @@
+{
+  "gameId": 547,
+  "name": "RadRed.Species.victini",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/494.png",
+    "normal": "pokelink-community:/radred/assets/sprites/494.png",
+    "party": "pokelink-community:/radred/assets/sprites/494.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spAtk": 100,
+    "spDef": 100,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.victory_star",
+    "RadRed.Abilities.victory_star",
+    "RadRed.Abilities.victory_star"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 100,
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 656,
+  "name": "RadRed.Species.eelektrik",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/603.png",
+    "normal": "pokelink-community:/radred/assets/sprites/603.png",
+    "party": "pokelink-community:/radred/assets/sprites/603.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 85,
+    "def": 70,
+    "spAtk": 75,
+    "spDef": 70,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 127
+}

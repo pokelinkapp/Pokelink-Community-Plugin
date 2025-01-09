@@ -1,0 +1,32 @@
+{
+  "gameId": 1005,
+  "name": "RadRed.Species.tapu_fini",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/788.png",
+    "normal": "pokelink-community:/radred/assets/sprites/788.png",
+    "party": "pokelink-community:/radred/assets/sprites/788.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 75,
+    "def": 115,
+    "spAtk": 95,
+    "spDef": 130,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.misty_surge",
+    "RadRed.Abilities.misty_surge",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

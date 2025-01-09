@@ -1,0 +1,31 @@
+{
+  "gameId": 172,
+  "name": "RadRed.Species.pichu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/172.png",
+    "normal": "pokelink-community:/radred/assets/sprites/172.png",
+    "party": "pokelink-community:/radred/assets/sprites/172.png"
+  },
+  "baseStats": {
+    "hp": 20,
+    "atk": 40,
+    "def": 15,
+    "spAtk": 35,
+    "spDef": 35,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.lightning_rod"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 10,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

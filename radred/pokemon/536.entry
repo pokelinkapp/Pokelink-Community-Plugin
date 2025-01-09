@@ -1,0 +1,32 @@
+{
+  "gameId": 589,
+  "name": "RadRed.Species.palpitoad",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/536.png",
+    "normal": "pokelink-community:/radred/assets/sprites/536.png",
+    "party": "pokelink-community:/radred/assets/sprites/536.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 65,
+    "def": 55,
+    "spAtk": 65,
+    "spDef": 55,
+    "spd": 69
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.water_absorb"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

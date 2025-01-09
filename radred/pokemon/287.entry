@@ -1,0 +1,31 @@
+{
+  "gameId": 364,
+  "name": "RadRed.Species.slakoth",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/287.png",
+    "normal": "pokelink-community:/radred/assets/sprites/287.png",
+    "party": "pokelink-community:/radred/assets/sprites/287.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 60,
+    "spAtk": 35,
+    "spDef": 35,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.truant",
+    "RadRed.Abilities.truant",
+    "RadRed.Abilities.truant"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 5,
+  "catchRate": 255,
+  "genderRatio": 127
+}

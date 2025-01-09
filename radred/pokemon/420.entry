@@ -1,0 +1,31 @@
+{
+  "gameId": 473,
+  "name": "RadRed.Species.cherubi",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/420.png",
+    "normal": "pokelink-community:/radred/assets/sprites/420.png",
+    "party": "pokelink-community:/radred/assets/sprites/420.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 35,
+    "def": 45,
+    "spAtk": 62,
+    "spDef": 53,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

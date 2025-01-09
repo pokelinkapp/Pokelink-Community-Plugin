@@ -1,0 +1,32 @@
+{
+  "gameId": 6,
+  "name": "RadRed.Species.charizard",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/6.png",
+    "normal": "pokelink-community:/radred/assets/sprites/6.png",
+    "party": "pokelink-community:/radred/assets/sprites/6.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spAtk": 109,
+    "spDef": 85,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.solar_power"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

@@ -1,0 +1,25 @@
+{
+  "evolutions": [
+    {
+      "to": 106,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.stat": "stat.attack>defense"
+      }
+    },
+    {
+      "to": 107,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.stat": "stat.attack<defense"
+      }
+    },
+    {
+      "to": 237,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.stat": "stat.attack=defense"
+      }
+    }
+  ]
+}

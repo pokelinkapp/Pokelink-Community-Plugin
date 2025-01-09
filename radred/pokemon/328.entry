@@ -1,0 +1,31 @@
+{
+  "gameId": 332,
+  "name": "RadRed.Species.trapinch",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/328.png",
+    "normal": "pokelink-community:/radred/assets/sprites/328.png",
+    "party": "pokelink-community:/radred/assets/sprites/328.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 100,
+    "def": 45,
+    "spAtk": 45,
+    "spDef": 45,
+    "spd": 10
+  },
+  "abilities": [
+    "RadRed.Abilities.hyper_cutter",
+    "RadRed.Abilities.arena_trap",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

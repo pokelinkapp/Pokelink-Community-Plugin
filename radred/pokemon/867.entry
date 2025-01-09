@@ -1,0 +1,32 @@
+{
+  "gameId": 1159,
+  "name": "RadRed.Species.runerigus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/867.png",
+    "normal": "pokelink-community:/radred/assets/sprites/867.png",
+    "party": "pokelink-community:/radred/assets/sprites/867.png"
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 95,
+    "def": 145,
+    "spAtk": 50,
+    "spDef": 105,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.wandering_soul",
+    "RadRed.Abilities.wandering_soul",
+    "RadRed.Abilities.shadow_shield"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

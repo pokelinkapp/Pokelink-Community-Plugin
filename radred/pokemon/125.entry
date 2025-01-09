@@ -1,0 +1,31 @@
+{
+  "gameId": 125,
+  "name": "RadRed.Species.electabuzz",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/125.png",
+    "normal": "pokelink-community:/radred/assets/sprites/125.png",
+    "party": "pokelink-community:/radred/assets/sprites/125.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 83,
+    "def": 57,
+    "spAtk": 95,
+    "spDef": 85,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.vital_spirit",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 63
+}

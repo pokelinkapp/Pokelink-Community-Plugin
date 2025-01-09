@@ -1,0 +1,32 @@
+{
+  "gameId": 763,
+  "name": "RadRed.Species.delphox",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/655.png",
+    "normal": "pokelink-community:/radred/assets/sprites/655.png",
+    "party": "pokelink-community:/radred/assets/sprites/655.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 69,
+    "def": 72,
+    "spAtk": 114,
+    "spDef": 100,
+    "spd": 104
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.magic_guard"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

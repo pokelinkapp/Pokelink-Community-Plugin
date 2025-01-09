@@ -1,0 +1,32 @@
+{
+  "gameId": 301,
+  "name": "RadRed.Species.nincada",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/290.png",
+    "normal": "pokelink-community:/radred/assets/sprites/290.png",
+    "party": "pokelink-community:/radred/assets/sprites/290.png"
+  },
+  "baseStats": {
+    "hp": 31,
+    "atk": 45,
+    "def": 90,
+    "spAtk": 30,
+    "spDef": 30,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.run_away"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 1,
+  "catchRate": 255,
+  "genderRatio": 127
+}

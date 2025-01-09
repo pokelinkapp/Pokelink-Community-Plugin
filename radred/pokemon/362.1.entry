@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 904,
+  "name": "RadRed.Species.glalie",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/362.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/362.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/362.1.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 135,
+    "def": 80,
+    "spAtk": 105,
+    "spDef": 80,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.refrigerate",
+    "RadRed.Abilities.refrigerate",
+    "RadRed.Abilities.refrigerate"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,19 @@
+{
+  "evolutions": [
+    {
+      "to": 916,
+      "conditions": {
+        "pokemon.evolve.level": 18,
+        "pokemon.evolve.gender": "Gender.male"
+      }
+    },
+    {
+      "to": 916,
+      "conditions": {
+        "pokemon.evolve.level": 18,
+        "pokemon.evolve.gender": "Gender.female"
+      },
+      "toForm": 1
+    }
+  ]
+}

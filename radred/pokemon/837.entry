@@ -1,0 +1,31 @@
+{
+  "gameId": 1129,
+  "name": "RadRed.Species.rolycoly",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/837.png",
+    "normal": "pokelink-community:/radred/assets/sprites/837.png",
+    "party": "pokelink-community:/radred/assets/sprites/837.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 40,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.steam_engine",
+    "RadRed.Abilities.heatproof",
+    "RadRed.Abilities.flash_fire"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

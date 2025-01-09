@@ -1,0 +1,32 @@
+{
+  "gameId": 494,
+  "name": "RadRed.Species.chatot",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/441.png",
+    "normal": "pokelink-community:/radred/assets/sprites/441.png",
+    "party": "pokelink-community:/radred/assets/sprites/441.png"
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 65,
+    "def": 45,
+    "spAtk": 92,
+    "spDef": 42,
+    "spd": 101
+  },
+  "abilities": [
+    "RadRed.Abilities.punk_rock",
+    "RadRed.Abilities.punk_rock",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 30,
+  "genderRatio": 127
+}

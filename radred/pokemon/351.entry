@@ -1,0 +1,31 @@
+{
+  "gameId": 385,
+  "name": "RadRed.Species.castform",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/351.png",
+    "normal": "pokelink-community:/radred/assets/sprites/351.png",
+    "party": "pokelink-community:/radred/assets/sprites/351.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 85,
+    "def": 85,
+    "spAtk": 85,
+    "spDef": 85,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.forecast",
+    "RadRed.Abilities.forecast",
+    "RadRed.Abilities.forecast"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

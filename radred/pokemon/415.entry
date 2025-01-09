@@ -1,0 +1,32 @@
+{
+  "gameId": 468,
+  "name": "RadRed.Species.combee",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/415.png",
+    "normal": "pokelink-community:/radred/assets/sprites/415.png",
+    "party": "pokelink-community:/radred/assets/sprites/415.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 30,
+    "def": 42,
+    "spAtk": 30,
+    "spDef": 42,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.hustle"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 31
+}

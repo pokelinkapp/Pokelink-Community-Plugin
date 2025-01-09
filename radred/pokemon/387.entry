@@ -1,0 +1,31 @@
+{
+  "gameId": 440,
+  "name": "RadRed.Species.turtwig",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/387.png",
+    "normal": "pokelink-community:/radred/assets/sprites/387.png",
+    "party": "pokelink-community:/radred/assets/sprites/387.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 68,
+    "def": 64,
+    "spAtk": 45,
+    "spDef": 55,
+    "spd": 31
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.self_sufficient",
+    "RadRed.Abilities.rock_head"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

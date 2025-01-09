@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1297,
+  "name": "RadRed.Species.sliggoo",
+  "formName": "RadRed.Forms.hisui",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/705.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/705.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/705.1.png"
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 75,
+    "def": 83,
+    "spAtk": 83,
+    "spDef": 113,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.sap_sipper",
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.gooey"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 35,
+  "color": "color.purple",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

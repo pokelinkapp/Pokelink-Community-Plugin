@@ -1,0 +1,32 @@
+{
+  "gameId": 686,
+  "name": "RadRed.Species.deino",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/633.png",
+    "normal": "pokelink-community:/radred/assets/sprites/633.png",
+    "party": "pokelink-community:/radred/assets/sprites/633.png"
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 65,
+    "def": 50,
+    "spAtk": 45,
+    "spDef": 50,
+    "spd": 38
+  },
+  "abilities": [
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.hustle"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 35,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

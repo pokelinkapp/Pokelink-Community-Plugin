@@ -1,0 +1,31 @@
+{
+  "gameId": 1181,
+  "name": "RadRed.Species.zamazenta",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/889.png",
+    "normal": "pokelink-community:/radred/assets/sprites/889.png",
+    "party": "pokelink-community:/radred/assets/sprites/889.png"
+  },
+  "baseStats": {
+    "hp": 92,
+    "atk": 120,
+    "def": 115,
+    "spAtk": 80,
+    "spDef": 115,
+    "spd": 138
+  },
+  "abilities": [
+    "RadRed.Abilities.valiant_shield",
+    "RadRed.Abilities.valiant_shield",
+    "RadRed.Abilities.valiant_shield"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 0,
+  "color": "color.red",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 10,
+  "genderRatio": 255
+}

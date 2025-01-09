@@ -1,0 +1,31 @@
+{
+  "gameId": 11,
+  "name": "RadRed.Species.metapod",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/11.png",
+    "normal": "pokelink-community:/radred/assets/sprites/11.png",
+    "party": "pokelink-community:/radred/assets/sprites/11.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 20,
+    "def": 55,
+    "spAtk": 25,
+    "spDef": 25,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.shed_skin"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 120,
+  "genderRatio": 127
+}

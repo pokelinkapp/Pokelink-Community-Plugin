@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 909,
+  "name": "RadRed.Species.groudon",
+  "formName": "RadRed.Forms.primal",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/383.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/383.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/383.1.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 180,
+    "def": 160,
+    "spAtk": 150,
+    "spDef": 90,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.desolate_land",
+    "RadRed.Abilities.desolate_land",
+    "RadRed.Abilities.desolate_land"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 0,
+  "color": "color.red",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

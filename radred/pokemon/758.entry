@@ -1,0 +1,32 @@
+{
+  "gameId": 975,
+  "name": "RadRed.Species.salazzle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/758.png",
+    "normal": "pokelink-community:/radred/assets/sprites/758.png",
+    "party": "pokelink-community:/radred/assets/sprites/758.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 64,
+    "def": 60,
+    "spAtk": 111,
+    "spDef": 60,
+    "spd": 117
+  },
+  "abilities": [
+    "RadRed.Abilities.corrosion",
+    "RadRed.Abilities.corrosion",
+    "RadRed.Abilities.oblivious"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 254
+}

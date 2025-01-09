@@ -1,0 +1,20 @@
+{
+  "evolutions": [
+    {
+      "to": 59,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.fire_stone"
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 59,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.fire_stone"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

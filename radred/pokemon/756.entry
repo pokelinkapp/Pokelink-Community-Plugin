@@ -1,0 +1,32 @@
+{
+  "gameId": 973,
+  "name": "RadRed.Species.shiinotic",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/756.png",
+    "normal": "pokelink-community:/radred/assets/sprites/756.png",
+    "party": "pokelink-community:/radred/assets/sprites/756.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 45,
+    "def": 80,
+    "spAtk": 90,
+    "spDef": 100,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.effect_spore",
+    "RadRed.Abilities.illuminate",
+    "RadRed.Abilities.rain_dish"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

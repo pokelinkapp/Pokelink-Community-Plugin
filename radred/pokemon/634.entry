@@ -1,0 +1,32 @@
+{
+  "gameId": 687,
+  "name": "RadRed.Species.zweilous",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/634.png",
+    "normal": "pokelink-community:/radred/assets/sprites/634.png",
+    "party": "pokelink-community:/radred/assets/sprites/634.png"
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 85,
+    "def": 70,
+    "spAtk": 65,
+    "spDef": 70,
+    "spd": 58
+  },
+  "abilities": [
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.hustle"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 35,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

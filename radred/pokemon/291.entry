@@ -1,0 +1,32 @@
+{
+  "gameId": 302,
+  "name": "RadRed.Species.ninjask",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/291.png",
+    "normal": "pokelink-community:/radred/assets/sprites/291.png",
+    "party": "pokelink-community:/radred/assets/sprites/291.png"
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 90,
+    "def": 45,
+    "spAtk": 50,
+    "spDef": 50,
+    "spd": 160
+  },
+  "abilities": [
+    "RadRed.Abilities.speed_boost",
+    "RadRed.Abilities.speed_boost",
+    "RadRed.Abilities.infiltrator"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 1,
+  "catchRate": 120,
+  "genderRatio": 127
+}

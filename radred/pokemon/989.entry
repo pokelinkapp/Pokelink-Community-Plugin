@@ -1,0 +1,32 @@
+{
+  "gameId": 1244,
+  "name": "RadRed.Species.sandy_shocks",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/989.png",
+    "normal": "pokelink-community:/radred/assets/sprites/989.png",
+    "party": "pokelink-community:/radred/assets/sprites/989.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 81,
+    "def": 97,
+    "spAtk": 121,
+    "spDef": 85,
+    "spd": 101
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.watercompaction"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 255
+}

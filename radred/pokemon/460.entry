@@ -1,0 +1,32 @@
+{
+  "gameId": 513,
+  "name": "RadRed.Species.abomasnow",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/460.png",
+    "normal": "pokelink-community:/radred/assets/sprites/460.png",
+    "party": "pokelink-community:/radred/assets/sprites/460.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 92,
+    "def": 75,
+    "spAtk": 92,
+    "spDef": 85,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.snow_warning",
+    "RadRed.Abilities.snow_warning",
+    "RadRed.Abilities.soundproof"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 127
+}

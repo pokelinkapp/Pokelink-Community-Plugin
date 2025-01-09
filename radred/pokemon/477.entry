@@ -1,0 +1,31 @@
+{
+  "gameId": 530,
+  "name": "RadRed.Species.dusknoir",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/477.png",
+    "normal": "pokelink-community:/radred/assets/sprites/477.png",
+    "party": "pokelink-community:/radred/assets/sprites/477.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 100,
+    "def": 135,
+    "spAtk": 65,
+    "spDef": 135,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.hustle"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 25,
+  "expGroup": 4,
+  "catchRate": 45,
+  "genderRatio": 127
+}

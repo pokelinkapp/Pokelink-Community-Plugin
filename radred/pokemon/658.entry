@@ -1,0 +1,32 @@
+{
+  "gameId": 766,
+  "name": "RadRed.Species.greninja",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/658.png",
+    "normal": "pokelink-community:/radred/assets/sprites/658.png",
+    "party": "pokelink-community:/radred/assets/sprites/658.png"
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 95,
+    "def": 67,
+    "spAtk": 103,
+    "spDef": 71,
+    "spd": 122
+  },
+  "abilities": [
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.battle_bond",
+    "RadRed.Abilities.protean"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1299,
+  "name": "RadRed.Species.typhlosion",
+  "formName": "RadRed.Forms.hisui",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/157.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/157.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/157.1.png"
+  },
+  "baseStats": {
+    "hp": 73,
+    "atk": 84,
+    "def": 78,
+    "spAtk": 119,
+    "spDef": 85,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.flash_fire"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

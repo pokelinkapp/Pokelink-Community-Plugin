@@ -1,0 +1,31 @@
+{
+  "gameId": 560,
+  "name": "RadRed.Species.herdier",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/507.png",
+    "normal": "pokelink-community:/radred/assets/sprites/507.png",
+    "party": "pokelink-community:/radred/assets/sprites/507.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 80,
+    "def": 65,
+    "spAtk": 35,
+    "spDef": 65,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.sand_rush",
+    "RadRed.Abilities.scrappy"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

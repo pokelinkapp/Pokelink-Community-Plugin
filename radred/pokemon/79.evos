@@ -1,0 +1,36 @@
+{
+  "evolutions": [
+    {
+      "to": 80,
+      "conditions": {
+        "pokemon.evolve.level": 37
+      },
+      "fromForm": 0
+    },
+    {
+      "to": 199,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.kings_rock"
+        }
+      },
+      "fromForm": 0
+    },
+    {
+      "to": 80,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.galarica_cuff"
+      },
+      "toForm": 2,
+      "fromForm": 1
+    },
+    {
+      "to": 199,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.galarica_wreath"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

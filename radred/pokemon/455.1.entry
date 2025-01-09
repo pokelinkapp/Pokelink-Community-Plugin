@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1282,
+  "name": "RadRed.Species.carnivine",
+  "formName": "RadRed.Forms.sevii",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/455.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/455.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/455.1.png"
+  },
+  "baseStats": {
+    "hp": 94,
+    "atk": 100,
+    "def": 92,
+    "spAtk": 55,
+    "spDef": 77,
+    "spd": 36
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 200,
+  "genderRatio": 127
+}

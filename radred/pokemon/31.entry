@@ -1,0 +1,32 @@
+{
+  "gameId": 31,
+  "name": "RadRed.Species.nidoqueen",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/31.png",
+    "normal": "pokelink-community:/radred/assets/sprites/31.png",
+    "party": "pokelink-community:/radred/assets/sprites/31.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 92,
+    "def": 87,
+    "spAtk": 75,
+    "spDef": 85,
+    "spd": 76
+  },
+  "abilities": [
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.rivalry",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 254
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 685,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.whipped_dream"
+        }
+      }
+    }
+  ]
+}

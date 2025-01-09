@@ -1,0 +1,31 @@
+{
+  "gameId": 471,
+  "name": "RadRed.Species.buizel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/418.png",
+    "normal": "pokelink-community:/radred/assets/sprites/418.png",
+    "party": "pokelink-community:/radred/assets/sprites/418.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 35,
+    "spAtk": 60,
+    "spDef": 30,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

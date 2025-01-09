@@ -1,0 +1,32 @@
+{
+  "gameId": 517,
+  "name": "RadRed.Species.rhyperior",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/464.png",
+    "normal": "pokelink-community:/radred/assets/sprites/464.png",
+    "party": "pokelink-community:/radred/assets/sprites/464.png"
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 140,
+    "def": 130,
+    "spAtk": 55,
+    "spDef": 55,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.solid_rock",
+    "RadRed.Abilities.reckless"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 127
+}

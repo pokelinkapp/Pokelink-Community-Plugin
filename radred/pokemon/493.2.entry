@@ -1,0 +1,33 @@
+{
+  "form": 2,
+  "gameId": 721,
+  "name": "RadRed.Species.arceus",
+  "formName": "RadRed.Forms.flying",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/493.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/493.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/493.2.png"
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 120,
+    "def": 120,
+    "spAtk": 120,
+    "spDef": 120,
+    "spd": 120
+  },
+  "abilities": [
+    "RadRed.Abilities.multitype",
+    "RadRed.Abilities.multitype",
+    "RadRed.Abilities.multitype"
+  ],
+  "types": [
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 0,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

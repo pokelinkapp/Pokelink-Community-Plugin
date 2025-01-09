@@ -1,0 +1,32 @@
+{
+  "gameId": 123,
+  "name": "RadRed.Species.scyther",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/123.png",
+    "normal": "pokelink-community:/radred/assets/sprites/123.png",
+    "party": "pokelink-community:/radred/assets/sprites/123.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 110,
+    "def": 80,
+    "spAtk": 55,
+    "spDef": 80,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.steadfast"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

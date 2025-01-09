@@ -1,0 +1,31 @@
+{
+  "gameId": 27,
+  "name": "RadRed.Species.sandshrew",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/27.png",
+    "normal": "pokelink-community:/radred/assets/sprites/27.png",
+    "party": "pokelink-community:/radred/assets/sprites/27.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 85,
+    "spAtk": 20,
+    "spDef": 30,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.sand_rush"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

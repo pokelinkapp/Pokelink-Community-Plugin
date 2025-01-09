@@ -1,0 +1,31 @@
+{
+  "gameId": 943,
+  "name": "RadRed.Species.torracat",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/726.png",
+    "normal": "pokelink-community:/radred/assets/sprites/726.png",
+    "party": "pokelink-community:/radred/assets/sprites/726.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 85,
+    "def": 50,
+    "spAtk": 80,
+    "spDef": 50,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.intimidate"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

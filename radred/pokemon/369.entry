@@ -1,0 +1,32 @@
+{
+  "gameId": 381,
+  "name": "RadRed.Species.relicanth",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/369.png",
+    "normal": "pokelink-community:/radred/assets/sprites/369.png",
+    "party": "pokelink-community:/radred/assets/sprites/369.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 105,
+    "def": 115,
+    "spAtk": 45,
+    "spDef": 65,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 25,
+  "genderRatio": 31
+}

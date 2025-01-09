@@ -1,0 +1,32 @@
+{
+  "gameId": 1130,
+  "name": "RadRed.Species.carkol",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/838.png",
+    "normal": "pokelink-community:/radred/assets/sprites/838.png",
+    "party": "pokelink-community:/radred/assets/sprites/838.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 60,
+    "def": 90,
+    "spAtk": 60,
+    "spDef": 70,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.steam_engine",
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.flash_fire"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

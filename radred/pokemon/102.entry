@@ -1,0 +1,32 @@
+{
+  "gameId": 102,
+  "name": "RadRed.Species.exeggcute",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/102.png",
+    "normal": "pokelink-community:/radred/assets/sprites/102.png",
+    "party": "pokelink-community:/radred/assets/sprites/102.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 40,
+    "def": 80,
+    "spAtk": 60,
+    "spDef": 45,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.harvest"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 90,
+  "genderRatio": 127
+}

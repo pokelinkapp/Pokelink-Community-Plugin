@@ -1,0 +1,32 @@
+{
+  "gameId": 229,
+  "name": "RadRed.Species.houndoom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/229.png",
+    "normal": "pokelink-community:/radred/assets/sprites/229.png",
+    "party": "pokelink-community:/radred/assets/sprites/229.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 90,
+    "def": 50,
+    "spAtk": 110,
+    "spDef": 80,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.unnerve"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

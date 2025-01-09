@@ -1,0 +1,22 @@
+{
+  "evolutions": [
+    {
+      "to": 841,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.tart_apple"
+      }
+    },
+    {
+      "to": 842,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.sweet_apple"
+      }
+    },
+    {
+      "to": 1011,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.syrupy_apple"
+      }
+    }
+  ]
+}

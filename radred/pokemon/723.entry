@@ -1,0 +1,32 @@
+{
+  "gameId": 940,
+  "name": "RadRed.Species.dartrix",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/723.png",
+    "normal": "pokelink-community:/radred/assets/sprites/723.png",
+    "party": "pokelink-community:/radred/assets/sprites/723.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 75,
+    "def": 75,
+    "spAtk": 70,
+    "spDef": 70,
+    "spd": 52
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.tinted_lens"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

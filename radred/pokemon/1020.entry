@@ -1,0 +1,32 @@
+{
+  "gameId": 1374,
+  "name": "RadRed.Species.gouging_fire",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1020.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1020.png",
+    "party": "pokelink-community:/radred/assets/sprites/1020.png"
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 115,
+    "def": 121,
+    "spAtk": 65,
+    "spDef": 93,
+    "spd": 91
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.brown",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 10,
+  "genderRatio": 255
+}

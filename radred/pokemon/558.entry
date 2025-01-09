@@ -1,0 +1,32 @@
+{
+  "gameId": 611,
+  "name": "RadRed.Species.crustle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/558.png",
+    "normal": "pokelink-community:/radred/assets/sprites/558.png",
+    "party": "pokelink-community:/radred/assets/sprites/558.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 105,
+    "def": 125,
+    "spAtk": 65,
+    "spDef": 75,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.weak_armor"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

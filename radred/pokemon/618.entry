@@ -1,0 +1,32 @@
+{
+  "gameId": 671,
+  "name": "RadRed.Species.stunfisk",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/618.png",
+    "normal": "pokelink-community:/radred/assets/sprites/618.png",
+    "party": "pokelink-community:/radred/assets/sprites/618.png"
+  },
+  "baseStats": {
+    "hp": 109,
+    "atk": 66,
+    "def": 84,
+    "spAtk": 81,
+    "spDef": 99,
+    "spd": 32
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.sand_veil"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 70,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

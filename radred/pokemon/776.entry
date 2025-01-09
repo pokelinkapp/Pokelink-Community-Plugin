@@ -1,0 +1,32 @@
+{
+  "gameId": 993,
+  "name": "RadRed.Species.turtonator",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/776.png",
+    "normal": "pokelink-community:/radred/assets/sprites/776.png",
+    "party": "pokelink-community:/radred/assets/sprites/776.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 58,
+    "def": 135,
+    "spAtk": 91,
+    "spDef": 85,
+    "spd": 36
+  },
+  "abilities": [
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.magma_armor",
+    "RadRed.Abilities.valiant_shield"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 70,
+  "genderRatio": 127
+}

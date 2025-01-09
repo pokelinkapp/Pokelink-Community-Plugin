@@ -1,0 +1,10 @@
+{
+  "evolutions": [
+    {
+      "to": 923,
+      "conditions": {
+        "pokemon.evolve.walkXStepsInLetsGoMode": 1000
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 927,
+  "name": "RadRed.Species.quaxly",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/912.png",
+    "normal": "pokelink-community:/radred/assets/sprites/912.png",
+    "party": "pokelink-community:/radred/assets/sprites/912.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 65,
+    "def": 45,
+    "spAtk": 50,
+    "spDef": 45,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.moxie"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

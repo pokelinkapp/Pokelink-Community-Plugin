@@ -1,0 +1,32 @@
+{
+  "gameId": 299,
+  "name": "RadRed.Species.nuzleaf",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/274.png",
+    "normal": "pokelink-community:/radred/assets/sprites/274.png",
+    "party": "pokelink-community:/radred/assets/sprites/274.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 40,
+    "spAtk": 60,
+    "spDef": 40,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.infiltrator"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

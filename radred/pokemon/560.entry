@@ -1,0 +1,32 @@
+{
+  "gameId": 613,
+  "name": "RadRed.Species.scrafty",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/560.png",
+    "normal": "pokelink-community:/radred/assets/sprites/560.png",
+    "party": "pokelink-community:/radred/assets/sprites/560.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 90,
+    "def": 115,
+    "spAtk": 45,
+    "spDef": 115,
+    "spd": 58
+  },
+  "abilities": [
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.moxie"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

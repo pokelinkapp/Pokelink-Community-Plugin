@@ -1,0 +1,32 @@
+{
+  "gameId": 868,
+  "name": "RadRed.Species.farigiraf",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/981.png",
+    "normal": "pokelink-community:/radred/assets/sprites/981.png",
+    "party": "pokelink-community:/radred/assets/sprites/981.png"
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 90,
+    "def": 70,
+    "spAtk": 110,
+    "spDef": 70,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.sap_sipper",
+    "RadRed.Abilities.armor_tail",
+    "RadRed.Abilities.parental_bond"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

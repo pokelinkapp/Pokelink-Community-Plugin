@@ -1,0 +1,31 @@
+{
+  "gameId": 653,
+  "name": "RadRed.Species.klang",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/600.png",
+    "normal": "pokelink-community:/radred/assets/sprites/600.png",
+    "party": "pokelink-community:/radred/assets/sprites/600.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 80,
+    "def": 95,
+    "spAtk": 70,
+    "spDef": 85,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.plus",
+    "RadRed.Abilities.minus",
+    "RadRed.Abilities.clear_body"
+  ],
+  "types": [
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 60,
+  "genderRatio": 255
+}

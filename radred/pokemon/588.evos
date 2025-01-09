@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 589,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.tradeWith": "pkhex.species.shelmet"
+        }
+      }
+    }
+  ]
+}

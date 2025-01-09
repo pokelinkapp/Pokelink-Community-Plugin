@@ -1,0 +1,31 @@
+{
+  "gameId": 181,
+  "name": "RadRed.Species.ampharos",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/181.png",
+    "normal": "pokelink-community:/radred/assets/sprites/181.png",
+    "party": "pokelink-community:/radred/assets/sprites/181.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 75,
+    "def": 85,
+    "spAtk": 115,
+    "spDef": 90,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.illuminate",
+    "RadRed.Abilities.plus"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

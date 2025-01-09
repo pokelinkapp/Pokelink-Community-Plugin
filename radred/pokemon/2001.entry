@@ -1,0 +1,32 @@
+{
+  "gameId": 1375,
+  "name": "RadRed.Species.chillet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/2001.png",
+    "normal": "pokelink-community:/radred/assets/sprites/2001.png",
+    "party": "pokelink-community:/radred/assets/sprites/2001.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 100,
+    "def": 74,
+    "spAtk": 45,
+    "spDef": 65,
+    "spd": 111
+  },
+  "abilities": [
+    "RadRed.Abilities.refrigerate",
+    "RadRed.Abilities.refrigerate",
+    "RadRed.Abilities.refrigerate"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.red",
+  "hatchCycles": 0,
+  "expGroup": 0,
+  "catchRate": 0,
+  "genderRatio": 255
+}

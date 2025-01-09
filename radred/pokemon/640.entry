@@ -1,0 +1,32 @@
+{
+  "gameId": 693,
+  "name": "RadRed.Species.virizion",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/640.png",
+    "normal": "pokelink-community:/radred/assets/sprites/640.png",
+    "party": "pokelink-community:/radred/assets/sprites/640.png"
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 90,
+    "def": 72,
+    "spAtk": 90,
+    "spDef": 129,
+    "spd": 108
+  },
+  "abilities": [
+    "RadRed.Abilities.justified",
+    "RadRed.Abilities.justified",
+    "RadRed.Abilities.sharpness"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 35,
+  "color": "color.green",
+  "hatchCycles": 80,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

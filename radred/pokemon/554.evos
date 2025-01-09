@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "to": 555,
+      "conditions": {
+        "pokemon.evolve.level": 35
+      }
+    },
+    {
+      "to": 555,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.ice_stone"
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

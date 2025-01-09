@@ -1,0 +1,34 @@
+{
+  "form": 3,
+  "gameId": 1081,
+  "name": "RadRed.Species.necrozma",
+  "formName": "RadRed.Forms.ultra",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/800.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/800.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/800.3.png"
+  },
+  "baseStats": {
+    "hp": 97,
+    "atk": 167,
+    "def": 97,
+    "spAtk": 167,
+    "spDef": 97,
+    "spd": 129
+  },
+  "abilities": [
+    "RadRed.Abilities.neuroforce",
+    "RadRed.Abilities.neuroforce",
+    "RadRed.Abilities.neuroforce"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

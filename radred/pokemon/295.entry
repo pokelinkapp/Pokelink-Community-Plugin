@@ -1,0 +1,31 @@
+{
+  "gameId": 372,
+  "name": "RadRed.Species.exploud",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/295.png",
+    "normal": "pokelink-community:/radred/assets/sprites/295.png",
+    "party": "pokelink-community:/radred/assets/sprites/295.png"
+  },
+  "baseStats": {
+    "hp": 104,
+    "atk": 81,
+    "def": 63,
+    "spAtk": 91,
+    "spDef": 73,
+    "spd": 73
+  },
+  "abilities": [
+    "RadRed.Abilities.soundproof",
+    "RadRed.Abilities.scrappy",
+    "RadRed.Abilities.punk_rock"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1246,
+  "name": "RadRed.Species.flutter_mane",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/987.png",
+    "normal": "pokelink-community:/radred/assets/sprites/987.png",
+    "party": "pokelink-community:/radred/assets/sprites/987.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 55,
+    "spAtk": 135,
+    "spDef": 135,
+    "spd": 135
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 255
+}

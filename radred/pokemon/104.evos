@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "to": 105,
+      "conditions": {
+        "pokemon.evolve.level": 28,
+        "pokemon.evolve.time": "timeOfDay.night"
+      },
+      "toForm": 1
+    },
+    {
+      "to": 105,
+      "conditions": {
+        "pokemon.evolve.level": 28
+      }
+    }
+  ]
+}

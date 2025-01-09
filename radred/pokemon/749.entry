@@ -1,0 +1,31 @@
+{
+  "gameId": 966,
+  "name": "RadRed.Species.mudbray",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/749.png",
+    "normal": "pokelink-community:/radred/assets/sprites/749.png",
+    "party": "pokelink-community:/radred/assets/sprites/749.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 100,
+    "def": 70,
+    "spAtk": 45,
+    "spDef": 55,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.stamina",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

@@ -1,0 +1,17 @@
+{
+  "evolutions": [
+    {
+      "to": 350,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.maxTrait": "trait.beauty"
+        },
+        "pokemon.evolve.or": {
+          "pokemon.evolve.trade": {
+            "pokemon.evolve.holdItem": "pkhex.item.gen9.prism_scale"
+          }
+        }
+      }
+    }
+  ]
+}

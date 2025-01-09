@@ -1,0 +1,32 @@
+{
+  "gameId": 1352,
+  "name": "RadRed.Species.brambleghast",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/947.png",
+    "normal": "pokelink-community:/radred/assets/sprites/947.png",
+    "party": "pokelink-community:/radred/assets/sprites/947.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 115,
+    "def": 70,
+    "spAtk": 80,
+    "spDef": 70,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.wind_rider"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

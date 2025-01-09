@@ -1,0 +1,32 @@
+{
+  "gameId": 532,
+  "name": "RadRed.Species.rotom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/479.png",
+    "normal": "pokelink-community:/radred/assets/sprites/479.png",
+    "party": "pokelink-community:/radred/assets/sprites/479.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 50,
+    "def": 77,
+    "spAtk": 95,
+    "spDef": 77,
+    "spd": 91
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 255
+}

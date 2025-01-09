@@ -1,0 +1,31 @@
+{
+  "gameId": 793,
+  "name": "RadRed.Species.slurpuff",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/685.png",
+    "normal": "pokelink-community:/radred/assets/sprites/685.png",
+    "party": "pokelink-community:/radred/assets/sprites/685.png"
+  },
+  "baseStats": {
+    "hp": 82,
+    "atk": 90,
+    "def": 86,
+    "spAtk": 75,
+    "spDef": 75,
+    "spd": 72
+  },
+  "abilities": [
+    "RadRed.Abilities.sweet_veil",
+    "RadRed.Abilities.sweet_veil",
+    "RadRed.Abilities.unburden"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 140,
+  "genderRatio": 127
+}

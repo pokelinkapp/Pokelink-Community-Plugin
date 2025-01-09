@@ -1,0 +1,32 @@
+{
+  "gameId": 1164,
+  "name": "RadRed.Species.snom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/872.png",
+    "normal": "pokelink-community:/radred/assets/sprites/872.png",
+    "party": "pokelink-community:/radred/assets/sprites/872.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 25,
+    "def": 35,
+    "spAtk": 45,
+    "spDef": 30,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.shield_dust",
+    "RadRed.Abilities.shield_dust",
+    "RadRed.Abilities.ice_scales"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1076,
+  "name": "RadRed.Species.stakataka",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/805.png",
+    "normal": "pokelink-community:/radred/assets/sprites/805.png",
+    "party": "pokelink-community:/radred/assets/sprites/805.png"
+  },
+  "baseStats": {
+    "hp": 61,
+    "atk": 131,
+    "def": 211,
+    "spAtk": 53,
+    "spDef": 101,
+    "spd": 13
+  },
+  "abilities": [
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 255
+}

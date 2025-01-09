@@ -1,0 +1,31 @@
+{
+  "gameId": 243,
+  "name": "RadRed.Species.raikou",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/243.png",
+    "normal": "pokelink-community:/radred/assets/sprites/243.png",
+    "party": "pokelink-community:/radred/assets/sprites/243.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 85,
+    "def": 75,
+    "spAtk": 115,
+    "spDef": 100,
+    "spd": 115
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 35,
+  "color": "color.yellow",
+  "hatchCycles": 80,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

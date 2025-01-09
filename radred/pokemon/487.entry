@@ -1,0 +1,32 @@
+{
+  "gameId": 540,
+  "name": "RadRed.Species.giratina",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/487.png",
+    "normal": "pokelink-community:/radred/assets/sprites/487.png",
+    "party": "pokelink-community:/radred/assets/sprites/487.png"
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 100,
+    "def": 120,
+    "spAtk": 100,
+    "spDef": 120,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

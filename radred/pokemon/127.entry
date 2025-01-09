@@ -1,0 +1,31 @@
+{
+  "gameId": 127,
+  "name": "RadRed.Species.pinsir",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/127.png",
+    "normal": "pokelink-community:/radred/assets/sprites/127.png",
+    "party": "pokelink-community:/radred/assets/sprites/127.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 100,
+    "spAtk": 55,
+    "spDef": 70,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.hyper_cutter",
+    "RadRed.Abilities.mold_breaker",
+    "RadRed.Abilities.moxie"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

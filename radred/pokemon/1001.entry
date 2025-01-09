@@ -1,0 +1,32 @@
+{
+  "gameId": 749,
+  "name": "RadRed.Species.wo_chien",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1001.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1001.png",
+    "party": "pokelink-community:/radred/assets/sprites/1001.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 85,
+    "def": 100,
+    "spAtk": 95,
+    "spDef": 135,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.tablets_of_ruin",
+    "RadRed.Abilities.tablets_of_ruin",
+    "RadRed.Abilities.tablets_of_ruin"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 0,
+  "color": "color.brown",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 6,
+  "genderRatio": 255
+}

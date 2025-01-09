@@ -1,0 +1,32 @@
+{
+  "gameId": 1000,
+  "name": "RadRed.Species.hakamo_o",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/783.png",
+    "normal": "pokelink-community:/radred/assets/sprites/783.png",
+    "party": "pokelink-community:/radred/assets/sprites/783.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 75,
+    "def": 90,
+    "spAtk": 65,
+    "spDef": 70,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.bulletproof",
+    "RadRed.Abilities.soundproof",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

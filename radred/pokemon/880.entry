@@ -1,0 +1,32 @@
+{
+  "gameId": 1172,
+  "name": "RadRed.Species.dracozolt",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/880.png",
+    "normal": "pokelink-community:/radred/assets/sprites/880.png",
+    "party": "pokelink-community:/radred/assets/sprites/880.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 90,
+    "spAtk": 80,
+    "spDef": 70,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.sand_rush"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 35,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

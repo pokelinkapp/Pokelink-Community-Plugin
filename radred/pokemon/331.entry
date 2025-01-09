@@ -1,0 +1,31 @@
+{
+  "gameId": 344,
+  "name": "RadRed.Species.cacnea",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/331.png",
+    "normal": "pokelink-community:/radred/assets/sprites/331.png",
+    "party": "pokelink-community:/radred/assets/sprites/331.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 85,
+    "def": 40,
+    "spAtk": 85,
+    "spDef": 40,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.sand_rush"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 35,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 190,
+  "genderRatio": 127
+}

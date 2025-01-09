@@ -1,0 +1,32 @@
+{
+  "gameId": 783,
+  "name": "RadRed.Species.pangoro",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/675.png",
+    "normal": "pokelink-community:/radred/assets/sprites/675.png",
+    "party": "pokelink-community:/radred/assets/sprites/675.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 124,
+    "def": 78,
+    "spAtk": 69,
+    "spDef": 71,
+    "spd": 58
+  },
+  "abilities": [
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.mold_breaker",
+    "RadRed.Abilities.scrappy"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 65,
+  "genderRatio": 127
+}

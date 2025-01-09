@@ -1,0 +1,32 @@
+{
+  "gameId": 170,
+  "name": "RadRed.Species.chinchou",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/170.png",
+    "normal": "pokelink-community:/radred/assets/sprites/170.png",
+    "party": "pokelink-community:/radred/assets/sprites/170.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 38,
+    "def": 38,
+    "spAtk": 56,
+    "spDef": 56,
+    "spd": 67
+  },
+  "abilities": [
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.illuminate",
+    "RadRed.Abilities.water_absorb"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 190,
+  "genderRatio": 127
+}

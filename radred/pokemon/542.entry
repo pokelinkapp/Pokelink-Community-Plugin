@@ -1,0 +1,32 @@
+{
+  "gameId": 595,
+  "name": "RadRed.Species.leavanny",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/542.png",
+    "normal": "pokelink-community:/radred/assets/sprites/542.png",
+    "party": "pokelink-community:/radred/assets/sprites/542.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 103,
+    "def": 80,
+    "spAtk": 70,
+    "spDef": 80,
+    "spd": 92
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.sharpness"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

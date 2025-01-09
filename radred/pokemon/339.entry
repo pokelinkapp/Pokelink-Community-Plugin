@@ -1,0 +1,32 @@
+{
+  "gameId": 323,
+  "name": "RadRed.Species.barboach",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/339.png",
+    "normal": "pokelink-community:/radred/assets/sprites/339.png",
+    "party": "pokelink-community:/radred/assets/sprites/339.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 48,
+    "def": 43,
+    "spAtk": 46,
+    "spDef": 41,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.oblivious"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

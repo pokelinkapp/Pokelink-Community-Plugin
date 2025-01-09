@@ -1,0 +1,31 @@
+{
+  "gameId": 1347,
+  "name": "RadRed.Species.fidough",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/926.png",
+    "normal": "pokelink-community:/radred/assets/sprites/926.png",
+    "party": "pokelink-community:/radred/assets/sprites/926.png"
+  },
+  "baseStats": {
+    "hp": 37,
+    "atk": 55,
+    "def": 70,
+    "spAtk": 30,
+    "spDef": 55,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.own_tempo"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 190,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 601,
+  "name": "RadRed.Species.petilil",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/548.png",
+    "normal": "pokelink-community:/radred/assets/sprites/548.png",
+    "party": "pokelink-community:/radred/assets/sprites/548.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 35,
+    "def": 50,
+    "spAtk": 70,
+    "spDef": 50,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.leaf_guard"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 254
+}

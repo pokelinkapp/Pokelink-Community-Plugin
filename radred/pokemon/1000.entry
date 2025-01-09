@@ -1,0 +1,32 @@
+{
+  "gameId": 852,
+  "name": "RadRed.Species.gholdengo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1000.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1000.png",
+    "party": "pokelink-community:/radred/assets/sprites/1000.png"
+  },
+  "baseStats": {
+    "hp": 87,
+    "atk": 60,
+    "def": 95,
+    "spAtk": 133,
+    "spDef": 91,
+    "spd": 84
+  },
+  "abilities": [
+    "RadRed.Abilities.good_as_gold",
+    "RadRed.Abilities.good_as_gold",
+    "RadRed.Abilities.good_as_gold"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

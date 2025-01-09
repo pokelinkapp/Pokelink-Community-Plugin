@@ -1,0 +1,32 @@
+{
+  "gameId": 406,
+  "name": "RadRed.Species.rayquaza",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/384.png",
+    "normal": "pokelink-community:/radred/assets/sprites/384.png",
+    "party": "pokelink-community:/radred/assets/sprites/384.png"
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 150,
+    "def": 90,
+    "spAtk": 150,
+    "spDef": 90,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.air_lock",
+    "RadRed.Abilities.air_lock",
+    "RadRed.Abilities.air_lock"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 0,
+  "color": "color.green",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

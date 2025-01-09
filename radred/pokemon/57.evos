@@ -1,0 +1,13 @@
+{
+  "evolutions": [
+    {
+      "to": 979,
+      "conditions": {
+        "pokemon.evolve.useMove": {
+          "move": "pkhex.move.rage_fist",
+          "count": 20
+        }
+      }
+    }
+  ]
+}

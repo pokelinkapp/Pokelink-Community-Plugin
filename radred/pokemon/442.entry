@@ -1,0 +1,32 @@
+{
+  "gameId": 495,
+  "name": "RadRed.Species.spiritomb",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/442.png",
+    "normal": "pokelink-community:/radred/assets/sprites/442.png",
+    "party": "pokelink-community:/radred/assets/sprites/442.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 92,
+    "def": 108,
+    "spAtk": 92,
+    "spDef": 108,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.intimidate"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 30,
+  "expGroup": 0,
+  "catchRate": 100,
+  "genderRatio": 127
+}

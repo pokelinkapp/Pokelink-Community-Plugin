@@ -1,0 +1,32 @@
+{
+  "gameId": 747,
+  "name": "RadRed.Species.ting_lu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1003.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1003.png",
+    "party": "pokelink-community:/radred/assets/sprites/1003.png"
+  },
+  "baseStats": {
+    "hp": 155,
+    "atk": 110,
+    "def": 125,
+    "spAtk": 55,
+    "spDef": 80,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.vessel_of_ruin",
+    "RadRed.Abilities.vessel_of_ruin",
+    "RadRed.Abilities.vessel_of_ruin"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 0,
+  "color": "color.brown",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 6,
+  "genderRatio": 255
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 226,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.presentInParty": "pkhex.species.remoraid"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 985,
+  "name": "RadRed.Species.golisopod",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/768.png",
+    "normal": "pokelink-community:/radred/assets/sprites/768.png",
+    "party": "pokelink-community:/radred/assets/sprites/768.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 125,
+    "def": 140,
+    "spAtk": 60,
+    "spDef": 90,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.emergency_exit",
+    "RadRed.Abilities.emergency_exit",
+    "RadRed.Abilities.emergency_exit"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

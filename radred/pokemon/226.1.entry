@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1284,
+  "name": "RadRed.Species.mantine",
+  "formName": "RadRed.Forms.sevii",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/226.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/226.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/226.1.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 30,
+    "def": 70,
+    "spAtk": 100,
+    "spDef": 120,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.storm_drain",
+    "RadRed.Abilities.hydration"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 25,
+  "genderRatio": 127
+}

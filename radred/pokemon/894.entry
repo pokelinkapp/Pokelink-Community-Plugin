@@ -1,0 +1,31 @@
+{
+  "gameId": 1188,
+  "name": "RadRed.Species.regieleki",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/894.png",
+    "normal": "pokelink-community:/radred/assets/sprites/894.png",
+    "party": "pokelink-community:/radred/assets/sprites/894.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 50,
+    "spAtk": 100,
+    "spDef": 50,
+    "spd": 200
+  },
+  "abilities": [
+    "RadRed.Abilities.transistor",
+    "RadRed.Abilities.transistor",
+    "RadRed.Abilities.transistor"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 35,
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1184,
+  "name": "RadRed.Species.urshifu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/892.png",
+    "normal": "pokelink-community:/radred/assets/sprites/892.png",
+    "party": "pokelink-community:/radred/assets/sprites/892.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 130,
+    "def": 100,
+    "spAtk": 63,
+    "spDef": 60,
+    "spd": 97
+  },
+  "abilities": [
+    "RadRed.Abilities.unseen_fist",
+    "RadRed.Abilities.unseen_fist",
+    "RadRed.Abilities.unseen_fist"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 31
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 835,
+  "name": "RadRed.Species.varoom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/965.png",
+    "normal": "pokelink-community:/radred/assets/sprites/965.png",
+    "party": "pokelink-community:/radred/assets/sprites/965.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 70,
+    "def": 63,
+    "spAtk": 30,
+    "spDef": 45,
+    "spd": 47
+  },
+  "abilities": [
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.filter"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

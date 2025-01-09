@@ -1,0 +1,32 @@
+{
+  "gameId": 22,
+  "name": "RadRed.Species.fearow",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/22.png",
+    "normal": "pokelink-community:/radred/assets/sprites/22.png",
+    "party": "pokelink-community:/radred/assets/sprites/22.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 100,
+    "def": 65,
+    "spAtk": 61,
+    "spDef": 61,
+    "spd": 115
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.sniper"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

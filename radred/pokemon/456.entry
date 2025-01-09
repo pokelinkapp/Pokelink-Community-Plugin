@@ -1,0 +1,31 @@
+{
+  "gameId": 509,
+  "name": "RadRed.Species.finneon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/456.png",
+    "normal": "pokelink-community:/radred/assets/sprites/456.png",
+    "party": "pokelink-community:/radred/assets/sprites/456.png"
+  },
+  "baseStats": {
+    "hp": 49,
+    "atk": 49,
+    "def": 56,
+    "spAtk": 49,
+    "spDef": 61,
+    "spd": 66
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.storm_drain",
+    "RadRed.Abilities.water_veil"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 190,
+  "genderRatio": 127
+}

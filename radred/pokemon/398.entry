@@ -1,0 +1,32 @@
+{
+  "gameId": 451,
+  "name": "RadRed.Species.staraptor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/398.png",
+    "normal": "pokelink-community:/radred/assets/sprites/398.png",
+    "party": "pokelink-community:/radred/assets/sprites/398.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 120,
+    "def": 70,
+    "spAtk": 50,
+    "spDef": 60,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.reckless"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

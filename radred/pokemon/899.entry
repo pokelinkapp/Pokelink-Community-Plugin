@@ -1,0 +1,32 @@
+{
+  "gameId": 1270,
+  "name": "RadRed.Species.wyrdeer",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/899.png",
+    "normal": "pokelink-community:/radred/assets/sprites/899.png",
+    "party": "pokelink-community:/radred/assets/sprites/899.png"
+  },
+  "baseStats": {
+    "hp": 103,
+    "atk": 80,
+    "def": 82,
+    "spAtk": 110,
+    "spDef": 85,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.sap_sipper",
+    "RadRed.Abilities.fur_coat"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

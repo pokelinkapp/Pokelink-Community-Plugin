@@ -1,0 +1,32 @@
+{
+  "gameId": 804,
+  "name": "RadRed.Species.tyrunt",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/696.png",
+    "normal": "pokelink-community:/radred/assets/sprites/696.png",
+    "party": "pokelink-community:/radred/assets/sprites/696.png"
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 89,
+    "def": 77,
+    "spAtk": 45,
+    "spDef": 45,
+    "spd": 48
+  },
+  "abilities": [
+    "RadRed.Abilities.strong_jaw",
+    "RadRed.Abilities.strong_jaw",
+    "RadRed.Abilities.sturdy"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 30,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 31
+}

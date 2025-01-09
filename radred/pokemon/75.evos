@@ -1,0 +1,20 @@
+{
+  "evolutions": [
+    {
+      "to": 76,
+      "conditions": {
+        "pokemon.evolve.trade": {}
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 76,
+      "conditions": {
+        "pokemon.evolve.trade": {}
+      },
+      "toForm": 1,
+      "fromForm": 1
+    }
+  ]
+}

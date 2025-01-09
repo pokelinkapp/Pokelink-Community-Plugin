@@ -1,0 +1,10 @@
+{
+  "evolutions": [
+    {
+      "to": 526,
+      "conditions": {
+        "pokemon.evolve.trade": {}
+      }
+    }
+  ]
+}

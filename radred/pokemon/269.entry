@@ -1,0 +1,32 @@
+{
+  "gameId": 294,
+  "name": "RadRed.Species.dustox",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/269.png",
+    "normal": "pokelink-community:/radred/assets/sprites/269.png",
+    "party": "pokelink-community:/radred/assets/sprites/269.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 40,
+    "def": 70,
+    "spAtk": 60,
+    "spDef": 90,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.shield_dust",
+    "RadRed.Abilities.shield_dust",
+    "RadRed.Abilities.compound_eyes"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

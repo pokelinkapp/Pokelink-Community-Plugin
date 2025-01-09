@@ -1,0 +1,32 @@
+{
+  "gameId": 553,
+  "name": "RadRed.Species.emboar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/500.png",
+    "normal": "pokelink-community:/radred/assets/sprites/500.png",
+    "party": "pokelink-community:/radred/assets/sprites/500.png"
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 123,
+    "def": 65,
+    "spAtk": 100,
+    "spDef": 65,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.reckless",
+    "RadRed.Abilities.reckless",
+    "RadRed.Abilities.bull_rush"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

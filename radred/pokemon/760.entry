@@ -1,0 +1,32 @@
+{
+  "gameId": 977,
+  "name": "RadRed.Species.bewear",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/760.png",
+    "normal": "pokelink-community:/radred/assets/sprites/760.png",
+    "party": "pokelink-community:/radred/assets/sprites/760.png"
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 125,
+    "def": 80,
+    "spAtk": 55,
+    "spDef": 60,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.fluffy",
+    "RadRed.Abilities.fluffy",
+    "RadRed.Abilities.unnerve"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 70,
+  "genderRatio": 127
+}

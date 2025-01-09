@@ -1,0 +1,25 @@
+{
+  "evolutions": [
+    {
+      "to": 461,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.razor_claw",
+          "pokemon.evolve.time": "timeOfDay.night"
+        }
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 903,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.razor_claw",
+          "pokemon.evolve.time": "timeOfDay.day"
+        }
+      },
+      "fromForm": 1
+    }
+  ]
+}

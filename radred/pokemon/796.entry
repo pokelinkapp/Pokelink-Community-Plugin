@@ -1,0 +1,31 @@
+{
+  "gameId": 1013,
+  "name": "RadRed.Species.xurkitree",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/796.png",
+    "normal": "pokelink-community:/radred/assets/sprites/796.png",
+    "party": "pokelink-community:/radred/assets/sprites/796.png"
+  },
+  "baseStats": {
+    "hp": 83,
+    "atk": 69,
+    "def": 71,
+    "spAtk": 173,
+    "spDef": 71,
+    "spd": 98
+  },
+  "abilities": [
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 0,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

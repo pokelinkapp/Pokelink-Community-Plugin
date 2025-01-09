@@ -1,0 +1,31 @@
+{
+  "gameId": 576,
+  "name": "RadRed.Species.zebstrika",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/523.png",
+    "normal": "pokelink-community:/radred/assets/sprites/523.png",
+    "party": "pokelink-community:/radred/assets/sprites/523.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 63,
+    "spAtk": 80,
+    "spDef": 63,
+    "spd": 116
+  },
+  "abilities": [
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.sap_sipper",
+    "RadRed.Abilities.flare_boost"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 913,
+  "name": "RadRed.Species.garchomp",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/445.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/445.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/445.1.png"
+  },
+  "baseStats": {
+    "hp": 108,
+    "atk": 170,
+    "def": 105,
+    "spAtk": 120,
+    "spDef": 95,
+    "spd": 102
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_force",
+    "RadRed.Abilities.sand_force",
+    "RadRed.Abilities.sand_force"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

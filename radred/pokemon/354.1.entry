@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 902,
+  "name": "RadRed.Species.banette",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/354.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/354.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/354.1.png"
+  },
+  "baseStats": {
+    "hp": 64,
+    "atk": 165,
+    "def": 75,
+    "spAtk": 93,
+    "spDef": 83,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.prankster"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 25,
+  "expGroup": 4,
+  "catchRate": 45,
+  "genderRatio": 127
+}

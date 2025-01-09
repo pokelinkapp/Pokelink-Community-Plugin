@@ -1,0 +1,31 @@
+{
+  "gameId": 499,
+  "name": "RadRed.Species.munchlax",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/446.png",
+    "normal": "pokelink-community:/radred/assets/sprites/446.png",
+    "party": "pokelink-community:/radred/assets/sprites/446.png"
+  },
+  "baseStats": {
+    "hp": 135,
+    "atk": 85,
+    "def": 40,
+    "spAtk": 40,
+    "spDef": 85,
+    "spd": 5
+  },
+  "abilities": [
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.gluttony"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 50,
+  "genderRatio": 31
+}

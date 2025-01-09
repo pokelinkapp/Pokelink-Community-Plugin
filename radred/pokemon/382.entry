@@ -1,0 +1,31 @@
+{
+  "gameId": 404,
+  "name": "RadRed.Species.kyogre",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/382.png",
+    "normal": "pokelink-community:/radred/assets/sprites/382.png",
+    "party": "pokelink-community:/radred/assets/sprites/382.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 90,
+    "spAtk": 150,
+    "spDef": 140,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.drizzle",
+    "RadRed.Abilities.drizzle",
+    "RadRed.Abilities.drizzle"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 0,
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

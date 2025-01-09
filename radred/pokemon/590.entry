@@ -1,0 +1,32 @@
+{
+  "gameId": 643,
+  "name": "RadRed.Species.foongus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/590.png",
+    "normal": "pokelink-community:/radred/assets/sprites/590.png",
+    "party": "pokelink-community:/radred/assets/sprites/590.png"
+  },
+  "baseStats": {
+    "hp": 69,
+    "atk": 55,
+    "def": 45,
+    "spAtk": 55,
+    "spDef": 55,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.effect_spore",
+    "RadRed.Abilities.effect_spore",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

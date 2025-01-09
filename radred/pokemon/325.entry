@@ -1,0 +1,31 @@
+{
+  "gameId": 351,
+  "name": "RadRed.Species.spoink",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/325.png",
+    "normal": "pokelink-community:/radred/assets/sprites/325.png",
+    "party": "pokelink-community:/radred/assets/sprites/325.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 25,
+    "def": 35,
+    "spAtk": 70,
+    "spDef": 80,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.gluttony"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 255,
+  "genderRatio": 127
+}

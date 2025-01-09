@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1034,
+  "name": "RadRed.Species.grimer",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/88.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/88.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/88.1.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "spd": 25
+  },
+  "abilities": [
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.alchemic_power"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

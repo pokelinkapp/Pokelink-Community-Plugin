@@ -1,0 +1,17 @@
+{
+  "evolutions": [
+    {
+      "to": 282,
+      "conditions": {
+        "pokemon.evolve.level": 30
+      }
+    },
+    {
+      "to": 475,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.dawn_stone",
+        "pokemon.evolve.gender": "Gender.male"
+      }
+    }
+  ]
+}

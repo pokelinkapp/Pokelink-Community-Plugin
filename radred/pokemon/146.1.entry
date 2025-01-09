@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1219,
+  "name": "RadRed.Species.moltres",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/146.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/146.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/146.1.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 85,
+    "def": 90,
+    "spAtk": 100,
+    "spDef": 125,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.berserk",
+    "RadRed.Abilities.berserk",
+    "RadRed.Abilities.berserk"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 35,
+  "color": "color.red",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

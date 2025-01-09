@@ -1,0 +1,32 @@
+{
+  "gameId": 649,
+  "name": "RadRed.Species.galvantula",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/596.png",
+    "normal": "pokelink-community:/radred/assets/sprites/596.png",
+    "party": "pokelink-community:/radred/assets/sprites/596.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 77,
+    "def": 60,
+    "spAtk": 97,
+    "spDef": 60,
+    "spd": 108
+  },
+  "abilities": [
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.unnerve",
+    "RadRed.Abilities.swarm"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 133,
+  "name": "RadRed.Species.eevee",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/133.png",
+    "normal": "pokelink-community:/radred/assets/sprites/133.png",
+    "party": "pokelink-community:/radred/assets/sprites/133.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 50,
+    "spAtk": 45,
+    "spDef": 65,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.run_away",
+    "RadRed.Abilities.adaptability",
+    "RadRed.Abilities.run_away"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 35,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 31
+}

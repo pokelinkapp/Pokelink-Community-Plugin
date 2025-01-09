@@ -1,0 +1,32 @@
+{
+  "gameId": 307,
+  "name": "RadRed.Species.breloom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/286.png",
+    "normal": "pokelink-community:/radred/assets/sprites/286.png",
+    "party": "pokelink-community:/radred/assets/sprites/286.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 130,
+    "def": 80,
+    "spAtk": 60,
+    "spDef": 60,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.effect_spore",
+    "RadRed.Abilities.poison_heal",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 2,
+  "catchRate": 90,
+  "genderRatio": 127
+}

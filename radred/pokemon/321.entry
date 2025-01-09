@@ -1,0 +1,31 @@
+{
+  "gameId": 314,
+  "name": "RadRed.Species.wailord",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/321.png",
+    "normal": "pokelink-community:/radred/assets/sprites/321.png",
+    "party": "pokelink-community:/radred/assets/sprites/321.png"
+  },
+  "baseStats": {
+    "hp": 150,
+    "atk": 50,
+    "def": 80,
+    "spAtk": 105,
+    "spDef": 80,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.blubber_defense",
+    "RadRed.Abilities.pressure"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 2,
+  "catchRate": 60,
+  "genderRatio": 127
+}

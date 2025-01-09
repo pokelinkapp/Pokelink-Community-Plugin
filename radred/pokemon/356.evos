@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 477,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.reaper_cloth"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 505,
+  "name": "RadRed.Species.drapion",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/452.png",
+    "normal": "pokelink-community:/radred/assets/sprites/452.png",
+    "party": "pokelink-community:/radred/assets/sprites/452.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 110,
+    "spAtk": 60,
+    "spDef": 75,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.sniper",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 1019,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.knowMove": "pkhex.move.dragon_cheer"
+        }
+      }
+    }
+  ]
+}

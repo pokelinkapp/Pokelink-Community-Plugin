@@ -1,0 +1,32 @@
+{
+  "gameId": 1334,
+  "name": "RadRed.Species.tatsugiri",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/978.png",
+    "normal": "pokelink-community:/radred/assets/sprites/978.png",
+    "party": "pokelink-community:/radred/assets/sprites/978.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 50,
+    "def": 70,
+    "spAtk": 120,
+    "spDef": 95,
+    "spd": 82
+  },
+  "abilities": [
+    "RadRed.Abilities.storm_drain",
+    "RadRed.Abilities.storm_drain",
+    "RadRed.Abilities.storm_drain"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 35,
+  "expGroup": 3,
+  "catchRate": 100,
+  "genderRatio": 127
+}

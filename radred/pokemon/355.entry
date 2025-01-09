@@ -1,0 +1,31 @@
+{
+  "gameId": 361,
+  "name": "RadRed.Species.duskull",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/355.png",
+    "normal": "pokelink-community:/radred/assets/sprites/355.png",
+    "party": "pokelink-community:/radred/assets/sprites/355.png"
+  },
+  "baseStats": {
+    "hp": 20,
+    "atk": 40,
+    "def": 90,
+    "spAtk": 30,
+    "spDef": 90,
+    "spd": 25
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 25,
+  "expGroup": 4,
+  "catchRate": 190,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 999,
+  "name": "RadRed.Species.jangmo_o",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/782.png",
+    "normal": "pokelink-community:/radred/assets/sprites/782.png",
+    "party": "pokelink-community:/radred/assets/sprites/782.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 55,
+    "def": 65,
+    "spAtk": 45,
+    "spDef": 45,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.bulletproof",
+    "RadRed.Abilities.soundproof",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

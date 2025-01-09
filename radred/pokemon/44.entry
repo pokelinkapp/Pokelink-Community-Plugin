@@ -1,0 +1,32 @@
+{
+  "gameId": 44,
+  "name": "RadRed.Species.gloom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/44.png",
+    "normal": "pokelink-community:/radred/assets/sprites/44.png",
+    "party": "pokelink-community:/radred/assets/sprites/44.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 70,
+    "spAtk": 85,
+    "spDef": 75,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.stench"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

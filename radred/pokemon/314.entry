@@ -1,0 +1,32 @@
+{
+  "gameId": 387,
+  "name": "RadRed.Species.illumise",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/314.png",
+    "normal": "pokelink-community:/radred/assets/sprites/314.png",
+    "party": "pokelink-community:/radred/assets/sprites/314.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 90,
+    "def": 75,
+    "spAtk": 47,
+    "spDef": 85,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.tinted_lens",
+    "RadRed.Abilities.prankster"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "expGroup": 2,
+  "catchRate": 150,
+  "genderRatio": 254
+}

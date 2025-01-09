@@ -1,0 +1,32 @@
+{
+  "gameId": 1134,
+  "name": "RadRed.Species.appletun",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/842.png",
+    "normal": "pokelink-community:/radred/assets/sprites/842.png",
+    "party": "pokelink-community:/radred/assets/sprites/842.png"
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 85,
+    "def": 80,
+    "spAtk": 100,
+    "spDef": 80,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.ripen",
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 45,
+  "genderRatio": 127
+}

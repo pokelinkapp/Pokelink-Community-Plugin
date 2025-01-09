@@ -1,0 +1,32 @@
+{
+  "gameId": 444,
+  "name": "RadRed.Species.monferno",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/391.png",
+    "normal": "pokelink-community:/radred/assets/sprites/391.png",
+    "party": "pokelink-community:/radred/assets/sprites/391.png"
+  },
+  "baseStats": {
+    "hp": 64,
+    "atk": 78,
+    "def": 52,
+    "spAtk": 78,
+    "spDef": 52,
+    "spd": 81
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

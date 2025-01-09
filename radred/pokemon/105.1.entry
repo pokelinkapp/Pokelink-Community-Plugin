@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1039,
+  "name": "RadRed.Species.marowak",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/105.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/105.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/105.1.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 80,
+    "def": 110,
+    "spAtk": 50,
+    "spDef": 80,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.bone_zone"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

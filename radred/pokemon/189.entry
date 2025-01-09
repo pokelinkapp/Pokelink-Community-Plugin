@@ -1,0 +1,32 @@
+{
+  "gameId": 189,
+  "name": "RadRed.Species.jumpluff",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/189.png",
+    "normal": "pokelink-community:/radred/assets/sprites/189.png",
+    "party": "pokelink-community:/radred/assets/sprites/189.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 85,
+    "def": 70,
+    "spAtk": 35,
+    "spDef": 95,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.leaf_guard",
+    "RadRed.Abilities.aerilate"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

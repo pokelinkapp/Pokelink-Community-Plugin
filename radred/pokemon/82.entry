@@ -1,0 +1,32 @@
+{
+  "gameId": 82,
+  "name": "RadRed.Species.magneton",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/82.png",
+    "normal": "pokelink-community:/radred/assets/sprites/82.png",
+    "party": "pokelink-community:/radred/assets/sprites/82.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 60,
+    "def": 95,
+    "spAtk": 120,
+    "spDef": 70,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.magnet_pull",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.analytic"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 255
+}

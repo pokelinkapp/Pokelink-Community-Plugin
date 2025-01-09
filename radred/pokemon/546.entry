@@ -1,0 +1,32 @@
+{
+  "gameId": 599,
+  "name": "RadRed.Species.cottonee",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/546.png",
+    "normal": "pokelink-community:/radred/assets/sprites/546.png",
+    "party": "pokelink-community:/radred/assets/sprites/546.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 27,
+    "def": 60,
+    "spAtk": 37,
+    "spDef": 50,
+    "spd": 66
+  },
+  "abilities": [
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.chlorophyll"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

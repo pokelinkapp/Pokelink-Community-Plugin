@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1256,
+  "name": "RadRed.Species.centiskorch",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/851.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/851.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/851.1.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 150,
+    "def": 80,
+    "spAtk": 90,
+    "spDef": 110,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.mountaineer",
+    "RadRed.Abilities.mountaineer",
+    "RadRed.Abilities.mountaineer"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

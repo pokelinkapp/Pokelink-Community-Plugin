@@ -1,0 +1,31 @@
+{
+  "gameId": 150,
+  "name": "RadRed.Species.mewtwo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/150.png",
+    "normal": "pokelink-community:/radred/assets/sprites/150.png",
+    "party": "pokelink-community:/radred/assets/sprites/150.png"
+  },
+  "baseStats": {
+    "hp": 106,
+    "atk": 110,
+    "def": 90,
+    "spAtk": 154,
+    "spDef": 90,
+    "spd": 130
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.unnerve"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

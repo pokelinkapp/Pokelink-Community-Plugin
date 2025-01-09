@@ -1,0 +1,32 @@
+{
+  "gameId": 1351,
+  "name": "RadRed.Species.bramblin",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/946.png",
+    "normal": "pokelink-community:/radred/assets/sprites/946.png",
+    "party": "pokelink-community:/radred/assets/sprites/946.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 65,
+    "def": 30,
+    "spAtk": 45,
+    "spDef": 35,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.wind_rider"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

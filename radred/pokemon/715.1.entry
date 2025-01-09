@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 867,
+  "name": "RadRed.Species.noivern",
+  "formName": "RadRed.Forms.sevii",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/715.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/715.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/715.1.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 102,
+    "def": 80,
+    "spAtk": 70,
+    "spDef": 80,
+    "spd": 123
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

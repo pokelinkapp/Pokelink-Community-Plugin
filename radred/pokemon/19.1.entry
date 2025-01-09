@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1020,
+  "name": "RadRed.Species.rattata",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/19.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/19.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/19.1.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 56,
+    "def": 35,
+    "spAtk": 25,
+    "spDef": 35,
+    "spd": 72
+  },
+  "abilities": [
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

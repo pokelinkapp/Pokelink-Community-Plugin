@@ -1,0 +1,31 @@
+{
+  "gameId": 989,
+  "name": "RadRed.Species.type:_null",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/772.png",
+    "normal": "pokelink-community:/radred/assets/sprites/772.png",
+    "party": "pokelink-community:/radred/assets/sprites/772.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 95,
+    "def": 95,
+    "spAtk": 95,
+    "spDef": 95,
+    "spd": 59
+  },
+  "abilities": [
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.battle_armor"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 945,
+  "name": "RadRed.Species.popplio",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/728.png",
+    "normal": "pokelink-community:/radred/assets/sprites/728.png",
+    "party": "pokelink-community:/radred/assets/sprites/728.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 54,
+    "def": 54,
+    "spAtk": 66,
+    "spDef": 56,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.liquid_voice"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

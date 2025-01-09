@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1220,
+  "name": "RadRed.Species.slowking",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/199.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/199.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/199.1.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 65,
+    "def": 80,
+    "spAtk": 110,
+    "spDef": 110,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 70,
+  "genderRatio": 127
+}

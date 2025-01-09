@@ -1,0 +1,32 @@
+{
+  "gameId": 1336,
+  "name": "RadRed.Species.kilowattrel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/941.png",
+    "normal": "pokelink-community:/radred/assets/sprites/941.png",
+    "party": "pokelink-community:/radred/assets/sprites/941.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 70,
+    "def": 60,
+    "spAtk": 105,
+    "spDef": 60,
+    "spd": 125
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.competitive"
+  ],
+  "types": [
+    "pkhex.type.flying",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 90,
+  "genderRatio": 127
+}

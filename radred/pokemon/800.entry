@@ -1,0 +1,31 @@
+{
+  "gameId": 1017,
+  "name": "RadRed.Species.necrozma",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/800.png",
+    "normal": "pokelink-community:/radred/assets/sprites/800.png",
+    "party": "pokelink-community:/radred/assets/sprites/800.png"
+  },
+  "baseStats": {
+    "hp": 97,
+    "atk": 107,
+    "def": 101,
+    "spAtk": 127,
+    "spDef": 89,
+    "spd": 79
+  },
+  "abilities": [
+    "RadRed.Abilities.prism_armor",
+    "RadRed.Abilities.prism_armor",
+    "RadRed.Abilities.prism_armor"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 0,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

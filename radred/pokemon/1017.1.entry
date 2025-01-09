@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1358,
+  "name": "RadRed.Species.ogerpon",
+  "formName": "RadRed.Forms.wellspring",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1017.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1017.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/1017.1.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 84,
+    "spAtk": 60,
+    "spDef": 96,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.water_absorb"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 5,
+  "expGroup": 5,
+  "catchRate": 5,
+  "genderRatio": 254
+}

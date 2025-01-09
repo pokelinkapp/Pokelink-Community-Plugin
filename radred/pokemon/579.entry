@@ -1,0 +1,31 @@
+{
+  "gameId": 632,
+  "name": "RadRed.Species.reuniclus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/579.png",
+    "normal": "pokelink-community:/radred/assets/sprites/579.png",
+    "party": "pokelink-community:/radred/assets/sprites/579.png"
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 65,
+    "def": 75,
+    "spAtk": 125,
+    "spDef": 85,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.magic_guard",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 50,
+  "genderRatio": 127
+}

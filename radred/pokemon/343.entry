@@ -1,0 +1,32 @@
+{
+  "gameId": 318,
+  "name": "RadRed.Species.baltoy",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/343.png",
+    "normal": "pokelink-community:/radred/assets/sprites/343.png",
+    "party": "pokelink-community:/radred/assets/sprites/343.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 55,
+    "spAtk": 40,
+    "spDef": 70,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 255
+}

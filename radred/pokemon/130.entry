@@ -1,0 +1,32 @@
+{
+  "gameId": 130,
+  "name": "RadRed.Species.gyarados",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/130.png",
+    "normal": "pokelink-community:/radred/assets/sprites/130.png",
+    "party": "pokelink-community:/radred/assets/sprites/130.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 125,
+    "def": 79,
+    "spAtk": 60,
+    "spDef": 100,
+    "spd": 81
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.moxie"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 5,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

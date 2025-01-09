@@ -1,0 +1,31 @@
+{
+  "gameId": 791,
+  "name": "RadRed.Species.aromatisse",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/683.png",
+    "normal": "pokelink-community:/radred/assets/sprites/683.png",
+    "party": "pokelink-community:/radred/assets/sprites/683.png"
+  },
+  "baseStats": {
+    "hp": 101,
+    "atk": 62,
+    "def": 82,
+    "spAtk": 99,
+    "spDef": 89,
+    "spd": 29
+  },
+  "abilities": [
+    "RadRed.Abilities.fairy_aura",
+    "RadRed.Abilities.fairy_aura",
+    "RadRed.Abilities.aroma_veil"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 140,
+  "genderRatio": 127
+}

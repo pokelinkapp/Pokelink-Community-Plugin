@@ -1,0 +1,32 @@
+{
+  "gameId": 845,
+  "name": "RadRed.Species.pawmot",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/923.png",
+    "normal": "pokelink-community:/radred/assets/sprites/923.png",
+    "party": "pokelink-community:/radred/assets/sprites/923.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 115,
+    "def": 70,
+    "spAtk": 70,
+    "spDef": 60,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.iron_fist"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

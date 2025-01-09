@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1238,
+  "name": "RadRed.Species.kingler",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/99.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/99.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/99.1.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 150,
+    "def": 130,
+    "spAtk": 50,
+    "spDef": 75,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.tough_claws",
+    "RadRed.Abilities.tough_claws",
+    "RadRed.Abilities.tough_claws"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

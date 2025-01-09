@@ -1,0 +1,31 @@
+{
+  "gameId": 320,
+  "name": "RadRed.Species.nosepass",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/299.png",
+    "normal": "pokelink-community:/radred/assets/sprites/299.png",
+    "party": "pokelink-community:/radred/assets/sprites/299.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 45,
+    "def": 135,
+    "spAtk": 45,
+    "spDef": 90,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.magnet_pull",
+    "RadRed.Abilities.sand_force"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

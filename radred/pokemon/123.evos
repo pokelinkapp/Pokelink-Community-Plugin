@@ -1,0 +1,18 @@
+{
+  "evolutions": [
+    {
+      "to": 212,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.holdItem": "pkhex.item.gen9.metal_coat"
+        }
+      }
+    },
+    {
+      "to": 900,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.black_augurite"
+      }
+    }
+  ]
+}

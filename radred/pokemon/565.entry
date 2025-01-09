@@ -1,0 +1,32 @@
+{
+  "gameId": 618,
+  "name": "RadRed.Species.carracosta",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/565.png",
+    "normal": "pokelink-community:/radred/assets/sprites/565.png",
+    "party": "pokelink-community:/radred/assets/sprites/565.png"
+  },
+  "baseStats": {
+    "hp": 74,
+    "atk": 108,
+    "def": 133,
+    "spAtk": 83,
+    "spDef": 65,
+    "spd": 32
+  },
+  "abilities": [
+    "RadRed.Abilities.solid_rock",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.swift_swim"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 31
+}

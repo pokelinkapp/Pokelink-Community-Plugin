@@ -1,0 +1,19 @@
+{
+  "evolutions": [
+    {
+      "to": 291,
+      "conditions": {
+        "pokemon.evolve.level": 20
+      }
+    },
+    {
+      "to": 292,
+      "conditions": {
+        "pokemon.evolve.level": 20,
+        "pokemon.evolve.emptySlot": {
+          "pokemon.evolve.hasItem": "pkhex.ball.poke_ball"
+        }
+      }
+    }
+  ]
+}

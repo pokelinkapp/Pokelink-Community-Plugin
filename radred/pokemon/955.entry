@@ -1,0 +1,31 @@
+{
+  "gameId": 1320,
+  "name": "RadRed.Species.flittle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/955.png",
+    "normal": "pokelink-community:/radred/assets/sprites/955.png",
+    "party": "pokelink-community:/radred/assets/sprites/955.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 35,
+    "def": 30,
+    "spAtk": 55,
+    "spDef": 30,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.speed_boost",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

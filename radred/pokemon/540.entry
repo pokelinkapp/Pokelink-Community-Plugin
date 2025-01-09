@@ -1,0 +1,32 @@
+{
+  "gameId": 593,
+  "name": "RadRed.Species.sewaddle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/540.png",
+    "normal": "pokelink-community:/radred/assets/sprites/540.png",
+    "party": "pokelink-community:/radred/assets/sprites/540.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 53,
+    "def": 70,
+    "spAtk": 40,
+    "spDef": 60,
+    "spd": 42
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

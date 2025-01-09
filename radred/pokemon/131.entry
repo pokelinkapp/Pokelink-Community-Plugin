@@ -1,0 +1,32 @@
+{
+  "gameId": 131,
+  "name": "RadRed.Species.lapras",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/131.png",
+    "normal": "pokelink-community:/radred/assets/sprites/131.png",
+    "party": "pokelink-community:/radred/assets/sprites/131.png"
+  },
+  "baseStats": {
+    "hp": 130,
+    "atk": 85,
+    "def": 80,
+    "spAtk": 85,
+    "spDef": 95,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.water_absorb"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

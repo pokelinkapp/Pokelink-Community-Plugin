@@ -1,0 +1,33 @@
+{
+  "form": 4,
+  "gameId": 723,
+  "name": "RadRed.Species.arceus",
+  "formName": "RadRed.Forms.ground",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/493.4.png",
+    "normal": "pokelink-community:/radred/assets/sprites/493.4.png",
+    "party": "pokelink-community:/radred/assets/sprites/493.4.png"
+  },
+  "baseStats": {
+    "hp": 120,
+    "atk": 120,
+    "def": 120,
+    "spAtk": 120,
+    "spDef": 120,
+    "spd": 120
+  },
+  "abilities": [
+    "RadRed.Abilities.multitype",
+    "RadRed.Abilities.multitype",
+    "RadRed.Abilities.multitype"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 0,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

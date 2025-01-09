@@ -1,0 +1,32 @@
+{
+  "gameId": 1364,
+  "name": "RadRed.Species.fezandipiti",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1016.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1016.png",
+    "party": "pokelink-community:/radred/assets/sprites/1016.png"
+  },
+  "baseStats": {
+    "hp": 88,
+    "atk": 70,
+    "def": 82,
+    "spAtk": 91,
+    "spDef": 125,
+    "spd": 99
+  },
+  "abilities": [
+    "RadRed.Abilities.toxic_chain",
+    "RadRed.Abilities.toxic_chain",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 0,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 0
+}

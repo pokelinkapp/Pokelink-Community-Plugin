@@ -1,0 +1,31 @@
+{
+  "gameId": 484,
+  "name": "RadRed.Species.glameow",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/431.png",
+    "normal": "pokelink-community:/radred/assets/sprites/431.png",
+    "party": "pokelink-community:/radred/assets/sprites/431.png"
+  },
+  "baseStats": {
+    "hp": 49,
+    "atk": 55,
+    "def": 42,
+    "spAtk": 42,
+    "spDef": 37,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.limber",
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 190,
+  "genderRatio": 191
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 408,
+  "name": "RadRed.Species.latios",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/381.png",
+    "normal": "pokelink-community:/radred/assets/sprites/381.png",
+    "party": "pokelink-community:/radred/assets/sprites/381.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 90,
+    "def": 80,
+    "spAtk": 130,
+    "spDef": 110,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 90,
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 0
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 350,
+  "name": "RadRed.Species.azurill",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/298.png",
+    "normal": "pokelink-community:/radred/assets/sprites/298.png",
+    "party": "pokelink-community:/radred/assets/sprites/298.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 20,
+    "def": 40,
+    "spAtk": 20,
+    "spDef": 40,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.huge_power",
+    "RadRed.Abilities.sap_sipper"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 10,
+  "expGroup": 4,
+  "catchRate": 150,
+  "genderRatio": 191
+}

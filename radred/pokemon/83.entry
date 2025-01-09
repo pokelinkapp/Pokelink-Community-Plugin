@@ -1,0 +1,32 @@
+{
+  "gameId": 83,
+  "name": "RadRed.Species.farfetchd",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/83.png",
+    "normal": "pokelink-community:/radred/assets/sprites/83.png",
+    "party": "pokelink-community:/radred/assets/sprites/83.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 90,
+    "def": 70,
+    "spAtk": 58,
+    "spDef": 77,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.sharpness"
+  ],
+  "types": [
+    "pkhex.type.flying",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

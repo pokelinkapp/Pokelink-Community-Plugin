@@ -1,0 +1,32 @@
+{
+  "gameId": 43,
+  "name": "RadRed.Species.oddish",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/43.png",
+    "normal": "pokelink-community:/radred/assets/sprites/43.png",
+    "party": "pokelink-community:/radred/assets/sprites/43.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 50,
+    "def": 55,
+    "spAtk": 75,
+    "spDef": 65,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.run_away"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

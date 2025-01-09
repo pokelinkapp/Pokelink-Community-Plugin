@@ -1,0 +1,32 @@
+{
+  "gameId": 809,
+  "name": "RadRed.Species.hawlucha",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/701.png",
+    "normal": "pokelink-community:/radred/assets/sprites/701.png",
+    "party": "pokelink-community:/radred/assets/sprites/701.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 92,
+    "def": 75,
+    "spAtk": 74,
+    "spDef": 63,
+    "spd": 118
+  },
+  "abilities": [
+    "RadRed.Abilities.limber",
+    "RadRed.Abilities.unburden",
+    "RadRed.Abilities.mold_breaker"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 100,
+  "genderRatio": 127
+}

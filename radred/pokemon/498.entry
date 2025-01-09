@@ -1,0 +1,31 @@
+{
+  "gameId": 551,
+  "name": "RadRed.Species.tepig",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/498.png",
+    "normal": "pokelink-community:/radred/assets/sprites/498.png",
+    "party": "pokelink-community:/radred/assets/sprites/498.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 63,
+    "def": 45,
+    "spAtk": 45,
+    "spDef": 45,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

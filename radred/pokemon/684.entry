@@ -1,0 +1,31 @@
+{
+  "gameId": 792,
+  "name": "RadRed.Species.swirlix",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/684.png",
+    "normal": "pokelink-community:/radred/assets/sprites/684.png",
+    "party": "pokelink-community:/radred/assets/sprites/684.png"
+  },
+  "baseStats": {
+    "hp": 62,
+    "atk": 48,
+    "def": 66,
+    "spAtk": 59,
+    "spDef": 57,
+    "spd": 49
+  },
+  "abilities": [
+    "RadRed.Abilities.sweet_veil",
+    "RadRed.Abilities.sweet_veil",
+    "RadRed.Abilities.unburden"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 200,
+  "genderRatio": 127
+}

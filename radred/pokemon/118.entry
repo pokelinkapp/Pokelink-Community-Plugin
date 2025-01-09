@@ -1,0 +1,31 @@
+{
+  "gameId": 118,
+  "name": "RadRed.Species.goldeen",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/118.png",
+    "normal": "pokelink-community:/radred/assets/sprites/118.png",
+    "party": "pokelink-community:/radred/assets/sprites/118.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 67,
+    "def": 60,
+    "spAtk": 35,
+    "spDef": 50,
+    "spd": 63
+  },
+  "abilities": [
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.rain_dish"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 225,
+  "genderRatio": 127
+}

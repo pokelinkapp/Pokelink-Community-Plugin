@@ -1,0 +1,32 @@
+{
+  "gameId": 1319,
+  "name": "RadRed.Species.rabsca",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/954.png",
+    "normal": "pokelink-community:/radred/assets/sprites/954.png",
+    "party": "pokelink-community:/radred/assets/sprites/954.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 50,
+    "def": 85,
+    "spAtk": 115,
+    "spDef": 100,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.telepathy",
+    "RadRed.Abilities.synchronize"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 45,
+  "genderRatio": 127
+}

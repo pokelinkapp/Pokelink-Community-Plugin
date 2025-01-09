@@ -1,0 +1,32 @@
+{
+  "gameId": 215,
+  "name": "RadRed.Species.sneasel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/215.png",
+    "normal": "pokelink-community:/radred/assets/sprites/215.png",
+    "party": "pokelink-community:/radred/assets/sprites/215.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 95,
+    "def": 55,
+    "spAtk": 35,
+    "spDef": 75,
+    "spd": 115
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.infiltrator"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 60,
+  "genderRatio": 127
+}

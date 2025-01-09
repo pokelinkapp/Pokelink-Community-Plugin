@@ -1,0 +1,31 @@
+{
+  "gameId": 234,
+  "name": "RadRed.Species.stantler",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/234.png",
+    "normal": "pokelink-community:/radred/assets/sprites/234.png",
+    "party": "pokelink-community:/radred/assets/sprites/234.png"
+  },
+  "baseStats": {
+    "hp": 73,
+    "atk": 95,
+    "def": 62,
+    "spAtk": 85,
+    "spDef": 65,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.reckless",
+    "RadRed.Abilities.sap_sipper"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

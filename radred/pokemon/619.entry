@@ -1,0 +1,31 @@
+{
+  "gameId": 672,
+  "name": "RadRed.Species.mienfoo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/619.png",
+    "normal": "pokelink-community:/radred/assets/sprites/619.png",
+    "party": "pokelink-community:/radred/assets/sprites/619.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 85,
+    "def": 50,
+    "spAtk": 55,
+    "spDef": 50,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.regenerator",
+    "RadRed.Abilities.reckless"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 180,
+  "genderRatio": 127
+}

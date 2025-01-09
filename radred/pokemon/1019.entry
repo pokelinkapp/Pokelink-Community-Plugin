@@ -1,0 +1,32 @@
+{
+  "gameId": 1371,
+  "name": "RadRed.Species.hydrapple",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1019.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1019.png",
+    "party": "pokelink-community:/radred/assets/sprites/1019.png"
+  },
+  "baseStats": {
+    "hp": 106,
+    "atk": 80,
+    "def": 110,
+    "spAtk": 120,
+    "spDef": 80,
+    "spd": 44
+  },
+  "abilities": [
+    "RadRed.Abilities.sticky_hold",
+    "RadRed.Abilities.regenerator",
+    "RadRed.Abilities.sticky_hold"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 10,
+  "genderRatio": 127
+}

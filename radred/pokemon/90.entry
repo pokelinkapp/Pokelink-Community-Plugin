@@ -1,0 +1,31 @@
+{
+  "gameId": 90,
+  "name": "RadRed.Species.shellder",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/90.png",
+    "normal": "pokelink-community:/radred/assets/sprites/90.png",
+    "party": "pokelink-community:/radred/assets/sprites/90.png"
+  },
+  "baseStats": {
+    "hp": 30,
+    "atk": 65,
+    "def": 100,
+    "spAtk": 45,
+    "spDef": 25,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.skill_link",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 190,
+  "genderRatio": 127
+}

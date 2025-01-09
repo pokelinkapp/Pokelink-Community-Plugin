@@ -1,0 +1,32 @@
+{
+  "gameId": 522,
+  "name": "RadRed.Species.yanmega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/469.png",
+    "normal": "pokelink-community:/radred/assets/sprites/469.png",
+    "party": "pokelink-community:/radred/assets/sprites/469.png"
+  },
+  "baseStats": {
+    "hp": 86,
+    "atk": 76,
+    "def": 86,
+    "spAtk": 116,
+    "spDef": 56,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.speed_boost",
+    "RadRed.Abilities.tinted_lens",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 30,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1335,
+  "name": "RadRed.Species.wattrel",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/940.png",
+    "normal": "pokelink-community:/radred/assets/sprites/940.png",
+    "party": "pokelink-community:/radred/assets/sprites/940.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 40,
+    "def": 35,
+    "spAtk": 55,
+    "spDef": 40,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.volt_absorb",
+    "RadRed.Abilities.competitive"
+  ],
+  "types": [
+    "pkhex.type.flying",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 180,
+  "genderRatio": 127
+}

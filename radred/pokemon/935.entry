@@ -1,0 +1,31 @@
+{
+  "gameId": 938,
+  "name": "RadRed.Species.charcadet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/935.png",
+    "normal": "pokelink-community:/radred/assets/sprites/935.png",
+    "party": "pokelink-community:/radred/assets/sprites/935.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 40,
+    "spAtk": 50,
+    "spDef": 40,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.weak_armor",
+    "RadRed.Abilities.flame_body"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 35,
+  "expGroup": 5,
+  "catchRate": 90,
+  "genderRatio": 127
+}

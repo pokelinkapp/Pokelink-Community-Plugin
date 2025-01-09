@@ -1,0 +1,31 @@
+{
+  "gameId": 457,
+  "name": "RadRed.Species.luxio",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/404.png",
+    "normal": "pokelink-community:/radred/assets/sprites/404.png",
+    "party": "pokelink-community:/radred/assets/sprites/404.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 49,
+    "spAtk": 60,
+    "spDef": 49,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.rivalry",
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.guts"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 100,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1338,
+  "name": "RadRed.Species.squawkabilly",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/931.png",
+    "normal": "pokelink-community:/radred/assets/sprites/931.png",
+    "party": "pokelink-community:/radred/assets/sprites/931.png"
+  },
+  "baseStats": {
+    "hp": 82,
+    "atk": 96,
+    "def": 51,
+    "spAtk": 45,
+    "spDef": 51,
+    "spd": 92
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.guts"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 1,
+  "catchRate": 190,
+  "genderRatio": 127
+}

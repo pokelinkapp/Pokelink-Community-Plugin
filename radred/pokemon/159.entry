@@ -1,0 +1,31 @@
+{
+  "gameId": 159,
+  "name": "RadRed.Species.croconaw",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/159.png",
+    "normal": "pokelink-community:/radred/assets/sprites/159.png",
+    "party": "pokelink-community:/radred/assets/sprites/159.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 80,
+    "def": 80,
+    "spAtk": 59,
+    "spDef": 63,
+    "spd": 58
+  },
+  "abilities": [
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.strong_jaw"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

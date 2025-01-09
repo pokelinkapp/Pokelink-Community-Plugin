@@ -1,0 +1,32 @@
+{
+  "gameId": 982,
+  "name": "RadRed.Species.oranguru",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/765.png",
+    "normal": "pokelink-community:/radred/assets/sprites/765.png",
+    "party": "pokelink-community:/radred/assets/sprites/765.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 60,
+    "def": 110,
+    "spAtk": 90,
+    "spDef": 80,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.telepathy",
+    "RadRed.Abilities.sage_power"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

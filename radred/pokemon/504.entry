@@ -1,0 +1,31 @@
+{
+  "gameId": 557,
+  "name": "RadRed.Species.patrat",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/504.png",
+    "normal": "pokelink-community:/radred/assets/sprites/504.png",
+    "party": "pokelink-community:/radred/assets/sprites/504.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 55,
+    "def": 39,
+    "spAtk": 35,
+    "spDef": 39,
+    "spd": 42
+  },
+  "abilities": [
+    "RadRed.Abilities.analytic",
+    "RadRed.Abilities.no_guard",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

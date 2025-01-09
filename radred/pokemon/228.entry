@@ -1,0 +1,32 @@
+{
+  "gameId": 228,
+  "name": "RadRed.Species.houndour",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/228.png",
+    "normal": "pokelink-community:/radred/assets/sprites/228.png",
+    "party": "pokelink-community:/radred/assets/sprites/228.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 30,
+    "spAtk": 80,
+    "spDef": 50,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.unnerve"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 120,
+  "genderRatio": 127
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 473,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.knowMove": "pkhex.move.ancient_power"
+        }
+      }
+    }
+  ]
+}

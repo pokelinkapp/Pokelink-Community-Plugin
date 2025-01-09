@@ -1,0 +1,32 @@
+{
+  "gameId": 572,
+  "name": "RadRed.Species.pidove",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/519.png",
+    "normal": "pokelink-community:/radred/assets/sprites/519.png",
+    "party": "pokelink-community:/radred/assets/sprites/519.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 55,
+    "def": 50,
+    "spAtk": 36,
+    "spDef": 30,
+    "spd": 43
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.super_luck",
+    "RadRed.Abilities.rivalry"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

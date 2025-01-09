@@ -1,0 +1,32 @@
+{
+  "gameId": 1326,
+  "name": "RadRed.Species.arboliva",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/930.png",
+    "normal": "pokelink-community:/radred/assets/sprites/930.png",
+    "party": "pokelink-community:/radred/assets/sprites/930.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 69,
+    "def": 90,
+    "spAtk": 125,
+    "spDef": 109,
+    "spd": 39
+  },
+  "abilities": [
+    "RadRed.Abilities.seed_sower",
+    "RadRed.Abilities.seed_sower",
+    "RadRed.Abilities.harvest"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

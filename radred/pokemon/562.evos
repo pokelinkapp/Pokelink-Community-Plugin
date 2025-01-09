@@ -1,0 +1,21 @@
+{
+  "evolutions": [
+    {
+      "to": 563,
+      "conditions": {
+        "pokemon.evolve.level": 34
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 867,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.location": "area.nearDustyBowl"
+        }
+      },
+      "fromForm": 1
+    }
+  ]
+}

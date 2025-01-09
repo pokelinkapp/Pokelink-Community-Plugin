@@ -1,0 +1,32 @@
+{
+  "gameId": 163,
+  "name": "RadRed.Species.hoothoot",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/163.png",
+    "normal": "pokelink-community:/radred/assets/sprites/163.png",
+    "party": "pokelink-community:/radred/assets/sprites/163.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 30,
+    "def": 30,
+    "spAtk": 36,
+    "spDef": 56,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.tinted_lens",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.insomnia"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 382,
+  "name": "RadRed.Species.aron",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/304.png",
+    "normal": "pokelink-community:/radred/assets/sprites/304.png",
+    "party": "pokelink-community:/radred/assets/sprites/304.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 70,
+    "def": 100,
+    "spAtk": 40,
+    "spDef": 40,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.heavy_metal"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 35,
+  "color": "color.gray",
+  "hatchCycles": 35,
+  "expGroup": 5,
+  "catchRate": 180,
+  "genderRatio": 127
+}

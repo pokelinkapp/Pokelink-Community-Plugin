@@ -1,0 +1,31 @@
+{
+  "gameId": 96,
+  "name": "RadRed.Species.drowzee",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/96.png",
+    "normal": "pokelink-community:/radred/assets/sprites/96.png",
+    "party": "pokelink-community:/radred/assets/sprites/96.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 48,
+    "def": 45,
+    "spAtk": 43,
+    "spDef": 90,
+    "spd": 42
+  },
+  "abilities": [
+    "RadRed.Abilities.insomnia",
+    "RadRed.Abilities.bad_dreams",
+    "RadRed.Abilities.psychic_surge"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

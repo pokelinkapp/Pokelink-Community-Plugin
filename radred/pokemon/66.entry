@@ -1,0 +1,31 @@
+{
+  "gameId": 66,
+  "name": "RadRed.Species.machop",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/66.png",
+    "normal": "pokelink-community:/radred/assets/sprites/66.png",
+    "party": "pokelink-community:/radred/assets/sprites/66.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 50,
+    "spAtk": 35,
+    "spDef": 35,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.no_guard",
+    "RadRed.Abilities.steadfast"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 180,
+  "genderRatio": 63
+}

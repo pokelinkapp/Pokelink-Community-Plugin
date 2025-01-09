@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 930,
+  "name": "RadRed.Species.wooper",
+  "formName": "RadRed.Forms.paldea",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/194.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/194.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/194.1.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 45,
+    "def": 45,
+    "spAtk": 25,
+    "spDef": 25,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.water_absorb",
+    "RadRed.Abilities.unaware"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

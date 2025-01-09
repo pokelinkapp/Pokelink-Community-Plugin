@@ -1,0 +1,32 @@
+{
+  "gameId": 297,
+  "name": "RadRed.Species.ludicolo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/272.png",
+    "normal": "pokelink-community:/radred/assets/sprites/272.png",
+    "party": "pokelink-community:/radred/assets/sprites/272.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 70,
+    "spAtk": 100,
+    "spDef": 100,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.rain_dish",
+    "RadRed.Abilities.own_tempo"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

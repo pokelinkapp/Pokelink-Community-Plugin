@@ -1,0 +1,32 @@
+{
+  "gameId": 168,
+  "name": "RadRed.Species.ariados",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/168.png",
+    "normal": "pokelink-community:/radred/assets/sprites/168.png",
+    "party": "pokelink-community:/radred/assets/sprites/168.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 95,
+    "def": 70,
+    "spAtk": 60,
+    "spDef": 70,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.no_guard",
+    "RadRed.Abilities.sniper"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 4,
+  "catchRate": 90,
+  "genderRatio": 127
+}

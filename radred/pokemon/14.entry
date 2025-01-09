@@ -1,0 +1,32 @@
+{
+  "gameId": 14,
+  "name": "RadRed.Species.kakuna",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/14.png",
+    "normal": "pokelink-community:/radred/assets/sprites/14.png",
+    "party": "pokelink-community:/radred/assets/sprites/14.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 25,
+    "def": 50,
+    "spAtk": 25,
+    "spDef": 25,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.shed_skin"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 120,
+  "genderRatio": 127
+}

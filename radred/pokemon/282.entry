@@ -1,0 +1,32 @@
+{
+  "gameId": 394,
+  "name": "RadRed.Species.gardevoir",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/282.png",
+    "normal": "pokelink-community:/radred/assets/sprites/282.png",
+    "party": "pokelink-community:/radred/assets/sprites/282.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 65,
+    "def": 65,
+    "spAtk": 125,
+    "spDef": 115,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.trace",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

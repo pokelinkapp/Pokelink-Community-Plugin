@@ -1,0 +1,32 @@
+{
+  "gameId": 681,
+  "name": "RadRed.Species.braviary",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/628.png",
+    "normal": "pokelink-community:/radred/assets/sprites/628.png",
+    "party": "pokelink-community:/radred/assets/sprites/628.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 123,
+    "def": 75,
+    "spAtk": 57,
+    "spDef": 75,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.defiant"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 0
+}

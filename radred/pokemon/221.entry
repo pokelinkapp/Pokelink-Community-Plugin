@@ -1,0 +1,32 @@
+{
+  "gameId": 221,
+  "name": "RadRed.Species.piloswine",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/221.png",
+    "normal": "pokelink-community:/radred/assets/sprites/221.png",
+    "party": "pokelink-community:/radred/assets/sprites/221.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 80,
+    "spAtk": 60,
+    "spDef": 60,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 75,
+  "genderRatio": 127
+}

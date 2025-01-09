@@ -1,0 +1,31 @@
+{
+  "gameId": 657,
+  "name": "RadRed.Species.eelektross",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/604.png",
+    "normal": "pokelink-community:/radred/assets/sprites/604.png",
+    "party": "pokelink-community:/radred/assets/sprites/604.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 105,
+    "def": 80,
+    "spAtk": 115,
+    "spDef": 80,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.fatal_precision"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 127
+}

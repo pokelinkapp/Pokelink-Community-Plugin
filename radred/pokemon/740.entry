@@ -1,0 +1,32 @@
+{
+  "gameId": 957,
+  "name": "RadRed.Species.crabominable",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/740.png",
+    "normal": "pokelink-community:/radred/assets/sprites/740.png",
+    "party": "pokelink-community:/radred/assets/sprites/740.png"
+  },
+  "baseStats": {
+    "hp": 97,
+    "atk": 132,
+    "def": 77,
+    "spAtk": 62,
+    "spDef": 67,
+    "spd": 43
+  },
+  "abilities": [
+    "RadRed.Abilities.hyper_cutter",
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.anger_point"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

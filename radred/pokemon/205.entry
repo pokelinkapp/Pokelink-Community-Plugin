@@ -1,0 +1,32 @@
+{
+  "gameId": 205,
+  "name": "RadRed.Species.forretress",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/205.png",
+    "normal": "pokelink-community:/radred/assets/sprites/205.png",
+    "party": "pokelink-community:/radred/assets/sprites/205.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 90,
+    "def": 140,
+    "spAtk": 60,
+    "spDef": 60,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

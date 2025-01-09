@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1026,
+  "name": "RadRed.Species.ninetales",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/38.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/38.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/38.1.png"
+  },
+  "baseStats": {
+    "hp": 73,
+    "atk": 67,
+    "def": 75,
+    "spAtk": 81,
+    "spDef": 100,
+    "spd": 109
+  },
+  "abilities": [
+    "RadRed.Abilities.serene_grace",
+    "RadRed.Abilities.serene_grace",
+    "RadRed.Abilities.snow_warning"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 191
+}

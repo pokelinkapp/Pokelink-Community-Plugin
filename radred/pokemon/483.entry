@@ -1,0 +1,32 @@
+{
+  "gameId": 536,
+  "name": "RadRed.Species.dialga",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/483.png",
+    "normal": "pokelink-community:/radred/assets/sprites/483.png",
+    "party": "pokelink-community:/radred/assets/sprites/483.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 120,
+    "def": 120,
+    "spAtk": 150,
+    "spDef": 100,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 972,
+  "name": "RadRed.Species.morelull",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/755.png",
+    "normal": "pokelink-community:/radred/assets/sprites/755.png",
+    "party": "pokelink-community:/radred/assets/sprites/755.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 35,
+    "def": 55,
+    "spAtk": 65,
+    "spDef": 75,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.effect_spore",
+    "RadRed.Abilities.illuminate",
+    "RadRed.Abilities.rain_dish"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

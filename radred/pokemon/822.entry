@@ -1,0 +1,31 @@
+{
+  "gameId": 1114,
+  "name": "RadRed.Species.corvisquire",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/822.png",
+    "normal": "pokelink-community:/radred/assets/sprites/822.png",
+    "party": "pokelink-community:/radred/assets/sprites/822.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 67,
+    "def": 55,
+    "spAtk": 43,
+    "spDef": 55,
+    "spd": 77
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.unnerve",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

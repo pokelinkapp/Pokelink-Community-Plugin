@@ -1,0 +1,32 @@
+{
+  "gameId": 74,
+  "name": "RadRed.Species.geodude",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/74.png",
+    "normal": "pokelink-community:/radred/assets/sprites/74.png",
+    "party": "pokelink-community:/radred/assets/sprites/74.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 80,
+    "def": 100,
+    "spAtk": 30,
+    "spDef": 30,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.sand_veil"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

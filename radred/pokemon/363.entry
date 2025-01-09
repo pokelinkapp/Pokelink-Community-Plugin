@@ -1,0 +1,32 @@
+{
+  "gameId": 341,
+  "name": "RadRed.Species.spheal",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/363.png",
+    "normal": "pokelink-community:/radred/assets/sprites/363.png",
+    "party": "pokelink-community:/radred/assets/sprites/363.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 40,
+    "def": 50,
+    "spAtk": 55,
+    "spDef": 50,
+    "spd": 25
+  },
+  "abilities": [
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.ice_body",
+    "RadRed.Abilities.oblivious"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

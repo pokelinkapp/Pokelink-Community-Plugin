@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1277,
+  "name": "RadRed.Species.dodrio",
+  "formName": "RadRed.Forms.sevii",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/85.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/85.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/85.1.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 125,
+    "def": 65,
+    "spAtk": 40,
+    "spDef": 65,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.anger_point"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

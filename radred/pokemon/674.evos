@@ -1,0 +1,11 @@
+{
+  "evolutions": [
+    {
+      "to": 675,
+      "conditions": {
+        "pokemon.evolve.level": 32,
+        "pokemon.evolve.typedPokemonPresentInParty": "pkhex.type.dark"
+      }
+    }
+  ]
+}

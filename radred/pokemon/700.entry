@@ -1,0 +1,31 @@
+{
+  "gameId": 808,
+  "name": "RadRed.Species.sylveon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/700.png",
+    "normal": "pokelink-community:/radred/assets/sprites/700.png",
+    "party": "pokelink-community:/radred/assets/sprites/700.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 65,
+    "def": 65,
+    "spAtk": 110,
+    "spDef": 130,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.pixilate"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 35,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 31
+}

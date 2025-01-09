@@ -1,0 +1,31 @@
+{
+  "gameId": 377,
+  "name": "RadRed.Species.shuppet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/353.png",
+    "normal": "pokelink-community:/radred/assets/sprites/353.png",
+    "party": "pokelink-community:/radred/assets/sprites/353.png"
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 75,
+    "def": 35,
+    "spAtk": 63,
+    "spDef": 33,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.insomnia",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.wandering_soul"
+  ],
+  "types": [
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 35,
+  "color": "color.black",
+  "hatchCycles": 25,
+  "expGroup": 4,
+  "catchRate": 225,
+  "genderRatio": 127
+}

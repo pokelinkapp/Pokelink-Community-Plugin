@@ -1,0 +1,32 @@
+{
+  "gameId": 650,
+  "name": "RadRed.Species.ferroseed",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/597.png",
+    "normal": "pokelink-community:/radred/assets/sprites/597.png",
+    "party": "pokelink-community:/radred/assets/sprites/597.png"
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 50,
+    "def": 91,
+    "spAtk": 24,
+    "spDef": 86,
+    "spd": 10
+  },
+  "abilities": [
+    "RadRed.Abilities.iron_barbs",
+    "RadRed.Abilities.iron_barbs",
+    "RadRed.Abilities.iron_barbs"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

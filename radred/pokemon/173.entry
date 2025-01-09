@@ -1,0 +1,31 @@
+{
+  "gameId": 173,
+  "name": "RadRed.Species.cleffa",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/173.png",
+    "normal": "pokelink-community:/radred/assets/sprites/173.png",
+    "party": "pokelink-community:/radred/assets/sprites/173.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 25,
+    "def": 28,
+    "spAtk": 45,
+    "spDef": 55,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.magic_guard",
+    "RadRed.Abilities.friend_guard"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 140,
+  "color": "color.pink",
+  "hatchCycles": 10,
+  "expGroup": 4,
+  "catchRate": 150,
+  "genderRatio": 191
+}

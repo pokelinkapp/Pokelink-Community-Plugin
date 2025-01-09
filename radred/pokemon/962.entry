@@ -1,0 +1,32 @@
+{
+  "gameId": 1337,
+  "name": "RadRed.Species.bombirdier",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/962.png",
+    "normal": "pokelink-community:/radred/assets/sprites/962.png",
+    "party": "pokelink-community:/radred/assets/sprites/962.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 103,
+    "def": 85,
+    "spAtk": 60,
+    "spDef": 85,
+    "spd": 82
+  },
+  "abilities": [
+    "RadRed.Abilities.rocky_payload",
+    "RadRed.Abilities.rocky_payload",
+    "RadRed.Abilities.rocky_payload"
+  ],
+  "types": [
+    "pkhex.type.flying",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 35,
+  "expGroup": 5,
+  "catchRate": 25,
+  "genderRatio": 127
+}

@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 849,
+  "name": "RadRed.Species.oinkologne",
+  "formName": "RadRed.Forms.female",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/916.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/916.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/916.1.png"
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 90,
+    "def": 70,
+    "spAtk": 59,
+    "spDef": 90,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.aroma_veil",
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 100,
+  "genderRatio": 254
+}

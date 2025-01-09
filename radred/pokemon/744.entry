@@ -1,0 +1,31 @@
+{
+  "gameId": 961,
+  "name": "RadRed.Species.rockruff",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/744.png",
+    "normal": "pokelink-community:/radred/assets/sprites/744.png",
+    "party": "pokelink-community:/radred/assets/sprites/744.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 65,
+    "def": 40,
+    "spAtk": 30,
+    "spDef": 40,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.vital_spirit",
+    "RadRed.Abilities.steadfast"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

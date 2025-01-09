@@ -1,0 +1,31 @@
+{
+  "gameId": 978,
+  "name": "RadRed.Species.bounsweet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/761.png",
+    "normal": "pokelink-community:/radred/assets/sprites/761.png",
+    "party": "pokelink-community:/radred/assets/sprites/761.png"
+  },
+  "baseStats": {
+    "hp": 42,
+    "atk": 30,
+    "def": 38,
+    "spAtk": 30,
+    "spDef": 38,
+    "spd": 32
+  },
+  "abilities": [
+    "RadRed.Abilities.leaf_guard",
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.sweet_veil"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 235,
+  "genderRatio": 254
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 376,
+  "name": "RadRed.Species.absol",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/359.png",
+    "normal": "pokelink-community:/radred/assets/sprites/359.png",
+    "party": "pokelink-community:/radred/assets/sprites/359.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 130,
+    "def": 60,
+    "spAtk": 75,
+    "spDef": 60,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.pressure",
+    "RadRed.Abilities.super_luck",
+    "RadRed.Abilities.justified"
+  ],
+  "types": [
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 30,
+  "genderRatio": 127
+}

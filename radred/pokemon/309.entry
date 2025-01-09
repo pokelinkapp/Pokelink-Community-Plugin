@@ -1,0 +1,31 @@
+{
+  "gameId": 337,
+  "name": "RadRed.Species.electrike",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/309.png",
+    "normal": "pokelink-community:/radred/assets/sprites/309.png",
+    "party": "pokelink-community:/radred/assets/sprites/309.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 45,
+    "def": 40,
+    "spAtk": 65,
+    "spDef": 40,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.minus"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 120,
+  "genderRatio": 127
+}

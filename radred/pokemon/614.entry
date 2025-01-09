@@ -1,0 +1,32 @@
+{
+  "gameId": 667,
+  "name": "RadRed.Species.beartic",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/614.png",
+    "normal": "pokelink-community:/radred/assets/sprites/614.png",
+    "party": "pokelink-community:/radred/assets/sprites/614.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 140,
+    "def": 80,
+    "spAtk": 70,
+    "spDef": 80,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.slush_rush",
+    "RadRed.Abilities.slush_rush",
+    "RadRed.Abilities.swift_swim"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

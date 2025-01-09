@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1021,
+  "name": "RadRed.Species.raticate",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/20.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/20.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/20.1.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 86,
+    "def": 70,
+    "spAtk": 40,
+    "spDef": 80,
+    "spd": 77
+  },
+  "abilities": [
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 127,
+  "genderRatio": 127
+}

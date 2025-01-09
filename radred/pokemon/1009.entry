@@ -1,0 +1,32 @@
+{
+  "gameId": 1354,
+  "name": "RadRed.Species.walking_wake",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1009.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1009.png",
+    "party": "pokelink-community:/radred/assets/sprites/1009.png"
+  },
+  "baseStats": {
+    "hp": 99,
+    "atk": 83,
+    "def": 91,
+    "spAtk": 125,
+    "spDef": 83,
+    "spd": 109
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 0,
+  "color": "color.blue",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 5,
+  "genderRatio": 255
+}

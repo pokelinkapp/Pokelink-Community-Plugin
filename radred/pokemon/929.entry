@@ -1,0 +1,32 @@
+{
+  "gameId": 1325,
+  "name": "RadRed.Species.dolliv",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/929.png",
+    "normal": "pokelink-community:/radred/assets/sprites/929.png",
+    "party": "pokelink-community:/radred/assets/sprites/929.png"
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 53,
+    "def": 60,
+    "spAtk": 78,
+    "spDef": 78,
+    "spd": 33
+  },
+  "abilities": [
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.harvest"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

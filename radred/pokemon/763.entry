@@ -1,0 +1,31 @@
+{
+  "gameId": 980,
+  "name": "RadRed.Species.tsareena",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/763.png",
+    "normal": "pokelink-community:/radred/assets/sprites/763.png",
+    "party": "pokelink-community:/radred/assets/sprites/763.png"
+  },
+  "baseStats": {
+    "hp": 72,
+    "atk": 120,
+    "def": 98,
+    "spAtk": 50,
+    "spDef": 98,
+    "spd": 72
+  },
+  "abilities": [
+    "RadRed.Abilities.leaf_guard",
+    "RadRed.Abilities.queenly_majesty",
+    "RadRed.Abilities.striker"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 254
+}

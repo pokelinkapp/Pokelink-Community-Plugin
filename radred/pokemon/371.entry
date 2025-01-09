@@ -1,0 +1,31 @@
+{
+  "gameId": 395,
+  "name": "RadRed.Species.bagon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/371.png",
+    "normal": "pokelink-community:/radred/assets/sprites/371.png",
+    "party": "pokelink-community:/radred/assets/sprites/371.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 75,
+    "def": 60,
+    "spAtk": 40,
+    "spDef": 30,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 35,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

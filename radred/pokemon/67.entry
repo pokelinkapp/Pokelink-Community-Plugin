@@ -1,0 +1,31 @@
+{
+  "gameId": 67,
+  "name": "RadRed.Species.machoke",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/67.png",
+    "normal": "pokelink-community:/radred/assets/sprites/67.png",
+    "party": "pokelink-community:/radred/assets/sprites/67.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 100,
+    "def": 70,
+    "spAtk": 50,
+    "spDef": 60,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.no_guard",
+    "RadRed.Abilities.steadfast"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 90,
+  "genderRatio": 63
+}

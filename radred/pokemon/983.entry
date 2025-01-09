@@ -1,0 +1,32 @@
+{
+  "gameId": 936,
+  "name": "RadRed.Species.kingambit",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/983.png",
+    "normal": "pokelink-community:/radred/assets/sprites/983.png",
+    "party": "pokelink-community:/radred/assets/sprites/983.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 135,
+    "def": 120,
+    "spAtk": 60,
+    "spDef": 85,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.defiant",
+    "RadRed.Abilities.supremeoverlord",
+    "RadRed.Abilities.pressure"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 25,
+  "genderRatio": 127
+}

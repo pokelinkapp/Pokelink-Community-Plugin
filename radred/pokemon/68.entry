@@ -1,0 +1,31 @@
+{
+  "gameId": 68,
+  "name": "RadRed.Species.machamp",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/68.png",
+    "normal": "pokelink-community:/radred/assets/sprites/68.png",
+    "party": "pokelink-community:/radred/assets/sprites/68.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 130,
+    "def": 80,
+    "spAtk": 65,
+    "spDef": 85,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.no_guard",
+    "RadRed.Abilities.steadfast"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 63
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 700,
+  "name": "RadRed.Species.keldeo",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/647.png",
+    "normal": "pokelink-community:/radred/assets/sprites/647.png",
+    "party": "pokelink-community:/radred/assets/sprites/647.png"
+  },
+  "baseStats": {
+    "hp": 91,
+    "atk": 72,
+    "def": 90,
+    "spAtk": 129,
+    "spDef": 90,
+    "spd": 108
+  },
+  "abilities": [
+    "RadRed.Abilities.justified",
+    "RadRed.Abilities.justified",
+    "RadRed.Abilities.sharpness"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 35,
+  "color": "color.yellow",
+  "hatchCycles": 80,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

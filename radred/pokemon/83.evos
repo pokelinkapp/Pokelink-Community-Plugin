@@ -1,0 +1,11 @@
+{
+  "evolutions": [
+    {
+      "to": 865,
+      "conditions": {
+        "pokemon.evolve.critsInOneBattle": 3
+      },
+      "fromForm": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 1333,
+  "name": "RadRed.Species.cetitan",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/975.png",
+    "normal": "pokelink-community:/radred/assets/sprites/975.png",
+    "party": "pokelink-community:/radred/assets/sprites/975.png"
+  },
+  "baseStats": {
+    "hp": 170,
+    "atk": 113,
+    "def": 65,
+    "spAtk": 45,
+    "spDef": 55,
+    "spd": 73
+  },
+  "abilities": [
+    "RadRed.Abilities.thick_fat",
+    "RadRed.Abilities.slush_rush",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 50,
+  "genderRatio": 127
+}

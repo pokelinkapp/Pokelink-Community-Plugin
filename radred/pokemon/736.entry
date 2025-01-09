@@ -1,0 +1,31 @@
+{
+  "gameId": 953,
+  "name": "RadRed.Species.grubbin",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/736.png",
+    "normal": "pokelink-community:/radred/assets/sprites/736.png",
+    "party": "pokelink-community:/radred/assets/sprites/736.png"
+  },
+  "baseStats": {
+    "hp": 47,
+    "atk": 62,
+    "def": 45,
+    "spAtk": 55,
+    "spDef": 45,
+    "spd": 46
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.swarm"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

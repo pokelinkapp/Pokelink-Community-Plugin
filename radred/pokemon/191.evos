@@ -1,0 +1,10 @@
+{
+  "evolutions": [
+    {
+      "to": 192,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.sun_stone"
+      }
+    }
+  ]
+}

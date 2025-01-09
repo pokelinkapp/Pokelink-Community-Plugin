@@ -1,0 +1,31 @@
+{
+  "gameId": 863,
+  "name": "RadRed.Species.finizen",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/963.png",
+    "normal": "pokelink-community:/radred/assets/sprites/963.png",
+    "party": "pokelink-community:/radred/assets/sprites/963.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 45,
+    "def": 40,
+    "spAtk": 45,
+    "spDef": 40,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.water_veil"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 200,
+  "genderRatio": 127
+}

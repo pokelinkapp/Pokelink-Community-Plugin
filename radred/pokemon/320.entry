@@ -1,0 +1,31 @@
+{
+  "gameId": 313,
+  "name": "RadRed.Species.wailmer",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/320.png",
+    "normal": "pokelink-community:/radred/assets/sprites/320.png",
+    "party": "pokelink-community:/radred/assets/sprites/320.png"
+  },
+  "baseStats": {
+    "hp": 130,
+    "atk": 70,
+    "def": 35,
+    "spAtk": 70,
+    "spDef": 35,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.water_veil",
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.pressure"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 2,
+  "catchRate": 125,
+  "genderRatio": 127
+}

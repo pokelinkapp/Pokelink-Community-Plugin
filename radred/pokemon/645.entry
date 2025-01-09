@@ -1,0 +1,32 @@
+{
+  "gameId": 698,
+  "name": "RadRed.Species.landorus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/645.png",
+    "normal": "pokelink-community:/radred/assets/sprites/645.png",
+    "party": "pokelink-community:/radred/assets/sprites/645.png"
+  },
+  "baseStats": {
+    "hp": 89,
+    "atk": 125,
+    "def": 90,
+    "spAtk": 115,
+    "spDef": 80,
+    "spd": 101
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_force",
+    "RadRed.Abilities.sand_force",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 90,
+  "color": "color.brown",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 0
+}

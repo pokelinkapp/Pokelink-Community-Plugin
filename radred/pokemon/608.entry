@@ -1,0 +1,32 @@
+{
+  "gameId": 661,
+  "name": "RadRed.Species.lampent",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/608.png",
+    "normal": "pokelink-community:/radred/assets/sprites/608.png",
+    "party": "pokelink-community:/radred/assets/sprites/608.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 40,
+    "def": 60,
+    "spAtk": 95,
+    "spDef": 60,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.shadow_tag"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 90,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 465,
+  "name": "RadRed.Species.burmy",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/412.png",
+    "normal": "pokelink-community:/radred/assets/sprites/412.png",
+    "party": "pokelink-community:/radred/assets/sprites/412.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 29,
+    "def": 45,
+    "spAtk": 29,
+    "spDef": 45,
+    "spd": 36
+  },
+  "abilities": [
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 120,
+  "genderRatio": 127
+}

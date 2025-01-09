@@ -1,0 +1,32 @@
+{
+  "gameId": 305,
+  "name": "RadRed.Species.swellow",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/277.png",
+    "normal": "pokelink-community:/radred/assets/sprites/277.png",
+    "party": "pokelink-community:/radred/assets/sprites/277.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 85,
+    "def": 60,
+    "spAtk": 75,
+    "spDef": 50,
+    "spd": 125
+  },
+  "abilities": [
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.guts",
+    "RadRed.Abilities.aerilate"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

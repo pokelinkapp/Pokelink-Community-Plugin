@@ -1,0 +1,31 @@
+{
+  "gameId": 317,
+  "name": "RadRed.Species.kecleon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/352.png",
+    "normal": "pokelink-community:/radred/assets/sprites/352.png",
+    "party": "pokelink-community:/radred/assets/sprites/352.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 100,
+    "def": 70,
+    "spAtk": 60,
+    "spDef": 120,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.protean",
+    "RadRed.Abilities.protean",
+    "RadRed.Abilities.protean"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 200,
+  "genderRatio": 127
+}

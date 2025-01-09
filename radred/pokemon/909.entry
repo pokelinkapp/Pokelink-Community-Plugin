@@ -1,0 +1,31 @@
+{
+  "gameId": 924,
+  "name": "RadRed.Species.fuecoco",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/909.png",
+    "normal": "pokelink-community:/radred/assets/sprites/909.png",
+    "party": "pokelink-community:/radred/assets/sprites/909.png"
+  },
+  "baseStats": {
+    "hp": 67,
+    "atk": 45,
+    "def": 59,
+    "spAtk": 63,
+    "spDef": 40,
+    "spd": 36
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.unaware"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

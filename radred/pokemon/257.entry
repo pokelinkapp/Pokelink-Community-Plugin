@@ -1,0 +1,32 @@
+{
+  "gameId": 282,
+  "name": "RadRed.Species.blaziken",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/257.png",
+    "normal": "pokelink-community:/radred/assets/sprites/257.png",
+    "party": "pokelink-community:/radred/assets/sprites/257.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 120,
+    "def": 70,
+    "spAtk": 110,
+    "spDef": 70,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.striker",
+    "RadRed.Abilities.striker",
+    "RadRed.Abilities.speed_boost"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

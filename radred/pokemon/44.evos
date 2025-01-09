@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "to": 45,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.leaf_stone"
+      }
+    },
+    {
+      "to": 182,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.sun_stone"
+      }
+    }
+  ]
+}

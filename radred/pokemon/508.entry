@@ -1,0 +1,31 @@
+{
+  "gameId": 561,
+  "name": "RadRed.Species.stoutland",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/508.png",
+    "normal": "pokelink-community:/radred/assets/sprites/508.png",
+    "party": "pokelink-community:/radred/assets/sprites/508.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 115,
+    "def": 90,
+    "spAtk": 45,
+    "spDef": 90,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.sand_rush",
+    "RadRed.Abilities.scrappy"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

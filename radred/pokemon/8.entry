@@ -1,0 +1,31 @@
+{
+  "gameId": 8,
+  "name": "RadRed.Species.wartortle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/8.png",
+    "normal": "pokelink-community:/radred/assets/sprites/8.png",
+    "party": "pokelink-community:/radred/assets/sprites/8.png"
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 63,
+    "def": 80,
+    "spAtk": 65,
+    "spDef": 80,
+    "spd": 58
+  },
+  "abilities": [
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.rain_dish"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

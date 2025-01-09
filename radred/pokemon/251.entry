@@ -1,0 +1,32 @@
+{
+  "gameId": 251,
+  "name": "RadRed.Species.celebi",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/251.png",
+    "normal": "pokelink-community:/radred/assets/sprites/251.png",
+    "party": "pokelink-community:/radred/assets/sprites/251.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 100,
+    "def": 100,
+    "spAtk": 100,
+    "spDef": 100,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.natural_cure"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 100,
+  "color": "color.green",
+  "hatchCycles": 120,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 255
+}

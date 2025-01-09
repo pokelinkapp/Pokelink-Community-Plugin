@@ -1,0 +1,31 @@
+{
+  "gameId": 669,
+  "name": "RadRed.Species.shelmet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/616.png",
+    "normal": "pokelink-community:/radred/assets/sprites/616.png",
+    "party": "pokelink-community:/radred/assets/sprites/616.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 40,
+    "def": 85,
+    "spAtk": 40,
+    "spDef": 65,
+    "spd": 25
+  },
+  "abilities": [
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 200,
+  "genderRatio": 127
+}

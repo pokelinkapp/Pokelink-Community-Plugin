@@ -1,0 +1,31 @@
+{
+  "gameId": 1102,
+  "name": "RadRed.Species.grookey",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/810.png",
+    "normal": "pokelink-community:/radred/assets/sprites/810.png",
+    "party": "pokelink-community:/radred/assets/sprites/810.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 40,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.grassy_surge"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

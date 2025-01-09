@@ -1,0 +1,32 @@
+{
+  "gameId": 817,
+  "name": "RadRed.Species.trevenant",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/709.png",
+    "normal": "pokelink-community:/radred/assets/sprites/709.png",
+    "party": "pokelink-community:/radred/assets/sprites/709.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 120,
+    "def": 82,
+    "spAtk": 65,
+    "spDef": 82,
+    "spd": 56
+  },
+  "abilities": [
+    "RadRed.Abilities.natural_cure",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.harvest"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

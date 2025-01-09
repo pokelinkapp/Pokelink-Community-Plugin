@@ -1,0 +1,32 @@
+{
+  "gameId": 1168,
+  "name": "RadRed.Species.indeedee",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/876.png",
+    "normal": "pokelink-community:/radred/assets/sprites/876.png",
+    "party": "pokelink-community:/radred/assets/sprites/876.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 65,
+    "def": 55,
+    "spAtk": 105,
+    "spDef": 95,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.psychic_surge"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 140,
+  "color": "color.purple",
+  "hatchCycles": 40,
+  "expGroup": 4,
+  "catchRate": 30,
+  "genderRatio": 0
+}

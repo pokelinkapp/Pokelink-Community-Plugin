@@ -1,0 +1,32 @@
+{
+  "gameId": 986,
+  "name": "RadRed.Species.sandygast",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/769.png",
+    "normal": "pokelink-community:/radred/assets/sprites/769.png",
+    "party": "pokelink-community:/radred/assets/sprites/769.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 55,
+    "def": 80,
+    "spAtk": 70,
+    "spDef": 45,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.watercompaction",
+    "RadRed.Abilities.watercompaction",
+    "RadRed.Abilities.sand_veil"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 140,
+  "genderRatio": 127
+}

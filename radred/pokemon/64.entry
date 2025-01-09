@@ -1,0 +1,31 @@
+{
+  "gameId": 64,
+  "name": "RadRed.Species.kadabra",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/64.png",
+    "normal": "pokelink-community:/radred/assets/sprites/64.png",
+    "party": "pokelink-community:/radred/assets/sprites/64.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 35,
+    "def": 30,
+    "spAtk": 120,
+    "spDef": 70,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.magic_guard"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 100,
+  "genderRatio": 63
+}

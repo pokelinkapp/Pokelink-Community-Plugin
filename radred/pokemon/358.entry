@@ -1,0 +1,31 @@
+{
+  "gameId": 411,
+  "name": "RadRed.Species.chimecho",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/358.png",
+    "normal": "pokelink-community:/radred/assets/sprites/358.png",
+    "party": "pokelink-community:/radred/assets/sprites/358.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 50,
+    "def": 80,
+    "spAtk": 95,
+    "spDef": 90,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 25,
+  "expGroup": 4,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1179,
+  "name": "RadRed.Species.dragapult",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/887.png",
+    "normal": "pokelink-community:/radred/assets/sprites/887.png",
+    "party": "pokelink-community:/radred/assets/sprites/887.png"
+  },
+  "baseStats": {
+    "hp": 88,
+    "atk": 120,
+    "def": 75,
+    "spAtk": 100,
+    "spDef": 75,
+    "spd": 142
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.stalwart"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 641,
+  "name": "RadRed.Species.karrablast",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/588.png",
+    "normal": "pokelink-community:/radred/assets/sprites/588.png",
+    "party": "pokelink-community:/radred/assets/sprites/588.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 45,
+    "spAtk": 40,
+    "spDef": 45,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.no_guard"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 200,
+  "genderRatio": 127
+}

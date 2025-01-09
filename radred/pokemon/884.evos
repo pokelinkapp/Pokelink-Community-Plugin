@@ -1,0 +1,10 @@
+{
+  "evolutions": [
+    {
+      "to": 1018,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.metal_alloy"
+      }
+    }
+  ]
+}

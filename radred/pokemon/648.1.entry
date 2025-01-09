@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 746,
+  "name": "RadRed.Species.meloetta",
+  "formName": "RadRed.Forms.pirouette",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/648.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/648.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/648.1.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 128,
+    "def": 90,
+    "spAtk": 77,
+    "spDef": 77,
+    "spd": 128
+  },
+  "abilities": [
+    "RadRed.Abilities.serene_grace",
+    "RadRed.Abilities.serene_grace",
+    "RadRed.Abilities.serene_grace"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 100,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

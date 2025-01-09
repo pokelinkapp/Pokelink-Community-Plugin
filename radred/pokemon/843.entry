@@ -1,0 +1,31 @@
+{
+  "gameId": 1135,
+  "name": "RadRed.Species.silicobra",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/843.png",
+    "normal": "pokelink-community:/radred/assets/sprites/843.png",
+    "party": "pokelink-community:/radred/assets/sprites/843.png"
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 57,
+    "def": 75,
+    "spAtk": 35,
+    "spDef": 50,
+    "spd": 46
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_spit",
+    "RadRed.Abilities.shed_skin",
+    "RadRed.Abilities.sand_veil"
+  ],
+  "types": [
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

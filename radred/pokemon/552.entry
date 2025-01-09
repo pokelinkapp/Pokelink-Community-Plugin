@@ -1,0 +1,32 @@
+{
+  "gameId": 605,
+  "name": "RadRed.Species.krokorok",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/552.png",
+    "normal": "pokelink-community:/radred/assets/sprites/552.png",
+    "party": "pokelink-community:/radred/assets/sprites/552.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 82,
+    "def": 45,
+    "spAtk": 45,
+    "spDef": 45,
+    "spd": 74
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.moxie",
+    "RadRed.Abilities.anger_point"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 90,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 324,
+  "name": "RadRed.Species.whiscash",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/340.png",
+    "normal": "pokelink-community:/radred/assets/sprites/340.png",
+    "party": "pokelink-community:/radred/assets/sprites/340.png"
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 78,
+    "def": 73,
+    "spAtk": 76,
+    "spDef": 71,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.cash_splash"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

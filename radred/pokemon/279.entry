@@ -1,0 +1,32 @@
+{
+  "gameId": 310,
+  "name": "RadRed.Species.pelipper",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/279.png",
+    "normal": "pokelink-community:/radred/assets/sprites/279.png",
+    "party": "pokelink-community:/radred/assets/sprites/279.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 50,
+    "def": 100,
+    "spAtk": 95,
+    "spDef": 70,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.rain_dish",
+    "RadRed.Abilities.drizzle"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

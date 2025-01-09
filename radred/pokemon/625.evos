@@ -1,0 +1,16 @@
+{
+  "evolutions": [
+    {
+      "to": 983,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.defeatPokemon": {
+            "species": "pkhex.species.bisharp",
+            "count": 3,
+            "item": "pkhex.item.gen9.leaders_crest"
+          }
+        }
+      }
+    }
+  ]
+}

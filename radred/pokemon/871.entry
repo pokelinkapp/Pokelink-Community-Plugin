@@ -1,0 +1,32 @@
+{
+  "gameId": 1163,
+  "name": "RadRed.Species.pincurchin",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/871.png",
+    "normal": "pokelink-community:/radred/assets/sprites/871.png",
+    "party": "pokelink-community:/radred/assets/sprites/871.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 81,
+    "def": 95,
+    "spAtk": 91,
+    "spDef": 85,
+    "spd": 15
+  },
+  "abilities": [
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.electric_surge"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

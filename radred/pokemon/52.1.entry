@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 1029,
+  "name": "RadRed.Species.meowth",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/52.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/52.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/52.1.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 35,
+    "def": 35,
+    "spAtk": 40,
+    "spDef": 40,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.feline_prowess"
+  ],
+  "types": [
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

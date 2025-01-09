@@ -1,0 +1,31 @@
+{
+  "gameId": 637,
+  "name": "RadRed.Species.vanilluxe",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/584.png",
+    "normal": "pokelink-community:/radred/assets/sprites/584.png",
+    "party": "pokelink-community:/radred/assets/sprites/584.png"
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 90,
+    "def": 85,
+    "spAtk": 110,
+    "spDef": 95,
+    "spd": 84
+  },
+  "abilities": [
+    "RadRed.Abilities.ice_body",
+    "RadRed.Abilities.snow_warning",
+    "RadRed.Abilities.weak_armor"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

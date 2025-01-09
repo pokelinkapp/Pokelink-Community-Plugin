@@ -1,0 +1,15 @@
+{
+  "evolutions": [
+    {
+      "to": 738,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.thunder_stone",
+        "pokemon.evolve.or": {
+          "pokemon.evolve.levelUp": {
+            "pokemon.evolve.location": "area.magneticField"
+          }
+        }
+      }
+    }
+  ]
+}

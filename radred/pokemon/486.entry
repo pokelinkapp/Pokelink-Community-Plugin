@@ -1,0 +1,31 @@
+{
+  "gameId": 539,
+  "name": "RadRed.Species.regigigas",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/486.png",
+    "normal": "pokelink-community:/radred/assets/sprites/486.png",
+    "party": "pokelink-community:/radred/assets/sprites/486.png"
+  },
+  "baseStats": {
+    "hp": 110,
+    "atk": 160,
+    "def": 110,
+    "spAtk": 80,
+    "spDef": 110,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.slow_start",
+    "RadRed.Abilities.slow_start",
+    "RadRed.Abilities.comatose"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 0,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

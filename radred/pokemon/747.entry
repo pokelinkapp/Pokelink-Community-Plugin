@@ -1,0 +1,32 @@
+{
+  "gameId": 964,
+  "name": "RadRed.Species.mareanie",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/747.png",
+    "normal": "pokelink-community:/radred/assets/sprites/747.png",
+    "party": "pokelink-community:/radred/assets/sprites/747.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 53,
+    "def": 62,
+    "spAtk": 43,
+    "spDef": 52,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.merciless",
+    "RadRed.Abilities.limber",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

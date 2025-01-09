@@ -1,0 +1,34 @@
+{
+  "form": 7,
+  "gameId": 991,
+  "name": "RadRed.Species.minior",
+  "formName": "RadRed.Forms.meteor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/774.7.png",
+    "normal": "pokelink-community:/radred/assets/sprites/774.7.png",
+    "party": "pokelink-community:/radred/assets/sprites/774.7.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 60,
+    "def": 100,
+    "spAtk": 60,
+    "spDef": 100,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.shields_down",
+    "RadRed.Abilities.shields_down",
+    "RadRed.Abilities.shields_down"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 255
+}

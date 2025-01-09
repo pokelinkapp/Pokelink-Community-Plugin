@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 1030,
+  "name": "RadRed.Species.persian",
+  "formName": "RadRed.Forms.alola",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/53.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/53.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/53.1.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 60,
+    "def": 60,
+    "spAtk": 55,
+    "spDef": 65,
+    "spd": 115
+  },
+  "abilities": [
+    "RadRed.Abilities.fur_coat",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.feline_prowess"
+  ],
+  "types": [
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

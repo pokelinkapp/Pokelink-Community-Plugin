@@ -1,0 +1,32 @@
+{
+  "gameId": 512,
+  "name": "RadRed.Species.snover",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/459.png",
+    "normal": "pokelink-community:/radred/assets/sprites/459.png",
+    "party": "pokelink-community:/radred/assets/sprites/459.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 50,
+    "spAtk": 62,
+    "spDef": 60,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.ice_body",
+    "RadRed.Abilities.ice_body",
+    "RadRed.Abilities.soundproof"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 120,
+  "genderRatio": 127
+}

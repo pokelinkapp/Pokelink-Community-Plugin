@@ -1,0 +1,32 @@
+{
+  "gameId": 1162,
+  "name": "RadRed.Species.falinks",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/870.png",
+    "normal": "pokelink-community:/radred/assets/sprites/870.png",
+    "party": "pokelink-community:/radred/assets/sprites/870.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 100,
+    "def": 100,
+    "spAtk": 60,
+    "spDef": 60,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.defiant"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 255
+}

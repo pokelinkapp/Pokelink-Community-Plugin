@@ -1,0 +1,32 @@
+{
+  "gameId": 498,
+  "name": "RadRed.Species.garchomp",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/445.png",
+    "normal": "pokelink-community:/radred/assets/sprites/445.png",
+    "party": "pokelink-community:/radred/assets/sprites/445.png"
+  },
+  "baseStats": {
+    "hp": 108,
+    "atk": 130,
+    "def": 95,
+    "spAtk": 80,
+    "spDef": 85,
+    "spd": 102
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.rough_skin"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

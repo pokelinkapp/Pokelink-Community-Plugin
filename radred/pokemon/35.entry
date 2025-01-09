@@ -1,0 +1,31 @@
+{
+  "gameId": 35,
+  "name": "RadRed.Species.clefairy",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/35.png",
+    "normal": "pokelink-community:/radred/assets/sprites/35.png",
+    "party": "pokelink-community:/radred/assets/sprites/35.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 45,
+    "def": 48,
+    "spAtk": 60,
+    "spDef": 65,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.magic_guard",
+    "RadRed.Abilities.friend_guard"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 140,
+  "color": "color.pink",
+  "hatchCycles": 10,
+  "expGroup": 4,
+  "catchRate": 150,
+  "genderRatio": 191
+}

@@ -1,0 +1,33 @@
+{
+  "form": 2,
+  "gameId": 1226,
+  "name": "RadRed.Species.darmanitan",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/555.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/555.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/555.2.png"
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 140,
+    "def": 55,
+    "spAtk": 30,
+    "spDef": 55,
+    "spd": 95
+  },
+  "abilities": [
+    "RadRed.Abilities.gorilla_tactics",
+    "RadRed.Abilities.gorilla_tactics",
+    "RadRed.Abilities.zen_mode"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 60,
+  "genderRatio": 127
+}

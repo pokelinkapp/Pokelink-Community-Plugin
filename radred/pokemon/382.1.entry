@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 910,
+  "name": "RadRed.Species.kyogre",
+  "formName": "RadRed.Forms.primal",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/382.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/382.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/382.1.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 150,
+    "def": 90,
+    "spAtk": 180,
+    "spDef": 160,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.primordial_sea",
+    "RadRed.Abilities.primordial_sea",
+    "RadRed.Abilities.primordial_sea"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 0,
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

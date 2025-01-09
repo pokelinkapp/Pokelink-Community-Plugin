@@ -1,0 +1,32 @@
+{
+  "gameId": 178,
+  "name": "RadRed.Species.xatu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/178.png",
+    "normal": "pokelink-community:/radred/assets/sprites/178.png",
+    "party": "pokelink-community:/radred/assets/sprites/178.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 70,
+    "spAtk": 105,
+    "spDef": 70,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.magic_bounce"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 680,
+  "name": "RadRed.Species.rufflet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/627.png",
+    "normal": "pokelink-community:/radred/assets/sprites/627.png",
+    "party": "pokelink-community:/radred/assets/sprites/627.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 83,
+    "def": 50,
+    "spAtk": 37,
+    "spDef": 50,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.hustle"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 190,
+  "genderRatio": 0
+}

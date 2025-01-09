@@ -1,0 +1,32 @@
+{
+  "gameId": 1014,
+  "name": "RadRed.Species.celesteela",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/797.png",
+    "normal": "pokelink-community:/radred/assets/sprites/797.png",
+    "party": "pokelink-community:/radred/assets/sprites/797.png"
+  },
+  "baseStats": {
+    "hp": 97,
+    "atk": 101,
+    "def": 103,
+    "spAtk": 107,
+    "spDef": 101,
+    "spd": 61
+  },
+  "abilities": [
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 0,
+  "color": "color.green",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

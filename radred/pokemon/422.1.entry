@@ -1,0 +1,32 @@
+{
+  "form": 1,
+  "gameId": 475,
+  "name": "RadRed.Species.shellos",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/422.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/422.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/422.1.png"
+  },
+  "baseStats": {
+    "hp": 76,
+    "atk": 48,
+    "def": 48,
+    "spAtk": 57,
+    "spDef": 62,
+    "spd": 34
+  },
+  "abilities": [
+    "RadRed.Abilities.sticky_hold",
+    "RadRed.Abilities.storm_drain",
+    "RadRed.Abilities.sand_force"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

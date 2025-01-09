@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1190,
+  "name": "RadRed.Species.cramorant",
+  "formName": "RadRed.Forms.gulping",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/845.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/845.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/845.1.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 85,
+    "def": 65,
+    "spAtk": 100,
+    "spDef": 95,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.gulp_missile",
+    "RadRed.Abilities.gulp_missile",
+    "RadRed.Abilities.gulp_missile"
+  ],
+  "types": [
+    "pkhex.type.flying",
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

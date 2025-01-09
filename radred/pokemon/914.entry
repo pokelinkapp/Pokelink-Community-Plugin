@@ -1,0 +1,32 @@
+{
+  "gameId": 929,
+  "name": "RadRed.Species.quaquaval",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/914.png",
+    "normal": "pokelink-community:/radred/assets/sprites/914.png",
+    "party": "pokelink-community:/radred/assets/sprites/914.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 120,
+    "def": 80,
+    "spAtk": 85,
+    "spDef": 75,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.torrent",
+    "RadRed.Abilities.moxie"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

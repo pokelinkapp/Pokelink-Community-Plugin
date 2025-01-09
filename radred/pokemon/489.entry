@@ -1,0 +1,31 @@
+{
+  "gameId": 542,
+  "name": "RadRed.Species.phione",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/489.png",
+    "normal": "pokelink-community:/radred/assets/sprites/489.png",
+    "party": "pokelink-community:/radred/assets/sprites/489.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 80,
+    "def": 80,
+    "spAtk": 80,
+    "spDef": 80,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.hydration",
+    "RadRed.Abilities.hydration"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 255
+}

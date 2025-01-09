@@ -1,0 +1,32 @@
+{
+  "gameId": 1141,
+  "name": "RadRed.Species.toxtricity",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/849.png",
+    "normal": "pokelink-community:/radred/assets/sprites/849.png",
+    "party": "pokelink-community:/radred/assets/sprites/849.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 98,
+    "def": 70,
+    "spAtk": 114,
+    "spDef": 70,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.punk_rock",
+    "RadRed.Abilities.plus",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

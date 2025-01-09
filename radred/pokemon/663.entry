@@ -1,0 +1,32 @@
+{
+  "gameId": 771,
+  "name": "RadRed.Species.talonflame",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/663.png",
+    "normal": "pokelink-community:/radred/assets/sprites/663.png",
+    "party": "pokelink-community:/radred/assets/sprites/663.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 91,
+    "def": 71,
+    "spAtk": 74,
+    "spDef": 69,
+    "spd": 126
+  },
+  "abilities": [
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.flame_body",
+    "RadRed.Abilities.gale_wings"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

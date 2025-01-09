@@ -1,0 +1,31 @@
+{
+  "gameId": 237,
+  "name": "RadRed.Species.hitmontop",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/237.png",
+    "normal": "pokelink-community:/radred/assets/sprites/237.png",
+    "party": "pokelink-community:/radred/assets/sprites/237.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 95,
+    "def": 95,
+    "spAtk": 35,
+    "spDef": 110,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.steadfast"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 0
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 737,
+  "name": "RadRed.Species.darmanitan",
+  "formName": "RadRed.Forms.zen",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/555.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/555.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/555.1.png"
+  },
+  "baseStats": {
+    "hp": 105,
+    "atk": 30,
+    "def": 105,
+    "spAtk": 140,
+    "spDef": 105,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.zen_mode",
+    "RadRed.Abilities.zen_mode",
+    "RadRed.Abilities.zen_mode"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 60,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 396,
+  "name": "RadRed.Species.shelgon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/372.png",
+    "normal": "pokelink-community:/radred/assets/sprites/372.png",
+    "party": "pokelink-community:/radred/assets/sprites/372.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 95,
+    "def": 100,
+    "spAtk": 60,
+    "spDef": 50,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

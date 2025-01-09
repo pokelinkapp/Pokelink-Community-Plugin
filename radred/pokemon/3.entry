@@ -1,0 +1,32 @@
+{
+  "gameId": 3,
+  "name": "RadRed.Species.venusaur",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/3.png",
+    "party": "pokelink-community:/radred/assets/sprites/3.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 82,
+    "def": 83,
+    "spAtk": 100,
+    "spDef": 100,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.chlorophyll"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

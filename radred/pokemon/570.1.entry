@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1280,
+  "name": "RadRed.Species.zorua",
+  "formName": "RadRed.Forms.hisui",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/570.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/570.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/570.1.png"
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 60,
+    "def": 40,
+    "spAtk": 85,
+    "spDef": 40,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.illusion",
+    "RadRed.Abilities.illusion",
+    "RadRed.Abilities.illusion"
+  ],
+  "types": [
+    "pkhex.type.ghost",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 75,
+  "genderRatio": 31
+}

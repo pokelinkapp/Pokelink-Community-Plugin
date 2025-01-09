@@ -1,0 +1,32 @@
+{
+  "gameId": 481,
+  "name": "RadRed.Species.lopunny",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/428.png",
+    "normal": "pokelink-community:/radred/assets/sprites/428.png",
+    "party": "pokelink-community:/radred/assets/sprites/428.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 76,
+    "def": 84,
+    "spAtk": 54,
+    "spDef": 96,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.limber"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 140,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

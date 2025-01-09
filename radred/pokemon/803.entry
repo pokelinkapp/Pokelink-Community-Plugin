@@ -1,0 +1,31 @@
+{
+  "gameId": 1074,
+  "name": "RadRed.Species.poipole",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/803.png",
+    "normal": "pokelink-community:/radred/assets/sprites/803.png",
+    "party": "pokelink-community:/radred/assets/sprites/803.png"
+  },
+  "baseStats": {
+    "hp": 67,
+    "atk": 73,
+    "def": 67,
+    "spAtk": 73,
+    "spDef": 67,
+    "spd": 73
+  },
+  "abilities": [
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost",
+    "RadRed.Abilities.beast_boost"
+  ],
+  "types": [
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 255
+}

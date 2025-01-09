@@ -1,0 +1,31 @@
+{
+  "gameId": 456,
+  "name": "RadRed.Species.shinx",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/403.png",
+    "normal": "pokelink-community:/radred/assets/sprites/403.png",
+    "party": "pokelink-community:/radred/assets/sprites/403.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 65,
+    "def": 34,
+    "spAtk": 40,
+    "spDef": 34,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.rivalry",
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.guts"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 235,
+  "genderRatio": 127
+}

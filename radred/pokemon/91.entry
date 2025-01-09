@@ -1,0 +1,32 @@
+{
+  "gameId": 91,
+  "name": "RadRed.Species.cloyster",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/91.png",
+    "normal": "pokelink-community:/radred/assets/sprites/91.png",
+    "party": "pokelink-community:/radred/assets/sprites/91.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 95,
+    "def": 180,
+    "spAtk": 85,
+    "spDef": 45,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.skill_link",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 127
+}

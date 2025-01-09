@@ -1,0 +1,32 @@
+{
+  "gameId": 1151,
+  "name": "RadRed.Species.impidimp",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/859.png",
+    "normal": "pokelink-community:/radred/assets/sprites/859.png",
+    "party": "pokelink-community:/radred/assets/sprites/859.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 45,
+    "def": 30,
+    "spAtk": 55,
+    "spDef": 40,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.infiltrator"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 0
+}

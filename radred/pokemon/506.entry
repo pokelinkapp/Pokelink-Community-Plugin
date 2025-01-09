@@ -1,0 +1,31 @@
+{
+  "gameId": 559,
+  "name": "RadRed.Species.lillipup",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/506.png",
+    "normal": "pokelink-community:/radred/assets/sprites/506.png",
+    "party": "pokelink-community:/radred/assets/sprites/506.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 60,
+    "def": 45,
+    "spAtk": 25,
+    "spDef": 45,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.vital_spirit",
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.run_away"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

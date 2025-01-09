@@ -1,0 +1,3 @@
+species, items, moves txt files: https://github.com/eliyahu1702/Rad-Red-4.1-Team-Exporter/tree/main
+
+stats.html: https://dex.radicalred.net/

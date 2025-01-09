@@ -1,0 +1,33 @@
+{
+  "form": 9,
+  "gameId": 1093,
+  "name": "RadRed.Species.pikachu",
+  "formName": "RadRed.Forms.original",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/25.9.png",
+    "normal": "pokelink-community:/radred/assets/sprites/25.9.png",
+    "party": "pokelink-community:/radred/assets/sprites/25.9.png"
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spAtk": 50,
+    "spDef": 50,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.lightning_rod"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 10,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 0
+}

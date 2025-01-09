@@ -1,0 +1,31 @@
+{
+  "gameId": 622,
+  "name": "RadRed.Species.garbodor",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/569.png",
+    "normal": "pokelink-community:/radred/assets/sprites/569.png",
+    "party": "pokelink-community:/radred/assets/sprites/569.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 115,
+    "def": 82,
+    "spAtk": 60,
+    "spDef": 82,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.gooey",
+    "RadRed.Abilities.weak_armor",
+    "RadRed.Abilities.aftermath"
+  ],
+  "types": [
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

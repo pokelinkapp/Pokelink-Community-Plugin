@@ -1,0 +1,32 @@
+{
+  "gameId": 1344,
+  "name": "RadRed.Species.glimmora",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/970.png",
+    "normal": "pokelink-community:/radred/assets/sprites/970.png",
+    "party": "pokelink-community:/radred/assets/sprites/970.png"
+  },
+  "baseStats": {
+    "hp": 83,
+    "atk": 55,
+    "def": 90,
+    "spAtk": 130,
+    "spDef": 81,
+    "spd": 86
+  },
+  "abilities": [
+    "RadRed.Abilities.toxic_debris",
+    "RadRed.Abilities.toxic_debris",
+    "RadRed.Abilities.corrosion"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "expGroup": 3,
+  "catchRate": 25,
+  "genderRatio": 127
+}

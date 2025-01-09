@@ -1,0 +1,31 @@
+{
+  "gameId": 455,
+  "name": "RadRed.Species.kricketune",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/402.png",
+    "normal": "pokelink-community:/radred/assets/sprites/402.png",
+    "party": "pokelink-community:/radred/assets/sprites/402.png"
+  },
+  "baseStats": {
+    "hp": 77,
+    "atk": 95,
+    "def": 71,
+    "spAtk": 55,
+    "spDef": 71,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.technician"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

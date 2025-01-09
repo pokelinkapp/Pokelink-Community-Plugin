@@ -1,0 +1,32 @@
+{
+  "gameId": 642,
+  "name": "RadRed.Species.escavalier",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/589.png",
+    "normal": "pokelink-community:/radred/assets/sprites/589.png",
+    "party": "pokelink-community:/radred/assets/sprites/589.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 135,
+    "def": 105,
+    "spAtk": 60,
+    "spDef": 105,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.overcoat"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,33 @@
+{
+  "form": 2,
+  "gameId": 883,
+  "name": "RadRed.Species.mewtwo",
+  "formName": "RadRed.Forms.mega_y",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/150.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/150.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/150.2.png"
+  },
+  "baseStats": {
+    "hp": 106,
+    "atk": 150,
+    "def": 70,
+    "spAtk": 194,
+    "spDef": 120,
+    "spd": 140
+  },
+  "abilities": [
+    "RadRed.Abilities.insomnia",
+    "RadRed.Abilities.insomnia",
+    "RadRed.Abilities.insomnia"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

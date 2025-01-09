@@ -1,0 +1,31 @@
+{
+  "gameId": 153,
+  "name": "RadRed.Species.bayleef",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/153.png",
+    "normal": "pokelink-community:/radred/assets/sprites/153.png",
+    "party": "pokelink-community:/radred/assets/sprites/153.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 62,
+    "def": 80,
+    "spAtk": 63,
+    "spDef": 80,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.leaf_guard"
+  ],
+  "types": [
+    "pkhex.type.grass"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

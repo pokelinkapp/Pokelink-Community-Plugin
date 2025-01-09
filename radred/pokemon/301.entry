@@ -1,0 +1,31 @@
+{
+  "gameId": 316,
+  "name": "RadRed.Species.delcatty",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/301.png",
+    "normal": "pokelink-community:/radred/assets/sprites/301.png",
+    "party": "pokelink-community:/radred/assets/sprites/301.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 65,
+    "def": 65,
+    "spAtk": 65,
+    "spDef": 55,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.wonder_skin",
+    "RadRed.Abilities.feline_prowess"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "expGroup": 4,
+  "catchRate": 60,
+  "genderRatio": 191
+}

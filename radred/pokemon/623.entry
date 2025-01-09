@@ -1,0 +1,32 @@
+{
+  "gameId": 676,
+  "name": "RadRed.Species.golurk",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/623.png",
+    "normal": "pokelink-community:/radred/assets/sprites/623.png",
+    "party": "pokelink-community:/radred/assets/sprites/623.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 124,
+    "def": 90,
+    "spAtk": 55,
+    "spDef": 90,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.iron_fist",
+    "RadRed.Abilities.no_guard"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.ghost"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 255
+}

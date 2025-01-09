@@ -1,0 +1,32 @@
+{
+  "gameId": 496,
+  "name": "RadRed.Species.gible",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/443.png",
+    "normal": "pokelink-community:/radred/assets/sprites/443.png",
+    "party": "pokelink-community:/radred/assets/sprites/443.png"
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 70,
+    "def": 45,
+    "spAtk": 40,
+    "spDef": 45,
+    "spd": 42
+  },
+  "abilities": [
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.rough_skin"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

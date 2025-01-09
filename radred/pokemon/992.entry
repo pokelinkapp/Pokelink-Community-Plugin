@@ -1,0 +1,32 @@
+{
+  "gameId": 1262,
+  "name": "RadRed.Species.iron_hands",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/992.png",
+    "normal": "pokelink-community:/radred/assets/sprites/992.png",
+    "party": "pokelink-community:/radred/assets/sprites/992.png"
+  },
+  "baseStats": {
+    "hp": 154,
+    "atk": 140,
+    "def": 108,
+    "spAtk": 50,
+    "spDef": 68,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.quark_drive",
+    "RadRed.Abilities.quark_drive",
+    "RadRed.Abilities.quark_drive"
+  ],
+  "types": [
+    "pkhex.type.fighting",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 0,
+  "color": "color.gray",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 50,
+  "genderRatio": 255
+}

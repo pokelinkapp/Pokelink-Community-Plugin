@@ -1,0 +1,32 @@
+{
+  "gameId": 702,
+  "name": "RadRed.Species.genesect",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/649.png",
+    "normal": "pokelink-community:/radred/assets/sprites/649.png",
+    "party": "pokelink-community:/radred/assets/sprites/649.png"
+  },
+  "baseStats": {
+    "hp": 71,
+    "atk": 120,
+    "def": 95,
+    "spAtk": 120,
+    "spDef": 95,
+    "spd": 99
+  },
+  "abilities": [
+    "RadRed.Abilities.download",
+    "RadRed.Abilities.download",
+    "RadRed.Abilities.download"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

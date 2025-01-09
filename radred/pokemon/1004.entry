@@ -1,0 +1,32 @@
+{
+  "gameId": 750,
+  "name": "RadRed.Species.chi_yu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1004.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1004.png",
+    "party": "pokelink-community:/radred/assets/sprites/1004.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 80,
+    "def": 80,
+    "spAtk": 135,
+    "spDef": 120,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.beads_of_ruin",
+    "RadRed.Abilities.beads_of_ruin",
+    "RadRed.Abilities.beads_of_ruin"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 0,
+  "color": "color.red",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 6,
+  "genderRatio": 255
+}

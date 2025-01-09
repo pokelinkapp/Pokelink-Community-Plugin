@@ -1,0 +1,32 @@
+{
+  "gameId": 42,
+  "name": "RadRed.Species.golbat",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/42.png",
+    "normal": "pokelink-community:/radred/assets/sprites/42.png",
+    "party": "pokelink-community:/radred/assets/sprites/42.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 80,
+    "def": 70,
+    "spAtk": 65,
+    "spDef": 75,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.sniper",
+    "RadRed.Abilities.corrosion"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 1171,
+  "name": "RadRed.Species.copperajah",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/879.png",
+    "normal": "pokelink-community:/radred/assets/sprites/879.png",
+    "party": "pokelink-community:/radred/assets/sprites/879.png"
+  },
+  "baseStats": {
+    "hp": 122,
+    "atk": 130,
+    "def": 79,
+    "spAtk": 80,
+    "spDef": 79,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.heavy_metal",
+    "RadRed.Abilities.heavy_metal",
+    "RadRed.Abilities.heavy_metal"
+  ],
+  "types": [
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

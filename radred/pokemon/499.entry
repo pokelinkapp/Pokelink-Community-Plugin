@@ -1,0 +1,32 @@
+{
+  "gameId": 552,
+  "name": "RadRed.Species.pignite",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/499.png",
+    "normal": "pokelink-community:/radred/assets/sprites/499.png",
+    "party": "pokelink-community:/radred/assets/sprites/499.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 93,
+    "def": 55,
+    "spAtk": 70,
+    "spDef": 55,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.blaze",
+    "RadRed.Abilities.thick_fat"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

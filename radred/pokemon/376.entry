@@ -1,0 +1,32 @@
+{
+  "gameId": 400,
+  "name": "RadRed.Species.metagross",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/376.png",
+    "normal": "pokelink-community:/radred/assets/sprites/376.png",
+    "party": "pokelink-community:/radred/assets/sprites/376.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 135,
+    "def": 130,
+    "spAtk": 95,
+    "spDef": 90,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.tough_claws"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 35,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

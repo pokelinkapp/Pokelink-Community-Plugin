@@ -1,0 +1,32 @@
+{
+  "gameId": 799,
+  "name": "RadRed.Species.dragalge",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/691.png",
+    "normal": "pokelink-community:/radred/assets/sprites/691.png",
+    "party": "pokelink-community:/radred/assets/sprites/691.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 75,
+    "def": 90,
+    "spAtk": 97,
+    "spDef": 123,
+    "spd": 44
+  },
+  "abilities": [
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.poison_touch",
+    "RadRed.Abilities.adaptability"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.dragon"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 55,
+  "genderRatio": 127
+}

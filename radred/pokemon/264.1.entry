@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 1223,
+  "name": "RadRed.Species.linoone",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/264.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/264.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/264.1.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 70,
+    "def": 61,
+    "spAtk": 50,
+    "spDef": 61,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.gluttony",
+    "RadRed.Abilities.quick_feet"
+  ],
+  "types": [
+    "pkhex.type.dark",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 776,
+  "name": "RadRed.Species.pyroar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/668.png",
+    "normal": "pokelink-community:/radred/assets/sprites/668.png",
+    "party": "pokelink-community:/radred/assets/sprites/668.png"
+  },
+  "baseStats": {
+    "hp": 86,
+    "atk": 68,
+    "def": 72,
+    "spAtk": 109,
+    "spDef": 66,
+    "spd": 106
+  },
+  "abilities": [
+    "RadRed.Abilities.rivalry",
+    "RadRed.Abilities.unnerve",
+    "RadRed.Abilities.adaptability"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 65,
+  "genderRatio": 225
+}

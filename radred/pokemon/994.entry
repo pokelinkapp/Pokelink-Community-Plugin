@@ -1,0 +1,32 @@
+{
+  "gameId": 1247,
+  "name": "RadRed.Species.iron_moth",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/994.png",
+    "normal": "pokelink-community:/radred/assets/sprites/994.png",
+    "party": "pokelink-community:/radred/assets/sprites/994.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 70,
+    "def": 60,
+    "spAtk": 140,
+    "spDef": 110,
+    "spd": 110
+  },
+  "abilities": [
+    "RadRed.Abilities.quark_drive",
+    "RadRed.Abilities.quark_drive",
+    "RadRed.Abilities.quark_drive"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 0,
+  "color": "color.white",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 255
+}

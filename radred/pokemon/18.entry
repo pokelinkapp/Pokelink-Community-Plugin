@@ -1,0 +1,32 @@
+{
+  "gameId": 18,
+  "name": "RadRed.Species.pidgeot",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/18.png",
+    "normal": "pokelink-community:/radred/assets/sprites/18.png",
+    "party": "pokelink-community:/radred/assets/sprites/18.png"
+  },
+  "baseStats": {
+    "hp": 83,
+    "atk": 80,
+    "def": 75,
+    "spAtk": 70,
+    "spDef": 70,
+    "spd": 101
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.no_guard"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

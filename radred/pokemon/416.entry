@@ -1,0 +1,32 @@
+{
+  "gameId": 469,
+  "name": "RadRed.Species.vespiquen",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/416.png",
+    "normal": "pokelink-community:/radred/assets/sprites/416.png",
+    "party": "pokelink-community:/radred/assets/sprites/416.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 80,
+    "def": 102,
+    "spAtk": 80,
+    "spDef": 102,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.queenly_majesty",
+    "RadRed.Abilities.queenly_majesty",
+    "RadRed.Abilities.unnerve"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 254
+}

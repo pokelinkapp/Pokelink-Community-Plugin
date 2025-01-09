@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 1236,
+  "name": "RadRed.Species.machamp",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/68.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/68.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/68.1.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 145,
+    "def": 110,
+    "spAtk": 65,
+    "spDef": 115,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.oraoraoraora!",
+    "RadRed.Abilities.oraoraoraora!",
+    "RadRed.Abilities.oraoraoraora!"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 63
+}

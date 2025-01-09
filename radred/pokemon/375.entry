@@ -1,0 +1,32 @@
+{
+  "gameId": 399,
+  "name": "RadRed.Species.metang",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/375.png",
+    "normal": "pokelink-community:/radred/assets/sprites/375.png",
+    "party": "pokelink-community:/radred/assets/sprites/375.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 75,
+    "def": 100,
+    "spAtk": 55,
+    "spDef": 80,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.clear_body",
+    "RadRed.Abilities.tough_claws"
+  ],
+  "types": [
+    "pkhex.type.steel",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 35,
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

@@ -1,0 +1,34 @@
+{
+  "form": 2,
+  "gameId": 1254,
+  "name": "RadRed.Species.toxtricity",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/849.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/849.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/849.2.png"
+  },
+  "baseStats": {
+    "hp": 75,
+    "atk": 120,
+    "def": 80,
+    "spAtk": 155,
+    "spDef": 80,
+    "spd": 111
+  },
+  "abilities": [
+    "RadRed.Abilities.punk_rock",
+    "RadRed.Abilities.punk_rock",
+    "RadRed.Abilities.punk_rock"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 127
+}

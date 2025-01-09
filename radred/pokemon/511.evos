@@ -1,0 +1,10 @@
+{
+  "evolutions": [
+    {
+      "to": 512,
+      "conditions": {
+        "pokemon.evolve.useItem": "pkhex.item.gen9.leaf_stone"
+      }
+    }
+  ]
+}

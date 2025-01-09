@@ -1,0 +1,32 @@
+{
+  "gameId": 1158,
+  "name": "RadRed.Species.mr_rime",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/866.png",
+    "normal": "pokelink-community:/radred/assets/sprites/866.png",
+    "party": "pokelink-community:/radred/assets/sprites/866.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 65,
+    "def": 75,
+    "spAtk": 110,
+    "spDef": 90,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.screen_cleaner",
+    "RadRed.Abilities.screen_cleaner",
+    "RadRed.Abilities.ice_body"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

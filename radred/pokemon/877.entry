@@ -1,0 +1,32 @@
+{
+  "gameId": 1169,
+  "name": "RadRed.Species.morpeko",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/877.png",
+    "normal": "pokelink-community:/radred/assets/sprites/877.png",
+    "party": "pokelink-community:/radred/assets/sprites/877.png"
+  },
+  "baseStats": {
+    "hp": 58,
+    "atk": 110,
+    "def": 58,
+    "spAtk": 70,
+    "spDef": 58,
+    "spd": 97
+  },
+  "abilities": [
+    "RadRed.Abilities.hunger_switch",
+    "RadRed.Abilities.hunger_switch",
+    "RadRed.Abilities.hunger_switch"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 10,
+  "expGroup": 0,
+  "catchRate": 180,
+  "genderRatio": 127
+}

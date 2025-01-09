@@ -1,0 +1,32 @@
+{
+  "gameId": 319,
+  "name": "RadRed.Species.claydol",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/344.png",
+    "normal": "pokelink-community:/radred/assets/sprites/344.png",
+    "party": "pokelink-community:/radred/assets/sprites/344.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 70,
+    "def": 105,
+    "spAtk": 80,
+    "spDef": 120,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 255
+}

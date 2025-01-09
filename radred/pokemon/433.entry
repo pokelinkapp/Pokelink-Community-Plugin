@@ -1,0 +1,31 @@
+{
+  "gameId": 486,
+  "name": "RadRed.Species.chingling",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/433.png",
+    "normal": "pokelink-community:/radred/assets/sprites/433.png",
+    "party": "pokelink-community:/radred/assets/sprites/433.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 50,
+    "spAtk": 65,
+    "spDef": 50,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 25,
+  "expGroup": 4,
+  "catchRate": 120,
+  "genderRatio": 127
+}

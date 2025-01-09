@@ -1,0 +1,32 @@
+{
+  "gameId": 604,
+  "name": "RadRed.Species.sandile",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/551.png",
+    "normal": "pokelink-community:/radred/assets/sprites/551.png",
+    "party": "pokelink-community:/radred/assets/sprites/551.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 72,
+    "def": 35,
+    "spAtk": 35,
+    "spDef": 35,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.intimidate",
+    "RadRed.Abilities.moxie",
+    "RadRed.Abilities.anger_point"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.dark"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 180,
+  "genderRatio": 127
+}

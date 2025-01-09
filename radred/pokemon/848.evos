@@ -1,0 +1,47 @@
+{
+  "evolutions": [
+    {
+      "to": 849,
+      "conditions": {
+        "pokemon.evolve.level": 30,
+        "pokemon.evolve.nature": [
+          "pkhex.nature.brave",
+          "pkhex.nature.adamant",
+          "pkhex.nature.naughty",
+          "pkhex.nature.docile",
+          "pkhex.nature.impish",
+          "pkhex.nature.lax",
+          "pkhex.nature.hasty",
+          "pkhex.nature.jolly",
+          "pkhex.nature.naive",
+          "pkhex.nature.rash",
+          "pkhex.nature.sassy",
+          "pkhex.nature.quirky"
+        ]
+      }
+    },
+    {
+      "to": 849,
+      "conditions": {
+        "pokemon.evolve.level": 30,
+        "pokemon.evolve.nature": [
+          "pkhex.nature.lonely",
+          "pkhex.nature.bold",
+          "pkhex.nature.relaxed",
+          "pkhex.nature.timid",
+          "pkhex.nature.timid",
+          "pkhex.nature.serious",
+          "pkhex.nature.modest",
+          "pkhex.nature.mild",
+          "pkhex.nature.quiet",
+          "pkhex.nature.bashful",
+          "pkhex.nature.calm",
+          "pkhex.nature.calm",
+          "pkhex.nature.gentle",
+          "pkhex.nature.careful"
+        ]
+      },
+      "toForm": 1
+    }
+  ]
+}

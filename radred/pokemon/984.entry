@@ -1,0 +1,32 @@
+{
+  "gameId": 1237,
+  "name": "RadRed.Species.great_tusk",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/984.png",
+    "normal": "pokelink-community:/radred/assets/sprites/984.png",
+    "party": "pokelink-community:/radred/assets/sprites/984.png"
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 131,
+    "def": 131,
+    "spAtk": 53,
+    "spDef": 53,
+    "spd": 87
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 0,
+  "color": "color.purple",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 30,
+  "genderRatio": 255
+}

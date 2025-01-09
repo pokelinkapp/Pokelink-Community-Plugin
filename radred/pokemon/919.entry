@@ -1,0 +1,31 @@
+{
+  "gameId": 1316,
+  "name": "RadRed.Species.nymble",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/919.png",
+    "normal": "pokelink-community:/radred/assets/sprites/919.png",
+    "party": "pokelink-community:/radred/assets/sprites/919.png"
+  },
+  "baseStats": {
+    "hp": 33,
+    "atk": 46,
+    "def": 40,
+    "spAtk": 21,
+    "spDef": 25,
+    "spd": 45
+  },
+  "abilities": [
+    "RadRed.Abilities.swarm",
+    "RadRed.Abilities.tinted_lens",
+    "RadRed.Abilities.swarm"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 20,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

@@ -1,0 +1,31 @@
+{
+  "gameId": 1155,
+  "name": "RadRed.Species.perrserker",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/863.png",
+    "normal": "pokelink-community:/radred/assets/sprites/863.png",
+    "party": "pokelink-community:/radred/assets/sprites/863.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 110,
+    "def": 100,
+    "spAtk": 30,
+    "spDef": 60,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.tough_claws",
+    "RadRed.Abilities.steely_spirit"
+  ],
+  "types": [
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

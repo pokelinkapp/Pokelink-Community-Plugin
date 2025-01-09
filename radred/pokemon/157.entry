@@ -1,0 +1,31 @@
+{
+  "gameId": 157,
+  "name": "RadRed.Species.typhlosion",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/157.png",
+    "normal": "pokelink-community:/radred/assets/sprites/157.png",
+    "party": "pokelink-community:/radred/assets/sprites/157.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 84,
+    "def": 78,
+    "spAtk": 109,
+    "spDef": 85,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.flash_fire",
+    "RadRed.Abilities.blazing_soul"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

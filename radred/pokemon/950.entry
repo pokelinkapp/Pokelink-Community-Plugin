@@ -1,0 +1,31 @@
+{
+  "gameId": 706,
+  "name": "RadRed.Species.klawf",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/950.png",
+    "normal": "pokelink-community:/radred/assets/sprites/950.png",
+    "party": "pokelink-community:/radred/assets/sprites/950.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 100,
+    "def": 115,
+    "spAtk": 35,
+    "spDef": 55,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.anger_shell",
+    "RadRed.Abilities.shell_armor",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 35,
+  "expGroup": 0,
+  "catchRate": 120,
+  "genderRatio": 127
+}

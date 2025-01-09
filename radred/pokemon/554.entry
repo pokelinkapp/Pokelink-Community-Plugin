@@ -1,0 +1,31 @@
+{
+  "gameId": 607,
+  "name": "RadRed.Species.darumaka",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/554.png",
+    "normal": "pokelink-community:/radred/assets/sprites/554.png",
+    "party": "pokelink-community:/radred/assets/sprites/554.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 90,
+    "def": 45,
+    "spAtk": 15,
+    "spDef": 45,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.fire"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 617,
+      "conditions": {
+        "pokemon.evolve.trade": {
+          "pokemon.evolve.tradeWith": "pkhex.species.karrablast"
+        }
+      }
+    }
+  ]
+}

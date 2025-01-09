@@ -1,0 +1,32 @@
+{
+  "gameId": 939,
+  "name": "RadRed.Species.rowlet",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/722.png",
+    "normal": "pokelink-community:/radred/assets/sprites/722.png",
+    "party": "pokelink-community:/radred/assets/sprites/722.png"
+  },
+  "baseStats": {
+    "hp": 68,
+    "atk": 55,
+    "def": 55,
+    "spAtk": 50,
+    "spDef": 50,
+    "spd": 42
+  },
+  "abilities": [
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.overgrow",
+    "RadRed.Abilities.tinted_lens"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

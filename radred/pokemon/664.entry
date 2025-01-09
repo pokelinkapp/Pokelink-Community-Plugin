@@ -1,0 +1,31 @@
+{
+  "gameId": 772,
+  "name": "RadRed.Species.scatterbug",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/664.png",
+    "normal": "pokelink-community:/radred/assets/sprites/664.png",
+    "party": "pokelink-community:/radred/assets/sprites/664.png"
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 35,
+    "def": 40,
+    "spAtk": 27,
+    "spDef": 25,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.shield_dust",
+    "RadRed.Abilities.compound_eyes",
+    "RadRed.Abilities.friend_guard"
+  ],
+  "types": [
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.black",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

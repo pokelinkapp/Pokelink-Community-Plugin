@@ -1,0 +1,31 @@
+{
+  "gameId": 36,
+  "name": "RadRed.Species.clefable",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/36.png",
+    "normal": "pokelink-community:/radred/assets/sprites/36.png",
+    "party": "pokelink-community:/radred/assets/sprites/36.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 70,
+    "def": 73,
+    "spAtk": 95,
+    "spDef": 90,
+    "spd": 60
+  },
+  "abilities": [
+    "RadRed.Abilities.cute_charm",
+    "RadRed.Abilities.magic_guard",
+    "RadRed.Abilities.unaware"
+  ],
+  "types": [
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 140,
+  "color": "color.pink",
+  "hatchCycles": 10,
+  "expGroup": 4,
+  "catchRate": 25,
+  "genderRatio": 191
+}

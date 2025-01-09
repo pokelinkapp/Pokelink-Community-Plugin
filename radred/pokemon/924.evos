@@ -1,0 +1,11 @@
+{
+  "evolutions": [
+    {
+      "to": 925,
+      "conditions": {
+        "pokemon.evolve.level": 25
+      },
+      "toForm": 0
+    }
+  ]
+}

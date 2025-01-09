@@ -1,0 +1,31 @@
+{
+  "gameId": 63,
+  "name": "RadRed.Species.abra",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/63.png",
+    "normal": "pokelink-community:/radred/assets/sprites/63.png",
+    "party": "pokelink-community:/radred/assets/sprites/63.png"
+  },
+  "baseStats": {
+    "hp": 25,
+    "atk": 20,
+    "def": 15,
+    "spAtk": 105,
+    "spDef": 55,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.magic_guard"
+  ],
+  "types": [
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 200,
+  "genderRatio": 63
+}

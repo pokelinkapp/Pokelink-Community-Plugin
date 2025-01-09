@@ -1,0 +1,32 @@
+{
+  "gameId": 697,
+  "name": "RadRed.Species.zekrom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/644.png",
+    "normal": "pokelink-community:/radred/assets/sprites/644.png",
+    "party": "pokelink-community:/radred/assets/sprites/644.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 150,
+    "def": 120,
+    "spAtk": 120,
+    "spDef": 100,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.teravolt",
+    "RadRed.Abilities.teravolt",
+    "RadRed.Abilities.teravolt"
+  ],
+  "types": [
+    "pkhex.type.dragon",
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 0,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

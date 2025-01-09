@@ -1,0 +1,34 @@
+{
+  "form": 6,
+  "gameId": 1090,
+  "name": "RadRed.Species.pikachu",
+  "formName": "RadRed.Forms.rock_star",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/25.6.png",
+    "normal": "pokelink-community:/radred/assets/sprites/25.6.png",
+    "party": "pokelink-community:/radred/assets/sprites/25.6.png"
+  },
+  "baseStats": {
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "spAtk": 50,
+    "spDef": 50,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.lightning_rod",
+    "RadRed.Abilities.lightning_rod"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 10,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 0
+}

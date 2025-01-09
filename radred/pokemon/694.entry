@@ -1,0 +1,32 @@
+{
+  "gameId": 802,
+  "name": "RadRed.Species.helioptile",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/694.png",
+    "normal": "pokelink-community:/radred/assets/sprites/694.png",
+    "party": "pokelink-community:/radred/assets/sprites/694.png"
+  },
+  "baseStats": {
+    "hp": 44,
+    "atk": 38,
+    "def": 33,
+    "spAtk": 61,
+    "spDef": 43,
+    "spd": 70
+  },
+  "abilities": [
+    "RadRed.Abilities.dry_skin",
+    "RadRed.Abilities.sand_veil",
+    "RadRed.Abilities.solar_power"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

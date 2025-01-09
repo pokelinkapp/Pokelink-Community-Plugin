@@ -1,0 +1,31 @@
+{
+  "gameId": 158,
+  "name": "RadRed.Species.totodile",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/158.png",
+    "normal": "pokelink-community:/radred/assets/sprites/158.png",
+    "party": "pokelink-community:/radred/assets/sprites/158.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 64,
+    "spAtk": 44,
+    "spDef": 48,
+    "spd": 43
+  },
+  "abilities": [
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.strong_jaw"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

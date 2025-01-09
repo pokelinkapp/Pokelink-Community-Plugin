@@ -1,0 +1,31 @@
+{
+  "gameId": 558,
+  "name": "RadRed.Species.watchog",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/505.png",
+    "normal": "pokelink-community:/radred/assets/sprites/505.png",
+    "party": "pokelink-community:/radred/assets/sprites/505.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 100,
+    "def": 69,
+    "spAtk": 60,
+    "spDef": 69,
+    "spd": 77
+  },
+  "abilities": [
+    "RadRed.Abilities.analytic",
+    "RadRed.Abilities.no_guard",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

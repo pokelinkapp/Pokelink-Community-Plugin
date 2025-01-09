@@ -1,0 +1,31 @@
+{
+  "gameId": 235,
+  "name": "RadRed.Species.smeargle",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/235.png",
+    "normal": "pokelink-community:/radred/assets/sprites/235.png",
+    "party": "pokelink-community:/radred/assets/sprites/235.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 20,
+    "def": 35,
+    "spAtk": 20,
+    "spDef": 45,
+    "spd": 75
+  },
+  "abilities": [
+    "RadRed.Abilities.own_tempo",
+    "RadRed.Abilities.technician",
+    "RadRed.Abilities.own_tempo"
+  ],
+  "types": [
+    "pkhex.type.normal"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 45,
+  "genderRatio": 127
+}

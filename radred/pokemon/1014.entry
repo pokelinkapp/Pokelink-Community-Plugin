@@ -1,0 +1,32 @@
+{
+  "gameId": 1366,
+  "name": "RadRed.Species.okidogi",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/1014.png",
+    "normal": "pokelink-community:/radred/assets/sprites/1014.png",
+    "party": "pokelink-community:/radred/assets/sprites/1014.png"
+  },
+  "baseStats": {
+    "hp": 88,
+    "atk": 128,
+    "def": 115,
+    "spAtk": 58,
+    "spDef": 86,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.toxic_chain",
+    "RadRed.Abilities.toxic_chain",
+    "RadRed.Abilities.defiant"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 0,
+  "color": "color.black",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 0
+}

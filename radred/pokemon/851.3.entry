@@ -1,0 +1,34 @@
+{
+  "form": 3,
+  "gameId": 1291,
+  "name": "RadRed.Species.centiskorch",
+  "formName": "RadRed.Forms.sevii_mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/851.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/851.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/851.3.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 150,
+    "def": 80,
+    "spAtk": 75,
+    "spDef": 100,
+    "spd": 120
+  },
+  "abilities": [
+    "RadRed.Abilities.arena_trap",
+    "RadRed.Abilities.sand_force",
+    "RadRed.Abilities.arena_trap"
+  ],
+  "types": [
+    "pkhex.type.ground",
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 185,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.knowMove": "pkhex.move.mimic"
+        }
+      }
+    }
+  ]
+}

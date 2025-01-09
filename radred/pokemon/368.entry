@@ -1,0 +1,32 @@
+{
+  "gameId": 375,
+  "name": "RadRed.Species.gorebyss",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/368.png",
+    "normal": "pokelink-community:/radred/assets/sprites/368.png",
+    "party": "pokelink-community:/radred/assets/sprites/368.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 84,
+    "def": 105,
+    "spAtk": 104,
+    "spDef": 75,
+    "spd": 52
+  },
+  "abilities": [
+    "RadRed.Abilities.dazzling",
+    "RadRed.Abilities.dazzling",
+    "RadRed.Abilities.regenerator"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 1,
+  "catchRate": 60,
+  "genderRatio": 127
+}

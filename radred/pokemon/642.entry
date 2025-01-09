@@ -1,0 +1,32 @@
+{
+  "gameId": 695,
+  "name": "RadRed.Species.thundurus",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/642.png",
+    "normal": "pokelink-community:/radred/assets/sprites/642.png",
+    "party": "pokelink-community:/radred/assets/sprites/642.png"
+  },
+  "baseStats": {
+    "hp": 79,
+    "atk": 115,
+    "def": 70,
+    "spAtk": 125,
+    "spDef": 80,
+    "spd": 111
+  },
+  "abilities": [
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.prankster",
+    "RadRed.Abilities.defiant"
+  ],
+  "types": [
+    "pkhex.type.electric",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 90,
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 0
+}

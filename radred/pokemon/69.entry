@@ -1,0 +1,32 @@
+{
+  "gameId": 69,
+  "name": "RadRed.Species.bellsprout",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/69.png",
+    "normal": "pokelink-community:/radred/assets/sprites/69.png",
+    "party": "pokelink-community:/radred/assets/sprites/69.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 75,
+    "def": 35,
+    "spAtk": 70,
+    "spDef": 30,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.chlorophyll",
+    "RadRed.Abilities.gluttony"
+  ],
+  "types": [
+    "pkhex.type.grass",
+    "pkhex.type.poison"
+  ],
+  "baseFriendship": 50,
+  "color": "color.green",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 255,
+  "genderRatio": 127
+}

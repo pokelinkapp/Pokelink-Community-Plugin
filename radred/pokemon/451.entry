@@ -1,0 +1,32 @@
+{
+  "gameId": 504,
+  "name": "RadRed.Species.skorupi",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/451.png",
+    "normal": "pokelink-community:/radred/assets/sprites/451.png",
+    "party": "pokelink-community:/radred/assets/sprites/451.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 50,
+    "def": 90,
+    "spAtk": 30,
+    "spDef": 55,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.battle_armor",
+    "RadRed.Abilities.sniper",
+    "RadRed.Abilities.frisk"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.bug"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 120,
+  "genderRatio": 127
+}

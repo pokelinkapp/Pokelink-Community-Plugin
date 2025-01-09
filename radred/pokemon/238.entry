@@ -1,0 +1,32 @@
+{
+  "gameId": 238,
+  "name": "RadRed.Species.smoochum",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/238.png",
+    "normal": "pokelink-community:/radred/assets/sprites/238.png",
+    "party": "pokelink-community:/radred/assets/sprites/238.png"
+  },
+  "baseStats": {
+    "hp": 45,
+    "atk": 30,
+    "def": 15,
+    "spAtk": 85,
+    "spDef": 65,
+    "spd": 65
+  },
+  "abilities": [
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.oblivious",
+    "RadRed.Abilities.hydration"
+  ],
+  "types": [
+    "pkhex.type.ice",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 25,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 254
+}

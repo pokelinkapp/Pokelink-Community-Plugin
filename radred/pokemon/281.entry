@@ -1,0 +1,32 @@
+{
+  "gameId": 393,
+  "name": "RadRed.Species.kirlia",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/281.png",
+    "normal": "pokelink-community:/radred/assets/sprites/281.png",
+    "party": "pokelink-community:/radred/assets/sprites/281.png"
+  },
+  "baseStats": {
+    "hp": 38,
+    "atk": 35,
+    "def": 35,
+    "spAtk": 65,
+    "spDef": 55,
+    "spd": 50
+  },
+  "abilities": [
+    "RadRed.Abilities.synchronize",
+    "RadRed.Abilities.trace",
+    "RadRed.Abilities.telepathy"
+  ],
+  "types": [
+    "pkhex.type.psychic",
+    "pkhex.type.fairy"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 120,
+  "genderRatio": 127
+}

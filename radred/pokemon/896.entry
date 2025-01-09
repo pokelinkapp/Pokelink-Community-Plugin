@@ -1,0 +1,31 @@
+{
+  "gameId": 1267,
+  "name": "RadRed.Species.glastrier",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/896.png",
+    "normal": "pokelink-community:/radred/assets/sprites/896.png",
+    "party": "pokelink-community:/radred/assets/sprites/896.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 145,
+    "def": 130,
+    "spAtk": 65,
+    "spDef": 110,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.chilling_neigh",
+    "RadRed.Abilities.chilling_neigh",
+    "RadRed.Abilities.chilling_neigh"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 35,
+  "color": "color.white",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 255
+}

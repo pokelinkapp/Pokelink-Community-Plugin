@@ -1,0 +1,32 @@
+{
+  "gameId": 75,
+  "name": "RadRed.Species.graveler",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/75.png",
+    "normal": "pokelink-community:/radred/assets/sprites/75.png",
+    "party": "pokelink-community:/radred/assets/sprites/75.png"
+  },
+  "baseStats": {
+    "hp": 55,
+    "atk": 95,
+    "def": 115,
+    "spAtk": 45,
+    "spDef": 45,
+    "spd": 35
+  },
+  "abilities": [
+    "RadRed.Abilities.rock_head",
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.sand_veil"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "expGroup": 3,
+  "catchRate": 120,
+  "genderRatio": 127
+}

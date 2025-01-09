@@ -1,0 +1,31 @@
+{
+  "gameId": 1127,
+  "name": "RadRed.Species.yamper",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/835.png",
+    "normal": "pokelink-community:/radred/assets/sprites/835.png",
+    "party": "pokelink-community:/radred/assets/sprites/835.png"
+  },
+  "baseStats": {
+    "hp": 59,
+    "atk": 45,
+    "def": 50,
+    "spAtk": 40,
+    "spDef": 50,
+    "spd": 26
+  },
+  "abilities": [
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.competitive"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 4,
+  "catchRate": 255,
+  "genderRatio": 127
+}

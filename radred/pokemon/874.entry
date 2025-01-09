@@ -1,0 +1,31 @@
+{
+  "gameId": 1166,
+  "name": "RadRed.Species.stonjourner",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/874.png",
+    "normal": "pokelink-community:/radred/assets/sprites/874.png",
+    "party": "pokelink-community:/radred/assets/sprites/874.png"
+  },
+  "baseStats": {
+    "hp": 100,
+    "atk": 125,
+    "def": 135,
+    "spAtk": 20,
+    "spDef": 50,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.rocky_payload",
+    "RadRed.Abilities.rocky_payload",
+    "RadRed.Abilities.rocky_payload"
+  ],
+  "types": [
+    "pkhex.type.rock"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 60,
+  "genderRatio": 127
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 876,
+  "name": "RadRed.Species.slowbro",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/80.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/80.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/80.1.png"
+  },
+  "baseStats": {
+    "hp": 95,
+    "atk": 75,
+    "def": 180,
+    "spAtk": 130,
+    "spDef": 80,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.regenerator",
+    "RadRed.Abilities.regenerator",
+    "RadRed.Abilities.shell_armor"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

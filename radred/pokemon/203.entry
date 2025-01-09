@@ -1,0 +1,32 @@
+{
+  "gameId": 203,
+  "name": "RadRed.Species.girafarig",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/203.png",
+    "normal": "pokelink-community:/radred/assets/sprites/203.png",
+    "party": "pokelink-community:/radred/assets/sprites/203.png"
+  },
+  "baseStats": {
+    "hp": 70,
+    "atk": 80,
+    "def": 65,
+    "spAtk": 90,
+    "spDef": 65,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.sap_sipper",
+    "RadRed.Abilities.early_bird",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.normal",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 50,
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 900,
+  "name": "RadRed.Species.camerupt",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/323.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/323.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/323.1.png"
+  },
+  "baseStats": {
+    "hp": 90,
+    "atk": 100,
+    "def": 110,
+    "spAtk": 145,
+    "spDef": 115,
+    "spd": 20
+  },
+  "abilities": [
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.sheer_force",
+    "RadRed.Abilities.sheer_force"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.ground"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 150,
+  "genderRatio": 127
+}

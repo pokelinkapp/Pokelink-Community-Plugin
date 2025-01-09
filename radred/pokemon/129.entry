@@ -1,0 +1,31 @@
+{
+  "gameId": 129,
+  "name": "RadRed.Species.magikarp",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/129.png",
+    "normal": "pokelink-community:/radred/assets/sprites/129.png",
+    "party": "pokelink-community:/radred/assets/sprites/129.png"
+  },
+  "baseStats": {
+    "hp": 20,
+    "atk": 10,
+    "def": 55,
+    "spAtk": 15,
+    "spDef": 20,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.swift_swim",
+    "RadRed.Abilities.hydration"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 5,
+  "expGroup": 5,
+  "catchRate": 255,
+  "genderRatio": 127
+}

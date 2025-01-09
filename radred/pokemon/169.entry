@@ -1,0 +1,32 @@
+{
+  "gameId": 169,
+  "name": "RadRed.Species.crobat",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/169.png",
+    "normal": "pokelink-community:/radred/assets/sprites/169.png",
+    "party": "pokelink-community:/radred/assets/sprites/169.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 90,
+    "def": 80,
+    "spAtk": 90,
+    "spDef": 80,
+    "spd": 130
+  },
+  "abilities": [
+    "RadRed.Abilities.infiltrator",
+    "RadRed.Abilities.sniper",
+    "RadRed.Abilities.corrosion"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "expGroup": 0,
+  "catchRate": 90,
+  "genderRatio": 127
+}

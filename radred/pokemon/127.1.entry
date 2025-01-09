@@ -1,0 +1,34 @@
+{
+  "form": 1,
+  "gameId": 879,
+  "name": "RadRed.Species.pinsir",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/127.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/127.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/127.1.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 155,
+    "def": 120,
+    "spAtk": 65,
+    "spDef": 90,
+    "spd": 105
+  },
+  "abilities": [
+    "RadRed.Abilities.aerilate",
+    "RadRed.Abilities.aerilate",
+    "RadRed.Abilities.aerilate"
+  ],
+  "types": [
+    "pkhex.type.bug",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 25,
+  "expGroup": 5,
+  "catchRate": 45,
+  "genderRatio": 127
+}

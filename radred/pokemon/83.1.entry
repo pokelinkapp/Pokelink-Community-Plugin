@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 1213,
+  "name": "RadRed.Species.farfetchd",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/83.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/83.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/83.1.png"
+  },
+  "baseStats": {
+    "hp": 52,
+    "atk": 95,
+    "def": 55,
+    "spAtk": 58,
+    "spDef": 62,
+    "spd": 55
+  },
+  "abilities": [
+    "RadRed.Abilities.steadfast",
+    "RadRed.Abilities.steadfast",
+    "RadRed.Abilities.scrappy"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 45,
+  "genderRatio": 127
+}

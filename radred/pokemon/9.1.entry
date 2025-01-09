@@ -1,0 +1,33 @@
+{
+  "form": 1,
+  "gameId": 872,
+  "name": "RadRed.Species.blastoise",
+  "formName": "RadRed.Forms.mega",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/9.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/9.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/9.1.png"
+  },
+  "baseStats": {
+    "hp": 79,
+    "atk": 103,
+    "def": 120,
+    "spAtk": 135,
+    "spDef": 115,
+    "spd": 78
+  },
+  "abilities": [
+    "RadRed.Abilities.mega_launcher",
+    "RadRed.Abilities.mega_launcher",
+    "RadRed.Abilities.mega_launcher"
+  ],
+  "types": [
+    "pkhex.type.water"
+  ],
+  "baseFriendship": 50,
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

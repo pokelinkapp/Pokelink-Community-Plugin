@@ -1,0 +1,31 @@
+{
+  "gameId": 101,
+  "name": "RadRed.Species.electrode",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/101.png",
+    "normal": "pokelink-community:/radred/assets/sprites/101.png",
+    "party": "pokelink-community:/radred/assets/sprites/101.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 55,
+    "def": 70,
+    "spAtk": 100,
+    "spDef": 80,
+    "spd": 150
+  },
+  "abilities": [
+    "RadRed.Abilities.soundproof",
+    "RadRed.Abilities.static",
+    "RadRed.Abilities.galvanize"
+  ],
+  "types": [
+    "pkhex.type.electric"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 255
+}

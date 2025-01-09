@@ -1,0 +1,34 @@
+{
+  "form": 2,
+  "gameId": 871,
+  "name": "RadRed.Species.charizard",
+  "formName": "RadRed.Forms.mega_y",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/6.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/6.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/6.2.png"
+  },
+  "baseStats": {
+    "hp": 78,
+    "atk": 104,
+    "def": 78,
+    "spAtk": 159,
+    "spDef": 115,
+    "spd": 100
+  },
+  "abilities": [
+    "RadRed.Abilities.drought",
+    "RadRed.Abilities.drought",
+    "RadRed.Abilities.drought"
+  ],
+  "types": [
+    "pkhex.type.fire",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.red",
+  "hatchCycles": 20,
+  "expGroup": 3,
+  "catchRate": 45,
+  "genderRatio": 31
+}

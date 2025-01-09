@@ -1,0 +1,31 @@
+{
+  "gameId": 635,
+  "name": "RadRed.Species.vanillite",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/582.png",
+    "normal": "pokelink-community:/radred/assets/sprites/582.png",
+    "party": "pokelink-community:/radred/assets/sprites/582.png"
+  },
+  "baseStats": {
+    "hp": 36,
+    "atk": 50,
+    "def": 50,
+    "spAtk": 65,
+    "spDef": 60,
+    "spd": 44
+  },
+  "abilities": [
+    "RadRed.Abilities.ice_body",
+    "RadRed.Abilities.slush_rush",
+    "RadRed.Abilities.weak_armor"
+  ],
+  "types": [
+    "pkhex.type.ice"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 5,
+  "catchRate": 255,
+  "genderRatio": 127
+}

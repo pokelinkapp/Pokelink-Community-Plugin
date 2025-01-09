@@ -1,0 +1,31 @@
+{
+  "gameId": 1183,
+  "name": "RadRed.Species.kubfu",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/891.png",
+    "normal": "pokelink-community:/radred/assets/sprites/891.png",
+    "party": "pokelink-community:/radred/assets/sprites/891.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 90,
+    "def": 60,
+    "spAtk": 53,
+    "spDef": 50,
+    "spd": 72
+  },
+  "abilities": [
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.inner_focus",
+    "RadRed.Abilities.inner_focus"
+  ],
+  "types": [
+    "pkhex.type.fighting"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "expGroup": 5,
+  "catchRate": 3,
+  "genderRatio": 31
+}

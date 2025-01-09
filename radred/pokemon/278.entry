@@ -1,0 +1,32 @@
+{
+  "gameId": 309,
+  "name": "RadRed.Species.wingull",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/278.png",
+    "normal": "pokelink-community:/radred/assets/sprites/278.png",
+    "party": "pokelink-community:/radred/assets/sprites/278.png"
+  },
+  "baseStats": {
+    "hp": 40,
+    "atk": 30,
+    "def": 30,
+    "spAtk": 55,
+    "spDef": 30,
+    "spd": 85
+  },
+  "abilities": [
+    "RadRed.Abilities.frisk",
+    "RadRed.Abilities.rain_dish",
+    "RadRed.Abilities.hydration"
+  ],
+  "types": [
+    "pkhex.type.water",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 190,
+  "genderRatio": 127
+}

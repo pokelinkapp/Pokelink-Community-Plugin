@@ -1,0 +1,32 @@
+{
+  "gameId": 529,
+  "name": "RadRed.Species.probopass",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/476.png",
+    "normal": "pokelink-community:/radred/assets/sprites/476.png",
+    "party": "pokelink-community:/radred/assets/sprites/476.png"
+  },
+  "baseStats": {
+    "hp": 65,
+    "atk": 45,
+    "def": 145,
+    "spAtk": 80,
+    "spDef": 150,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.sturdy",
+    "RadRed.Abilities.magnet_pull",
+    "RadRed.Abilities.levitate"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 60,
+  "genderRatio": 127
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 1245,
+  "name": "RadRed.Species.screamtail",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/985.png",
+    "normal": "pokelink-community:/radred/assets/sprites/985.png",
+    "party": "pokelink-community:/radred/assets/sprites/985.png"
+  },
+  "baseStats": {
+    "hp": 115,
+    "atk": 65,
+    "def": 99,
+    "spAtk": 85,
+    "spDef": 115,
+    "spd": 111
+  },
+  "abilities": [
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.protosynthesis",
+    "RadRed.Abilities.tangling_hair"
+  ],
+  "types": [
+    "pkhex.type.fairy",
+    "pkhex.type.psychic"
+  ],
+  "baseFriendship": 0,
+  "color": "color.pink",
+  "hatchCycles": 50,
+  "expGroup": 5,
+  "catchRate": 50,
+  "genderRatio": 255
+}

@@ -1,0 +1,32 @@
+{
+  "gameId": 464,
+  "name": "RadRed.Species.bastiodon",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/411.png",
+    "normal": "pokelink-community:/radred/assets/sprites/411.png",
+    "party": "pokelink-community:/radred/assets/sprites/411.png"
+  },
+  "baseStats": {
+    "hp": 60,
+    "atk": 52,
+    "def": 168,
+    "spAtk": 47,
+    "spDef": 138,
+    "spd": 30
+  },
+  "abilities": [
+    "RadRed.Abilities.valiant_shield",
+    "RadRed.Abilities.valiant_shield",
+    "RadRed.Abilities.soundproof"
+  ],
+  "types": [
+    "pkhex.type.rock",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 30,
+  "expGroup": 1,
+  "catchRate": 45,
+  "genderRatio": 31
+}

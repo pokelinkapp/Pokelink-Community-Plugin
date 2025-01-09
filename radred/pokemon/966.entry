@@ -1,0 +1,32 @@
+{
+  "gameId": 836,
+  "name": "RadRed.Species.revavroom",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/966.png",
+    "normal": "pokelink-community:/radred/assets/sprites/966.png",
+    "party": "pokelink-community:/radred/assets/sprites/966.png"
+  },
+  "baseStats": {
+    "hp": 80,
+    "atk": 119,
+    "def": 90,
+    "spAtk": 54,
+    "spDef": 67,
+    "spd": 90
+  },
+  "abilities": [
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.overcoat",
+    "RadRed.Abilities.filter"
+  ],
+  "types": [
+    "pkhex.type.poison",
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 75,
+  "genderRatio": 127
+}

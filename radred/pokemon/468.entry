@@ -1,0 +1,32 @@
+{
+  "gameId": 521,
+  "name": "RadRed.Species.togekiss",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/468.png",
+    "normal": "pokelink-community:/radred/assets/sprites/468.png",
+    "party": "pokelink-community:/radred/assets/sprites/468.png"
+  },
+  "baseStats": {
+    "hp": 85,
+    "atk": 50,
+    "def": 95,
+    "spAtk": 120,
+    "spDef": 115,
+    "spd": 80
+  },
+  "abilities": [
+    "RadRed.Abilities.hustle",
+    "RadRed.Abilities.serene_grace",
+    "RadRed.Abilities.super_luck"
+  ],
+  "types": [
+    "pkhex.type.fairy",
+    "pkhex.type.flying"
+  ],
+  "baseFriendship": 50,
+  "color": "color.white",
+  "hatchCycles": 10,
+  "expGroup": 4,
+  "catchRate": 30,
+  "genderRatio": 31
+}

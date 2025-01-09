@@ -1,0 +1,33 @@
+{
+  "form": 2,
+  "gameId": 1208,
+  "name": "RadRed.Species.meowth",
+  "formName": "RadRed.Forms.galar",
+  "sprites": {
+    "shiny": "pokelink-community:/radred/assets/sprites/52.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/52.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/52.2.png"
+  },
+  "baseStats": {
+    "hp": 50,
+    "atk": 65,
+    "def": 55,
+    "spAtk": 40,
+    "spDef": 40,
+    "spd": 40
+  },
+  "abilities": [
+    "RadRed.Abilities.pickup",
+    "RadRed.Abilities.tough_claws",
+    "RadRed.Abilities.unnerve"
+  ],
+  "types": [
+    "pkhex.type.steel"
+  ],
+  "baseFriendship": 50,
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "expGroup": 0,
+  "catchRate": 255,
+  "genderRatio": 127
+}

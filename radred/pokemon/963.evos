@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 964,
+      "conditions": {
+        "pokemon.evolve.multiplayer": {
+          "pokemon.evolve.level": 38
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "evolutions": [
+    {
+      "to": 804,
+      "conditions": {
+        "pokemon.evolve.levelUp": {
+          "pokemon.evolve.knowMove": "pkhex.move.dragon_pulse"
+        }
+      }
+    }
+  ]
+}
