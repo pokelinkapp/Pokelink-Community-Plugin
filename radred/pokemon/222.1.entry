@@ -22,7 +22,7 @@
     "RadRed.Abilities.perish_body"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.white",

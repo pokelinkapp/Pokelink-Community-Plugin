@@ -20,7 +20,7 @@
     "RadRed.Abilities.sheer_force"
   ],
   "types": [
-    "pkhex.type.dragon"
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

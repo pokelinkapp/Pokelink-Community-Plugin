@@ -20,7 +20,7 @@
     "RadRed.Abilities.wandering_soul"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 35,
   "color": "color.black",

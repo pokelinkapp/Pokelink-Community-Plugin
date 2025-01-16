@@ -20,8 +20,8 @@
     "RadRed.Abilities.speed_boost"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.dark"
+    "pokemon.type.water",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

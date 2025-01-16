@@ -20,8 +20,8 @@
     "RadRed.Abilities.justified"
   ],
   "types": [
-    "pkhex.type.fighting",
-    "pkhex.type.steel"
+    "pokemon.type.fighting",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

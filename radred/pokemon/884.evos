@@ -3,7 +3,7 @@
     {
       "to": 1018,
       "conditions": {
-        "pokemon.evolve.useItem": "pkhex.item.gen9.metal_alloy"
+        "pokemon.evolve.useItem": "pokemon.item.gen9.metal_alloy"
       }
     }
   ]

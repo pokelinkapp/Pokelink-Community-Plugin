@@ -20,8 +20,8 @@
     "RadRed.Abilities.harvest"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.normal"
+    "pokemon.type.grass",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.green",

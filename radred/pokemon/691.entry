@@ -20,8 +20,8 @@
     "RadRed.Abilities.adaptability"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.dragon"
+    "pokemon.type.poison",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

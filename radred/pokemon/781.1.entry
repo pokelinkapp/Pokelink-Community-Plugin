@@ -22,8 +22,8 @@
     "RadRed.Abilities.tinted_lens"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.grass"
+    "pokemon.type.water",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.green",

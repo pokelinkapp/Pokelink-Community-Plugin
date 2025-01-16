@@ -20,8 +20,8 @@
     "RadRed.Abilities.sand_veil"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.electric"
+    "pokemon.type.ground",
+    "pokemon.type.electric"
   ],
   "baseFriendship": 70,
   "color": "color.brown",

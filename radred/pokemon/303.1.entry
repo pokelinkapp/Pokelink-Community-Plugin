@@ -22,8 +22,8 @@
     "RadRed.Abilities.huge_power"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.fairy"
+    "pokemon.type.steel",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.black",

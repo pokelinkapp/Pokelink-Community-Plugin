@@ -20,7 +20,7 @@
     "RadRed.Abilities.iron_barbs"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.green",

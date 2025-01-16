@@ -20,7 +20,7 @@
     "RadRed.Abilities.filter"
   ],
   "types": [
-    "pkhex.type.ice"
+    "pokemon.type.ice"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

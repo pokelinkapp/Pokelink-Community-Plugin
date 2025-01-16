@@ -20,8 +20,8 @@
     "RadRed.Abilities.full_metal_body"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.steel"
+    "pokemon.type.psychic",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 0,
   "color": "color.white",

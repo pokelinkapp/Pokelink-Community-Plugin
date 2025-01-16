@@ -22,8 +22,8 @@
     "RadRed.Abilities.delta_stream"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.flying"
+    "pokemon.type.dragon",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 0,
   "color": "color.green",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.zen_mode"
   ],
   "types": [
-    "pkhex.type.fire"
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.red",

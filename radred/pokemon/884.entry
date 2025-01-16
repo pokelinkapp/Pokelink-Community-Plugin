@@ -20,8 +20,8 @@
     "RadRed.Abilities.stalwart"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.dragon"
+    "pokemon.type.steel",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.white",

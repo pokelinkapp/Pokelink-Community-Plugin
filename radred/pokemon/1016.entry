@@ -20,8 +20,8 @@
     "RadRed.Abilities.technician"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.fairy"
+    "pokemon.type.poison",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 0,
   "color": "color.black",

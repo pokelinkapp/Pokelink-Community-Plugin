@@ -20,8 +20,8 @@
     "RadRed.Abilities.compound_eyes"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.poison"
+    "pokemon.type.bug",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.green",

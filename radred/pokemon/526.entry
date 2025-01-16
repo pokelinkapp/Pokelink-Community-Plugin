@@ -20,7 +20,7 @@
     "RadRed.Abilities.sand_force"
   ],
   "types": [
-    "pkhex.type.rock"
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

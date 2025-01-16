@@ -20,8 +20,8 @@
     "RadRed.Abilities.quark_drive"
   ],
   "types": [
-    "pkhex.type.fairy",
-    "pkhex.type.fighting"
+    "pokemon.type.fairy",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 0,
   "color": "color.white",

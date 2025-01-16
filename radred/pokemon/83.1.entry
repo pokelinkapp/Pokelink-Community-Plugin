@@ -22,7 +22,7 @@
     "RadRed.Abilities.scrappy"
   ],
   "types": [
-    "pkhex.type.fighting"
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

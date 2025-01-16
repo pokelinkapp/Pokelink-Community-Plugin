@@ -20,8 +20,8 @@
     "RadRed.Abilities.unaware"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.ground"
+    "pokemon.type.poison",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

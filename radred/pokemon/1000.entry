@@ -20,8 +20,8 @@
     "RadRed.Abilities.good_as_gold"
   ],
   "types": [
-    "pkhex.type.ghost",
-    "pkhex.type.steel"
+    "pokemon.type.ghost",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.refrigerate"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.dragon"
+    "pokemon.type.ice",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.red",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.pressure"
   ],
   "types": [
-    "pkhex.type.flying",
-    "pkhex.type.steel"
+    "pokemon.type.flying",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

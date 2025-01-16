@@ -6,7 +6,7 @@
         "pokemon.evolve.game": "pokemon.go",
         "pokemon.evolve.candy": {
           "count": 400,
-          "species": "pkhex.species.meltan"
+          "species": "pokemon.species.meltan"
         }
       }
     }

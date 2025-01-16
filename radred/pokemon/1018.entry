@@ -20,8 +20,8 @@
     "RadRed.Abilities.bad_company"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.dragon"
+    "pokemon.type.steel",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.white",

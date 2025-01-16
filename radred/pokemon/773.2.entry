@@ -22,7 +22,7 @@
     "RadRed.Abilities.battle_armor"
   ],
   "types": [
-    "pkhex.type.flying"
+    "pokemon.type.flying"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

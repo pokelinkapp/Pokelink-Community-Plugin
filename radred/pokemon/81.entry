@@ -20,8 +20,8 @@
     "RadRed.Abilities.analytic"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.steel"
+    "pokemon.type.electric",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

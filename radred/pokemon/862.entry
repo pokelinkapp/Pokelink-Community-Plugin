@@ -20,8 +20,8 @@
     "RadRed.Abilities.defiant"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.normal"
+    "pokemon.type.dark",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.teravolt"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.electric"
+    "pokemon.type.dragon",
+    "pokemon.type.electric"
   ],
   "baseFriendship": 0,
   "color": "color.black",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.fatal_precision"
   ],
   "types": [
-    "pkhex.type.poison"
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.black",

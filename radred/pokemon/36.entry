@@ -20,7 +20,7 @@
     "RadRed.Abilities.unaware"
   ],
   "types": [
-    "pkhex.type.fairy"
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 140,
   "color": "color.pink",

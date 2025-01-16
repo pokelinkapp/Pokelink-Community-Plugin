@@ -20,8 +20,8 @@
     "RadRed.Abilities.telepathy"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.fairy"
+    "pokemon.type.psychic",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 35,
   "color": "color.white",

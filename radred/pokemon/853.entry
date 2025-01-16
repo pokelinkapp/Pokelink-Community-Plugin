@@ -20,8 +20,8 @@
     "RadRed.Abilities.technician"
   ],
   "types": [
-    "pkhex.type.fighting",
-    "pkhex.type.water"
+    "pokemon.type.fighting",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.swift_swim"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.fighting"
+    "pokemon.type.ice",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.white",

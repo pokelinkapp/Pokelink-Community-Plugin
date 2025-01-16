@@ -20,7 +20,7 @@
     "RadRed.Abilities.insomnia"
   ],
   "types": [
-    "pkhex.type.bug"
+    "pokemon.type.bug"
   ],
   "baseFriendship": 50,
   "color": "color.green",

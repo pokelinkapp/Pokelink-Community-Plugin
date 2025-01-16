@@ -20,8 +20,8 @@
     "RadRed.Abilities.valiant_shield"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.dragon"
+    "pokemon.type.fire",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.red",

@@ -22,8 +22,8 @@
     "RadRed.Abilities.tough_claws"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.flying"
+    "pokemon.type.rock",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

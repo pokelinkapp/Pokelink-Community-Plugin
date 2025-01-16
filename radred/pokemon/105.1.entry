@@ -22,8 +22,8 @@
     "RadRed.Abilities.bone_zone"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.ghost"
+    "pokemon.type.fire",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

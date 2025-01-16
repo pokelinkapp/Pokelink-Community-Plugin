@@ -22,7 +22,7 @@
     "RadRed.Abilities.run_away"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

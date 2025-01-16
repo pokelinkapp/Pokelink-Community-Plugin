@@ -20,7 +20,7 @@
     "RadRed.Abilities.grim_neigh"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 35,
   "color": "color.black",

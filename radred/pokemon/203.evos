@@ -4,7 +4,7 @@
       "to": 981,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pkhex.move.twin_beam"
+          "pokemon.evolve.knowMove": "pokemon.move.twin_beam"
         }
       }
     }

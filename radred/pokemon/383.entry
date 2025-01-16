@@ -20,7 +20,7 @@
     "RadRed.Abilities.drought"
   ],
   "types": [
-    "pkhex.type.ground"
+    "pokemon.type.ground"
   ],
   "baseFriendship": 0,
   "color": "color.red",

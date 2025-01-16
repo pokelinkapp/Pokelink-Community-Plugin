@@ -20,7 +20,7 @@
     "RadRed.Abilities.prism_armor"
   ],
   "types": [
-    "pkhex.type.psychic"
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 0,
   "color": "color.black",

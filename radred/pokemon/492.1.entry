@@ -22,8 +22,8 @@
     "RadRed.Abilities.serene_grace"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.flying"
+    "pokemon.type.grass",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 100,
   "color": "color.green",

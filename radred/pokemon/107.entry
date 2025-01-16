@@ -20,7 +20,7 @@
     "RadRed.Abilities.inner_focus"
   ],
   "types": [
-    "pkhex.type.fighting"
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

@@ -22,7 +22,7 @@
     "RadRed.Abilities.filter"
   ],
   "types": [
-    "pkhex.type.steel"
+    "pokemon.type.steel"
   ],
   "baseFriendship": 35,
   "color": "color.gray",

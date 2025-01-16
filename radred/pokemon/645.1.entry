@@ -22,8 +22,8 @@
     "RadRed.Abilities.intimidate"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.flying"
+    "pokemon.type.ground",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 90,
   "color": "color.brown",

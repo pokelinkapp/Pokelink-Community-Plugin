@@ -20,8 +20,8 @@
     "RadRed.Abilities.hustle"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.rock"
+    "pokemon.type.water",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

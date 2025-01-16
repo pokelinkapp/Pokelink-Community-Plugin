@@ -3,14 +3,14 @@
     {
       "to": 549,
       "conditions": {
-        "pokemon.evolve.useItem": "pkhex.item.gen9.sun_stone"
+        "pokemon.evolve.useItem": "pokemon.item.gen9.sun_stone"
       },
       "toForm": 1
     },
     {
       "to": 549,
       "conditions": {
-        "pokemon.evolve.useItem": "pkhex.item.gen9.sun_stone"
+        "pokemon.evolve.useItem": "pokemon.item.gen9.sun_stone"
       }
     }
   ]

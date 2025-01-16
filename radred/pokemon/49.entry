@@ -20,8 +20,8 @@
     "RadRed.Abilities.wonder_skin"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.psychic"
+    "pokemon.type.bug",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

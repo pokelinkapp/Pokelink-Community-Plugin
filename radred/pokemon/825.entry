@@ -20,8 +20,8 @@
     "RadRed.Abilities.telepathy"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.psychic"
+    "pokemon.type.bug",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

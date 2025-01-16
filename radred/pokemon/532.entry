@@ -20,7 +20,7 @@
     "RadRed.Abilities.iron_fist"
   ],
   "types": [
-    "pkhex.type.fighting"
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 70,
   "color": "color.gray",

@@ -22,7 +22,7 @@
     "RadRed.Abilities.battle_armor"
   ],
   "types": [
-    "pkhex.type.fighting"
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

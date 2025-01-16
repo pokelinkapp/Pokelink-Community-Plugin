@@ -20,7 +20,7 @@
     "RadRed.Abilities.shadow_shield"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

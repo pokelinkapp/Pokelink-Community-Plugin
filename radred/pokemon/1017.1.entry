@@ -22,8 +22,8 @@
     "RadRed.Abilities.water_absorb"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.water"
+    "pokemon.type.grass",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.defiant"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.flying"
+    "pokemon.type.electric",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 90,
   "color": "color.blue",

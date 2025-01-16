@@ -4,7 +4,7 @@
       "to": 465,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pkhex.move.ancient_power"
+          "pokemon.evolve.knowMove": "pokemon.move.ancient_power"
         }
       }
     }

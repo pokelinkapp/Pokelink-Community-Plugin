@@ -20,8 +20,8 @@
     "RadRed.Abilities.intimidate"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.poison"
+    "pokemon.type.dark",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.black",

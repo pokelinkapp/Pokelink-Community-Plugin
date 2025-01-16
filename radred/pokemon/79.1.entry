@@ -22,7 +22,7 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.psychic"
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.sheer_force"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.ground"
+    "pokemon.type.poison",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.electric_surge"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.fairy"
+    "pokemon.type.electric",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

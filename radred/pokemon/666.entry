@@ -20,8 +20,8 @@
     "RadRed.Abilities.friend_guard"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.flying"
+    "pokemon.type.bug",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.white",

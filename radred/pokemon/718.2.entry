@@ -22,8 +22,8 @@
     "RadRed.Abilities.power_construct"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.ground"
+    "pokemon.type.dragon",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 0,
   "color": "color.black",

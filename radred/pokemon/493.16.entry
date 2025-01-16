@@ -22,7 +22,7 @@
     "RadRed.Abilities.multitype"
   ],
   "types": [
-    "pkhex.type.dark"
+    "pokemon.type.dark"
   ],
   "baseFriendship": 0,
   "color": "color.white",

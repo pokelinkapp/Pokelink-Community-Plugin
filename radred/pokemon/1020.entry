@@ -20,8 +20,8 @@
     "RadRed.Abilities.protosynthesis"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.dragon"
+    "pokemon.type.fire",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.brown",

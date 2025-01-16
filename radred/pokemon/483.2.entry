@@ -22,8 +22,8 @@
     "RadRed.Abilities.primal_armor"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.dragon"
+    "pokemon.type.steel",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.white",

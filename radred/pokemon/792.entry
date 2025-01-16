@@ -20,8 +20,8 @@
     "RadRed.Abilities.shadow_shield"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.ghost"
+    "pokemon.type.psychic",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

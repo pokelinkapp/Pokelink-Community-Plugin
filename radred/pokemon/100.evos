@@ -11,7 +11,7 @@
     {
       "to": 101,
       "conditions": {
-        "pokemon.evolve.useItem": "pkhex.item.gen9.leaf_stone"
+        "pokemon.evolve.useItem": "pokemon.item.gen9.leaf_stone"
       },
       "toForm": 1,
       "fromForm": 1

@@ -20,8 +20,8 @@
     "RadRed.Abilities.infiltrator"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.psychic"
+    "pokemon.type.dark",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

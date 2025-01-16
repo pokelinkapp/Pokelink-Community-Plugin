@@ -20,7 +20,7 @@
     "RadRed.Abilities.torrent"
   ],
   "types": [
-    "pkhex.type.water"
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

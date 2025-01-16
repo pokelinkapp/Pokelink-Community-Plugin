@@ -22,8 +22,8 @@
     "RadRed.Abilities.technician"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.rock"
+    "pokemon.type.ice",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

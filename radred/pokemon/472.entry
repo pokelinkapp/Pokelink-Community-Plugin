@@ -20,8 +20,8 @@
     "RadRed.Abilities.poison_heal"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.flying"
+    "pokemon.type.ground",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

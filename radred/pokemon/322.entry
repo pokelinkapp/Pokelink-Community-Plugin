@@ -20,8 +20,8 @@
     "RadRed.Abilities.own_tempo"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.ground"
+    "pokemon.type.fire",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

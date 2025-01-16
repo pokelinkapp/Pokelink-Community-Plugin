@@ -20,8 +20,8 @@
     "RadRed.Abilities.unnerve"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.water"
+    "pokemon.type.bug",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

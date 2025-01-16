@@ -20,7 +20,7 @@
     "RadRed.Abilities.valiant_shield"
   ],
   "types": [
-    "pkhex.type.fighting"
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 0,
   "color": "color.red",

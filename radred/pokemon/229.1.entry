@@ -22,8 +22,8 @@
     "RadRed.Abilities.dark_aura"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.fire"
+    "pokemon.type.dark",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 35,
   "color": "color.black",

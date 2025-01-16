@@ -20,8 +20,8 @@
     "RadRed.Abilities.beast_boost"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.poison"
+    "pokemon.type.rock",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 0,
   "color": "color.white",

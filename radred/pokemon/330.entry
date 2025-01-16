@@ -20,8 +20,8 @@
     "RadRed.Abilities.tinted_lens"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.dragon"
+    "pokemon.type.ground",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.green",

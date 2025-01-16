@@ -20,7 +20,7 @@
     "RadRed.Abilities.intrepid_sword"
   ],
   "types": [
-    "pkhex.type.fairy"
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 0,
   "color": "color.blue",

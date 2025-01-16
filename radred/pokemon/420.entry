@@ -20,7 +20,7 @@
     "RadRed.Abilities.chlorophyll"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

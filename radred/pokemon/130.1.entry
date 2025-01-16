@@ -22,8 +22,8 @@
     "RadRed.Abilities.mold_breaker"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.dark"
+    "pokemon.type.water",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

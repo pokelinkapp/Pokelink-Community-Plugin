@@ -20,8 +20,8 @@
     "RadRed.Abilities.frozen_mist"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.flying"
+    "pokemon.type.ice",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

@@ -4,7 +4,7 @@
       "to": 463,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pkhex.move.rollout"
+          "pokemon.evolve.knowMove": "pokemon.move.rollout"
         }
       }
     }

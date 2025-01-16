@@ -20,8 +20,8 @@
     "RadRed.Abilities.own_tempo"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.grass"
+    "pokemon.type.water",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.green",

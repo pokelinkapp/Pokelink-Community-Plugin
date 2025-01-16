@@ -22,8 +22,8 @@
     "RadRed.Abilities.flash_fire"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.fairy"
+    "pokemon.type.fire",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.white",

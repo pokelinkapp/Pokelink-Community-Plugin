@@ -20,7 +20,7 @@
     "RadRed.Abilities.slush_rush"
   ],
   "types": [
-    "pkhex.type.ice"
+    "pokemon.type.ice"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

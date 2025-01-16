@@ -20,8 +20,8 @@
     "RadRed.Abilities.ice_scales"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.bug"
+    "pokemon.type.ice",
+    "pokemon.type.bug"
   ],
   "baseFriendship": 50,
   "color": "color.white",

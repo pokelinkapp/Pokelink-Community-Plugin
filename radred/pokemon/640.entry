@@ -20,8 +20,8 @@
     "RadRed.Abilities.sharpness"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.fighting"
+    "pokemon.type.grass",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 35,
   "color": "color.green",

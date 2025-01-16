@@ -22,8 +22,8 @@
     "RadRed.Abilities.telepathy"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.dragon"
+    "pokemon.type.water",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

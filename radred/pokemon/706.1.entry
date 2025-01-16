@@ -22,8 +22,8 @@
     "RadRed.Abilities.gooey"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.steel"
+    "pokemon.type.dragon",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 35,
   "color": "color.purple",

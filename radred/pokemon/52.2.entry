@@ -22,7 +22,7 @@
     "RadRed.Abilities.unnerve"
   ],
   "types": [
-    "pkhex.type.steel"
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

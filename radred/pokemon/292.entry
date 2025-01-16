@@ -20,8 +20,8 @@
     "RadRed.Abilities.wonder_guard"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.ghost"
+    "pokemon.type.bug",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

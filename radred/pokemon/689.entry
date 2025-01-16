@@ -20,8 +20,8 @@
     "RadRed.Abilities.infiltrator"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.water"
+    "pokemon.type.rock",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

@@ -22,7 +22,7 @@
     "RadRed.Abilities.schooling"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

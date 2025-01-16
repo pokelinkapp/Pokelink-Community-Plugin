@@ -4,7 +4,7 @@
       "to": 208,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pkhex.item.gen9.metal_coat"
+          "pokemon.evolve.holdItem": "pokemon.item.gen9.metal_coat"
         }
       }
     }

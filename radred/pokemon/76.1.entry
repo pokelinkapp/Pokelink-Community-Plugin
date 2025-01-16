@@ -22,8 +22,8 @@
     "RadRed.Abilities.galvanize"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.electric"
+    "pokemon.type.rock",
+    "pokemon.type.electric"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

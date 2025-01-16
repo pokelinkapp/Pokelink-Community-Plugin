@@ -4,7 +4,7 @@
       "to": 804,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pkhex.move.dragon_pulse"
+          "pokemon.evolve.knowMove": "pokemon.move.dragon_pulse"
         }
       }
     }

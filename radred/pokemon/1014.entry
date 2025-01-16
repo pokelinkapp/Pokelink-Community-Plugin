@@ -20,8 +20,8 @@
     "RadRed.Abilities.defiant"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.fighting"
+    "pokemon.type.poison",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 0,
   "color": "color.black",

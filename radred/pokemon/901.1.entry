@@ -22,8 +22,8 @@
     "RadRed.Abilities.scrappy"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.ground"
+    "pokemon.type.normal",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

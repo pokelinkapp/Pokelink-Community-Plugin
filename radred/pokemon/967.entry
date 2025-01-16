@@ -20,8 +20,8 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.normal"
+    "pokemon.type.dragon",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.green",

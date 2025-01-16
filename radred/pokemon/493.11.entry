@@ -22,7 +22,7 @@
     "RadRed.Abilities.multitype"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 0,
   "color": "color.white",

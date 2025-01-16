@@ -22,8 +22,8 @@
     "RadRed.Abilities.strong_jaw"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.fighting"
+    "pokemon.type.water",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.green",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.sharpness"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.rock"
+    "pokemon.type.bug",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

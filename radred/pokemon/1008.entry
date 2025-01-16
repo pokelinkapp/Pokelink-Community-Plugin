@@ -20,8 +20,8 @@
     "RadRed.Abilities.hadron_engine"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.dragon"
+    "pokemon.type.electric",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

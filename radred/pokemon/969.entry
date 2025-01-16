@@ -20,8 +20,8 @@
     "RadRed.Abilities.corrosion"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.rock"
+    "pokemon.type.poison",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

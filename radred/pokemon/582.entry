@@ -20,7 +20,7 @@
     "RadRed.Abilities.weak_armor"
   ],
   "types": [
-    "pkhex.type.ice"
+    "pokemon.type.ice"
   ],
   "baseFriendship": 50,
   "color": "color.white",

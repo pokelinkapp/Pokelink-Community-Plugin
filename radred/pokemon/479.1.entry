@@ -22,8 +22,8 @@
     "RadRed.Abilities.levitate"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.fire"
+    "pokemon.type.electric",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.red",

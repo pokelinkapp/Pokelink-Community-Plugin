@@ -11,7 +11,7 @@
       "conditions": {
         "pokemon.evolve.level": 20,
         "pokemon.evolve.emptySlot": {
-          "pokemon.evolve.hasItem": "pkhex.ball.poke_ball"
+          "pokemon.evolve.hasItem": "pokemon.ball.poke_ball"
         }
       }
     }

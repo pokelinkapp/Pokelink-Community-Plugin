@@ -20,7 +20,7 @@
     "RadRed.Abilities.clear_body"
   ],
   "types": [
-    "pkhex.type.rock"
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

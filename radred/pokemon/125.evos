@@ -4,7 +4,7 @@
       "to": 466,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pkhex.item.gen9.electirizer"
+          "pokemon.evolve.holdItem": "pokemon.item.gen9.electirizer"
         }
       }
     }

@@ -5,18 +5,18 @@
       "conditions": {
         "pokemon.evolve.level": 30,
         "pokemon.evolve.nature": [
-          "pkhex.nature.brave",
-          "pkhex.nature.adamant",
-          "pkhex.nature.naughty",
-          "pkhex.nature.docile",
-          "pkhex.nature.impish",
-          "pkhex.nature.lax",
-          "pkhex.nature.hasty",
-          "pkhex.nature.jolly",
-          "pkhex.nature.naive",
-          "pkhex.nature.rash",
-          "pkhex.nature.sassy",
-          "pkhex.nature.quirky"
+          "pokemon.nature.brave",
+          "pokemon.nature.adamant",
+          "pokemon.nature.naughty",
+          "pokemon.nature.docile",
+          "pokemon.nature.impish",
+          "pokemon.nature.lax",
+          "pokemon.nature.hasty",
+          "pokemon.nature.jolly",
+          "pokemon.nature.naive",
+          "pokemon.nature.rash",
+          "pokemon.nature.sassy",
+          "pokemon.nature.quirky"
         ]
       }
     },
@@ -25,20 +25,20 @@
       "conditions": {
         "pokemon.evolve.level": 30,
         "pokemon.evolve.nature": [
-          "pkhex.nature.lonely",
-          "pkhex.nature.bold",
-          "pkhex.nature.relaxed",
-          "pkhex.nature.timid",
-          "pkhex.nature.timid",
-          "pkhex.nature.serious",
-          "pkhex.nature.modest",
-          "pkhex.nature.mild",
-          "pkhex.nature.quiet",
-          "pkhex.nature.bashful",
-          "pkhex.nature.calm",
-          "pkhex.nature.calm",
-          "pkhex.nature.gentle",
-          "pkhex.nature.careful"
+          "pokemon.nature.lonely",
+          "pokemon.nature.bold",
+          "pokemon.nature.relaxed",
+          "pokemon.nature.timid",
+          "pokemon.nature.timid",
+          "pokemon.nature.serious",
+          "pokemon.nature.modest",
+          "pokemon.nature.mild",
+          "pokemon.nature.quiet",
+          "pokemon.nature.bashful",
+          "pokemon.nature.calm",
+          "pokemon.nature.calm",
+          "pokemon.nature.gentle",
+          "pokemon.nature.careful"
         ]
       },
       "toForm": 1

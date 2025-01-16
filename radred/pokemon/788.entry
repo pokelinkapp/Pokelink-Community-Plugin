@@ -20,8 +20,8 @@
     "RadRed.Abilities.telepathy"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.fairy"
+    "pokemon.type.water",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

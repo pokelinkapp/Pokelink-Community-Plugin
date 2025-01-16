@@ -22,8 +22,8 @@
     "RadRed.Abilities.pixilate"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.fairy"
+    "pokemon.type.dragon",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

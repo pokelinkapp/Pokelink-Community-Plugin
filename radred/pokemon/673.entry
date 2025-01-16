@@ -20,7 +20,7 @@
     "RadRed.Abilities.grass_pelt"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

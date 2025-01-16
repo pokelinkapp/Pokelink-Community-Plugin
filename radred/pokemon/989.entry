@@ -20,8 +20,8 @@
     "RadRed.Abilities.watercompaction"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.ground"
+    "pokemon.type.electric",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

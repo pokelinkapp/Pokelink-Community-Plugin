@@ -20,8 +20,8 @@
     "RadRed.Abilities.stakeout"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.ghost"
+    "pokemon.type.ice",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.white",

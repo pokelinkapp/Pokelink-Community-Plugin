@@ -20,8 +20,8 @@
     "RadRed.Abilities.sharpness"
   ],
   "types": [
-    "pkhex.type.flying",
-    "pkhex.type.fighting"
+    "pokemon.type.flying",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

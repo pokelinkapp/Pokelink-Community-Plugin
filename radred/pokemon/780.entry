@@ -20,8 +20,8 @@
     "RadRed.Abilities.fatal_precision"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.dragon"
+    "pokemon.type.normal",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.white",

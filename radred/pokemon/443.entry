@@ -20,8 +20,8 @@
     "RadRed.Abilities.rough_skin"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.ground"
+    "pokemon.type.dragon",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

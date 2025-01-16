@@ -20,7 +20,7 @@
     "RadRed.Abilities.effect_spore"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.green",

@@ -3,7 +3,7 @@
     {
       "to": 952,
       "conditions": {
-        "pokemon.evolve.useItem": "pkhex.item.gen9.fire_stone"
+        "pokemon.evolve.useItem": "pokemon.item.gen9.fire_stone"
       }
     }
   ]

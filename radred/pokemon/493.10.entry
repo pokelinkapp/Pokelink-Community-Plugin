@@ -22,7 +22,7 @@
     "RadRed.Abilities.multitype"
   ],
   "types": [
-    "pkhex.type.water"
+    "pokemon.type.water"
   ],
   "baseFriendship": 0,
   "color": "color.white",

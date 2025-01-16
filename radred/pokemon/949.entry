@@ -20,8 +20,8 @@
     "RadRed.Abilities.clear_body"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.grass"
+    "pokemon.type.ground",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.black",

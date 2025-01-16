@@ -22,8 +22,8 @@
     "RadRed.Abilities.teravolt"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.ice"
+    "pokemon.type.dragon",
+    "pokemon.type.ice"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

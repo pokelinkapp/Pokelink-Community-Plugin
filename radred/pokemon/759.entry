@@ -20,8 +20,8 @@
     "RadRed.Abilities.cute_charm"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.fighting"
+    "pokemon.type.normal",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

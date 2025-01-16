@@ -20,8 +20,8 @@
     "RadRed.Abilities.sharpness"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.ghost"
+    "pokemon.type.steel",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.rain_dish"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.poison"
+    "pokemon.type.water",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

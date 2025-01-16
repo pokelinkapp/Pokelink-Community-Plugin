@@ -20,8 +20,8 @@
     "RadRed.Abilities.hustle"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.dragon"
+    "pokemon.type.grass",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.green",

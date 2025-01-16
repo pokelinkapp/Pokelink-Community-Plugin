@@ -20,8 +20,8 @@
     "RadRed.Abilities.levitate"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.psychic"
+    "pokemon.type.rock",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.red",

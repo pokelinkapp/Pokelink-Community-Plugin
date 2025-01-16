@@ -20,8 +20,8 @@
     "RadRed.Abilities.soul_heart"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.fairy"
+    "pokemon.type.steel",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

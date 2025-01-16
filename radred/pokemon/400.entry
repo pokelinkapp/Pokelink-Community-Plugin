@@ -20,8 +20,8 @@
     "RadRed.Abilities.simple"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.water"
+    "pokemon.type.normal",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.psychic"
+    "pokemon.type.water",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

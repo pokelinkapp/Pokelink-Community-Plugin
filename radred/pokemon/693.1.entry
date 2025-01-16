@@ -22,8 +22,8 @@
     "RadRed.Abilities.mega_launcher"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.dark"
+    "pokemon.type.bug",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

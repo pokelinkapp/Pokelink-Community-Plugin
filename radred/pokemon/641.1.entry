@@ -22,7 +22,7 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.flying"
+    "pokemon.type.flying"
   ],
   "baseFriendship": 90,
   "color": "color.green",

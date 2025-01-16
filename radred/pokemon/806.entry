@@ -20,8 +20,8 @@
     "RadRed.Abilities.beast_boost"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.ghost"
+    "pokemon.type.fire",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 0,
   "color": "color.white",

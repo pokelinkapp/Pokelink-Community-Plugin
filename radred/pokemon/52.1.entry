@@ -22,7 +22,7 @@
     "RadRed.Abilities.feline_prowess"
   ],
   "types": [
-    "pkhex.type.dark"
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

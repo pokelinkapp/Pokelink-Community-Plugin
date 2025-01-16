@@ -22,8 +22,8 @@
     "RadRed.Abilities.magician"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.dark"
+    "pokemon.type.psychic",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.adaptability"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.normal"
+    "pokemon.type.fire",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

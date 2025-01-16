@@ -20,8 +20,8 @@
     "RadRed.Abilities.scrappy"
   ],
   "types": [
-    "pkhex.type.fighting",
-    "pkhex.type.dark"
+    "pokemon.type.fighting",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.white",

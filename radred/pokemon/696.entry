@@ -20,8 +20,8 @@
     "RadRed.Abilities.sturdy"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.dragon"
+    "pokemon.type.rock",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

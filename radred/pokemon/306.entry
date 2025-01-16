@@ -20,8 +20,8 @@
     "RadRed.Abilities.heavy_metal"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.rock"
+    "pokemon.type.steel",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 35,
   "color": "color.gray",

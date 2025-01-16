@@ -20,8 +20,8 @@
     "RadRed.Abilities.prankster"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.normal"
+    "pokemon.type.poison",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

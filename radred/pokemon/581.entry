@@ -20,8 +20,8 @@
     "RadRed.Abilities.no_guard"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.flying"
+    "pokemon.type.water",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.white",

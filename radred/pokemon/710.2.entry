@@ -21,8 +21,8 @@
     "RadRed.Abilities.insomnia"
   ],
   "types": [
-    "pkhex.type.ghost",
-    "pkhex.type.grass"
+    "pokemon.type.ghost",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

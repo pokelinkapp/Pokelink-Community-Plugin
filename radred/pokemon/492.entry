@@ -20,7 +20,7 @@
     "RadRed.Abilities.natural_cure"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 100,
   "color": "color.green",

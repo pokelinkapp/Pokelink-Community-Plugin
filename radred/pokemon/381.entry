@@ -20,8 +20,8 @@
     "RadRed.Abilities.levitate"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.psychic"
+    "pokemon.type.dragon",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 90,
   "color": "color.blue",

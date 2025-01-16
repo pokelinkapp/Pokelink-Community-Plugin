@@ -22,8 +22,8 @@
     "RadRed.Abilities.disguise"
   ],
   "types": [
-    "pkhex.type.ghost",
-    "pkhex.type.fairy"
+    "pokemon.type.ghost",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

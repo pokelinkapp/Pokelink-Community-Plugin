@@ -20,8 +20,8 @@
     "RadRed.Abilities.unnerve"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.dark"
+    "pokemon.type.rock",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 35,
   "color": "color.green",

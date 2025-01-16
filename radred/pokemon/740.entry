@@ -20,8 +20,8 @@
     "RadRed.Abilities.anger_point"
   ],
   "types": [
-    "pkhex.type.fighting",
-    "pkhex.type.ice"
+    "pokemon.type.fighting",
+    "pokemon.type.ice"
   ],
   "baseFriendship": 50,
   "color": "color.white",

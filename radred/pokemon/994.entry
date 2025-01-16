@@ -20,8 +20,8 @@
     "RadRed.Abilities.quark_drive"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.poison"
+    "pokemon.type.fire",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 0,
   "color": "color.white",

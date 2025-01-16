@@ -20,8 +20,8 @@
     "RadRed.Abilities.competitive"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.steel"
+    "pokemon.type.water",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

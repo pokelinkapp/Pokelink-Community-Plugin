@@ -22,8 +22,8 @@
     "RadRed.Abilities.adaptability"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.ground"
+    "pokemon.type.water",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

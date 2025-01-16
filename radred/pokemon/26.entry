@@ -20,8 +20,8 @@
     "RadRed.Abilities.lightning_rod"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.normal"
+    "pokemon.type.electric",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

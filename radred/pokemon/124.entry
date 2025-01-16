@@ -20,8 +20,8 @@
     "RadRed.Abilities.dry_skin"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.psychic"
+    "pokemon.type.ice",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.red",

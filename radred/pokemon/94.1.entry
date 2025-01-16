@@ -22,8 +22,8 @@
     "RadRed.Abilities.shadow_tag"
   ],
   "types": [
-    "pkhex.type.ghost",
-    "pkhex.type.poison"
+    "pokemon.type.ghost",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.aroma_veil"
   ],
   "types": [
-    "pkhex.type.fairy"
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

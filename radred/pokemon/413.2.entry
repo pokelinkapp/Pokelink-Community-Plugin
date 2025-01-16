@@ -22,8 +22,8 @@
     "RadRed.Abilities.overcoat"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.steel"
+    "pokemon.type.bug",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.red",

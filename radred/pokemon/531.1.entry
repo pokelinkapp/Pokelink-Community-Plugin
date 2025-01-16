@@ -22,8 +22,8 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.fairy"
+    "pokemon.type.normal",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.white",

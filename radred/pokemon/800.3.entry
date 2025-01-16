@@ -22,8 +22,8 @@
     "RadRed.Abilities.neuroforce"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.dragon"
+    "pokemon.type.psychic",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.yellow",

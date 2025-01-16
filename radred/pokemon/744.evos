@@ -20,7 +20,7 @@
       "conditions": {
         "pokemon.evolve.level": 25,
         "pokemon.evolve.time": "timeOfDay.dusk",
-        "pokemon.evolve.ability": "pkhex.ability.own_tempo"
+        "pokemon.evolve.ability": "pokemon.ability.own_tempo"
       },
       "toForm": 2
     }

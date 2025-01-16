@@ -8,7 +8,7 @@
         },
         "pokemon.evolve.or": {
           "pokemon.evolve.trade": {
-            "pokemon.evolve.holdItem": "pkhex.item.gen9.prism_scale"
+            "pokemon.evolve.holdItem": "pokemon.item.gen9.prism_scale"
           }
         }
       }

@@ -22,8 +22,8 @@
     "RadRed.Abilities.motor_drive"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.flying"
+    "pokemon.type.electric",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.red",

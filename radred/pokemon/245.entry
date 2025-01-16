@@ -20,7 +20,7 @@
     "RadRed.Abilities.inner_focus"
   ],
   "types": [
-    "pkhex.type.water"
+    "pokemon.type.water"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

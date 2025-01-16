@@ -20,8 +20,8 @@
     "RadRed.Abilities.fur_coat"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.psychic"
+    "pokemon.type.normal",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.white",

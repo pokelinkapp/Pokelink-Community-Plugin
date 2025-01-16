@@ -20,7 +20,7 @@
     "RadRed.Abilities.early_bird"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

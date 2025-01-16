@@ -3,7 +3,7 @@
     {
       "to": 40,
       "conditions": {
-        "pokemon.evolve.useItem": "pkhex.item.gen9.moon_stone"
+        "pokemon.evolve.useItem": "pokemon.item.gen9.moon_stone"
       }
     }
   ]

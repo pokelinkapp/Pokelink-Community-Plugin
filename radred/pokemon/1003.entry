@@ -20,8 +20,8 @@
     "RadRed.Abilities.vessel_of_ruin"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.ground"
+    "pokemon.type.dark",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 0,
   "color": "color.brown",

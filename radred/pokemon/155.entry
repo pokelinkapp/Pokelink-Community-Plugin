@@ -20,7 +20,7 @@
     "RadRed.Abilities.flash_fire"
   ],
   "types": [
-    "pkhex.type.fire"
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

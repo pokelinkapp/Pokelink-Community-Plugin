@@ -20,7 +20,7 @@
     "RadRed.Abilities.own_tempo"
   ],
   "types": [
-    "pkhex.type.fairy"
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

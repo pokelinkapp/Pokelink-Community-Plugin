@@ -22,8 +22,8 @@
     "RadRed.Abilities.mountaineer"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.fire"
+    "pokemon.type.steel",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.black",

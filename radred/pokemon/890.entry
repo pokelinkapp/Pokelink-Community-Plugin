@@ -20,8 +20,8 @@
     "RadRed.Abilities.pressure"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.dragon"
+    "pokemon.type.poison",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

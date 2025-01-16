@@ -20,8 +20,8 @@
     "RadRed.Abilities.run_away"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.poison"
+    "pokemon.type.bug",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

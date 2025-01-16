@@ -20,8 +20,8 @@
     "RadRed.Abilities.prankster"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.fairy"
+    "pokemon.type.bug",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

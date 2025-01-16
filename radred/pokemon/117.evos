@@ -4,7 +4,7 @@
       "to": 230,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pkhex.item.gen9.dragon_scale"
+          "pokemon.evolve.holdItem": "pokemon.item.gen9.dragon_scale"
         }
       }
     }

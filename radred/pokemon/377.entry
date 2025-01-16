@@ -20,7 +20,7 @@
     "RadRed.Abilities.solid_rock"
   ],
   "types": [
-    "pkhex.type.rock"
+    "pokemon.type.rock"
   ],
   "baseFriendship": 35,
   "color": "color.brown",

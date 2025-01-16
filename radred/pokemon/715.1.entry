@@ -22,8 +22,8 @@
     "RadRed.Abilities.levitate"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.ghost"
+    "pokemon.type.rock",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

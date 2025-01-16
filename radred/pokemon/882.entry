@@ -20,8 +20,8 @@
     "RadRed.Abilities.sand_rush"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.dragon"
+    "pokemon.type.water",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.green",

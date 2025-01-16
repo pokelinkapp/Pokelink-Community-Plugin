@@ -22,8 +22,8 @@
     "RadRed.Abilities.sheer_force"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.ground"
+    "pokemon.type.fire",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.red",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.emergency_exit"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.water"
+    "pokemon.type.bug",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

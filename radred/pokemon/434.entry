@@ -20,8 +20,8 @@
     "RadRed.Abilities.frisk"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.dark"
+    "pokemon.type.poison",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

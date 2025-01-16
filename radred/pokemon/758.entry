@@ -20,8 +20,8 @@
     "RadRed.Abilities.oblivious"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.fire"
+    "pokemon.type.poison",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.black",

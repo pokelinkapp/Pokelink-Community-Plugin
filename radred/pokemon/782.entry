@@ -20,7 +20,7 @@
     "RadRed.Abilities.overcoat"
   ],
   "types": [
-    "pkhex.type.dragon"
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

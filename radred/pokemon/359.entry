@@ -20,7 +20,7 @@
     "RadRed.Abilities.justified"
   ],
   "types": [
-    "pkhex.type.dark"
+    "pokemon.type.dark"
   ],
   "baseFriendship": 35,
   "color": "color.white",

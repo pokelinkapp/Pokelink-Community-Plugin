@@ -22,8 +22,8 @@
     "RadRed.Abilities.lightning_rod"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.psychic"
+    "pokemon.type.electric",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

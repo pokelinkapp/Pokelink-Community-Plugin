@@ -20,8 +20,8 @@
     "RadRed.Abilities.mold_breaker"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.steel"
+    "pokemon.type.ground",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

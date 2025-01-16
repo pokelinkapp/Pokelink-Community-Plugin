@@ -20,7 +20,7 @@
     "RadRed.Abilities.volt_absorb"
   ],
   "types": [
-    "pkhex.type.electric"
+    "pokemon.type.electric"
   ],
   "baseFriendship": 100,
   "color": "color.white",

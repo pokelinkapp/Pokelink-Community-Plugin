@@ -20,8 +20,8 @@
     "RadRed.Abilities.water_bubble"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.ghost"
+    "pokemon.type.water",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 50,
   "color": "color.white",

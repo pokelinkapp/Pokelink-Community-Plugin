@@ -22,8 +22,8 @@
     "RadRed.Abilities.thick_fat"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.grass"
+    "pokemon.type.normal",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.black",

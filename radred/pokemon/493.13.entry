@@ -22,7 +22,7 @@
     "RadRed.Abilities.multitype"
   ],
   "types": [
-    "pkhex.type.psychic"
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 0,
   "color": "color.white",

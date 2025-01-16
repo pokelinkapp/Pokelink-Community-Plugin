@@ -20,8 +20,8 @@
     "RadRed.Abilities.gale_wings"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.flying"
+    "pokemon.type.normal",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.red",

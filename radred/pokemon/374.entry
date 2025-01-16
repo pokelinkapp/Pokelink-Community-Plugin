@@ -20,8 +20,8 @@
     "RadRed.Abilities.magnet_pull"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.psychic"
+    "pokemon.type.steel",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

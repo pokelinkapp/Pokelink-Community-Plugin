@@ -22,8 +22,8 @@
     "RadRed.Abilities.sharpness"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.fighting"
+    "pokemon.type.water",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 35,
   "color": "color.yellow",

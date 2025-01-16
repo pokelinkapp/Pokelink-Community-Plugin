@@ -20,8 +20,8 @@
     "RadRed.Abilities.bull_rush"
   ],
   "types": [
-    "pkhex.type.fairy",
-    "pkhex.type.fighting"
+    "pokemon.type.fairy",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

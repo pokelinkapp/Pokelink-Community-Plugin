@@ -22,7 +22,7 @@
     "RadRed.Abilities.battle_armor"
   ],
   "types": [
-    "pkhex.type.electric"
+    "pokemon.type.electric"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

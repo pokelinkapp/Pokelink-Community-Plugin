@@ -22,8 +22,8 @@
     "RadRed.Abilities.prankster"
   ],
   "types": [
-    "pkhex.type.ghost",
-    "pkhex.type.normal"
+    "pokemon.type.ghost",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 35,
   "color": "color.black",

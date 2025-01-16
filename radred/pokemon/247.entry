@@ -20,8 +20,8 @@
     "RadRed.Abilities.shed_skin"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.ground"
+    "pokemon.type.rock",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 35,
   "color": "color.gray",

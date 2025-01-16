@@ -4,7 +4,7 @@
       "to": 113,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.holdItem": "pkhex.item.gen9.oval_stone",
+          "pokemon.evolve.holdItem": "pokemon.item.gen9.oval_stone",
           "pokemon.evolve.time": "timeOfDay.day"
         }
       }

@@ -22,8 +22,8 @@
     "RadRed.Abilities.steadfast"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.fighting"
+    "pokemon.type.psychic",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

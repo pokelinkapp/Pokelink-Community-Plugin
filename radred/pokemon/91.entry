@@ -20,8 +20,8 @@
     "RadRed.Abilities.overcoat"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.ice"
+    "pokemon.type.water",
+    "pokemon.type.ice"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

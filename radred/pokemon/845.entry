@@ -20,8 +20,8 @@
     "RadRed.Abilities.gulp_missile"
   ],
   "types": [
-    "pkhex.type.flying",
-    "pkhex.type.water"
+    "pokemon.type.flying",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

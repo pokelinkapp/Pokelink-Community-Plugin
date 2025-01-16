@@ -4,7 +4,7 @@
       "to": 904,
       "conditions": {
         "pokemon.evolve.useMoveHisui": {
-          "move": "pkhex.move.barb_barrage",
+          "move": "pokemon.move.barb_barrage",
           "count": 20,
           "style": "moveStyle.strong"
         }

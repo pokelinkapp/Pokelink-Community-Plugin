@@ -22,8 +22,8 @@
     "RadRed.Abilities.misty_surge"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.fairy"
+    "pokemon.type.poison",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

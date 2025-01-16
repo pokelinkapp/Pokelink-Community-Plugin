@@ -20,8 +20,8 @@
     "RadRed.Abilities.shadow_tag"
   ],
   "types": [
-    "pkhex.type.ghost",
-    "pkhex.type.fire"
+    "pokemon.type.ghost",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.white",

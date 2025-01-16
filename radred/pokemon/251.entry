@@ -20,8 +20,8 @@
     "RadRed.Abilities.natural_cure"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.grass"
+    "pokemon.type.psychic",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 100,
   "color": "color.green",

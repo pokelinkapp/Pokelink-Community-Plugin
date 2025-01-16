@@ -4,7 +4,7 @@
       "to": 472,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.holdItem": "pkhex.item.gen9.razor_fang",
+          "pokemon.evolve.holdItem": "pokemon.item.gen9.razor_fang",
           "pokemon.evolve.time": "timeOfDay.night"
         }
       }

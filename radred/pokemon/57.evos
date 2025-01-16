@@ -4,7 +4,7 @@
       "to": 979,
       "conditions": {
         "pokemon.evolve.useMove": {
-          "move": "pkhex.move.rage_fist",
+          "move": "pokemon.move.rage_fist",
           "count": 20
         }
       }

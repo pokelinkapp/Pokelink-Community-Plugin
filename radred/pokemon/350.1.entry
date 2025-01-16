@@ -22,8 +22,8 @@
     "RadRed.Abilities.serene_grace"
   ],
   "types": [
-    "pkhex.type.fairy",
-    "pkhex.type.ground"
+    "pokemon.type.fairy",
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

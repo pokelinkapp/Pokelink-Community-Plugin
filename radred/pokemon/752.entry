@@ -20,8 +20,8 @@
     "RadRed.Abilities.water_absorb"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.bug"
+    "pokemon.type.water",
+    "pokemon.type.bug"
   ],
   "baseFriendship": 50,
   "color": "color.green",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.fur_coat"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.water"
+    "pokemon.type.ice",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

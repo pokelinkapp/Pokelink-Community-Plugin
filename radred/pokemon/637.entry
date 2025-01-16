@@ -20,8 +20,8 @@
     "RadRed.Abilities.swarm"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.fire"
+    "pokemon.type.bug",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.white",

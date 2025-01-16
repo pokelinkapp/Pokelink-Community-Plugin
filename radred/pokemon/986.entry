@@ -20,8 +20,8 @@
     "RadRed.Abilities.poison_heal"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.dark"
+    "pokemon.type.grass",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

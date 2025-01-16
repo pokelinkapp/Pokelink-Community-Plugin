@@ -20,7 +20,7 @@
     "RadRed.Abilities.natural_cure"
   ],
   "types": [
-    "pkhex.type.fairy"
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.white",

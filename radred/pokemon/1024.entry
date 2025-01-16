@@ -21,7 +21,7 @@
     "RadRed.Abilities.tera_shell"
   ],
   "types": [
-    "pkhex.type.normal"
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

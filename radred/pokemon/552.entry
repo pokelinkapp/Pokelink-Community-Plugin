@@ -20,8 +20,8 @@
     "RadRed.Abilities.anger_point"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.dark"
+    "pokemon.type.ground",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

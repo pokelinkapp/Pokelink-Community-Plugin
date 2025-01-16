@@ -22,8 +22,8 @@
     "RadRed.Abilities.ice_body"
   ],
   "types": [
-    "pkhex.type.ice",
-    "pkhex.type.electric"
+    "pokemon.type.ice",
+    "pokemon.type.electric"
   ],
   "baseFriendship": 50,
   "color": "color.black",

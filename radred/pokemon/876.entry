@@ -20,8 +20,8 @@
     "RadRed.Abilities.psychic_surge"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.normal"
+    "pokemon.type.psychic",
+    "pokemon.type.normal"
   ],
   "baseFriendship": 140,
   "color": "color.purple",

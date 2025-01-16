@@ -20,8 +20,8 @@
     "RadRed.Abilities.storm_drain"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.water"
+    "pokemon.type.dragon",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.red",

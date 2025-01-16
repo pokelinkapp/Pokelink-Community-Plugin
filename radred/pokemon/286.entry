@@ -20,8 +20,8 @@
     "RadRed.Abilities.technician"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.fighting"
+    "pokemon.type.grass",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.green",

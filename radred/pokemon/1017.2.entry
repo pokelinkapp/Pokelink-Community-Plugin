@@ -22,8 +22,8 @@
     "RadRed.Abilities.mold_breaker"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.fire"
+    "pokemon.type.grass",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.red",

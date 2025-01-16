@@ -20,8 +20,8 @@
     "RadRed.Abilities.reckless"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.rock"
+    "pokemon.type.ground",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.clear_body"
   ],
   "types": [
-    "pkhex.type.steel"
+    "pokemon.type.steel"
   ],
   "baseFriendship": 35,
   "color": "color.gray",

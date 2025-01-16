@@ -22,8 +22,8 @@
     "RadRed.Abilities.zen_mode"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.psychic"
+    "pokemon.type.fire",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

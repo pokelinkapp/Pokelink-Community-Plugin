@@ -20,8 +20,8 @@
     "RadRed.Abilities.sharpness"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.psychic"
+    "pokemon.type.grass",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 0,
   "color": "color.green",

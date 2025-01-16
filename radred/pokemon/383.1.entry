@@ -22,8 +22,8 @@
     "RadRed.Abilities.desolate_land"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.fire"
+    "pokemon.type.ground",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 0,
   "color": "color.red",

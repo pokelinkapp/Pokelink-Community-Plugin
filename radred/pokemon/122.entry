@@ -20,8 +20,8 @@
     "RadRed.Abilities.misty_surge"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.fairy"
+    "pokemon.type.psychic",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

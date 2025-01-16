@@ -20,8 +20,8 @@
     "RadRed.Abilities.protosynthesis"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.fighting"
+    "pokemon.type.ground",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.magnet_pull"
   ],
   "types": [
-    "pkhex.type.steel"
+    "pokemon.type.steel"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

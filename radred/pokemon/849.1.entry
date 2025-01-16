@@ -22,8 +22,8 @@
     "RadRed.Abilities.technician"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.poison"
+    "pokemon.type.electric",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.purple",

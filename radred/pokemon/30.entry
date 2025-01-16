@@ -20,7 +20,7 @@
     "RadRed.Abilities.hustle"
   ],
   "types": [
-    "pkhex.type.poison"
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.poison_touch"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.fighting"
+    "pokemon.type.poison",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

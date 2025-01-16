@@ -22,7 +22,7 @@
     "RadRed.Abilities.battle_armor"
   ],
   "types": [
-    "pkhex.type.ghost"
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

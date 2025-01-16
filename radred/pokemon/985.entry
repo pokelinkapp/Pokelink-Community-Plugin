@@ -20,8 +20,8 @@
     "RadRed.Abilities.tangling_hair"
   ],
   "types": [
-    "pkhex.type.fairy",
-    "pkhex.type.psychic"
+    "pokemon.type.fairy",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 0,
   "color": "color.pink",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.damp"
   ],
   "types": [
-    "pkhex.type.electric"
+    "pokemon.type.electric"
   ],
   "baseFriendship": 50,
   "color": "color.green",

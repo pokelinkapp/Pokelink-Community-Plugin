@@ -20,8 +20,8 @@
     "RadRed.Abilities.beast_boost"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.dragon"
+    "pokemon.type.dark",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.black",

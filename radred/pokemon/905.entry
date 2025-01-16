@@ -20,8 +20,8 @@
     "RadRed.Abilities.contrary"
   ],
   "types": [
-    "pkhex.type.fairy",
-    "pkhex.type.flying"
+    "pokemon.type.fairy",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

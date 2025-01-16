@@ -20,8 +20,8 @@
     "RadRed.Abilities.leaf_guard"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.poison"
+    "pokemon.type.grass",
+    "pokemon.type.poison"
   ],
   "baseFriendship": 50,
   "color": "color.green",

@@ -22,8 +22,8 @@
     "RadRed.Abilities.levitate"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.steel"
+    "pokemon.type.poison",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 50,
   "color": "color.green",

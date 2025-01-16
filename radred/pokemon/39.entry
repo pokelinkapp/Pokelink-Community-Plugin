@@ -20,8 +20,8 @@
     "RadRed.Abilities.friend_guard"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.fairy"
+    "pokemon.type.normal",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

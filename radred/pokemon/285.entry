@@ -20,7 +20,7 @@
     "RadRed.Abilities.quick_feet"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

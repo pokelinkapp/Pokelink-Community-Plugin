@@ -20,7 +20,7 @@
     "RadRed.Abilities.contrary"
   ],
   "types": [
-    "pkhex.type.normal"
+    "pokemon.type.normal"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

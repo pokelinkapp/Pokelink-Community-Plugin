@@ -20,8 +20,8 @@
     "RadRed.Abilities.dancer"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.flying"
+    "pokemon.type.fire",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.red",

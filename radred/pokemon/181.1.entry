@@ -22,8 +22,8 @@
     "RadRed.Abilities.mold_breaker"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.dragon"
+    "pokemon.type.electric",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

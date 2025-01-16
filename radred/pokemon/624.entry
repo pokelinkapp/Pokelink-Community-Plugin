@@ -20,8 +20,8 @@
     "RadRed.Abilities.pressure"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.steel"
+    "pokemon.type.dark",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 35,
   "color": "color.red",

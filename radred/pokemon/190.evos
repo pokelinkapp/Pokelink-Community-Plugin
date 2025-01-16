@@ -4,7 +4,7 @@
       "to": 424,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pkhex.move.double_hit"
+          "pokemon.evolve.knowMove": "pokemon.move.double_hit"
         }
       }
     }

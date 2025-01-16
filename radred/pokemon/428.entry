@@ -20,8 +20,8 @@
     "RadRed.Abilities.limber"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.fighting"
+    "pokemon.type.normal",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 140,
   "color": "color.brown",

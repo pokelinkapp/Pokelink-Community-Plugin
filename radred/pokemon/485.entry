@@ -20,8 +20,8 @@
     "RadRed.Abilities.flame_body"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.steel"
+    "pokemon.type.fire",
+    "pokemon.type.steel"
   ],
   "baseFriendship": 100,
   "color": "color.brown",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.serene_grace"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.psychic"
+    "pokemon.type.steel",
+    "pokemon.type.psychic"
   ],
   "baseFriendship": 100,
   "color": "color.yellow",

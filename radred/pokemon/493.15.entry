@@ -22,7 +22,7 @@
     "RadRed.Abilities.multitype"
   ],
   "types": [
-    "pkhex.type.dragon"
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.white",

@@ -20,7 +20,7 @@
     "RadRed.Abilities.bone_zone"
   ],
   "types": [
-    "pkhex.type.ground"
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

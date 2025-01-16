@@ -20,7 +20,7 @@
     "RadRed.Abilities.technician"
   ],
   "types": [
-    "pkhex.type.ground"
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.gray",

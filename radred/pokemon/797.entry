@@ -20,8 +20,8 @@
     "RadRed.Abilities.beast_boost"
   ],
   "types": [
-    "pkhex.type.steel",
-    "pkhex.type.flying"
+    "pokemon.type.steel",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 0,
   "color": "color.green",

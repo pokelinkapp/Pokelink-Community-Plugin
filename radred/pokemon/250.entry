@@ -20,8 +20,8 @@
     "RadRed.Abilities.phoenix_down"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.flying"
+    "pokemon.type.fire",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 0,
   "color": "color.red",

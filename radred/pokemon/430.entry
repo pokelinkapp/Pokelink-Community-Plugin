@@ -20,8 +20,8 @@
     "RadRed.Abilities.moxie"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.flying"
+    "pokemon.type.dark",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 35,
   "color": "color.black",

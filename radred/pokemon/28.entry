@@ -20,7 +20,7 @@
     "RadRed.Abilities.sand_rush"
   ],
   "types": [
-    "pkhex.type.ground"
+    "pokemon.type.ground"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

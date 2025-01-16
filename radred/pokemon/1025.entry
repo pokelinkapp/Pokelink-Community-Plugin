@@ -20,8 +20,8 @@
     "RadRed.Abilities.toxic_chain"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.ghost"
+    "pokemon.type.poison",
+    "pokemon.type.ghost"
   ],
   "baseFriendship": 0,
   "color": "color.purple",

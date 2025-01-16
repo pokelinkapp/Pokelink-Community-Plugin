@@ -22,8 +22,8 @@
     "RadRed.Abilities.pixilate"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.fairy"
+    "pokemon.type.psychic",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 35,
   "color": "color.white",

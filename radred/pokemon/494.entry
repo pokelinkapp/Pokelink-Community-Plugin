@@ -20,8 +20,8 @@
     "RadRed.Abilities.victory_star"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.fire"
+    "pokemon.type.psychic",
+    "pokemon.type.fire"
   ],
   "baseFriendship": 100,
   "color": "color.yellow",

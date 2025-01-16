@@ -20,8 +20,8 @@
     "RadRed.Abilities.tablets_of_ruin"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.grass"
+    "pokemon.type.dark",
+    "pokemon.type.grass"
   ],
   "baseFriendship": 0,
   "color": "color.brown",

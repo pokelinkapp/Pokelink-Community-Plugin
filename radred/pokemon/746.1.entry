@@ -22,7 +22,7 @@
     "RadRed.Abilities.schooling"
   ],
   "types": [
-    "pkhex.type.water"
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

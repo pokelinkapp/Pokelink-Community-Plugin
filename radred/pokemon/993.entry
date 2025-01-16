@@ -20,8 +20,8 @@
     "RadRed.Abilities.quark_drive"
   ],
   "types": [
-    "pkhex.type.dark",
-    "pkhex.type.flying"
+    "pokemon.type.dark",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 0,
   "color": "color.blue",

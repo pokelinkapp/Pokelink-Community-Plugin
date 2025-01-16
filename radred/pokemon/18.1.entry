@@ -22,8 +22,8 @@
     "RadRed.Abilities.no_guard"
   ],
   "types": [
-    "pkhex.type.normal",
-    "pkhex.type.flying"
+    "pokemon.type.normal",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

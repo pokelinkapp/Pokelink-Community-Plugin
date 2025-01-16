@@ -22,8 +22,8 @@
     "RadRed.Abilities.rock_head"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.rock"
+    "pokemon.type.fire",
+    "pokemon.type.rock"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

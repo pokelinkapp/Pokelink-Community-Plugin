@@ -20,8 +20,8 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.poison",
-    "pkhex.type.water"
+    "pokemon.type.poison",
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

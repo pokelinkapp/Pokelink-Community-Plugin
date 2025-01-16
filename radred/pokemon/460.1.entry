@@ -22,8 +22,8 @@
     "RadRed.Abilities.snow_warning"
   ],
   "types": [
-    "pkhex.type.grass",
-    "pkhex.type.ice"
+    "pokemon.type.grass",
+    "pokemon.type.ice"
   ],
   "baseFriendship": 50,
   "color": "color.white",

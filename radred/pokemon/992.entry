@@ -20,8 +20,8 @@
     "RadRed.Abilities.quark_drive"
   ],
   "types": [
-    "pkhex.type.fighting",
-    "pkhex.type.electric"
+    "pokemon.type.fighting",
+    "pokemon.type.electric"
   ],
   "baseFriendship": 0,
   "color": "color.gray",

@@ -22,8 +22,8 @@
     "RadRed.Abilities.speed_boost"
   ],
   "types": [
-    "pkhex.type.fire",
-    "pkhex.type.fighting"
+    "pokemon.type.fire",
+    "pokemon.type.fighting"
   ],
   "baseFriendship": 50,
   "color": "color.red",

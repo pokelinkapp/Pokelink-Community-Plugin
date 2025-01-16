@@ -20,7 +20,7 @@
     "RadRed.Abilities.vital_spirit"
   ],
   "types": [
-    "pkhex.type.fire"
+    "pokemon.type.fire"
   ],
   "baseFriendship": 50,
   "color": "color.red",

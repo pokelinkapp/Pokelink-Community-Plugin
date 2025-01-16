@@ -20,8 +20,8 @@
     "RadRed.Abilities.levitate"
   ],
   "types": [
-    "pkhex.type.bug",
-    "pkhex.type.electric"
+    "pokemon.type.bug",
+    "pokemon.type.electric"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

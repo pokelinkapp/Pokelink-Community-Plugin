@@ -22,8 +22,8 @@
     "RadRed.Abilities.as_one"
   ],
   "types": [
-    "pkhex.type.psychic",
-    "pkhex.type.ice"
+    "pokemon.type.psychic",
+    "pokemon.type.ice"
   ],
   "baseFriendship": 100,
   "color": "color.white",

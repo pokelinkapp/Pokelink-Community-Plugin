@@ -20,8 +20,8 @@
     "RadRed.Abilities.clear_body"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.fairy"
+    "pokemon.type.rock",
+    "pokemon.type.fairy"
   ],
   "baseFriendship": 50,
   "color": "color.pink",

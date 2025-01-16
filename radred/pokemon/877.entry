@@ -20,8 +20,8 @@
     "RadRed.Abilities.hunger_switch"
   ],
   "types": [
-    "pkhex.type.electric",
-    "pkhex.type.dark"
+    "pokemon.type.electric",
+    "pokemon.type.dark"
   ],
   "baseFriendship": 50,
   "color": "color.yellow",

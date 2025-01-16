@@ -20,7 +20,7 @@
     "RadRed.Abilities.inner_focus"
   ],
   "types": [
-    "pkhex.type.dark"
+    "pokemon.type.dark"
   ],
   "baseFriendship": 35,
   "color": "color.black",

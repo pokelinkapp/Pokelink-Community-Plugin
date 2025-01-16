@@ -20,8 +20,8 @@
     "RadRed.Abilities.quark_drive"
   ],
   "types": [
-    "pkhex.type.water",
-    "pkhex.type.ice"
+    "pokemon.type.water",
+    "pokemon.type.ice"
   ],
   "baseFriendship": 0,
   "color": "color.red",

@@ -20,8 +20,8 @@
     "RadRed.Abilities.orichalcumpulse"
   ],
   "types": [
-    "pkhex.type.fighting",
-    "pkhex.type.dragon"
+    "pokemon.type.fighting",
+    "pokemon.type.dragon"
   ],
   "baseFriendship": 0,
   "color": "color.red",

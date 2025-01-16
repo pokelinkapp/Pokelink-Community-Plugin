@@ -20,7 +20,7 @@
     "RadRed.Abilities.swift_swim"
   ],
   "types": [
-    "pkhex.type.water"
+    "pokemon.type.water"
   ],
   "baseFriendship": 50,
   "color": "color.green",

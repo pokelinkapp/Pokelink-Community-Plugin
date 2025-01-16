@@ -20,7 +20,7 @@
     "RadRed.Abilities.regenerator"
   ],
   "types": [
-    "pkhex.type.grass"
+    "pokemon.type.grass"
   ],
   "baseFriendship": 50,
   "color": "color.blue",

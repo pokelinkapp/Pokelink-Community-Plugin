@@ -4,7 +4,7 @@
       "to": 226,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.presentInParty": "pkhex.species.remoraid"
+          "pokemon.evolve.presentInParty": "pokemon.species.remoraid"
         }
       }
     }

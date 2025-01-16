@@ -20,8 +20,8 @@
     "RadRed.Abilities.shields_down"
   ],
   "types": [
-    "pkhex.type.rock",
-    "pkhex.type.flying"
+    "pokemon.type.rock",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 50,
   "color": "color.brown",

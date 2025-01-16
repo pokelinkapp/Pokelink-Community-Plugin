@@ -22,8 +22,8 @@
     "RadRed.Abilities.aerilate"
   ],
   "types": [
-    "pkhex.type.dragon",
-    "pkhex.type.flying"
+    "pokemon.type.dragon",
+    "pokemon.type.flying"
   ],
   "baseFriendship": 35,
   "color": "color.blue",

@@ -22,8 +22,8 @@
     "RadRed.Abilities.arena_trap"
   ],
   "types": [
-    "pkhex.type.ground",
-    "pkhex.type.bug"
+    "pokemon.type.ground",
+    "pokemon.type.bug"
   ],
   "baseFriendship": 50,
   "color": "color.red",
