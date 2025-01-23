@@ -30,7 +30,7 @@
     "typeChart": "pokelink:/typeCharts/gen6.typeChart",
     "hatchMultiplier": 256,
     "gameId": "FIRE_RED",
-    "emulator": "Emulator.Bizhawk",
+    "console": "gba",
     "memoryMaps": [
         {
             "__import": {
