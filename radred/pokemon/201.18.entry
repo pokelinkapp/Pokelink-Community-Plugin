@@ -2,7 +2,7 @@
   "form": 18,
   "gameId": 430,
   "name": "RadRed.Species.unown",
-  "formName": "RadRed.Forms.a",
+  "formName": "RadRed.Forms.s",
   "sprites": {
     "shiny": "pokelink-community:/radred/assets/sprites/201.18.png",
     "normal": "pokelink-community:/radred/assets/sprites/201.18.png",
