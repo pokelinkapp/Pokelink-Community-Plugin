@@ -4,7 +4,33 @@
       "to": 586,
       "conditions": {
         "pokemon.evolve.level": 34
-      }
+      },
+      "toForm": 0,
+      "fromForm": 0
+    },
+    {
+      "to": 586,
+      "conditions": {
+        "pokemon.evolve.level": 34
+      },
+      "toForm": 1,
+      "fromForm": 1
+    },
+    {
+      "to": 586,
+      "conditions": {
+        "pokemon.evolve.level": 34
+      },
+      "toForm": 2,
+      "fromForm": 2
+    },
+    {
+      "to": 586,
+      "conditions": {
+        "pokemon.evolve.level": 34
+      },
+      "toForm": 3,
+      "fromForm": 3
     }
   ]
 }

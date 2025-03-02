@@ -3,13 +3,15 @@
     {
       "to": 678,
       "conditions": {
-        "pokemon.evolve.level": 25
+        "pokemon.evolve.level": 25,
+        "pokemon.evolve.gender": "Gender.male"
       }
     },
     {
       "to": 678,
       "conditions": {
-        "pokemon.evolve.level": 25
+        "pokemon.evolve.level": 25,
+        "pokemon.evolve.gender": "Gender.female"
       },
       "toForm": 1
     }

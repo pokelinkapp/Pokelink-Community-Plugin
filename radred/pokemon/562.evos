@@ -11,9 +11,7 @@
     {
       "to": 867,
       "conditions": {
-        "pokemon.evolve.levelUp": {
-          "pokemon.evolve.location": "area.nearDustyBowl"
-        }
+        "pokemon.evolve.galarianYamask": {}
       },
       "fromForm": 1
     }

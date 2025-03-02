@@ -3,7 +3,8 @@
     {
       "to": 666,
       "conditions": {
-        "pokemon.evolve.level": 12
+        "pokemon.evolve.level": 12,
+        "pokemon.note.vivillonPattern": {}
       }
     }
   ]
