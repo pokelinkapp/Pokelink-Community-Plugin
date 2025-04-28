@@ -14,7 +14,17 @@
         {
             "component": "pokelink.porygon.gen3.battle",
             "config": {
-                "battleFlag": "0x02023BC8"
+                "battleFlag": "0x02023BC8",
+                "battlePartyScreenFlag": "0x0202000C",
+                "currentSlotInBattleAddress": "0x02023BCE",
+                "partyScreenValues": [
+                    252,
+                    172,
+                    236,
+                    192,
+                    212,
+                    220
+                ]
             }
         },
         {
