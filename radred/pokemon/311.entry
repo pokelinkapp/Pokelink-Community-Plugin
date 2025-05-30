@@ -2,9 +2,9 @@
   "gameId": 353,
   "name": "RadRed.Species.plusle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/311.png",
-    "normal": "pokelink-community:/radred/assets/sprites/311.png",
-    "party": "pokelink-community:/radred/assets/sprites/311.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/311.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/311.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/311.gif"
   },
   "baseStats": {
     "hp": 60,

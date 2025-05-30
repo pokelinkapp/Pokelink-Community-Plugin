@@ -4,9 +4,9 @@
   "name": "RadRed.Species.silvally",
   "formName": "RadRed.Forms.water",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/773.10.png",
-    "normal": "pokelink-community:/radred/assets/sprites/773.10.png",
-    "party": "pokelink-community:/radred/assets/sprites/773.10.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.10.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/773.10.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773-10.gif"
   },
   "baseStats": {
     "hp": 100,

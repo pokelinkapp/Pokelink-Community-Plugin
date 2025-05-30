@@ -2,9 +2,9 @@
   "gameId": 962,
   "name": "RadRed.Species.lycanroc",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/745.png",
-    "normal": "pokelink-community:/radred/assets/sprites/745.png",
-    "party": "pokelink-community:/radred/assets/sprites/745.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/745.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/745.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/745.gif"
   },
   "baseStats": {
     "hp": 75,

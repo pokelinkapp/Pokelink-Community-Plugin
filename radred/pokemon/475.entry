@@ -2,9 +2,9 @@
   "gameId": 528,
   "name": "RadRed.Species.gallade",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/475.png",
-    "normal": "pokelink-community:/radred/assets/sprites/475.png",
-    "party": "pokelink-community:/radred/assets/sprites/475.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/475.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/475.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/475.gif"
   },
   "baseStats": {
     "hp": 68,

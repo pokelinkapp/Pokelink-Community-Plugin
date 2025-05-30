@@ -2,9 +2,9 @@
   "gameId": 581,
   "name": "RadRed.Species.swoobat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/528.png",
-    "normal": "pokelink-community:/radred/assets/sprites/528.png",
-    "party": "pokelink-community:/radred/assets/sprites/528.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/528.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/528.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/528.gif"
   },
   "baseStats": {
     "hp": 75,

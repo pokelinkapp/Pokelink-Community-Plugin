@@ -2,9 +2,9 @@
   "gameId": 1147,
   "name": "RadRed.Species.polteageist",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/855.png",
-    "normal": "pokelink-community:/radred/assets/sprites/855.png",
-    "party": "pokelink-community:/radred/assets/sprites/855.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/855.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/855.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/855.gif"
   },
   "baseStats": {
     "hp": 60,

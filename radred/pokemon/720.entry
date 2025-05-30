@@ -2,9 +2,9 @@
   "gameId": 828,
   "name": "RadRed.Species.hoopa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/720.png",
-    "normal": "pokelink-community:/radred/assets/sprites/720.png",
-    "party": "pokelink-community:/radred/assets/sprites/720.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/720.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/720.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/720.gif"
   },
   "baseStats": {
     "hp": 80,

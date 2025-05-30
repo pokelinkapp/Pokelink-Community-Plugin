@@ -2,9 +2,9 @@
   "gameId": 1162,
   "name": "RadRed.Species.falinks",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/870.png",
-    "normal": "pokelink-community:/radred/assets/sprites/870.png",
-    "party": "pokelink-community:/radred/assets/sprites/870.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/870.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/870.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/870.gif"
   },
   "baseStats": {
     "hp": 75,

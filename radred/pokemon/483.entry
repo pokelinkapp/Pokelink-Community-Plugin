@@ -2,9 +2,9 @@
   "gameId": 536,
   "name": "RadRed.Species.dialga",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/483.png",
-    "normal": "pokelink-community:/radred/assets/sprites/483.png",
-    "party": "pokelink-community:/radred/assets/sprites/483.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/483.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/483.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/483.gif"
   },
   "baseStats": {
     "hp": 100,

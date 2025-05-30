@@ -2,9 +2,9 @@
   "gameId": 593,
   "name": "RadRed.Species.sewaddle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/540.png",
-    "normal": "pokelink-community:/radred/assets/sprites/540.png",
-    "party": "pokelink-community:/radred/assets/sprites/540.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/540.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/540.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/540.gif"
   },
   "baseStats": {
     "hp": 45,

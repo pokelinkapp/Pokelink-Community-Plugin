@@ -2,9 +2,9 @@
   "gameId": 665,
   "name": "RadRed.Species.haxorus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/612.png",
-    "normal": "pokelink-community:/radred/assets/sprites/612.png",
-    "party": "pokelink-community:/radred/assets/sprites/612.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/612.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/612.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/612.gif"
   },
   "baseStats": {
     "hp": 76,

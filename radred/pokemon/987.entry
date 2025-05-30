@@ -2,9 +2,9 @@
   "gameId": 1246,
   "name": "RadRed.Species.flutter_mane",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/987.png",
-    "normal": "pokelink-community:/radred/assets/sprites/987.png",
-    "party": "pokelink-community:/radred/assets/sprites/987.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/987.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/987.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/987.gif"
   },
   "baseStats": {
     "hp": 55,

@@ -2,9 +2,9 @@
   "gameId": 688,
   "name": "RadRed.Species.hydreigon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/635.png",
-    "normal": "pokelink-community:/radred/assets/sprites/635.png",
-    "party": "pokelink-community:/radred/assets/sprites/635.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/635.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/635.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/635.gif"
   },
   "baseStats": {
     "hp": 92,

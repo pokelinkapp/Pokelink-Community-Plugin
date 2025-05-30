@@ -2,9 +2,9 @@
   "gameId": 226,
   "name": "RadRed.Species.mantine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/226.png",
-    "normal": "pokelink-community:/radred/assets/sprites/226.png",
-    "party": "pokelink-community:/radred/assets/sprites/226.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/226.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/226.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/226.gif"
   },
   "baseStats": {
     "hp": 85,

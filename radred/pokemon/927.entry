@@ -2,9 +2,9 @@
   "gameId": 1348,
   "name": "RadRed.Species.dachsbun",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/927.png",
-    "normal": "pokelink-community:/radred/assets/sprites/927.png",
-    "party": "pokelink-community:/radred/assets/sprites/927.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/927.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/927.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/927.gif"
   },
   "baseStats": {
     "hp": 57,

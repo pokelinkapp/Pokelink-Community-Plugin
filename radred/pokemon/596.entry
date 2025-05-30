@@ -2,9 +2,9 @@
   "gameId": 649,
   "name": "RadRed.Species.galvantula",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/596.png",
-    "normal": "pokelink-community:/radred/assets/sprites/596.png",
-    "party": "pokelink-community:/radred/assets/sprites/596.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/596.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/596.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/596.gif"
   },
   "baseStats": {
     "hp": 70,

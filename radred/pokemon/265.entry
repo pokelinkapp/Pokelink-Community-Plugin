@@ -2,9 +2,9 @@
   "gameId": 290,
   "name": "RadRed.Species.wurmple",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/265.png",
-    "normal": "pokelink-community:/radred/assets/sprites/265.png",
-    "party": "pokelink-community:/radred/assets/sprites/265.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/265.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/265.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/265.gif"
   },
   "baseStats": {
     "hp": 45,

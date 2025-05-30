@@ -2,9 +2,9 @@
   "gameId": 34,
   "name": "RadRed.Species.nidoking",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/34.png",
-    "normal": "pokelink-community:/radred/assets/sprites/34.png",
-    "party": "pokelink-community:/radred/assets/sprites/34.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/34.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/34.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/34.gif"
   },
   "baseStats": {
     "hp": 81,

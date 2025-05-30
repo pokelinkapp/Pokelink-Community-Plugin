@@ -2,9 +2,9 @@
   "gameId": 190,
   "name": "RadRed.Species.aipom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/190.png",
-    "normal": "pokelink-community:/radred/assets/sprites/190.png",
-    "party": "pokelink-community:/radred/assets/sprites/190.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/190.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/190.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/190.gif"
   },
   "baseStats": {
     "hp": 55,

@@ -2,9 +2,9 @@
   "gameId": 282,
   "name": "RadRed.Species.blaziken",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/257.png",
-    "normal": "pokelink-community:/radred/assets/sprites/257.png",
-    "party": "pokelink-community:/radred/assets/sprites/257.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/257.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/257.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/257.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 175,
   "name": "RadRed.Species.togepi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/175.png",
-    "normal": "pokelink-community:/radred/assets/sprites/175.png",
-    "party": "pokelink-community:/radred/assets/sprites/175.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/175.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/175.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/175.gif"
   },
   "baseStats": {
     "hp": 35,

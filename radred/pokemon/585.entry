@@ -2,9 +2,9 @@
   "gameId": 638,
   "name": "RadRed.Species.deerling",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/585.png",
-    "normal": "pokelink-community:/radred/assets/sprites/585.png",
-    "party": "pokelink-community:/radred/assets/sprites/585.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/585.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/585.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/585.gif"
   },
   "baseStats": {
     "hp": 60,

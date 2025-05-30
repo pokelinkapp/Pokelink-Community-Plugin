@@ -2,9 +2,9 @@
   "gameId": 1322,
   "name": "RadRed.Species.dondozo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/977.png",
-    "normal": "pokelink-community:/radred/assets/sprites/977.png",
-    "party": "pokelink-community:/radred/assets/sprites/977.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/977.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/977.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/977.gif"
   },
   "baseStats": {
     "hp": 150,

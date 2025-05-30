@@ -3,9 +3,9 @@
   "name": "RadRed.Species.terapagos",
   "formName": "RadRed.Forms.terastal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1024.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1024.png",
-    "party": "pokelink-community:/radred/assets/sprites/1024.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1024.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1024.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1024.gif"
   },
   "baseStats": {
     "hp": 110,

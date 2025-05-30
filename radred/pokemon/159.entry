@@ -2,9 +2,9 @@
   "gameId": 159,
   "name": "RadRed.Species.croconaw",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/159.png",
-    "normal": "pokelink-community:/radred/assets/sprites/159.png",
-    "party": "pokelink-community:/radred/assets/sprites/159.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/159.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/159.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/159.gif"
   },
   "baseStats": {
     "hp": 65,

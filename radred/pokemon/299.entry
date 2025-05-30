@@ -2,9 +2,9 @@
   "gameId": 320,
   "name": "RadRed.Species.nosepass",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/299.png",
-    "normal": "pokelink-community:/radred/assets/sprites/299.png",
-    "party": "pokelink-community:/radred/assets/sprites/299.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/299.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/299.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/299.gif"
   },
   "baseStats": {
     "hp": 30,

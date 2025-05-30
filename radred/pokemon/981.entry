@@ -2,9 +2,9 @@
   "gameId": 868,
   "name": "RadRed.Species.farigiraf",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/981.png",
-    "normal": "pokelink-community:/radred/assets/sprites/981.png",
-    "party": "pokelink-community:/radred/assets/sprites/981.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/981.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/981.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/981.gif"
   },
   "baseStats": {
     "hp": 120,

@@ -2,9 +2,9 @@
   "gameId": 863,
   "name": "RadRed.Species.finizen",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/963.png",
-    "normal": "pokelink-community:/radred/assets/sprites/963.png",
-    "party": "pokelink-community:/radred/assets/sprites/963.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/963.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/963.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/963.gif"
   },
   "baseStats": {
     "hp": 70,

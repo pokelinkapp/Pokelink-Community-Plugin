@@ -2,9 +2,9 @@
   "gameId": 511,
   "name": "RadRed.Species.mantyke",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/458.png",
-    "normal": "pokelink-community:/radred/assets/sprites/458.png",
-    "party": "pokelink-community:/radred/assets/sprites/458.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/458.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/458.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/458.gif"
   },
   "baseStats": {
     "hp": 45,

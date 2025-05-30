@@ -2,9 +2,9 @@
   "gameId": 94,
   "name": "RadRed.Species.gengar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/94.png",
-    "normal": "pokelink-community:/radred/assets/sprites/94.png",
-    "party": "pokelink-community:/radred/assets/sprites/94.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/94.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/94.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/94.gif"
   },
   "baseStats": {
     "hp": 60,

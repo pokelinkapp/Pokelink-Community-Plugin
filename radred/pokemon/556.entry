@@ -2,9 +2,9 @@
   "gameId": 609,
   "name": "RadRed.Species.maractus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/556.png",
-    "normal": "pokelink-community:/radred/assets/sprites/556.png",
-    "party": "pokelink-community:/radred/assets/sprites/556.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/556.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/556.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/556.gif"
   },
   "baseStats": {
     "hp": 75,

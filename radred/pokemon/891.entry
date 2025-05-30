@@ -2,9 +2,9 @@
   "gameId": 1183,
   "name": "RadRed.Species.kubfu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/891.png",
-    "normal": "pokelink-community:/radred/assets/sprites/891.png",
-    "party": "pokelink-community:/radred/assets/sprites/891.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/891.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/891.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/891.gif"
   },
   "baseStats": {
     "hp": 60,

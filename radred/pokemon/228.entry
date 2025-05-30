@@ -2,9 +2,9 @@
   "gameId": 228,
   "name": "RadRed.Species.houndour",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/228.png",
-    "normal": "pokelink-community:/radred/assets/sprites/228.png",
-    "party": "pokelink-community:/radred/assets/sprites/228.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/228.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/228.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/228.gif"
   },
   "baseStats": {
     "hp": 45,

@@ -2,9 +2,9 @@
   "gameId": 556,
   "name": "RadRed.Species.samurott",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/503.png",
-    "normal": "pokelink-community:/radred/assets/sprites/503.png",
-    "party": "pokelink-community:/radred/assets/sprites/503.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/503.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/503.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/503.gif"
   },
   "baseStats": {
     "hp": 95,

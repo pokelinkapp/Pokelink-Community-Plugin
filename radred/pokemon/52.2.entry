@@ -4,9 +4,9 @@
   "name": "RadRed.Species.meowth",
   "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/52.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/52.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/52.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/52.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/52.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/52-2.gif"
   },
   "baseStats": {
     "hp": 50,

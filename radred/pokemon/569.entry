@@ -2,9 +2,9 @@
   "gameId": 622,
   "name": "RadRed.Species.garbodor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/569.png",
-    "normal": "pokelink-community:/radred/assets/sprites/569.png",
-    "party": "pokelink-community:/radred/assets/sprites/569.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/569.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/569.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/569.gif"
   },
   "baseStats": {
     "hp": 80,

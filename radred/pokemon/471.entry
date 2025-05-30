@@ -2,9 +2,9 @@
   "gameId": 524,
   "name": "RadRed.Species.glaceon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/471.png",
-    "normal": "pokelink-community:/radred/assets/sprites/471.png",
-    "party": "pokelink-community:/radred/assets/sprites/471.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/471.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/471.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/471.gif"
   },
   "baseStats": {
     "hp": 80,

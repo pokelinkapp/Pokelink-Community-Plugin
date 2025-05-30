@@ -2,9 +2,9 @@
   "gameId": 859,
   "name": "RadRed.Species.greavard",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/971.png",
-    "normal": "pokelink-community:/radred/assets/sprites/971.png",
-    "party": "pokelink-community:/radred/assets/sprites/971.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/971.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/971.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/971.gif"
   },
   "baseStats": {
     "hp": 50,

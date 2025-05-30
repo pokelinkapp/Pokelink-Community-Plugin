@@ -2,9 +2,9 @@
   "gameId": 808,
   "name": "RadRed.Species.sylveon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/700.png",
-    "normal": "pokelink-community:/radred/assets/sprites/700.png",
-    "party": "pokelink-community:/radred/assets/sprites/700.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/700.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/700.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/700.gif"
   },
   "baseStats": {
     "hp": 95,

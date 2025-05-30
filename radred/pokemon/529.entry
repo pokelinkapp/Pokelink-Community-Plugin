@@ -2,9 +2,9 @@
   "gameId": 582,
   "name": "RadRed.Species.drilbur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/529.png",
-    "normal": "pokelink-community:/radred/assets/sprites/529.png",
-    "party": "pokelink-community:/radred/assets/sprites/529.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/529.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/529.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/529.gif"
   },
   "baseStats": {
     "hp": 60,

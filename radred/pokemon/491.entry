@@ -2,9 +2,9 @@
   "gameId": 544,
   "name": "RadRed.Species.darkrai",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/491.png",
-    "normal": "pokelink-community:/radred/assets/sprites/491.png",
-    "party": "pokelink-community:/radred/assets/sprites/491.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/491.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/491.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/491.gif"
   },
   "baseStats": {
     "hp": 70,

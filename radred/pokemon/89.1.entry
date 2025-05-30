@@ -4,9 +4,9 @@
   "name": "RadRed.Species.muk",
   "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/89.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/89.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/89.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/89.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/89.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/89-1.gif"
   },
   "baseStats": {
     "hp": 105,

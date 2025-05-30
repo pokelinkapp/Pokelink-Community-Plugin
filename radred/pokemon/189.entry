@@ -2,9 +2,9 @@
   "gameId": 189,
   "name": "RadRed.Species.jumpluff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/189.png",
-    "normal": "pokelink-community:/radred/assets/sprites/189.png",
-    "party": "pokelink-community:/radred/assets/sprites/189.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/189.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/189.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/189.gif"
   },
   "baseStats": {
     "hp": 75,

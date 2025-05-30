@@ -2,9 +2,9 @@
   "gameId": 1153,
   "name": "RadRed.Species.grimmsnarl",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/861.png",
-    "normal": "pokelink-community:/radred/assets/sprites/861.png",
-    "party": "pokelink-community:/radred/assets/sprites/861.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/861.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/861.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/861.gif"
   },
   "baseStats": {
     "hp": 95,

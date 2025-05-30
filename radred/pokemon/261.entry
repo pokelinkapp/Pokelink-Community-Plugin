@@ -2,9 +2,9 @@
   "gameId": 286,
   "name": "RadRed.Species.poochyena",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/261.png",
-    "normal": "pokelink-community:/radred/assets/sprites/261.png",
-    "party": "pokelink-community:/radred/assets/sprites/261.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/261.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/261.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/261.gif"
   },
   "baseStats": {
     "hp": 35,

@@ -2,9 +2,9 @@
   "gameId": 947,
   "name": "RadRed.Species.primarina",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/730.png",
-    "normal": "pokelink-community:/radred/assets/sprites/730.png",
-    "party": "pokelink-community:/radred/assets/sprites/730.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/730.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/730.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/730.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 955,
   "name": "RadRed.Species.vikavolt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/738.png",
-    "normal": "pokelink-community:/radred/assets/sprites/738.png",
-    "party": "pokelink-community:/radred/assets/sprites/738.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/738.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/738.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/738.gif"
   },
   "baseStats": {
     "hp": 77,

@@ -2,9 +2,9 @@
   "gameId": 594,
   "name": "RadRed.Species.swadloon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/541.png",
-    "normal": "pokelink-community:/radred/assets/sprites/541.png",
-    "party": "pokelink-community:/radred/assets/sprites/541.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/541.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/541.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/541.gif"
   },
   "baseStats": {
     "hp": 55,

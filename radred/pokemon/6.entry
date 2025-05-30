@@ -2,9 +2,9 @@
   "gameId": 6,
   "name": "RadRed.Species.charizard",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/6.png",
-    "normal": "pokelink-community:/radred/assets/sprites/6.png",
-    "party": "pokelink-community:/radred/assets/sprites/6.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/6.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/6.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/6.gif"
   },
   "baseStats": {
     "hp": 78,

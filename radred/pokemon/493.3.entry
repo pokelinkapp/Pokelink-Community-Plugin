@@ -4,9 +4,9 @@
   "name": "RadRed.Species.arceus",
   "formName": "RadRed.Forms.poison",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/493.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/493.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/493.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/493.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-3.gif"
   },
   "baseStats": {
     "hp": 120,

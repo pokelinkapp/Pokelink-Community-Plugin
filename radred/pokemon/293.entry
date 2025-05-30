@@ -2,9 +2,9 @@
   "gameId": 370,
   "name": "RadRed.Species.whismur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/293.png",
-    "normal": "pokelink-community:/radred/assets/sprites/293.png",
-    "party": "pokelink-community:/radred/assets/sprites/293.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/293.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/293.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/293.gif"
   },
   "baseStats": {
     "hp": 64,

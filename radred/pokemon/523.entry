@@ -2,9 +2,9 @@
   "gameId": 576,
   "name": "RadRed.Species.zebstrika",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/523.png",
-    "normal": "pokelink-community:/radred/assets/sprites/523.png",
-    "party": "pokelink-community:/radred/assets/sprites/523.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/523.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/523.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/523.gif"
   },
   "baseStats": {
     "hp": 75,

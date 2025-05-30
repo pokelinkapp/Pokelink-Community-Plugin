@@ -2,9 +2,9 @@
   "gameId": 1144,
   "name": "RadRed.Species.clobbopus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/852.png",
-    "normal": "pokelink-community:/radred/assets/sprites/852.png",
-    "party": "pokelink-community:/radred/assets/sprites/852.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/852.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/852.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/852.gif"
   },
   "baseStats": {
     "hp": 50,

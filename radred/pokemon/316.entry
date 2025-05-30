@@ -2,9 +2,9 @@
   "gameId": 367,
   "name": "RadRed.Species.gulpin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/316.png",
-    "normal": "pokelink-community:/radred/assets/sprites/316.png",
-    "party": "pokelink-community:/radred/assets/sprites/316.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/316.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/316.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/316.gif"
   },
   "baseStats": {
     "hp": 70,

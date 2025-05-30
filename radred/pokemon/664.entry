@@ -2,9 +2,9 @@
   "gameId": 772,
   "name": "RadRed.Species.scatterbug",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/664.png",
-    "normal": "pokelink-community:/radred/assets/sprites/664.png",
-    "party": "pokelink-community:/radred/assets/sprites/664.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/664.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/664.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/664.gif"
   },
   "baseStats": {
     "hp": 38,

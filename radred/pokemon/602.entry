@@ -2,9 +2,9 @@
   "gameId": 655,
   "name": "RadRed.Species.tynamo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/602.png",
-    "normal": "pokelink-community:/radred/assets/sprites/602.png",
-    "party": "pokelink-community:/radred/assets/sprites/602.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/602.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/602.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/602.gif"
   },
   "baseStats": {
     "hp": 35,

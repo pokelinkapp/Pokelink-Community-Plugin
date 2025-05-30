@@ -2,9 +2,9 @@
   "gameId": 80,
   "name": "RadRed.Species.slowbro",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/80.png",
-    "normal": "pokelink-community:/radred/assets/sprites/80.png",
-    "party": "pokelink-community:/radred/assets/sprites/80.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/80.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/80.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/80.gif"
   },
   "baseStats": {
     "hp": 95,

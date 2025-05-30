@@ -2,9 +2,9 @@
   "gameId": 9,
   "name": "RadRed.Species.blastoise",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/9.png",
-    "normal": "pokelink-community:/radred/assets/sprites/9.png",
-    "party": "pokelink-community:/radred/assets/sprites/9.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/9.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/9.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/9.gif"
   },
   "baseStats": {
     "hp": 79,

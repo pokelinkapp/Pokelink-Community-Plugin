@@ -2,9 +2,9 @@
   "gameId": 462,
   "name": "RadRed.Species.rampardos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/409.png",
-    "normal": "pokelink-community:/radred/assets/sprites/409.png",
-    "party": "pokelink-community:/radred/assets/sprites/409.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/409.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/409.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/409.gif"
   },
   "baseStats": {
     "hp": 97,

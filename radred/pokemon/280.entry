@@ -2,9 +2,9 @@
   "gameId": 392,
   "name": "RadRed.Species.ralts",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/280.png",
-    "normal": "pokelink-community:/radred/assets/sprites/280.png",
-    "party": "pokelink-community:/radred/assets/sprites/280.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/280.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/280.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/280.gif"
   },
   "baseStats": {
     "hp": 28,

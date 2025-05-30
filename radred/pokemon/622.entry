@@ -2,9 +2,9 @@
   "gameId": 675,
   "name": "RadRed.Species.golett",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/622.png",
-    "normal": "pokelink-community:/radred/assets/sprites/622.png",
-    "party": "pokelink-community:/radred/assets/sprites/622.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/622.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/622.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/622.gif"
   },
   "baseStats": {
     "hp": 59,

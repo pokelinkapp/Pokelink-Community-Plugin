@@ -2,9 +2,9 @@
   "gameId": 342,
   "name": "RadRed.Species.sealeo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/364.png",
-    "normal": "pokelink-community:/radred/assets/sprites/364.png",
-    "party": "pokelink-community:/radred/assets/sprites/364.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/364.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/364.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/364.gif"
   },
   "baseStats": {
     "hp": 90,

@@ -2,9 +2,9 @@
   "gameId": 822,
   "name": "RadRed.Species.noibat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/714.png",
-    "normal": "pokelink-community:/radred/assets/sprites/714.png",
-    "party": "pokelink-community:/radred/assets/sprites/714.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/714.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/714.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/714.gif"
   },
   "baseStats": {
     "hp": 40,

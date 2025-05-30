@@ -4,9 +4,9 @@
   "name": "RadRed.Species.toxtricity",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/849.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/849.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/849.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/849.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/849.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/849-2.gif"
   },
   "baseStats": {
     "hp": 75,

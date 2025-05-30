@@ -2,9 +2,9 @@
   "gameId": 1143,
   "name": "RadRed.Species.centiskorch",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/851.png",
-    "normal": "pokelink-community:/radred/assets/sprites/851.png",
-    "party": "pokelink-community:/radred/assets/sprites/851.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/851.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/851.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/851.gif"
   },
   "baseStats": {
     "hp": 100,

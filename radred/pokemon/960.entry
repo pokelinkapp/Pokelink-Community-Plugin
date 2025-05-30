@@ -2,9 +2,9 @@
   "gameId": 932,
   "name": "RadRed.Species.wiglett",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/960.png",
-    "normal": "pokelink-community:/radred/assets/sprites/960.png",
-    "party": "pokelink-community:/radred/assets/sprites/960.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/960.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/960.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/960.gif"
   },
   "baseStats": {
     "hp": 10,

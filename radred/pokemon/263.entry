@@ -2,9 +2,9 @@
   "gameId": 288,
   "name": "RadRed.Species.zigzagoon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/263.png",
-    "normal": "pokelink-community:/radred/assets/sprites/263.png",
-    "party": "pokelink-community:/radred/assets/sprites/263.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/263.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/263.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/263.gif"
   },
   "baseStats": {
     "hp": 38,

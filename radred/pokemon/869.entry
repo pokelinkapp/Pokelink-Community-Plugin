@@ -2,9 +2,9 @@
   "gameId": 1161,
   "name": "RadRed.Species.alcremie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/869.png",
-    "normal": "pokelink-community:/radred/assets/sprites/869.png",
-    "party": "pokelink-community:/radred/assets/sprites/869.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/869.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/869.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/869.gif"
   },
   "baseStats": {
     "hp": 65,

@@ -2,9 +2,9 @@
   "gameId": 250,
   "name": "RadRed.Species.ho_oh",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/250.png",
-    "normal": "pokelink-community:/radred/assets/sprites/250.png",
-    "party": "pokelink-community:/radred/assets/sprites/250.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/250.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/250.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/250.gif"
   },
   "baseStats": {
     "hp": 106,

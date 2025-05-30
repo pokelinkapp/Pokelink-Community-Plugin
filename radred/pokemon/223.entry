@@ -2,9 +2,9 @@
   "gameId": 223,
   "name": "RadRed.Species.remoraid",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/223.png",
-    "normal": "pokelink-community:/radred/assets/sprites/223.png",
-    "party": "pokelink-community:/radred/assets/sprites/223.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/223.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/223.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/223.gif"
   },
   "baseStats": {
     "hp": 35,

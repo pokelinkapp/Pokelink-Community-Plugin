@@ -2,9 +2,9 @@
   "gameId": 1113,
   "name": "RadRed.Species.rookidee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/821.png",
-    "normal": "pokelink-community:/radred/assets/sprites/821.png",
-    "party": "pokelink-community:/radred/assets/sprites/821.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/821.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/821.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/821.gif"
   },
   "baseStats": {
     "hp": 38,

@@ -2,9 +2,9 @@
   "gameId": 1328,
   "name": "RadRed.Species.scovillain",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/952.png",
-    "normal": "pokelink-community:/radred/assets/sprites/952.png",
-    "party": "pokelink-community:/radred/assets/sprites/952.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/952.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/952.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/952.gif"
   },
   "baseStats": {
     "hp": 85,

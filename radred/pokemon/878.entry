@@ -2,9 +2,9 @@
   "gameId": 1170,
   "name": "RadRed.Species.cufant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/878.png",
-    "normal": "pokelink-community:/radred/assets/sprites/878.png",
-    "party": "pokelink-community:/radred/assets/sprites/878.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/878.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/878.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/878.gif"
   },
   "baseStats": {
     "hp": 72,

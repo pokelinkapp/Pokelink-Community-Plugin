@@ -2,9 +2,9 @@
   "gameId": 938,
   "name": "RadRed.Species.charcadet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/935.png",
-    "normal": "pokelink-community:/radred/assets/sprites/935.png",
-    "party": "pokelink-community:/radred/assets/sprites/935.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/935.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/935.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/935.gif"
   },
   "baseStats": {
     "hp": 40,

@@ -4,9 +4,9 @@
   "name": "RadRed.Species.arceus",
   "formName": "RadRed.Forms.flying",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/493.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/493.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/493.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/493.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-2.gif"
   },
   "baseStats": {
     "hp": 120,

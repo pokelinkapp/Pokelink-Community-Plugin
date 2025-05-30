@@ -2,9 +2,9 @@
   "gameId": 1014,
   "name": "RadRed.Species.celesteela",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/797.png",
-    "normal": "pokelink-community:/radred/assets/sprites/797.png",
-    "party": "pokelink-community:/radred/assets/sprites/797.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/797.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/797.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/797.gif"
   },
   "baseStats": {
     "hp": 97,

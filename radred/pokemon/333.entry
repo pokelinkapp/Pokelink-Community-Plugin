@@ -2,9 +2,9 @@
   "gameId": 358,
   "name": "RadRed.Species.swablu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/333.png",
-    "normal": "pokelink-community:/radred/assets/sprites/333.png",
-    "party": "pokelink-community:/radred/assets/sprites/333.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/333.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/333.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/333.gif"
   },
   "baseStats": {
     "hp": 45,

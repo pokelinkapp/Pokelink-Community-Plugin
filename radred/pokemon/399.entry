@@ -2,9 +2,9 @@
   "gameId": 452,
   "name": "RadRed.Species.bidoof",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/399.png",
-    "normal": "pokelink-community:/radred/assets/sprites/399.png",
-    "party": "pokelink-community:/radred/assets/sprites/399.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/399.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/399.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/399.gif"
   },
   "baseStats": {
     "hp": 59,

@@ -2,9 +2,9 @@
   "gameId": 689,
   "name": "RadRed.Species.larvesta",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/636.png",
-    "normal": "pokelink-community:/radred/assets/sprites/636.png",
-    "party": "pokelink-community:/radred/assets/sprites/636.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/636.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/636.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/636.gif"
   },
   "baseStats": {
     "hp": 55,

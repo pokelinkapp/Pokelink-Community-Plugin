@@ -2,9 +2,9 @@
   "gameId": 702,
   "name": "RadRed.Species.genesect",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/649.png",
-    "normal": "pokelink-community:/radred/assets/sprites/649.png",
-    "party": "pokelink-community:/radred/assets/sprites/649.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/649.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/649.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/649.gif"
   },
   "baseStats": {
     "hp": 71,

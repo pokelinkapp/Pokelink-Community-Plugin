@@ -2,9 +2,9 @@
   "gameId": 84,
   "name": "RadRed.Species.doduo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/84.png",
-    "normal": "pokelink-community:/radred/assets/sprites/84.png",
-    "party": "pokelink-community:/radred/assets/sprites/84.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/84.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/84.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/84.gif"
   },
   "baseStats": {
     "hp": 35,

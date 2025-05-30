@@ -2,9 +2,9 @@
   "gameId": 304,
   "name": "RadRed.Species.taillow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/276.png",
-    "normal": "pokelink-community:/radred/assets/sprites/276.png",
-    "party": "pokelink-community:/radred/assets/sprites/276.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/276.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/276.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/276.gif"
   },
   "baseStats": {
     "hp": 40,

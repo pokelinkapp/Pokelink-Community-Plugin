@@ -2,9 +2,9 @@
   "gameId": 840,
   "name": "RadRed.Species.tinkatink",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/957.png",
-    "normal": "pokelink-community:/radred/assets/sprites/957.png",
-    "party": "pokelink-community:/radred/assets/sprites/957.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/957.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/957.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/957.gif"
   },
   "baseStats": {
     "hp": 50,

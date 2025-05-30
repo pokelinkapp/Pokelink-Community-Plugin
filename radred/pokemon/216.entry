@@ -2,9 +2,9 @@
   "gameId": 216,
   "name": "RadRed.Species.teddiursa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/216.png",
-    "normal": "pokelink-community:/radred/assets/sprites/216.png",
-    "party": "pokelink-community:/radred/assets/sprites/216.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/216.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/216.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/216.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 860,
   "name": "RadRed.Species.houndstone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/972.png",
-    "normal": "pokelink-community:/radred/assets/sprites/972.png",
-    "party": "pokelink-community:/radred/assets/sprites/972.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/972.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/972.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/972.gif"
   },
   "baseStats": {
     "hp": 72,

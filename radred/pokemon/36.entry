@@ -2,9 +2,9 @@
   "gameId": 36,
   "name": "RadRed.Species.clefable",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/36.png",
-    "normal": "pokelink-community:/radred/assets/sprites/36.png",
-    "party": "pokelink-community:/radred/assets/sprites/36.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/36.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/36.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/36.gif"
   },
   "baseStats": {
     "hp": 95,

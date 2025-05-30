@@ -2,9 +2,9 @@
   "gameId": 551,
   "name": "RadRed.Species.tepig",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/498.png",
-    "normal": "pokelink-community:/radred/assets/sprites/498.png",
-    "party": "pokelink-community:/radred/assets/sprites/498.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/498.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/498.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/498.gif"
   },
   "baseStats": {
     "hp": 65,

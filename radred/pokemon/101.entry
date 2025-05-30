@@ -2,9 +2,9 @@
   "gameId": 101,
   "name": "RadRed.Species.electrode",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/101.png",
-    "normal": "pokelink-community:/radred/assets/sprites/101.png",
-    "party": "pokelink-community:/radred/assets/sprites/101.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/101.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/101.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/101.gif"
   },
   "baseStats": {
     "hp": 60,

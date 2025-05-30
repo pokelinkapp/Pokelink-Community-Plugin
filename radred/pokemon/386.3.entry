@@ -4,9 +4,9 @@
   "name": "RadRed.Species.deoxys",
   "formName": "RadRed.Forms.speed",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/386.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/386.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/386.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/386.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/386.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/386-3.gif"
   },
   "baseStats": {
     "hp": 50,

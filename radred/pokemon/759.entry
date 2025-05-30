@@ -2,9 +2,9 @@
   "gameId": 976,
   "name": "RadRed.Species.stufful",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/759.png",
-    "normal": "pokelink-community:/radred/assets/sprites/759.png",
-    "party": "pokelink-community:/radred/assets/sprites/759.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/759.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/759.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/759.gif"
   },
   "baseStats": {
     "hp": 70,

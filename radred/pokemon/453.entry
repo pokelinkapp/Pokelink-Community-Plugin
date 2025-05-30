@@ -2,9 +2,9 @@
   "gameId": 506,
   "name": "RadRed.Species.croagunk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/453.png",
-    "normal": "pokelink-community:/radred/assets/sprites/453.png",
-    "party": "pokelink-community:/radred/assets/sprites/453.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/453.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/453.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/453.gif"
   },
   "baseStats": {
     "hp": 48,

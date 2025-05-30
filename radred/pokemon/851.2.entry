@@ -4,9 +4,9 @@
   "name": "RadRed.Species.centiskorch",
   "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/851.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/851.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/851.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/851.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/851.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/851-2.gif"
   },
   "baseStats": {
     "hp": 100,

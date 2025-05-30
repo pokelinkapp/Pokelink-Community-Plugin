@@ -2,9 +2,9 @@
   "gameId": 495,
   "name": "RadRed.Species.spiritomb",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/442.png",
-    "normal": "pokelink-community:/radred/assets/sprites/442.png",
-    "party": "pokelink-community:/radred/assets/sprites/442.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/442.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/442.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/442.gif"
   },
   "baseStats": {
     "hp": 50,

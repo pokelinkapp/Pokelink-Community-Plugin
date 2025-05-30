@@ -2,9 +2,9 @@
   "gameId": 978,
   "name": "RadRed.Species.bounsweet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/761.png",
-    "normal": "pokelink-community:/radred/assets/sprites/761.png",
-    "party": "pokelink-community:/radred/assets/sprites/761.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/761.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/761.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/761.gif"
   },
   "baseStats": {
     "hp": 42,

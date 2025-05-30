@@ -2,9 +2,9 @@
   "gameId": 484,
   "name": "RadRed.Species.glameow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/431.png",
-    "normal": "pokelink-community:/radred/assets/sprites/431.png",
-    "party": "pokelink-community:/radred/assets/sprites/431.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/431.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/431.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/431.gif"
   },
   "baseStats": {
     "hp": 49,

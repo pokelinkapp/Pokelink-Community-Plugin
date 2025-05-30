@@ -2,9 +2,9 @@
   "gameId": 814,
   "name": "RadRed.Species.goodra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/706.png",
-    "normal": "pokelink-community:/radred/assets/sprites/706.png",
-    "party": "pokelink-community:/radred/assets/sprites/706.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/706.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/706.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/706.gif"
   },
   "baseStats": {
     "hp": 90,

@@ -2,9 +2,9 @@
   "gameId": 864,
   "name": "RadRed.Species.palafin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/964.png",
-    "normal": "pokelink-community:/radred/assets/sprites/964.png",
-    "party": "pokelink-community:/radred/assets/sprites/964.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/964.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/964.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/964.gif"
   },
   "baseStats": {
     "hp": 100,

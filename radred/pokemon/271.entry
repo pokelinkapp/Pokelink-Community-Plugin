@@ -2,9 +2,9 @@
   "gameId": 296,
   "name": "RadRed.Species.lombre",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/271.png",
-    "normal": "pokelink-community:/radred/assets/sprites/271.png",
-    "party": "pokelink-community:/radred/assets/sprites/271.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/271.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/271.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/271.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 799,
   "name": "RadRed.Species.dragalge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/691.png",
-    "normal": "pokelink-community:/radred/assets/sprites/691.png",
-    "party": "pokelink-community:/radred/assets/sprites/691.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/691.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/691.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/691.gif"
   },
   "baseStats": {
     "hp": 65,

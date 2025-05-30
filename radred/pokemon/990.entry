@@ -2,9 +2,9 @@
   "gameId": 1258,
   "name": "RadRed.Species.iron_treads",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/990.png",
-    "normal": "pokelink-community:/radred/assets/sprites/990.png",
-    "party": "pokelink-community:/radred/assets/sprites/990.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/990.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/990.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/990.gif"
   },
   "baseStats": {
     "hp": 90,

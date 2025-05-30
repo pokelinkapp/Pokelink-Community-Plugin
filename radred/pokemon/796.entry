@@ -2,9 +2,9 @@
   "gameId": 1013,
   "name": "RadRed.Species.xurkitree",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/796.png",
-    "normal": "pokelink-community:/radred/assets/sprites/796.png",
-    "party": "pokelink-community:/radred/assets/sprites/796.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/796.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/796.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/796.gif"
   },
   "baseStats": {
     "hp": 83,

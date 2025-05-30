@@ -2,9 +2,9 @@
   "gameId": 922,
   "name": "RadRed.Species.floragato",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/907.png",
-    "normal": "pokelink-community:/radred/assets/sprites/907.png",
-    "party": "pokelink-community:/radred/assets/sprites/907.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/907.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/907.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/907.gif"
   },
   "baseStats": {
     "hp": 61,

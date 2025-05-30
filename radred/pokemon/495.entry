@@ -2,9 +2,9 @@
   "gameId": 548,
   "name": "RadRed.Species.snivy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/495.png",
-    "normal": "pokelink-community:/radred/assets/sprites/495.png",
-    "party": "pokelink-community:/radred/assets/sprites/495.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/495.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/495.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/495.gif"
   },
   "baseStats": {
     "hp": 45,

@@ -2,9 +2,9 @@
   "gameId": 242,
   "name": "RadRed.Species.blissey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/242.png",
-    "normal": "pokelink-community:/radred/assets/sprites/242.png",
-    "party": "pokelink-community:/radred/assets/sprites/242.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/242.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/242.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/242.gif"
   },
   "baseStats": {
     "hp": 255,

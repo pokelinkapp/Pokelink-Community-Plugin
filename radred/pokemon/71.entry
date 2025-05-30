@@ -2,9 +2,9 @@
   "gameId": 71,
   "name": "RadRed.Species.victreebel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/71.png",
-    "normal": "pokelink-community:/radred/assets/sprites/71.png",
-    "party": "pokelink-community:/radred/assets/sprites/71.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/71.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/71.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/71.gif"
   },
   "baseStats": {
     "hp": 80,

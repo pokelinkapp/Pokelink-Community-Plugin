@@ -2,9 +2,9 @@
   "gameId": 1262,
   "name": "RadRed.Species.iron_hands",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/992.png",
-    "normal": "pokelink-community:/radred/assets/sprites/992.png",
-    "party": "pokelink-community:/radred/assets/sprites/992.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/992.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/992.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/992.gif"
   },
   "baseStats": {
     "hp": 154,

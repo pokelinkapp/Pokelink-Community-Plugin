@@ -2,9 +2,9 @@
   "gameId": 479,
   "name": "RadRed.Species.drifblim",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/426.png",
-    "normal": "pokelink-community:/radred/assets/sprites/426.png",
-    "party": "pokelink-community:/radred/assets/sprites/426.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/426.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/426.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/426.gif"
   },
   "baseStats": {
     "hp": 150,

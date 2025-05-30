@@ -2,9 +2,9 @@
   "gameId": 538,
   "name": "RadRed.Species.heatran",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/485.png",
-    "normal": "pokelink-community:/radred/assets/sprites/485.png",
-    "party": "pokelink-community:/radred/assets/sprites/485.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/485.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/485.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/485.gif"
   },
   "baseStats": {
     "hp": 91,

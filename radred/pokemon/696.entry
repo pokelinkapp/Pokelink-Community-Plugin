@@ -2,9 +2,9 @@
   "gameId": 804,
   "name": "RadRed.Species.tyrunt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/696.png",
-    "normal": "pokelink-community:/radred/assets/sprites/696.png",
-    "party": "pokelink-community:/radred/assets/sprites/696.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/696.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/696.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/696.gif"
   },
   "baseStats": {
     "hp": 58,

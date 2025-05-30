@@ -2,9 +2,9 @@
   "gameId": 46,
   "name": "RadRed.Species.paras",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/46.png",
-    "normal": "pokelink-community:/radred/assets/sprites/46.png",
-    "party": "pokelink-community:/radred/assets/sprites/46.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/46.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/46.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/46.gif"
   },
   "baseStats": {
     "hp": 35,

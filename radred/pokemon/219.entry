@@ -2,9 +2,9 @@
   "gameId": 219,
   "name": "RadRed.Species.magcargo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/219.png",
-    "normal": "pokelink-community:/radred/assets/sprites/219.png",
-    "party": "pokelink-community:/radred/assets/sprites/219.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/219.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/219.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/219.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 299,
   "name": "RadRed.Species.nuzleaf",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/274.png",
-    "normal": "pokelink-community:/radred/assets/sprites/274.png",
-    "party": "pokelink-community:/radred/assets/sprites/274.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/274.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/274.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/274.gif"
   },
   "baseStats": {
     "hp": 70,

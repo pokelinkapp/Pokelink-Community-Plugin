@@ -2,9 +2,9 @@
   "gameId": 491,
   "name": "RadRed.Species.bonsly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/438.png",
-    "normal": "pokelink-community:/radred/assets/sprites/438.png",
-    "party": "pokelink-community:/radred/assets/sprites/438.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/438.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/438.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/438.gif"
   },
   "baseStats": {
     "hp": 50,

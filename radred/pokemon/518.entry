@@ -2,9 +2,9 @@
   "gameId": 571,
   "name": "RadRed.Species.musharna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/518.png",
-    "normal": "pokelink-community:/radred/assets/sprites/518.png",
-    "party": "pokelink-community:/radred/assets/sprites/518.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/518.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/518.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/518.gif"
   },
   "baseStats": {
     "hp": 116,

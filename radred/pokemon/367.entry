@@ -2,9 +2,9 @@
   "gameId": 374,
   "name": "RadRed.Species.huntail",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/367.png",
-    "normal": "pokelink-community:/radred/assets/sprites/367.png",
-    "party": "pokelink-community:/radred/assets/sprites/367.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/367.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/367.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/367.gif"
   },
   "baseStats": {
     "hp": 55,

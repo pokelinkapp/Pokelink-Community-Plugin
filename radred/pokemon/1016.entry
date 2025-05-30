@@ -2,9 +2,9 @@
   "gameId": 1364,
   "name": "RadRed.Species.fezandipiti",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1016.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1016.png",
-    "party": "pokelink-community:/radred/assets/sprites/1016.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1016.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1016.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1016.gif"
   },
   "baseStats": {
     "hp": 88,

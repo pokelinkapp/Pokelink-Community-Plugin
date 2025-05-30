@@ -4,9 +4,9 @@
   "name": "RadRed.Species.eternatus",
   "formName": "RadRed.Forms.eternamax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/890.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/890.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/890.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/890.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/890.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/890-1.gif"
   },
   "baseStats": {
     "hp": 140,

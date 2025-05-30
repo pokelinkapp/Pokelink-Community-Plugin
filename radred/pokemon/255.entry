@@ -2,9 +2,9 @@
   "gameId": 280,
   "name": "RadRed.Species.torchic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/255.png",
-    "normal": "pokelink-community:/radred/assets/sprites/255.png",
-    "party": "pokelink-community:/radred/assets/sprites/255.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/255.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/255.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/255.gif"
   },
   "baseStats": {
     "hp": 45,

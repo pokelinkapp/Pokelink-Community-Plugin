@@ -2,9 +2,9 @@
   "gameId": 365,
   "name": "RadRed.Species.vigoroth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/288.png",
-    "normal": "pokelink-community:/radred/assets/sprites/288.png",
-    "party": "pokelink-community:/radred/assets/sprites/288.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/288.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/288.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/288.gif"
   },
   "baseStats": {
     "hp": 80,

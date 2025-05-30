@@ -2,9 +2,9 @@
   "gameId": 614,
   "name": "RadRed.Species.sigilyph",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/561.png",
-    "normal": "pokelink-community:/radred/assets/sprites/561.png",
-    "party": "pokelink-community:/radred/assets/sprites/561.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/561.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/561.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/561.gif"
   },
   "baseStats": {
     "hp": 72,

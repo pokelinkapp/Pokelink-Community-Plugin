@@ -2,9 +2,9 @@
   "gameId": 683,
   "name": "RadRed.Species.mandibuzz",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/630.png",
-    "normal": "pokelink-community:/radred/assets/sprites/630.png",
-    "party": "pokelink-community:/radred/assets/sprites/630.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/630.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/630.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/630.gif"
   },
   "baseStats": {
     "hp": 110,

@@ -2,9 +2,9 @@
   "gameId": 85,
   "name": "RadRed.Species.dodrio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/85.png",
-    "normal": "pokelink-community:/radred/assets/sprites/85.png",
-    "party": "pokelink-community:/radred/assets/sprites/85.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/85.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/85.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/85.gif"
   },
   "baseStats": {
     "hp": 60,

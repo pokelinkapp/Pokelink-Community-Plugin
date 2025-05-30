@@ -3,9 +3,9 @@
   "gameId": 475,
   "name": "RadRed.Species.shellos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/422.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/422.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/422.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/422.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/422.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/422-1.gif"
   },
   "baseStats": {
     "hp": 76,

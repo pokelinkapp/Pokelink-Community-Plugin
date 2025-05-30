@@ -2,9 +2,9 @@
   "gameId": 279,
   "name": "RadRed.Species.sceptile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/254.png",
-    "normal": "pokelink-community:/radred/assets/sprites/254.png",
-    "party": "pokelink-community:/radred/assets/sprites/254.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/254.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/254.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/254.gif"
   },
   "baseStats": {
     "hp": 70,

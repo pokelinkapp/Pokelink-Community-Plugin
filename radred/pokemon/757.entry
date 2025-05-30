@@ -2,9 +2,9 @@
   "gameId": 974,
   "name": "RadRed.Species.salandit",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/757.png",
-    "normal": "pokelink-community:/radred/assets/sprites/757.png",
-    "party": "pokelink-community:/radred/assets/sprites/757.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/757.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/757.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/757.gif"
   },
   "baseStats": {
     "hp": 48,

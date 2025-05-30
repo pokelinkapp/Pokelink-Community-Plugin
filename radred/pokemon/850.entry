@@ -2,9 +2,9 @@
   "gameId": 1142,
   "name": "RadRed.Species.sizzlipede",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/850.png",
-    "normal": "pokelink-community:/radred/assets/sprites/850.png",
-    "party": "pokelink-community:/radred/assets/sprites/850.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/850.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/850.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/850.gif"
   },
   "baseStats": {
     "hp": 50,

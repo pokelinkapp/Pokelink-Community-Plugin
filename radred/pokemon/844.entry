@@ -2,9 +2,9 @@
   "gameId": 1136,
   "name": "RadRed.Species.sandaconda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/844.png",
-    "normal": "pokelink-community:/radred/assets/sprites/844.png",
-    "party": "pokelink-community:/radred/assets/sprites/844.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/844.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/844.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/844.gif"
   },
   "baseStats": {
     "hp": 72,

@@ -2,9 +2,9 @@
   "gameId": 283,
   "name": "RadRed.Species.mudkip",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/258.png",
-    "normal": "pokelink-community:/radred/assets/sprites/258.png",
-    "party": "pokelink-community:/radred/assets/sprites/258.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/258.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/258.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/258.gif"
   },
   "baseStats": {
     "hp": 50,

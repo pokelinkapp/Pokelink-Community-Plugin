@@ -2,9 +2,9 @@
   "gameId": 205,
   "name": "RadRed.Species.forretress",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/205.png",
-    "normal": "pokelink-community:/radred/assets/sprites/205.png",
-    "party": "pokelink-community:/radred/assets/sprites/205.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/205.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/205.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/205.gif"
   },
   "baseStats": {
     "hp": 75,

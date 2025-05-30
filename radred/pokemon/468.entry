@@ -2,9 +2,9 @@
   "gameId": 521,
   "name": "RadRed.Species.togekiss",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/468.png",
-    "normal": "pokelink-community:/radred/assets/sprites/468.png",
-    "party": "pokelink-community:/radred/assets/sprites/468.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/468.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/468.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/468.gif"
   },
   "baseStats": {
     "hp": 85,

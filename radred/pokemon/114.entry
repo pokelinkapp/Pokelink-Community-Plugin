@@ -2,9 +2,9 @@
   "gameId": 114,
   "name": "RadRed.Species.tangela",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/114.png",
-    "normal": "pokelink-community:/radred/assets/sprites/114.png",
-    "party": "pokelink-community:/radred/assets/sprites/114.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/114.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/114.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/114.gif"
   },
   "baseStats": {
     "hp": 65,

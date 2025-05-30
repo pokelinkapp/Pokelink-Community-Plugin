@@ -2,9 +2,9 @@
   "gameId": 238,
   "name": "RadRed.Species.smoochum",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/238.png",
-    "normal": "pokelink-community:/radred/assets/sprites/238.png",
-    "party": "pokelink-community:/radred/assets/sprites/238.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/238.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/238.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/238.gif"
   },
   "baseStats": {
     "hp": 45,

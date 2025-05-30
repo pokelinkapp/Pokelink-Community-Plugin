@@ -2,9 +2,9 @@
   "gameId": 852,
   "name": "RadRed.Species.gholdengo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1000.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1000.png",
-    "party": "pokelink-community:/radred/assets/sprites/1000.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1000.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1000.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1000.gif"
   },
   "baseStats": {
     "hp": 87,

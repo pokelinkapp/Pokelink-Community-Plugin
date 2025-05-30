@@ -2,9 +2,9 @@
   "gameId": 699,
   "name": "RadRed.Species.kyurem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/646.png",
-    "normal": "pokelink-community:/radred/assets/sprites/646.png",
-    "party": "pokelink-community:/radred/assets/sprites/646.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/646.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/646.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/646.gif"
   },
   "baseStats": {
     "hp": 125,

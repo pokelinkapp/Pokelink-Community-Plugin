@@ -2,9 +2,9 @@
   "gameId": 934,
   "name": "RadRed.Species.ceruledge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/937.png",
-    "normal": "pokelink-community:/radred/assets/sprites/937.png",
-    "party": "pokelink-community:/radred/assets/sprites/937.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/937.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/937.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/937.gif"
   },
   "baseStats": {
     "hp": 75,

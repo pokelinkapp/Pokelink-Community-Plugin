@@ -2,9 +2,9 @@
   "gameId": 1178,
   "name": "RadRed.Species.drakloak",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/886.png",
-    "normal": "pokelink-community:/radred/assets/sprites/886.png",
-    "party": "pokelink-community:/radred/assets/sprites/886.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/886.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/886.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/886.gif"
   },
   "baseStats": {
     "hp": 68,

@@ -2,9 +2,9 @@
   "gameId": 160,
   "name": "RadRed.Species.feraligatr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/160.png",
-    "normal": "pokelink-community:/radred/assets/sprites/160.png",
-    "party": "pokelink-community:/radred/assets/sprites/160.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/160.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/160.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/160.gif"
   },
   "baseStats": {
     "hp": 85,

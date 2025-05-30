@@ -2,9 +2,9 @@
   "gameId": 621,
   "name": "RadRed.Species.trubbish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/568.png",
-    "normal": "pokelink-community:/radred/assets/sprites/568.png",
-    "party": "pokelink-community:/radred/assets/sprites/568.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/568.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/568.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/568.gif"
   },
   "baseStats": {
     "hp": 50,

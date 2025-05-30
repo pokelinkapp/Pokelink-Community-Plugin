@@ -2,9 +2,9 @@
   "gameId": 463,
   "name": "RadRed.Species.shieldon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/410.png",
-    "normal": "pokelink-community:/radred/assets/sprites/410.png",
-    "party": "pokelink-community:/radred/assets/sprites/410.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/410.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/410.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/410.gif"
   },
   "baseStats": {
     "hp": 30,

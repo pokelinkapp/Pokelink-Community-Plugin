@@ -2,9 +2,9 @@
   "gameId": 645,
   "name": "RadRed.Species.frillish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/592.png",
-    "normal": "pokelink-community:/radred/assets/sprites/592.png",
-    "party": "pokelink-community:/radred/assets/sprites/592.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/592.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/592.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/592.gif"
   },
   "baseStats": {
     "hp": 55,

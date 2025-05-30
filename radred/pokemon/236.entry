@@ -2,9 +2,9 @@
   "gameId": 236,
   "name": "RadRed.Species.tyrogue",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/236.png",
-    "normal": "pokelink-community:/radred/assets/sprites/236.png",
-    "party": "pokelink-community:/radred/assets/sprites/236.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/236.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/236.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/236.gif"
   },
   "baseStats": {
     "hp": 35,

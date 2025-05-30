@@ -2,9 +2,9 @@
   "gameId": 530,
   "name": "RadRed.Species.dusknoir",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/477.png",
-    "normal": "pokelink-community:/radred/assets/sprites/477.png",
-    "party": "pokelink-community:/radred/assets/sprites/477.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/477.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/477.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/477.gif"
   },
   "baseStats": {
     "hp": 45,

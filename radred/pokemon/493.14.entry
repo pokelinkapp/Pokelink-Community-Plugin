@@ -4,9 +4,9 @@
   "name": "RadRed.Species.arceus",
   "formName": "RadRed.Forms.ice",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/493.14.png",
-    "normal": "pokelink-community:/radred/assets/sprites/493.14.png",
-    "party": "pokelink-community:/radred/assets/sprites/493.14.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.14.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/493.14.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-14.gif"
   },
   "baseStats": {
     "hp": 120,

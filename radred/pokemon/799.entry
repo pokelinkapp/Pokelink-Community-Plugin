@@ -2,9 +2,9 @@
   "gameId": 1016,
   "name": "RadRed.Species.guzzlord",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/799.png",
-    "normal": "pokelink-community:/radred/assets/sprites/799.png",
-    "party": "pokelink-community:/radred/assets/sprites/799.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/799.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/799.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/799.gif"
   },
   "baseStats": {
     "hp": 203,

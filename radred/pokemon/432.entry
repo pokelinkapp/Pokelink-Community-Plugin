@@ -2,9 +2,9 @@
   "gameId": 485,
   "name": "RadRed.Species.purugly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/432.png",
-    "normal": "pokelink-community:/radred/assets/sprites/432.png",
-    "party": "pokelink-community:/radred/assets/sprites/432.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/432.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/432.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/432.gif"
   },
   "baseStats": {
     "hp": 100,

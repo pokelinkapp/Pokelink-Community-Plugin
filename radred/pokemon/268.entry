@@ -2,9 +2,9 @@
   "gameId": 293,
   "name": "RadRed.Species.cascoon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/268.png",
-    "normal": "pokelink-community:/radred/assets/sprites/268.png",
-    "party": "pokelink-community:/radred/assets/sprites/268.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/268.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/268.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/268.gif"
   },
   "baseStats": {
     "hp": 50,

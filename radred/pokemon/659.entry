@@ -2,9 +2,9 @@
   "gameId": 767,
   "name": "RadRed.Species.bunnelby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/659.png",
-    "normal": "pokelink-community:/radred/assets/sprites/659.png",
-    "party": "pokelink-community:/radred/assets/sprites/659.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/659.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/659.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/659.gif"
   },
   "baseStats": {
     "hp": 38,

@@ -2,9 +2,9 @@
   "gameId": 405,
   "name": "RadRed.Species.groudon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/383.png",
-    "normal": "pokelink-community:/radred/assets/sprites/383.png",
-    "party": "pokelink-community:/radred/assets/sprites/383.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/383.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/383.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/383.gif"
   },
   "baseStats": {
     "hp": 100,

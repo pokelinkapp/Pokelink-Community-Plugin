@@ -2,9 +2,9 @@
   "gameId": 461,
   "name": "RadRed.Species.cranidos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/408.png",
-    "normal": "pokelink-community:/radred/assets/sprites/408.png",
-    "party": "pokelink-community:/radred/assets/sprites/408.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/408.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/408.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/408.gif"
   },
   "baseStats": {
     "hp": 67,

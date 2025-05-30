@@ -2,9 +2,9 @@
   "gameId": 335,
   "name": "RadRed.Species.makuhita",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/296.png",
-    "normal": "pokelink-community:/radred/assets/sprites/296.png",
-    "party": "pokelink-community:/radred/assets/sprites/296.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/296.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/296.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/296.gif"
   },
   "baseStats": {
     "hp": 72,

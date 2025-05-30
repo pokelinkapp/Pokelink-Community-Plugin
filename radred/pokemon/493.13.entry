@@ -4,9 +4,9 @@
   "name": "RadRed.Species.arceus",
   "formName": "RadRed.Forms.psychic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/493.13.png",
-    "normal": "pokelink-community:/radred/assets/sprites/493.13.png",
-    "party": "pokelink-community:/radred/assets/sprites/493.13.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.13.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/493.13.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-13.gif"
   },
   "baseStats": {
     "hp": 120,

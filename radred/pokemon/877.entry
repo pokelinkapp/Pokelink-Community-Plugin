@@ -2,9 +2,9 @@
   "gameId": 1169,
   "name": "RadRed.Species.morpeko",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/877.png",
-    "normal": "pokelink-community:/radred/assets/sprites/877.png",
-    "party": "pokelink-community:/radred/assets/sprites/877.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/877.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/877.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/877.gif"
   },
   "baseStats": {
     "hp": 58,

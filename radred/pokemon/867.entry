@@ -2,9 +2,9 @@
   "gameId": 1159,
   "name": "RadRed.Species.runerigus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/867.png",
-    "normal": "pokelink-community:/radred/assets/sprites/867.png",
-    "party": "pokelink-community:/radred/assets/sprites/867.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/867.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/867.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/867.gif"
   },
   "baseStats": {
     "hp": 58,

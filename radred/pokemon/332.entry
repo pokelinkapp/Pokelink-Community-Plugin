@@ -2,9 +2,9 @@
   "gameId": 345,
   "name": "RadRed.Species.cacturne",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/332.png",
-    "normal": "pokelink-community:/radred/assets/sprites/332.png",
-    "party": "pokelink-community:/radred/assets/sprites/332.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/332.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/332.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/332.gif"
   },
   "baseStats": {
     "hp": 70,

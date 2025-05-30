@@ -2,9 +2,9 @@
   "gameId": 771,
   "name": "RadRed.Species.talonflame",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/663.png",
-    "normal": "pokelink-community:/radred/assets/sprites/663.png",
-    "party": "pokelink-community:/radred/assets/sprites/663.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/663.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/663.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/663.gif"
   },
   "baseStats": {
     "hp": 78,

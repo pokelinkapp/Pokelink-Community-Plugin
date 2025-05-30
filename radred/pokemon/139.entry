@@ -2,9 +2,9 @@
   "gameId": 139,
   "name": "RadRed.Species.omastar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/139.png",
-    "normal": "pokelink-community:/radred/assets/sprites/139.png",
-    "party": "pokelink-community:/radred/assets/sprites/139.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/139.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/139.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/139.gif"
   },
   "baseStats": {
     "hp": 70,

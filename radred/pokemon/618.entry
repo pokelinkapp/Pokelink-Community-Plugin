@@ -2,9 +2,9 @@
   "gameId": 671,
   "name": "RadRed.Species.stunfisk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/618.png",
-    "normal": "pokelink-community:/radred/assets/sprites/618.png",
-    "party": "pokelink-community:/radred/assets/sprites/618.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/618.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/618.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/618.gif"
   },
   "baseStats": {
     "hp": 109,

@@ -2,9 +2,9 @@
   "gameId": 624,
   "name": "RadRed.Species.zoroark",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/571.png",
-    "normal": "pokelink-community:/radred/assets/sprites/571.png",
-    "party": "pokelink-community:/radred/assets/sprites/571.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/571.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/571.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/571.gif"
   },
   "baseStats": {
     "hp": 60,

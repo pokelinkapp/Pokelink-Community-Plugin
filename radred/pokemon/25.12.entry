@@ -4,9 +4,9 @@
   "name": "RadRed.Species.pikachu",
   "formName": "RadRed.Forms.unova",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/25.12.png",
-    "normal": "pokelink-community:/radred/assets/sprites/25.12.png",
-    "party": "pokelink-community:/radred/assets/sprites/25.12.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.12.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/25.12.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/25-12.gif"
   },
   "baseStats": {
     "hp": 35,

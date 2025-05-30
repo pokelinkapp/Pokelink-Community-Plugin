@@ -2,9 +2,9 @@
   "gameId": 1308,
   "name": "RadRed.Species.overqwil",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/904.png",
-    "normal": "pokelink-community:/radred/assets/sprites/904.png",
-    "party": "pokelink-community:/radred/assets/sprites/904.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/904.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/904.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/904.gif"
   },
   "baseStats": {
     "hp": 95,

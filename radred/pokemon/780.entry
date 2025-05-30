@@ -2,9 +2,9 @@
   "gameId": 997,
   "name": "RadRed.Species.drampa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/780.png",
-    "normal": "pokelink-community:/radred/assets/sprites/780.png",
-    "party": "pokelink-community:/radred/assets/sprites/780.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/780.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/780.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/780.gif"
   },
   "baseStats": {
     "hp": 103,

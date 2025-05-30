@@ -2,9 +2,9 @@
   "gameId": 1349,
   "name": "RadRed.Species.maschiff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/942.png",
-    "normal": "pokelink-community:/radred/assets/sprites/942.png",
-    "party": "pokelink-community:/radred/assets/sprites/942.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/942.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/942.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/942.gif"
   },
   "baseStats": {
     "hp": 60,

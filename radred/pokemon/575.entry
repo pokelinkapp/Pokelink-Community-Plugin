@@ -2,9 +2,9 @@
   "gameId": 628,
   "name": "RadRed.Species.gothorita",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/575.png",
-    "normal": "pokelink-community:/radred/assets/sprites/575.png",
-    "party": "pokelink-community:/radred/assets/sprites/575.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/575.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/575.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/575.gif"
   },
   "baseStats": {
     "hp": 60,

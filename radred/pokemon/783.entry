@@ -2,9 +2,9 @@
   "gameId": 1000,
   "name": "RadRed.Species.hakamo_o",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/783.png",
-    "normal": "pokelink-community:/radred/assets/sprites/783.png",
-    "party": "pokelink-community:/radred/assets/sprites/783.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/783.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/783.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/783.gif"
   },
   "baseStats": {
     "hp": 55,

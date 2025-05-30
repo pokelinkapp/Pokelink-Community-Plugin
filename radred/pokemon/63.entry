@@ -2,9 +2,9 @@
   "gameId": 63,
   "name": "RadRed.Species.abra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/63.png",
-    "normal": "pokelink-community:/radred/assets/sprites/63.png",
-    "party": "pokelink-community:/radred/assets/sprites/63.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/63.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/63.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/63.gif"
   },
   "baseStats": {
     "hp": 25,

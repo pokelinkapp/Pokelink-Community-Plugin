@@ -2,9 +2,9 @@
   "gameId": 497,
   "name": "RadRed.Species.gabite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/444.png",
-    "normal": "pokelink-community:/radred/assets/sprites/444.png",
-    "party": "pokelink-community:/radred/assets/sprites/444.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/444.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/444.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/444.gif"
   },
   "baseStats": {
     "hp": 68,

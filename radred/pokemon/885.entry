@@ -2,9 +2,9 @@
   "gameId": 1177,
   "name": "RadRed.Species.dreepy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/885.png",
-    "normal": "pokelink-community:/radred/assets/sprites/885.png",
-    "party": "pokelink-community:/radred/assets/sprites/885.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/885.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/885.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/885.gif"
   },
   "baseStats": {
     "hp": 28,

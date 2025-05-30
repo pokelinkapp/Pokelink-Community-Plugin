@@ -2,9 +2,9 @@
   "gameId": 1004,
   "name": "RadRed.Species.tapu_bulu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/787.png",
-    "normal": "pokelink-community:/radred/assets/sprites/787.png",
-    "party": "pokelink-community:/radred/assets/sprites/787.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/787.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/787.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/787.gif"
   },
   "baseStats": {
     "hp": 70,

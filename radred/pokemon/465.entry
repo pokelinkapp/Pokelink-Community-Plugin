@@ -2,9 +2,9 @@
   "gameId": 518,
   "name": "RadRed.Species.tangrowth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/465.png",
-    "normal": "pokelink-community:/radred/assets/sprites/465.png",
-    "party": "pokelink-community:/radred/assets/sprites/465.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/465.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/465.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/465.gif"
   },
   "baseStats": {
     "hp": 100,

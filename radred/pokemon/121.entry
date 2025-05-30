@@ -2,9 +2,9 @@
   "gameId": 121,
   "name": "RadRed.Species.starmie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/121.png",
-    "normal": "pokelink-community:/radred/assets/sprites/121.png",
-    "party": "pokelink-community:/radred/assets/sprites/121.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/121.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/121.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/121.gif"
   },
   "baseStats": {
     "hp": 60,

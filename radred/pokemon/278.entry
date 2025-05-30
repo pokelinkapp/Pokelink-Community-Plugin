@@ -2,9 +2,9 @@
   "gameId": 309,
   "name": "RadRed.Species.wingull",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/278.png",
-    "normal": "pokelink-community:/radred/assets/sprites/278.png",
-    "party": "pokelink-community:/radred/assets/sprites/278.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/278.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/278.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/278.gif"
   },
   "baseStats": {
     "hp": 40,

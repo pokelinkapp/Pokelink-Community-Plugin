@@ -2,9 +2,9 @@
   "gameId": 617,
   "name": "RadRed.Species.tirtouga",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/564.png",
-    "normal": "pokelink-community:/radred/assets/sprites/564.png",
-    "party": "pokelink-community:/radred/assets/sprites/564.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/564.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/564.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/564.gif"
   },
   "baseStats": {
     "hp": 54,

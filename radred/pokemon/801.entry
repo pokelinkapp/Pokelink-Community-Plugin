@@ -2,9 +2,9 @@
   "gameId": 1018,
   "name": "RadRed.Species.magearna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/801.png",
-    "normal": "pokelink-community:/radred/assets/sprites/801.png",
-    "party": "pokelink-community:/radred/assets/sprites/801.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/801.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/801.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/801.gif"
   },
   "baseStats": {
     "hp": 80,

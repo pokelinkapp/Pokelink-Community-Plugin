@@ -2,9 +2,9 @@
   "gameId": 836,
   "name": "RadRed.Species.revavroom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/966.png",
-    "normal": "pokelink-community:/radred/assets/sprites/966.png",
-    "party": "pokelink-community:/radred/assets/sprites/966.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/966.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/966.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/966.gif"
   },
   "baseStats": {
     "hp": 80,

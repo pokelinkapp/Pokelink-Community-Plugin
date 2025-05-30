@@ -2,9 +2,9 @@
   "gameId": 362,
   "name": "RadRed.Species.dusclops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/356.png",
-    "normal": "pokelink-community:/radred/assets/sprites/356.png",
-    "party": "pokelink-community:/radred/assets/sprites/356.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/356.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/356.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/356.gif"
   },
   "baseStats": {
     "hp": 40,

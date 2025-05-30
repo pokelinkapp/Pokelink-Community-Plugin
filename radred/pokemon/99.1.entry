@@ -4,9 +4,9 @@
   "name": "RadRed.Species.kingler",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/99.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/99.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/99.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/99.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/99.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/99-1.gif"
   },
   "baseStats": {
     "hp": 55,

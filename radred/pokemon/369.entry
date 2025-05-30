@@ -2,9 +2,9 @@
   "gameId": 381,
   "name": "RadRed.Species.relicanth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/369.png",
-    "normal": "pokelink-community:/radred/assets/sprites/369.png",
-    "party": "pokelink-community:/radred/assets/sprites/369.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/369.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/369.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/369.gif"
   },
   "baseStats": {
     "hp": 100,

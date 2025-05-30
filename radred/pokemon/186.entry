@@ -2,9 +2,9 @@
   "gameId": 186,
   "name": "RadRed.Species.politoed",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/186.png",
-    "normal": "pokelink-community:/radred/assets/sprites/186.png",
-    "party": "pokelink-community:/radred/assets/sprites/186.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/186.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/186.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/186.gif"
   },
   "baseStats": {
     "hp": 90,

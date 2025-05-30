@@ -2,9 +2,9 @@
   "gameId": 403,
   "name": "RadRed.Species.registeel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/379.png",
-    "normal": "pokelink-community:/radred/assets/sprites/379.png",
-    "party": "pokelink-community:/radred/assets/sprites/379.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/379.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/379.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/379.gif"
   },
   "baseStats": {
     "hp": 80,

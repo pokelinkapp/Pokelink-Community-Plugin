@@ -2,9 +2,9 @@
   "gameId": 450,
   "name": "RadRed.Species.staravia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/397.png",
-    "normal": "pokelink-community:/radred/assets/sprites/397.png",
-    "party": "pokelink-community:/radred/assets/sprites/397.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/397.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/397.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/397.gif"
   },
   "baseStats": {
     "hp": 55,

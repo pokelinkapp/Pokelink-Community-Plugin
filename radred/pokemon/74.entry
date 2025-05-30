@@ -2,9 +2,9 @@
   "gameId": 74,
   "name": "RadRed.Species.geodude",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/74.png",
-    "normal": "pokelink-community:/radred/assets/sprites/74.png",
-    "party": "pokelink-community:/radred/assets/sprites/74.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/74.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/74.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/74.gif"
   },
   "baseStats": {
     "hp": 40,

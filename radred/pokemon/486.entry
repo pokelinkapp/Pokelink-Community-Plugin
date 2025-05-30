@@ -2,9 +2,9 @@
   "gameId": 539,
   "name": "RadRed.Species.regigigas",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/486.png",
-    "normal": "pokelink-community:/radred/assets/sprites/486.png",
-    "party": "pokelink-community:/radred/assets/sprites/486.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/486.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/486.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/486.gif"
   },
   "baseStats": {
     "hp": 110,

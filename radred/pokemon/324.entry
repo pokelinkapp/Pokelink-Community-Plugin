@@ -2,9 +2,9 @@
   "gameId": 321,
   "name": "RadRed.Species.torkoal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/324.png",
-    "normal": "pokelink-community:/radred/assets/sprites/324.png",
-    "party": "pokelink-community:/radred/assets/sprites/324.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/324.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/324.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/324.gif"
   },
   "baseStats": {
     "hp": 70,

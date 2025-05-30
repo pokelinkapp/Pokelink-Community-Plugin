@@ -2,9 +2,9 @@
   "gameId": 481,
   "name": "RadRed.Species.lopunny",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/428.png",
-    "normal": "pokelink-community:/radred/assets/sprites/428.png",
-    "party": "pokelink-community:/radred/assets/sprites/428.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/428.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/428.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/428.gif"
   },
   "baseStats": {
     "hp": 65,

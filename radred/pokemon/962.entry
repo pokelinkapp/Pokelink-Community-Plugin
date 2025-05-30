@@ -2,9 +2,9 @@
   "gameId": 1337,
   "name": "RadRed.Species.bombirdier",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/962.png",
-    "normal": "pokelink-community:/radred/assets/sprites/962.png",
-    "party": "pokelink-community:/radred/assets/sprites/962.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/962.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/962.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/962.gif"
   },
   "baseStats": {
     "hp": 85,

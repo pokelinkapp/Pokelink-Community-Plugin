@@ -2,9 +2,9 @@
   "gameId": 316,
   "name": "RadRed.Species.delcatty",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/301.png",
-    "normal": "pokelink-community:/radred/assets/sprites/301.png",
-    "party": "pokelink-community:/radred/assets/sprites/301.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/301.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/301.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/301.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 1117,
   "name": "RadRed.Species.dottler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/825.png",
-    "normal": "pokelink-community:/radred/assets/sprites/825.png",
-    "party": "pokelink-community:/radred/assets/sprites/825.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/825.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/825.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/825.gif"
   },
   "baseStats": {
     "hp": 50,

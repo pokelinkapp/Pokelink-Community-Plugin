@@ -2,9 +2,9 @@
   "gameId": 533,
   "name": "RadRed.Species.uxie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/480.png",
-    "normal": "pokelink-community:/radred/assets/sprites/480.png",
-    "party": "pokelink-community:/radred/assets/sprites/480.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/480.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/480.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/480.gif"
   },
   "baseStats": {
     "hp": 75,

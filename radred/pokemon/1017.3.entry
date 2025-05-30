@@ -4,9 +4,9 @@
   "name": "RadRed.Species.ogerpon",
   "formName": "RadRed.Forms.cornerstone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1017.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1017.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/1017.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1017.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1017.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1017-3.gif"
   },
   "baseStats": {
     "hp": 80,

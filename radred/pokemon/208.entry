@@ -2,9 +2,9 @@
   "gameId": 208,
   "name": "RadRed.Species.steelix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/208.png",
-    "normal": "pokelink-community:/radred/assets/sprites/208.png",
-    "party": "pokelink-community:/radred/assets/sprites/208.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/208.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/208.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/208.gif"
   },
   "baseStats": {
     "hp": 75,

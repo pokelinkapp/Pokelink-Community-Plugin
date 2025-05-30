@@ -2,9 +2,9 @@
   "gameId": 788,
   "name": "RadRed.Species.doublade",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/680.png",
-    "normal": "pokelink-community:/radred/assets/sprites/680.png",
-    "party": "pokelink-community:/radred/assets/sprites/680.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/680.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/680.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/680.gif"
   },
   "baseStats": {
     "hp": 59,

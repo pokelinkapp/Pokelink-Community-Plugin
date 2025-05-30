@@ -4,9 +4,9 @@
   "name": "RadRed.Species.zygarde",
   "formName": "RadRed.Forms.complete",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/718.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/718.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/718.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/718.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/718.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/718-2.gif"
   },
   "baseStats": {
     "hp": 216,

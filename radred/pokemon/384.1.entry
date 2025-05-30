@@ -4,9 +4,9 @@
   "name": "RadRed.Species.rayquaza",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/384.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/384.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/384.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/384.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/384.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/384-1.gif"
   },
   "baseStats": {
     "hp": 105,

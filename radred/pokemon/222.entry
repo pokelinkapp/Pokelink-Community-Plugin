@@ -2,9 +2,9 @@
   "gameId": 222,
   "name": "RadRed.Species.corsola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/222.png",
-    "normal": "pokelink-community:/radred/assets/sprites/222.png",
-    "party": "pokelink-community:/radred/assets/sprites/222.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/222.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/222.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/222.gif"
   },
   "baseStats": {
     "hp": 85,

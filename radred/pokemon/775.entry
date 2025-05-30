@@ -2,9 +2,9 @@
   "gameId": 992,
   "name": "RadRed.Species.komala",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/775.png",
-    "normal": "pokelink-community:/radred/assets/sprites/775.png",
-    "party": "pokelink-community:/radred/assets/sprites/775.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/775.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/775.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/775.gif"
   },
   "baseStats": {
     "hp": 75,

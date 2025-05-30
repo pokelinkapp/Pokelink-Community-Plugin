@@ -2,9 +2,9 @@
   "gameId": 1315,
   "name": "RadRed.Species.spidops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/918.png",
-    "normal": "pokelink-community:/radred/assets/sprites/918.png",
-    "party": "pokelink-community:/radred/assets/sprites/918.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/918.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/918.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/918.gif"
   },
   "baseStats": {
     "hp": 85,

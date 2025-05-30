@@ -2,9 +2,9 @@
   "gameId": 333,
   "name": "RadRed.Species.vibrava",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/329.png",
-    "normal": "pokelink-community:/radred/assets/sprites/329.png",
-    "party": "pokelink-community:/radred/assets/sprites/329.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/329.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/329.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/329.gif"
   },
   "baseStats": {
     "hp": 50,

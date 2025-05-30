@@ -2,9 +2,9 @@
   "gameId": 387,
   "name": "RadRed.Species.illumise",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/314.png",
-    "normal": "pokelink-community:/radred/assets/sprites/314.png",
-    "party": "pokelink-community:/radred/assets/sprites/314.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/314.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/314.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/314.gif"
   },
   "baseStats": {
     "hp": 85,

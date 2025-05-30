@@ -2,9 +2,9 @@
   "gameId": 25,
   "name": "RadRed.Species.pikachu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/25.png",
-    "normal": "pokelink-community:/radred/assets/sprites/25.png",
-    "party": "pokelink-community:/radred/assets/sprites/25.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/25.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/25.gif"
   },
   "baseStats": {
     "hp": 35,

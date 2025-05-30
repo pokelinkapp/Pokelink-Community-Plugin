@@ -4,9 +4,9 @@
   "name": "RadRed.Species.zebstrika",
   "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/523.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/523.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/523.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/523.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/523.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/523-1.gif"
   },
   "baseStats": {
     "hp": 75,

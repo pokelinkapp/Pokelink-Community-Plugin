@@ -2,9 +2,9 @@
   "gameId": 558,
   "name": "RadRed.Species.watchog",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/505.png",
-    "normal": "pokelink-community:/radred/assets/sprites/505.png",
-    "party": "pokelink-community:/radred/assets/sprites/505.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/505.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/505.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/505.gif"
   },
   "baseStats": {
     "hp": 85,

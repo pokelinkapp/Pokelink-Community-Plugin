@@ -2,9 +2,9 @@
   "gameId": 1320,
   "name": "RadRed.Species.flittle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/955.png",
-    "normal": "pokelink-community:/radred/assets/sprites/955.png",
-    "party": "pokelink-community:/radred/assets/sprites/955.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/955.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/955.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/955.gif"
   },
   "baseStats": {
     "hp": 30,

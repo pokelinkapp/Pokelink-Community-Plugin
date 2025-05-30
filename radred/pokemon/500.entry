@@ -2,9 +2,9 @@
   "gameId": 553,
   "name": "RadRed.Species.emboar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/500.png",
-    "normal": "pokelink-community:/radred/assets/sprites/500.png",
-    "party": "pokelink-community:/radred/assets/sprites/500.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/500.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/500.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/500.gif"
   },
   "baseStats": {
     "hp": 110,

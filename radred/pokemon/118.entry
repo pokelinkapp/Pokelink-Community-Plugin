@@ -2,9 +2,9 @@
   "gameId": 118,
   "name": "RadRed.Species.goldeen",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/118.png",
-    "normal": "pokelink-community:/radred/assets/sprites/118.png",
-    "party": "pokelink-community:/radred/assets/sprites/118.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/118.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/118.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/118.gif"
   },
   "baseStats": {
     "hp": 45,

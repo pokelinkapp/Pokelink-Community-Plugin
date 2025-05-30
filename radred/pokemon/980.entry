@@ -2,9 +2,9 @@
   "gameId": 931,
   "name": "RadRed.Species.clodsire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/980.png",
-    "normal": "pokelink-community:/radred/assets/sprites/980.png",
-    "party": "pokelink-community:/radred/assets/sprites/980.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/980.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/980.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/980.gif"
   },
   "baseStats": {
     "hp": 130,

@@ -2,9 +2,9 @@
   "gameId": 508,
   "name": "RadRed.Species.carnivine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/455.png",
-    "normal": "pokelink-community:/radred/assets/sprites/455.png",
-    "party": "pokelink-community:/radred/assets/sprites/455.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/455.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/455.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/455.gif"
   },
   "baseStats": {
     "hp": 89,

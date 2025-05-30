@@ -2,9 +2,9 @@
   "gameId": 750,
   "name": "RadRed.Species.chi_yu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1004.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1004.png",
-    "party": "pokelink-community:/radred/assets/sprites/1004.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1004.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1004.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1004.gif"
   },
   "baseStats": {
     "hp": 55,

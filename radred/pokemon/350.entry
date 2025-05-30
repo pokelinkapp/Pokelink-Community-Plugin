@@ -2,9 +2,9 @@
   "gameId": 329,
   "name": "RadRed.Species.milotic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/350.png",
-    "normal": "pokelink-community:/radred/assets/sprites/350.png",
-    "party": "pokelink-community:/radred/assets/sprites/350.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/350.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/350.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/350.gif"
   },
   "baseStats": {
     "hp": 95,

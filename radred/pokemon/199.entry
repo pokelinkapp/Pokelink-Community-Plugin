@@ -2,9 +2,9 @@
   "gameId": 199,
   "name": "RadRed.Species.slowking",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/199.png",
-    "normal": "pokelink-community:/radred/assets/sprites/199.png",
-    "party": "pokelink-community:/radred/assets/sprites/199.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/199.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/199.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/199.gif"
   },
   "baseStats": {
     "hp": 95,

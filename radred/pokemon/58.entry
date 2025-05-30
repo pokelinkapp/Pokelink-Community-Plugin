@@ -2,9 +2,9 @@
   "gameId": 58,
   "name": "RadRed.Species.growlithe",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/58.png",
-    "normal": "pokelink-community:/radred/assets/sprites/58.png",
-    "party": "pokelink-community:/radred/assets/sprites/58.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/58.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/58.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/58.gif"
   },
   "baseStats": {
     "hp": 55,

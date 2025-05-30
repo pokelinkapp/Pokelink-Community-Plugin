@@ -2,9 +2,9 @@
   "gameId": 1075,
   "name": "RadRed.Species.naganadel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/804.png",
-    "normal": "pokelink-community:/radred/assets/sprites/804.png",
-    "party": "pokelink-community:/radred/assets/sprites/804.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/804.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/804.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/804.gif"
   },
   "baseStats": {
     "hp": 73,

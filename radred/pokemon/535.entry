@@ -2,9 +2,9 @@
   "gameId": 588,
   "name": "RadRed.Species.tympole",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/535.png",
-    "normal": "pokelink-community:/radred/assets/sprites/535.png",
-    "party": "pokelink-community:/radred/assets/sprites/535.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/535.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/535.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/535.gif"
   },
   "baseStats": {
     "hp": 50,

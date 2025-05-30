@@ -2,9 +2,9 @@
   "gameId": 1140,
   "name": "RadRed.Species.toxel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/848.png",
-    "normal": "pokelink-community:/radred/assets/sprites/848.png",
-    "party": "pokelink-community:/radred/assets/sprites/848.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/848.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/848.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/848.gif"
   },
   "baseStats": {
     "hp": 40,

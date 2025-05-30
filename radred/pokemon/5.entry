@@ -2,9 +2,9 @@
   "gameId": 5,
   "name": "RadRed.Species.charmeleon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/5.png",
-    "normal": "pokelink-community:/radred/assets/sprites/5.png",
-    "party": "pokelink-community:/radred/assets/sprites/5.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/5.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/5.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/5.gif"
   },
   "baseStats": {
     "hp": 58,

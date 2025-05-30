@@ -2,9 +2,9 @@
   "gameId": 33,
   "name": "RadRed.Species.nidorino",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/33.png",
-    "normal": "pokelink-community:/radred/assets/sprites/33.png",
-    "party": "pokelink-community:/radred/assets/sprites/33.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/33.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/33.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/33.gif"
   },
   "baseStats": {
     "hp": 61,

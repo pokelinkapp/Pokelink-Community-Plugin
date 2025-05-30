@@ -2,9 +2,9 @@
   "gameId": 1372,
   "name": "RadRed.Species.pecharunt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1025.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1025.png",
-    "party": "pokelink-community:/radred/assets/sprites/1025.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1025.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1025.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1025.gif"
   },
   "baseStats": {
     "hp": 88,

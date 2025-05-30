@@ -2,9 +2,9 @@
   "gameId": 292,
   "name": "RadRed.Species.beautifly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/267.png",
-    "normal": "pokelink-community:/radred/assets/sprites/267.png",
-    "party": "pokelink-community:/radred/assets/sprites/267.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/267.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/267.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/267.gif"
   },
   "baseStats": {
     "hp": 60,

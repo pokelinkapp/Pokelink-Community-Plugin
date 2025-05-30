@@ -2,9 +2,9 @@
   "gameId": 278,
   "name": "RadRed.Species.grovyle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/253.png",
-    "normal": "pokelink-community:/radred/assets/sprites/253.png",
-    "party": "pokelink-community:/radred/assets/sprites/253.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/253.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/253.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/253.gif"
   },
   "baseStats": {
     "hp": 50,

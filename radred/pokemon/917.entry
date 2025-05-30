@@ -2,9 +2,9 @@
   "gameId": 1314,
   "name": "RadRed.Species.tarountula",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/917.png",
-    "normal": "pokelink-community:/radred/assets/sprites/917.png",
-    "party": "pokelink-community:/radred/assets/sprites/917.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/917.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/917.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/917.gif"
   },
   "baseStats": {
     "hp": 35,

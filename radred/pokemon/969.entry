@@ -2,9 +2,9 @@
   "gameId": 1343,
   "name": "RadRed.Species.glimmet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/969.png",
-    "normal": "pokelink-community:/radred/assets/sprites/969.png",
-    "party": "pokelink-community:/radred/assets/sprites/969.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/969.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/969.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/969.gif"
   },
   "baseStats": {
     "hp": 48,

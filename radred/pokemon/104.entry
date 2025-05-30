@@ -2,9 +2,9 @@
   "gameId": 104,
   "name": "RadRed.Species.cubone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/104.png",
-    "normal": "pokelink-community:/radred/assets/sprites/104.png",
-    "party": "pokelink-community:/radred/assets/sprites/104.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/104.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/104.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/104.gif"
   },
   "baseStats": {
     "hp": 50,

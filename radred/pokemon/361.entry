@@ -2,9 +2,9 @@
   "gameId": 346,
   "name": "RadRed.Species.snorunt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/361.png",
-    "normal": "pokelink-community:/radred/assets/sprites/361.png",
-    "party": "pokelink-community:/radred/assets/sprites/361.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/361.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/361.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/361.gif"
   },
   "baseStats": {
     "hp": 50,

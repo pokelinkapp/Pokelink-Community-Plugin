@@ -2,9 +2,9 @@
   "gameId": 395,
   "name": "RadRed.Species.bagon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/371.png",
-    "normal": "pokelink-community:/radred/assets/sprites/371.png",
-    "party": "pokelink-community:/radred/assets/sprites/371.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/371.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/371.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/371.gif"
   },
   "baseStats": {
     "hp": 45,

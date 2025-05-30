@@ -2,9 +2,9 @@
   "gameId": 522,
   "name": "RadRed.Species.yanmega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/469.png",
-    "normal": "pokelink-community:/radred/assets/sprites/469.png",
-    "party": "pokelink-community:/radred/assets/sprites/469.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/469.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/469.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/469.gif"
   },
   "baseStats": {
     "hp": 86,

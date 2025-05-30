@@ -2,9 +2,9 @@
   "gameId": 233,
   "name": "RadRed.Species.porygon2",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/233.png",
-    "normal": "pokelink-community:/radred/assets/sprites/233.png",
-    "party": "pokelink-community:/radred/assets/sprites/233.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/233.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/233.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/233.gif"
   },
   "baseStats": {
     "hp": 85,

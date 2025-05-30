@@ -2,9 +2,9 @@
   "gameId": 145,
   "name": "RadRed.Species.zapdos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/145.png",
-    "normal": "pokelink-community:/radred/assets/sprites/145.png",
-    "party": "pokelink-community:/radred/assets/sprites/145.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/145.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/145.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/145.gif"
   },
   "baseStats": {
     "hp": 90,

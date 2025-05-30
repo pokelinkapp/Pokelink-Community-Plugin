@@ -2,9 +2,9 @@
   "gameId": 322,
   "name": "RadRed.Species.sableye",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/302.png",
-    "normal": "pokelink-community:/radred/assets/sprites/302.png",
-    "party": "pokelink-community:/radred/assets/sprites/302.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/302.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/302.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/302.gif"
   },
   "baseStats": {
     "hp": 50,

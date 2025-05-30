@@ -4,9 +4,9 @@
   "name": "RadRed.Species.slowpoke",
   "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/79.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/79.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/79.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/79.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/79.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/79-1.gif"
   },
   "baseStats": {
     "hp": 90,

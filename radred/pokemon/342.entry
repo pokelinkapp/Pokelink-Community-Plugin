@@ -2,9 +2,9 @@
   "gameId": 327,
   "name": "RadRed.Species.crawdaunt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/342.png",
-    "normal": "pokelink-community:/radred/assets/sprites/342.png",
-    "party": "pokelink-community:/radred/assets/sprites/342.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/342.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/342.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/342.gif"
   },
   "baseStats": {
     "hp": 63,

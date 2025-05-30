@@ -2,9 +2,9 @@
   "gameId": 1166,
   "name": "RadRed.Species.stonjourner",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/874.png",
-    "normal": "pokelink-community:/radred/assets/sprites/874.png",
-    "party": "pokelink-community:/radred/assets/sprites/874.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/874.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/874.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/874.gif"
   },
   "baseStats": {
     "hp": 100,

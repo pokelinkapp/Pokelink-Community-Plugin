@@ -2,9 +2,9 @@
   "gameId": 623,
   "name": "RadRed.Species.zorua",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/570.png",
-    "normal": "pokelink-community:/radred/assets/sprites/570.png",
-    "party": "pokelink-community:/radred/assets/sprites/570.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/570.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/570.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/570.gif"
   },
   "baseStats": {
     "hp": 40,

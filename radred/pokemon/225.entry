@@ -2,9 +2,9 @@
   "gameId": 225,
   "name": "RadRed.Species.delibird",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/225.png",
-    "normal": "pokelink-community:/radred/assets/sprites/225.png",
-    "party": "pokelink-community:/radred/assets/sprites/225.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/225.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/225.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/225.gif"
   },
   "baseStats": {
     "hp": 45,

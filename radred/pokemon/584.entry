@@ -2,9 +2,9 @@
   "gameId": 637,
   "name": "RadRed.Species.vanilluxe",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/584.png",
-    "normal": "pokelink-community:/radred/assets/sprites/584.png",
-    "party": "pokelink-community:/radred/assets/sprites/584.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/584.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/584.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/584.gif"
   },
   "baseStats": {
     "hp": 71,

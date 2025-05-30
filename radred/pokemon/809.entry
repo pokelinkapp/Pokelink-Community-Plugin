@@ -2,9 +2,9 @@
   "gameId": 1084,
   "name": "RadRed.Species.melmetal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/809.png",
-    "normal": "pokelink-community:/radred/assets/sprites/809.png",
-    "party": "pokelink-community:/radred/assets/sprites/809.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/809.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/809.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/809.gif"
   },
   "baseStats": {
     "hp": 135,

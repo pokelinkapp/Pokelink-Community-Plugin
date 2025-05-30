@@ -2,9 +2,9 @@
   "gameId": 317,
   "name": "RadRed.Species.kecleon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/352.png",
-    "normal": "pokelink-community:/radred/assets/sprites/352.png",
-    "party": "pokelink-community:/radred/assets/sprites/352.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/352.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/352.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/352.gif"
   },
   "baseStats": {
     "hp": 85,

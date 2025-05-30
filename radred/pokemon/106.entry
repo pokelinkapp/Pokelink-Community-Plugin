@@ -2,9 +2,9 @@
   "gameId": 106,
   "name": "RadRed.Species.hitmonlee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/106.png",
-    "normal": "pokelink-community:/radred/assets/sprites/106.png",
-    "party": "pokelink-community:/radred/assets/sprites/106.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/106.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/106.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/106.gif"
   },
   "baseStats": {
     "hp": 50,

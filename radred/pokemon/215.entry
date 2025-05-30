@@ -2,9 +2,9 @@
   "gameId": 215,
   "name": "RadRed.Species.sneasel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/215.png",
-    "normal": "pokelink-community:/radred/assets/sprites/215.png",
-    "party": "pokelink-community:/radred/assets/sprites/215.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/215.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/215.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/215.gif"
   },
   "baseStats": {
     "hp": 55,

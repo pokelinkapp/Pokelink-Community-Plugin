@@ -2,9 +2,9 @@
   "gameId": 12,
   "name": "RadRed.Species.butterfree",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/12.png",
-    "normal": "pokelink-community:/radred/assets/sprites/12.png",
-    "party": "pokelink-community:/radred/assets/sprites/12.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/12.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/12.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/12.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 598,
   "name": "RadRed.Species.scolipede",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/545.png",
-    "normal": "pokelink-community:/radred/assets/sprites/545.png",
-    "party": "pokelink-community:/radred/assets/sprites/545.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/545.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/545.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/545.gif"
   },
   "baseStats": {
     "hp": 60,

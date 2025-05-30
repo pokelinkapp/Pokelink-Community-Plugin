@@ -3,9 +3,9 @@
   "gameId": 639,
   "name": "RadRed.Species.sawsbuck",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/586.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/586.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/586.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/586.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/586.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/586-3.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 301,
   "name": "RadRed.Species.nincada",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/290.png",
-    "normal": "pokelink-community:/radred/assets/sprites/290.png",
-    "party": "pokelink-community:/radred/assets/sprites/290.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/290.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/290.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/290.gif"
   },
   "baseStats": {
     "hp": 31,

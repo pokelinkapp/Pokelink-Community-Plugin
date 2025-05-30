@@ -2,9 +2,9 @@
   "gameId": 1145,
   "name": "RadRed.Species.grapploct",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/853.png",
-    "normal": "pokelink-community:/radred/assets/sprites/853.png",
-    "party": "pokelink-community:/radred/assets/sprites/853.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/853.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/853.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/853.gif"
   },
   "baseStats": {
     "hp": 80,

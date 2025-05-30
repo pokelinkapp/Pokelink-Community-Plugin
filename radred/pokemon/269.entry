@@ -2,9 +2,9 @@
   "gameId": 294,
   "name": "RadRed.Species.dustox",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/269.png",
-    "normal": "pokelink-community:/radred/assets/sprites/269.png",
-    "party": "pokelink-community:/radred/assets/sprites/269.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/269.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/269.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/269.gif"
   },
   "baseStats": {
     "hp": 80,

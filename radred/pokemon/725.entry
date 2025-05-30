@@ -2,9 +2,9 @@
   "gameId": 942,
   "name": "RadRed.Species.litten",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/725.png",
-    "normal": "pokelink-community:/radred/assets/sprites/725.png",
-    "party": "pokelink-community:/radred/assets/sprites/725.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/725.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/725.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/725.gif"
   },
   "baseStats": {
     "hp": 45,

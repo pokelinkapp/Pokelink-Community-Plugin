@@ -4,9 +4,9 @@
   "name": "RadRed.Species.dialga",
   "formName": "RadRed.Forms.primal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/483.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/483.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/483.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/483.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/483.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/483-2.gif"
   },
   "baseStats": {
     "hp": 100,

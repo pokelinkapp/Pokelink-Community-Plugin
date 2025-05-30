@@ -2,9 +2,9 @@
   "gameId": 577,
   "name": "RadRed.Species.roggenrola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/524.png",
-    "normal": "pokelink-community:/radred/assets/sprites/524.png",
-    "party": "pokelink-community:/radred/assets/sprites/524.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/524.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/524.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/524.gif"
   },
   "baseStats": {
     "hp": 55,

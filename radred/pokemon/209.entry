@@ -2,9 +2,9 @@
   "gameId": 209,
   "name": "RadRed.Species.snubbull",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/209.png",
-    "normal": "pokelink-community:/radred/assets/sprites/209.png",
-    "party": "pokelink-community:/radred/assets/sprites/209.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/209.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/209.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/209.gif"
   },
   "baseStats": {
     "hp": 60,

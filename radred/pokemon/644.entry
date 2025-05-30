@@ -2,9 +2,9 @@
   "gameId": 697,
   "name": "RadRed.Species.zekrom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/644.png",
-    "normal": "pokelink-community:/radred/assets/sprites/644.png",
-    "party": "pokelink-community:/radred/assets/sprites/644.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/644.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/644.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/644.gif"
   },
   "baseStats": {
     "hp": 100,

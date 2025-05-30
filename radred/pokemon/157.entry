@@ -2,9 +2,9 @@
   "gameId": 157,
   "name": "RadRed.Species.typhlosion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/157.png",
-    "normal": "pokelink-community:/radred/assets/sprites/157.png",
-    "party": "pokelink-community:/radred/assets/sprites/157.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/157.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/157.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/157.gif"
   },
   "baseStats": {
     "hp": 78,

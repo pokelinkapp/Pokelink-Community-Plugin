@@ -2,9 +2,9 @@
   "gameId": 943,
   "name": "RadRed.Species.torracat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/726.png",
-    "normal": "pokelink-community:/radred/assets/sprites/726.png",
-    "party": "pokelink-community:/radred/assets/sprites/726.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/726.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/726.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/726.gif"
   },
   "baseStats": {
     "hp": 65,

@@ -2,9 +2,9 @@
   "gameId": 1184,
   "name": "RadRed.Species.urshifu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/892.png",
-    "normal": "pokelink-community:/radred/assets/sprites/892.png",
-    "party": "pokelink-community:/radred/assets/sprites/892.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/892.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/892.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/892.gif"
   },
   "baseStats": {
     "hp": 100,

@@ -2,9 +2,9 @@
   "gameId": 642,
   "name": "RadRed.Species.escavalier",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/589.png",
-    "normal": "pokelink-community:/radred/assets/sprites/589.png",
-    "party": "pokelink-community:/radred/assets/sprites/589.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/589.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/589.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/589.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 70,
   "name": "RadRed.Species.weepinbell",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/70.png",
-    "normal": "pokelink-community:/radred/assets/sprites/70.png",
-    "party": "pokelink-community:/radred/assets/sprites/70.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/70.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/70.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/70.gif"
   },
   "baseStats": {
     "hp": 65,

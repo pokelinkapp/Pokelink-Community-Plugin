@@ -2,9 +2,9 @@
   "gameId": 597,
   "name": "RadRed.Species.whirlipede",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/544.png",
-    "normal": "pokelink-community:/radred/assets/sprites/544.png",
-    "party": "pokelink-community:/radred/assets/sprites/544.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/544.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/544.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/544.gif"
   },
   "baseStats": {
     "hp": 40,

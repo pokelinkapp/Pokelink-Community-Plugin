@@ -2,9 +2,9 @@
   "gameId": 1131,
   "name": "RadRed.Species.coalossal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/839.png",
-    "normal": "pokelink-community:/radred/assets/sprites/839.png",
-    "party": "pokelink-community:/radred/assets/sprites/839.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/839.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/839.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/839.gif"
   },
   "baseStats": {
     "hp": 110,

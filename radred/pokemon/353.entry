@@ -2,9 +2,9 @@
   "gameId": 377,
   "name": "RadRed.Species.shuppet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/353.png",
-    "normal": "pokelink-community:/radred/assets/sprites/353.png",
-    "party": "pokelink-community:/radred/assets/sprites/353.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/353.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/353.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/353.gif"
   },
   "baseStats": {
     "hp": 44,

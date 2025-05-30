@@ -2,9 +2,9 @@
   "gameId": 684,
   "name": "RadRed.Species.heatmor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/631.png",
-    "normal": "pokelink-community:/radred/assets/sprites/631.png",
-    "party": "pokelink-community:/radred/assets/sprites/631.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/631.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/631.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/631.gif"
   },
   "baseStats": {
     "hp": 85,

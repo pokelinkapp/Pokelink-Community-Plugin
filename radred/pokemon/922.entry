@@ -2,9 +2,9 @@
   "gameId": 844,
   "name": "RadRed.Species.pawmo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/922.png",
-    "normal": "pokelink-community:/radred/assets/sprites/922.png",
-    "party": "pokelink-community:/radred/assets/sprites/922.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/922.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/922.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/922.gif"
   },
   "baseStats": {
     "hp": 60,

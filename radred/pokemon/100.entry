@@ -2,9 +2,9 @@
   "gameId": 100,
   "name": "RadRed.Species.voltorb",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/100.png",
-    "normal": "pokelink-community:/radred/assets/sprites/100.png",
-    "party": "pokelink-community:/radred/assets/sprites/100.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/100.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/100.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/100.gif"
   },
   "baseStats": {
     "hp": 40,

@@ -2,9 +2,9 @@
   "gameId": 35,
   "name": "RadRed.Species.clefairy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/35.png",
-    "normal": "pokelink-community:/radred/assets/sprites/35.png",
-    "party": "pokelink-community:/radred/assets/sprites/35.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/35.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/35.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/35.gif"
   },
   "baseStats": {
     "hp": 70,

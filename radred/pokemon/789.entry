@@ -2,9 +2,9 @@
   "gameId": 1006,
   "name": "RadRed.Species.cosmog",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/789.png",
-    "normal": "pokelink-community:/radred/assets/sprites/789.png",
-    "party": "pokelink-community:/radred/assets/sprites/789.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/789.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/789.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/789.gif"
   },
   "baseStats": {
     "hp": 43,

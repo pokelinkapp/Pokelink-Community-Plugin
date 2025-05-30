@@ -2,9 +2,9 @@
   "gameId": 1122,
   "name": "RadRed.Species.eldegoss",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/830.png",
-    "normal": "pokelink-community:/radred/assets/sprites/830.png",
-    "party": "pokelink-community:/radred/assets/sprites/830.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/830.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/830.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/830.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 239,
   "name": "RadRed.Species.elekid",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/239.png",
-    "normal": "pokelink-community:/radred/assets/sprites/239.png",
-    "party": "pokelink-community:/radred/assets/sprites/239.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/239.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/239.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/239.gif"
   },
   "baseStats": {
     "hp": 45,

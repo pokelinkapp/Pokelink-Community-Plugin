@@ -2,9 +2,9 @@
   "gameId": 618,
   "name": "RadRed.Species.carracosta",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/565.png",
-    "normal": "pokelink-community:/radred/assets/sprites/565.png",
-    "party": "pokelink-community:/radred/assets/sprites/565.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/565.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/565.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/565.gif"
   },
   "baseStats": {
     "hp": 74,

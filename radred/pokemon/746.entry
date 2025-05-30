@@ -2,9 +2,9 @@
   "gameId": 963,
   "name": "RadRed.Species.wishiwashi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/746.png",
-    "normal": "pokelink-community:/radred/assets/sprites/746.png",
-    "party": "pokelink-community:/radred/assets/sprites/746.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/746.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/746.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/746.gif"
   },
   "baseStats": {
     "hp": 55,

@@ -2,9 +2,9 @@
   "gameId": 999,
   "name": "RadRed.Species.jangmo_o",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/782.png",
-    "normal": "pokelink-community:/radred/assets/sprites/782.png",
-    "party": "pokelink-community:/radred/assets/sprites/782.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/782.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/782.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/782.gif"
   },
   "baseStats": {
     "hp": 45,

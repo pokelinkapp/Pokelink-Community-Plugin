@@ -2,9 +2,9 @@
   "gameId": 1111,
   "name": "RadRed.Species.skwovet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/819.png",
-    "normal": "pokelink-community:/radred/assets/sprites/819.png",
-    "party": "pokelink-community:/radred/assets/sprites/819.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/819.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/819.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/819.gif"
   },
   "baseStats": {
     "hp": 70,

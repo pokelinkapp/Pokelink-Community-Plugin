@@ -2,9 +2,9 @@
   "gameId": 761,
   "name": "RadRed.Species.fennekin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/653.png",
-    "normal": "pokelink-community:/radred/assets/sprites/653.png",
-    "party": "pokelink-community:/radred/assets/sprites/653.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/653.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/653.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/653.gif"
   },
   "baseStats": {
     "hp": 40,

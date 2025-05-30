@@ -2,9 +2,9 @@
   "gameId": 998,
   "name": "RadRed.Species.dhelmise",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/781.png",
-    "normal": "pokelink-community:/radred/assets/sprites/781.png",
-    "party": "pokelink-community:/radred/assets/sprites/781.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/781.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/781.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/781.gif"
   },
   "baseStats": {
     "hp": 70,

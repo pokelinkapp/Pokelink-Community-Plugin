@@ -2,9 +2,9 @@
   "gameId": 1108,
   "name": "RadRed.Species.sobble",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/816.png",
-    "normal": "pokelink-community:/radred/assets/sprites/816.png",
-    "party": "pokelink-community:/radred/assets/sprites/816.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/816.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/816.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/816.gif"
   },
   "baseStats": {
     "hp": 50,

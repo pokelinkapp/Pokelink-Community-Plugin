@@ -2,9 +2,9 @@
   "gameId": 165,
   "name": "RadRed.Species.ledyba",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/165.png",
-    "normal": "pokelink-community:/radred/assets/sprites/165.png",
-    "party": "pokelink-community:/radred/assets/sprites/165.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/165.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/165.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/165.gif"
   },
   "baseStats": {
     "hp": 40,

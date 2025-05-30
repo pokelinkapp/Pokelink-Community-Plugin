@@ -2,9 +2,9 @@
   "gameId": 781,
   "name": "RadRed.Species.gogoat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/673.png",
-    "normal": "pokelink-community:/radred/assets/sprites/673.png",
-    "party": "pokelink-community:/radred/assets/sprites/673.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/673.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/673.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/673.gif"
   },
   "baseStats": {
     "hp": 123,

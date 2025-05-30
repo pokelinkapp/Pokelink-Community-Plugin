@@ -2,9 +2,9 @@
   "gameId": 72,
   "name": "RadRed.Species.tentacool",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/72.png",
-    "normal": "pokelink-community:/radred/assets/sprites/72.png",
-    "party": "pokelink-community:/radred/assets/sprites/72.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/72.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/72.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/72.gif"
   },
   "baseStats": {
     "hp": 40,

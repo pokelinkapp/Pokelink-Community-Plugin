@@ -2,9 +2,9 @@
   "gameId": 132,
   "name": "RadRed.Species.ditto",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/132.png",
-    "normal": "pokelink-community:/radred/assets/sprites/132.png",
-    "party": "pokelink-community:/radred/assets/sprites/132.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/132.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/132.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/132.gif"
   },
   "baseStats": {
     "hp": 48,

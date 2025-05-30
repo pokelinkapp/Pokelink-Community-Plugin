@@ -3,9 +3,9 @@
   "gameId": 818,
   "name": "RadRed.Species.pumpkaboo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/710.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/710.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/710.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/710.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/710.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/710-2.gif"
   },
   "baseStats": {
     "hp": 54,

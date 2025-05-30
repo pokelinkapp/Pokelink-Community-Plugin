@@ -2,9 +2,9 @@
   "gameId": 27,
   "name": "RadRed.Species.sandshrew",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/27.png",
-    "normal": "pokelink-community:/radred/assets/sprites/27.png",
-    "party": "pokelink-community:/radred/assets/sprites/27.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/27.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/27.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/27.gif"
   },
   "baseStats": {
     "hp": 50,

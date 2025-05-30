@@ -2,9 +2,9 @@
   "gameId": 611,
   "name": "RadRed.Species.crustle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/558.png",
-    "normal": "pokelink-community:/radred/assets/sprites/558.png",
-    "party": "pokelink-community:/radred/assets/sprites/558.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/558.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/558.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/558.gif"
   },
   "baseStats": {
     "hp": 70,

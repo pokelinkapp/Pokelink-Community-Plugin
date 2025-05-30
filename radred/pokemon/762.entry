@@ -2,9 +2,9 @@
   "gameId": 979,
   "name": "RadRed.Species.steenee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/762.png",
-    "normal": "pokelink-community:/radred/assets/sprites/762.png",
-    "party": "pokelink-community:/radred/assets/sprites/762.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/762.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/762.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/762.gif"
   },
   "baseStats": {
     "hp": 52,

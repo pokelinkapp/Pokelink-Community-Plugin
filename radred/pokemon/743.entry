@@ -2,9 +2,9 @@
   "gameId": 960,
   "name": "RadRed.Species.ribombee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/743.png",
-    "normal": "pokelink-community:/radred/assets/sprites/743.png",
-    "party": "pokelink-community:/radred/assets/sprites/743.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/743.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/743.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/743.gif"
   },
   "baseStats": {
     "hp": 60,

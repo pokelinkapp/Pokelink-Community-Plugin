@@ -2,9 +2,9 @@
   "gameId": 815,
   "name": "RadRed.Species.klefki",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/707.png",
-    "normal": "pokelink-community:/radred/assets/sprites/707.png",
-    "party": "pokelink-community:/radred/assets/sprites/707.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/707.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/707.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/707.gif"
   },
   "baseStats": {
     "hp": 57,

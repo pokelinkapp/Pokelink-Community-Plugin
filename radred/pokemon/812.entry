@@ -2,9 +2,9 @@
   "gameId": 1104,
   "name": "RadRed.Species.rillaboom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/812.png",
-    "normal": "pokelink-community:/radred/assets/sprites/812.png",
-    "party": "pokelink-community:/radred/assets/sprites/812.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/812.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/812.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/812.gif"
   },
   "baseStats": {
     "hp": 100,

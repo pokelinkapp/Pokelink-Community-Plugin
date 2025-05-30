@@ -2,9 +2,9 @@
   "gameId": 66,
   "name": "RadRed.Species.machop",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/66.png",
-    "normal": "pokelink-community:/radred/assets/sprites/66.png",
-    "party": "pokelink-community:/radred/assets/sprites/66.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/66.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/66.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/66.gif"
   },
   "baseStats": {
     "hp": 70,

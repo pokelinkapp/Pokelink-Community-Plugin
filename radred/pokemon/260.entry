@@ -2,9 +2,9 @@
   "gameId": 285,
   "name": "RadRed.Species.swampert",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/260.png",
-    "normal": "pokelink-community:/radred/assets/sprites/260.png",
-    "party": "pokelink-community:/radred/assets/sprites/260.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/260.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/260.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/260.gif"
   },
   "baseStats": {
     "hp": 100,

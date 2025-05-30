@@ -2,9 +2,9 @@
   "gameId": 1141,
   "name": "RadRed.Species.toxtricity",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/849.png",
-    "normal": "pokelink-community:/radred/assets/sprites/849.png",
-    "party": "pokelink-community:/radred/assets/sprites/849.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/849.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/849.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/849.gif"
   },
   "baseStats": {
     "hp": 75,

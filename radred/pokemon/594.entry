@@ -2,9 +2,9 @@
   "gameId": 647,
   "name": "RadRed.Species.alomomola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/594.png",
-    "normal": "pokelink-community:/radred/assets/sprites/594.png",
-    "party": "pokelink-community:/radred/assets/sprites/594.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/594.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/594.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/594.gif"
   },
   "baseStats": {
     "hp": 165,

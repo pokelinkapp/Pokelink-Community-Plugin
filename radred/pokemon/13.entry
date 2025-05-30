@@ -2,9 +2,9 @@
   "gameId": 13,
   "name": "RadRed.Species.weedle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/13.png",
-    "normal": "pokelink-community:/radred/assets/sprites/13.png",
-    "party": "pokelink-community:/radred/assets/sprites/13.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/13.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/13.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/13.gif"
   },
   "baseStats": {
     "hp": 40,

@@ -2,9 +2,9 @@
   "gameId": 1335,
   "name": "RadRed.Species.wattrel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/940.png",
-    "normal": "pokelink-community:/radred/assets/sprites/940.png",
-    "party": "pokelink-community:/radred/assets/sprites/940.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/940.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/940.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/940.gif"
   },
   "baseStats": {
     "hp": 40,

@@ -2,9 +2,9 @@
   "gameId": 385,
   "name": "RadRed.Species.castform",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/351.png",
-    "normal": "pokelink-community:/radred/assets/sprites/351.png",
-    "party": "pokelink-community:/radred/assets/sprites/351.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/351.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/351.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/351.gif"
   },
   "baseStats": {
     "hp": 85,

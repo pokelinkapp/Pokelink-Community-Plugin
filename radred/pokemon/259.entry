@@ -2,9 +2,9 @@
   "gameId": 284,
   "name": "RadRed.Species.marshtomp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/259.png",
-    "normal": "pokelink-community:/radred/assets/sprites/259.png",
-    "party": "pokelink-community:/radred/assets/sprites/259.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/259.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/259.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/259.gif"
   },
   "baseStats": {
     "hp": 70,

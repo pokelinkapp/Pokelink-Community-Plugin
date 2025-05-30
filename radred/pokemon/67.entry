@@ -2,9 +2,9 @@
   "gameId": 67,
   "name": "RadRed.Species.machoke",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/67.png",
-    "normal": "pokelink-community:/radred/assets/sprites/67.png",
-    "party": "pokelink-community:/radred/assets/sprites/67.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/67.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/67.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/67.gif"
   },
   "baseStats": {
     "hp": 80,

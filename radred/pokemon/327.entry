@@ -2,9 +2,9 @@
   "gameId": 308,
   "name": "RadRed.Species.spinda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/327.png",
-    "normal": "pokelink-community:/radred/assets/sprites/327.png",
-    "party": "pokelink-community:/radred/assets/sprites/327.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/327.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/327.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/327.gif"
   },
   "baseStats": {
     "hp": 80,

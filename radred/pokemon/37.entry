@@ -2,9 +2,9 @@
   "gameId": 37,
   "name": "RadRed.Species.vulpix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/37.png",
-    "normal": "pokelink-community:/radred/assets/sprites/37.png",
-    "party": "pokelink-community:/radred/assets/sprites/37.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/37.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/37.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/37.gif"
   },
   "baseStats": {
     "hp": 38,

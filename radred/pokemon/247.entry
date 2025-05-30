@@ -2,9 +2,9 @@
   "gameId": 247,
   "name": "RadRed.Species.pupitar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/247.png",
-    "normal": "pokelink-community:/radred/assets/sprites/247.png",
-    "party": "pokelink-community:/radred/assets/sprites/247.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/247.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/247.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/247.gif"
   },
   "baseStats": {
     "hp": 70,

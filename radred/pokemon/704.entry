@@ -2,9 +2,9 @@
   "gameId": 812,
   "name": "RadRed.Species.goomy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/704.png",
-    "normal": "pokelink-community:/radred/assets/sprites/704.png",
-    "party": "pokelink-community:/radred/assets/sprites/704.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/704.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/704.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/704.gif"
   },
   "baseStats": {
     "hp": 45,

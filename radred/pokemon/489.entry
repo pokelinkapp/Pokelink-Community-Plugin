@@ -2,9 +2,9 @@
   "gameId": 542,
   "name": "RadRed.Species.phione",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/489.png",
-    "normal": "pokelink-community:/radred/assets/sprites/489.png",
-    "party": "pokelink-community:/radred/assets/sprites/489.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/489.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/489.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/489.gif"
   },
   "baseStats": {
     "hp": 80,

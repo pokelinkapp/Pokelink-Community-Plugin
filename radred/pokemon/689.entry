@@ -2,9 +2,9 @@
   "gameId": 797,
   "name": "RadRed.Species.barbaracle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/689.png",
-    "normal": "pokelink-community:/radred/assets/sprites/689.png",
-    "party": "pokelink-community:/radred/assets/sprites/689.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/689.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/689.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/689.gif"
   },
   "baseStats": {
     "hp": 72,

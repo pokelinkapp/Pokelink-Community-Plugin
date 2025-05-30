@@ -2,9 +2,9 @@
   "gameId": 630,
   "name": "RadRed.Species.solosis",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/577.png",
-    "normal": "pokelink-community:/radred/assets/sprites/577.png",
-    "party": "pokelink-community:/radred/assets/sprites/577.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/577.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/577.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/577.gif"
   },
   "baseStats": {
     "hp": 45,

@@ -2,9 +2,9 @@
   "gameId": 940,
   "name": "RadRed.Species.dartrix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/723.png",
-    "normal": "pokelink-community:/radred/assets/sprites/723.png",
-    "party": "pokelink-community:/radred/assets/sprites/723.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/723.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/723.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/723.gif"
   },
   "baseStats": {
     "hp": 78,

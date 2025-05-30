@@ -2,9 +2,9 @@
   "gameId": 371,
   "name": "RadRed.Species.loudred",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/294.png",
-    "normal": "pokelink-community:/radred/assets/sprites/294.png",
-    "party": "pokelink-community:/radred/assets/sprites/294.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/294.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/294.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/294.gif"
   },
   "baseStats": {
     "hp": 84,

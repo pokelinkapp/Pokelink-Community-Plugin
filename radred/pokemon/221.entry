@@ -2,9 +2,9 @@
   "gameId": 221,
   "name": "RadRed.Species.piloswine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/221.png",
-    "normal": "pokelink-community:/radred/assets/sprites/221.png",
-    "party": "pokelink-community:/radred/assets/sprites/221.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/221.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/221.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/221.gif"
   },
   "baseStats": {
     "hp": 100,

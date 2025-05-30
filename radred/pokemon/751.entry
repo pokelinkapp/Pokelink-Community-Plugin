@@ -2,9 +2,9 @@
   "gameId": 968,
   "name": "RadRed.Species.dewpider",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/751.png",
-    "normal": "pokelink-community:/radred/assets/sprites/751.png",
-    "party": "pokelink-community:/radred/assets/sprites/751.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/751.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/751.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/751.gif"
   },
   "baseStats": {
     "hp": 38,

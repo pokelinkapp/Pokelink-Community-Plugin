@@ -4,9 +4,9 @@
   "name": "RadRed.Species.silvally",
   "formName": "RadRed.Forms.poison",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/773.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/773.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/773.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/773.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773-3.gif"
   },
   "baseStats": {
     "hp": 100,

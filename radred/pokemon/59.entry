@@ -2,9 +2,9 @@
   "gameId": 59,
   "name": "RadRed.Species.arcanine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/59.png",
-    "normal": "pokelink-community:/radred/assets/sprites/59.png",
-    "party": "pokelink-community:/radred/assets/sprites/59.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/59.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/59.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/59.gif"
   },
   "baseStats": {
     "hp": 90,

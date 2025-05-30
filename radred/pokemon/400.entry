@@ -2,9 +2,9 @@
   "gameId": 453,
   "name": "RadRed.Species.bibarel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/400.png",
-    "normal": "pokelink-community:/radred/assets/sprites/400.png",
-    "party": "pokelink-community:/radred/assets/sprites/400.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/400.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/400.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/400.gif"
   },
   "baseStats": {
     "hp": 79,

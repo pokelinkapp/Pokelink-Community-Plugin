@@ -2,9 +2,9 @@
   "gameId": 1001,
   "name": "RadRed.Species.kommo_o",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/784.png",
-    "normal": "pokelink-community:/radred/assets/sprites/784.png",
-    "party": "pokelink-community:/radred/assets/sprites/784.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/784.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/784.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/784.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 747,
   "name": "RadRed.Species.ting_lu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1003.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1003.png",
-    "party": "pokelink-community:/radred/assets/sprites/1003.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1003.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1003.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1003.gif"
   },
   "baseStats": {
     "hp": 155,

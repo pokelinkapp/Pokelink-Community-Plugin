@@ -2,9 +2,9 @@
   "gameId": 1116,
   "name": "RadRed.Species.blipbug",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/824.png",
-    "normal": "pokelink-community:/radred/assets/sprites/824.png",
-    "party": "pokelink-community:/radred/assets/sprites/824.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/824.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/824.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/824.gif"
   },
   "baseStats": {
     "hp": 25,

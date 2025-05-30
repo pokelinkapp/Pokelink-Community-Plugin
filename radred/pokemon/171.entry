@@ -2,9 +2,9 @@
   "gameId": 171,
   "name": "RadRed.Species.lanturn",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/171.png",
-    "normal": "pokelink-community:/radred/assets/sprites/171.png",
-    "party": "pokelink-community:/radred/assets/sprites/171.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/171.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/171.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/171.gif"
   },
   "baseStats": {
     "hp": 125,

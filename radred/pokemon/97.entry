@@ -2,9 +2,9 @@
   "gameId": 97,
   "name": "RadRed.Species.hypno",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/97.png",
-    "normal": "pokelink-community:/radred/assets/sprites/97.png",
-    "party": "pokelink-community:/radred/assets/sprites/97.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/97.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/97.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/97.gif"
   },
   "baseStats": {
     "hp": 85,

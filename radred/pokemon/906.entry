@@ -2,9 +2,9 @@
   "gameId": 921,
   "name": "RadRed.Species.sprigatito",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/906.png",
-    "normal": "pokelink-community:/radred/assets/sprites/906.png",
-    "party": "pokelink-community:/radred/assets/sprites/906.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/906.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/906.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/906.gif"
   },
   "baseStats": {
     "hp": 40,

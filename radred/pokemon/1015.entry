@@ -2,9 +2,9 @@
   "gameId": 1365,
   "name": "RadRed.Species.munkidori",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1015.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1015.png",
-    "party": "pokelink-community:/radred/assets/sprites/1015.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1015.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1015.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1015.gif"
   },
   "baseStats": {
     "hp": 88,

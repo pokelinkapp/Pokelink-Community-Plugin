@@ -2,9 +2,9 @@
   "gameId": 445,
   "name": "RadRed.Species.infernape",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/392.png",
-    "normal": "pokelink-community:/radred/assets/sprites/392.png",
-    "party": "pokelink-community:/radred/assets/sprites/392.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/392.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/392.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/392.gif"
   },
   "baseStats": {
     "hp": 76,

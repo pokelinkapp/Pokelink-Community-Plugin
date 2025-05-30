@@ -2,9 +2,9 @@
   "gameId": 361,
   "name": "RadRed.Species.duskull",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/355.png",
-    "normal": "pokelink-community:/radred/assets/sprites/355.png",
-    "party": "pokelink-community:/radred/assets/sprites/355.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/355.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/355.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/355.gif"
   },
   "baseStats": {
     "hp": 20,

@@ -2,9 +2,9 @@
   "gameId": 138,
   "name": "RadRed.Species.omanyte",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/138.png",
-    "normal": "pokelink-community:/radred/assets/sprites/138.png",
-    "party": "pokelink-community:/radred/assets/sprites/138.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/138.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/138.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/138.gif"
   },
   "baseStats": {
     "hp": 35,

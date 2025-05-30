@@ -2,9 +2,9 @@
   "gameId": 178,
   "name": "RadRed.Species.xatu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/178.png",
-    "normal": "pokelink-community:/radred/assets/sprites/178.png",
-    "party": "pokelink-community:/radred/assets/sprites/178.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/178.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/178.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/178.gif"
   },
   "baseStats": {
     "hp": 65,

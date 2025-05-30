@@ -2,9 +2,9 @@
   "gameId": 195,
   "name": "RadRed.Species.quagsire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/195.png",
-    "normal": "pokelink-community:/radred/assets/sprites/195.png",
-    "party": "pokelink-community:/radred/assets/sprites/195.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/195.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/195.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/195.gif"
   },
   "baseStats": {
     "hp": 100,

@@ -2,9 +2,9 @@
   "gameId": 142,
   "name": "RadRed.Species.aerodactyl",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/142.png",
-    "normal": "pokelink-community:/radred/assets/sprites/142.png",
-    "party": "pokelink-community:/radred/assets/sprites/142.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/142.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/142.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/142.gif"
   },
   "baseStats": {
     "hp": 80,

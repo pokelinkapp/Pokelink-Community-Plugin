@@ -2,9 +2,9 @@
   "gameId": 549,
   "name": "RadRed.Species.servine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/496.png",
-    "normal": "pokelink-community:/radred/assets/sprites/496.png",
-    "party": "pokelink-community:/radred/assets/sprites/496.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/496.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/496.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/496.gif"
   },
   "baseStats": {
     "hp": 60,

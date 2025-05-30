@@ -2,9 +2,9 @@
   "gameId": 500,
   "name": "RadRed.Species.riolu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/447.png",
-    "normal": "pokelink-community:/radred/assets/sprites/447.png",
-    "party": "pokelink-community:/radred/assets/sprites/447.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/447.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/447.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/447.gif"
   },
   "baseStats": {
     "hp": 40,

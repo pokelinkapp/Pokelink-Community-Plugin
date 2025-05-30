@@ -2,9 +2,9 @@
   "gameId": 401,
   "name": "RadRed.Species.regirock",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/377.png",
-    "normal": "pokelink-community:/radred/assets/sprites/377.png",
-    "party": "pokelink-community:/radred/assets/sprites/377.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/377.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/377.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/377.gif"
   },
   "baseStats": {
     "hp": 80,

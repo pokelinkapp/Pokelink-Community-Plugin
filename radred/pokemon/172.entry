@@ -2,9 +2,9 @@
   "gameId": 172,
   "name": "RadRed.Species.pichu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/172.png",
-    "normal": "pokelink-community:/radred/assets/sprites/172.png",
-    "party": "pokelink-community:/radred/assets/sprites/172.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/172.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/172.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/172.gif"
   },
   "baseStats": {
     "hp": 20,

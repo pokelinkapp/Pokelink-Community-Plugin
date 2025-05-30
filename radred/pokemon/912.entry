@@ -2,9 +2,9 @@
   "gameId": 927,
   "name": "RadRed.Species.quaxly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/912.png",
-    "normal": "pokelink-community:/radred/assets/sprites/912.png",
-    "party": "pokelink-community:/radred/assets/sprites/912.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/912.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/912.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/912.gif"
   },
   "baseStats": {
     "hp": 55,

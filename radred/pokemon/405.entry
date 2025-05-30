@@ -2,9 +2,9 @@
   "gameId": 458,
   "name": "RadRed.Species.luxray",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/405.png",
-    "normal": "pokelink-community:/radred/assets/sprites/405.png",
-    "party": "pokelink-community:/radred/assets/sprites/405.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/405.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/405.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/405.gif"
   },
   "baseStats": {
     "hp": 80,

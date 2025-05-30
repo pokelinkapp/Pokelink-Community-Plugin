@@ -2,9 +2,9 @@
   "gameId": 319,
   "name": "RadRed.Species.claydol",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/344.png",
-    "normal": "pokelink-community:/radred/assets/sprites/344.png",
-    "party": "pokelink-community:/radred/assets/sprites/344.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/344.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/344.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/344.gif"
   },
   "baseStats": {
     "hp": 60,

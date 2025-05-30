@@ -2,9 +2,9 @@
   "gameId": 79,
   "name": "RadRed.Species.slowpoke",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/79.png",
-    "normal": "pokelink-community:/radred/assets/sprites/79.png",
-    "party": "pokelink-community:/radred/assets/sprites/79.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/79.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/79.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/79.gif"
   },
   "baseStats": {
     "hp": 90,

@@ -2,9 +2,9 @@
   "gameId": 1118,
   "name": "RadRed.Species.orbeetle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/826.png",
-    "normal": "pokelink-community:/radred/assets/sprites/826.png",
-    "party": "pokelink-community:/radred/assets/sprites/826.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/826.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/826.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/826.gif"
   },
   "baseStats": {
     "hp": 60,

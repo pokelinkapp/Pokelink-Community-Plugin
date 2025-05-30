@@ -4,9 +4,9 @@
   "name": "RadRed.Species.glalie",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/362.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/362.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/362.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/362.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/362.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/362-1.gif"
   },
   "baseStats": {
     "hp": 80,

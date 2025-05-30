@@ -2,9 +2,9 @@
   "gameId": 929,
   "name": "RadRed.Species.quaquaval",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/914.png",
-    "normal": "pokelink-community:/radred/assets/sprites/914.png",
-    "party": "pokelink-community:/radred/assets/sprites/914.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/914.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/914.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/914.gif"
   },
   "baseStats": {
     "hp": 85,

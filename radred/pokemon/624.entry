@@ -2,9 +2,9 @@
   "gameId": 677,
   "name": "RadRed.Species.pawniard",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/624.png",
-    "normal": "pokelink-community:/radred/assets/sprites/624.png",
-    "party": "pokelink-community:/radred/assets/sprites/624.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/624.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/624.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/624.gif"
   },
   "baseStats": {
     "hp": 45,

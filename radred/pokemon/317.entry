@@ -2,9 +2,9 @@
   "gameId": 368,
   "name": "RadRed.Species.swalot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/317.png",
-    "normal": "pokelink-community:/radred/assets/sprites/317.png",
-    "party": "pokelink-community:/radred/assets/sprites/317.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/317.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/317.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/317.gif"
   },
   "baseStats": {
     "hp": 100,

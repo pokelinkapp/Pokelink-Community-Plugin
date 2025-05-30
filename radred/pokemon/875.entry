@@ -2,9 +2,9 @@
   "gameId": 1167,
   "name": "RadRed.Species.eiscue",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/875.png",
-    "normal": "pokelink-community:/radred/assets/sprites/875.png",
-    "party": "pokelink-community:/radred/assets/sprites/875.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/875.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/875.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/875.gif"
   },
   "baseStats": {
     "hp": 75,

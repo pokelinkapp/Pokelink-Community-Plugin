@@ -2,9 +2,9 @@
   "gameId": 990,
   "name": "RadRed.Species.silvally",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/773.png",
-    "normal": "pokelink-community:/radred/assets/sprites/773.png",
-    "party": "pokelink-community:/radred/assets/sprites/773.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/773.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773.gif"
   },
   "baseStats": {
     "hp": 100,

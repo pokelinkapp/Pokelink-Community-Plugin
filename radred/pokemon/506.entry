@@ -2,9 +2,9 @@
   "gameId": 559,
   "name": "RadRed.Species.lillipup",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/506.png",
-    "normal": "pokelink-community:/radred/assets/sprites/506.png",
-    "party": "pokelink-community:/radred/assets/sprites/506.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/506.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/506.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/506.gif"
   },
   "baseStats": {
     "hp": 45,

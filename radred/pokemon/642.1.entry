@@ -4,9 +4,9 @@
   "name": "RadRed.Species.thundurus",
   "formName": "RadRed.Forms.therian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/642.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/642.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/642.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/642.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/642.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/642-1.gif"
   },
   "baseStats": {
     "hp": 79,

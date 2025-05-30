@@ -2,9 +2,9 @@
   "gameId": 1350,
   "name": "RadRed.Species.mabosstiff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/943.png",
-    "normal": "pokelink-community:/radred/assets/sprites/943.png",
-    "party": "pokelink-community:/radred/assets/sprites/943.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/943.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/943.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/943.gif"
   },
   "baseStats": {
     "hp": 80,

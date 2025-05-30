@@ -2,9 +2,9 @@
   "gameId": 155,
   "name": "RadRed.Species.cyndaquil",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/155.png",
-    "normal": "pokelink-community:/radred/assets/sprites/155.png",
-    "party": "pokelink-community:/radred/assets/sprites/155.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/155.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/155.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/155.gif"
   },
   "baseStats": {
     "hp": 39,

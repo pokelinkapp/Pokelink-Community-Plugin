@@ -2,9 +2,9 @@
   "gameId": 213,
   "name": "RadRed.Species.shuckle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/213.png",
-    "normal": "pokelink-community:/radred/assets/sprites/213.png",
-    "party": "pokelink-community:/radred/assets/sprites/213.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/213.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/213.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/213.gif"
   },
   "baseStats": {
     "hp": 20,

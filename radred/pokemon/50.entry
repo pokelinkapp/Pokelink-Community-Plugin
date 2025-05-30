@@ -2,9 +2,9 @@
   "gameId": 50,
   "name": "RadRed.Species.diglett",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/50.png",
-    "normal": "pokelink-community:/radred/assets/sprites/50.png",
-    "party": "pokelink-community:/radred/assets/sprites/50.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/50.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/50.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/50.gif"
   },
   "baseStats": {
     "hp": 10,

@@ -2,9 +2,9 @@
   "gameId": 540,
   "name": "RadRed.Species.giratina",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/487.png",
-    "normal": "pokelink-community:/radred/assets/sprites/487.png",
-    "party": "pokelink-community:/radred/assets/sprites/487.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/487.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/487.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/487.gif"
   },
   "baseStats": {
     "hp": 150,

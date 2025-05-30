@@ -2,9 +2,9 @@
   "gameId": 643,
   "name": "RadRed.Species.foongus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/590.png",
-    "normal": "pokelink-community:/radred/assets/sprites/590.png",
-    "party": "pokelink-community:/radred/assets/sprites/590.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/590.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/590.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/590.gif"
   },
   "baseStats": {
     "hp": 69,

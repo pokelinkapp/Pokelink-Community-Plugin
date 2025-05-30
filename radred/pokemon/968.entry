@@ -2,9 +2,9 @@
   "gameId": 1329,
   "name": "RadRed.Species.orthworm",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/968.png",
-    "normal": "pokelink-community:/radred/assets/sprites/968.png",
-    "party": "pokelink-community:/radred/assets/sprites/968.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/968.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/968.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/968.gif"
   },
   "baseStats": {
     "hp": 70,

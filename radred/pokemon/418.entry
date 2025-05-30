@@ -2,9 +2,9 @@
   "gameId": 471,
   "name": "RadRed.Species.buizel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/418.png",
-    "normal": "pokelink-community:/radred/assets/sprites/418.png",
-    "party": "pokelink-community:/radred/assets/sprites/418.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/418.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/418.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/418.gif"
   },
   "baseStats": {
     "hp": 55,

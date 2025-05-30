@@ -2,9 +2,9 @@
   "gameId": 587,
   "name": "RadRed.Species.conkeldurr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/534.png",
-    "normal": "pokelink-community:/radred/assets/sprites/534.png",
-    "party": "pokelink-community:/radred/assets/sprites/534.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/534.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/534.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/534.gif"
   },
   "baseStats": {
     "hp": 105,

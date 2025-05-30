@@ -2,9 +2,9 @@
   "gameId": 631,
   "name": "RadRed.Species.duosion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/578.png",
-    "normal": "pokelink-community:/radred/assets/sprites/578.png",
-    "party": "pokelink-community:/radred/assets/sprites/578.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/578.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/578.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/578.gif"
   },
   "baseStats": {
     "hp": 65,

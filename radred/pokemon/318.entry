@@ -2,9 +2,9 @@
   "gameId": 330,
   "name": "RadRed.Species.carvanha",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/318.png",
-    "normal": "pokelink-community:/radred/assets/sprites/318.png",
-    "party": "pokelink-community:/radred/assets/sprites/318.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/318.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/318.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/318.gif"
   },
   "baseStats": {
     "hp": 45,

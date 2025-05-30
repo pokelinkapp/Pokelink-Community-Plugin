@@ -2,9 +2,9 @@
   "gameId": 1151,
   "name": "RadRed.Species.impidimp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/859.png",
-    "normal": "pokelink-community:/radred/assets/sprites/859.png",
-    "party": "pokelink-community:/radred/assets/sprites/859.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/859.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/859.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/859.gif"
   },
   "baseStats": {
     "hp": 45,

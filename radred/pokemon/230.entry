@@ -2,9 +2,9 @@
   "gameId": 230,
   "name": "RadRed.Species.kingdra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/230.png",
-    "normal": "pokelink-community:/radred/assets/sprites/230.png",
-    "party": "pokelink-community:/radred/assets/sprites/230.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/230.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/230.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/230.gif"
   },
   "baseStats": {
     "hp": 75,

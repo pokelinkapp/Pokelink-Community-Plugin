@@ -2,9 +2,9 @@
   "gameId": 1327,
   "name": "RadRed.Species.capsakid",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/951.png",
-    "normal": "pokelink-community:/radred/assets/sprites/951.png",
-    "party": "pokelink-community:/radred/assets/sprites/951.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/951.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/951.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/951.gif"
   },
   "baseStats": {
     "hp": 52,

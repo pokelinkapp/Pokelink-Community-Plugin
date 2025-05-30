@@ -2,9 +2,9 @@
   "gameId": 951,
   "name": "RadRed.Species.yungoos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/734.png",
-    "normal": "pokelink-community:/radred/assets/sprites/734.png",
-    "party": "pokelink-community:/radred/assets/sprites/734.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/734.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/734.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/734.gif"
   },
   "baseStats": {
     "hp": 48,

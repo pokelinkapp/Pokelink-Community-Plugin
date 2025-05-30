@@ -2,9 +2,9 @@
   "gameId": 47,
   "name": "RadRed.Species.parasect",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/47.png",
-    "normal": "pokelink-community:/radred/assets/sprites/47.png",
-    "party": "pokelink-community:/radred/assets/sprites/47.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/47.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/47.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/47.gif"
   },
   "baseStats": {
     "hp": 80,

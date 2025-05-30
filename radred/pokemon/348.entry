@@ -2,9 +2,9 @@
   "gameId": 391,
   "name": "RadRed.Species.armaldo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/348.png",
-    "normal": "pokelink-community:/radred/assets/sprites/348.png",
-    "party": "pokelink-community:/radred/assets/sprites/348.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/348.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/348.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/348.gif"
   },
   "baseStats": {
     "hp": 100,

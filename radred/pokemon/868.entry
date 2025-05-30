@@ -2,9 +2,9 @@
   "gameId": 1160,
   "name": "RadRed.Species.milcery",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/868.png",
-    "normal": "pokelink-community:/radred/assets/sprites/868.png",
-    "party": "pokelink-community:/radred/assets/sprites/868.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/868.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/868.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/868.gif"
   },
   "baseStats": {
     "hp": 45,

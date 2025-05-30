@@ -4,9 +4,9 @@
   "name": "RadRed.Species.silvally",
   "formName": "RadRed.Forms.ice",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/773.14.png",
-    "normal": "pokelink-community:/radred/assets/sprites/773.14.png",
-    "party": "pokelink-community:/radred/assets/sprites/773.14.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.14.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/773.14.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773-14.gif"
   },
   "baseStats": {
     "hp": 100,

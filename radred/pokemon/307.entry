@@ -2,9 +2,9 @@
   "gameId": 356,
   "name": "RadRed.Species.meditite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/307.png",
-    "normal": "pokelink-community:/radred/assets/sprites/307.png",
-    "party": "pokelink-community:/radred/assets/sprites/307.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/307.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/307.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/307.gif"
   },
   "baseStats": {
     "hp": 30,

@@ -2,9 +2,9 @@
   "gameId": 586,
   "name": "RadRed.Species.gurdurr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/533.png",
-    "normal": "pokelink-community:/radred/assets/sprites/533.png",
-    "party": "pokelink-community:/radred/assets/sprites/533.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/533.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/533.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/533.gif"
   },
   "baseStats": {
     "hp": 85,

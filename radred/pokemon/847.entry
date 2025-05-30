@@ -2,9 +2,9 @@
   "gameId": 1139,
   "name": "RadRed.Species.barraskewda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/847.png",
-    "normal": "pokelink-community:/radred/assets/sprites/847.png",
-    "party": "pokelink-community:/radred/assets/sprites/847.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/847.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/847.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/847.gif"
   },
   "baseStats": {
     "hp": 61,

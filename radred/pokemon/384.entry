@@ -2,9 +2,9 @@
   "gameId": 406,
   "name": "RadRed.Species.rayquaza",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/384.png",
-    "normal": "pokelink-community:/radred/assets/sprites/384.png",
-    "party": "pokelink-community:/radred/assets/sprites/384.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/384.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/384.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/384.gif"
   },
   "baseStats": {
     "hp": 105,

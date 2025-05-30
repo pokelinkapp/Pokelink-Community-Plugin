@@ -2,9 +2,9 @@
   "gameId": 14,
   "name": "RadRed.Species.kakuna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/14.png",
-    "normal": "pokelink-community:/radred/assets/sprites/14.png",
-    "party": "pokelink-community:/radred/assets/sprites/14.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/14.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/14.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/14.gif"
   },
   "baseStats": {
     "hp": 45,

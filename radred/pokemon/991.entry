@@ -2,9 +2,9 @@
   "gameId": 1231,
   "name": "RadRed.Species.iron_bundle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/991.png",
-    "normal": "pokelink-community:/radred/assets/sprites/991.png",
-    "party": "pokelink-community:/radred/assets/sprites/991.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/991.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/991.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/991.gif"
   },
   "baseStats": {
     "hp": 56,

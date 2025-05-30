@@ -2,9 +2,9 @@
   "gameId": 693,
   "name": "RadRed.Species.virizion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/640.png",
-    "normal": "pokelink-community:/radred/assets/sprites/640.png",
-    "party": "pokelink-community:/radred/assets/sprites/640.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/640.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/640.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/640.gif"
   },
   "baseStats": {
     "hp": 91,

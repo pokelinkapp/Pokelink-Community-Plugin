@@ -2,9 +2,9 @@
   "gameId": 1148,
   "name": "RadRed.Species.hatenna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/856.png",
-    "normal": "pokelink-community:/radred/assets/sprites/856.png",
-    "party": "pokelink-community:/radred/assets/sprites/856.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/856.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/856.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/856.gif"
   },
   "baseStats": {
     "hp": 42,

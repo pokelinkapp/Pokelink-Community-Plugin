@@ -2,9 +2,9 @@
   "gameId": 390,
   "name": "RadRed.Species.anorith",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/347.png",
-    "normal": "pokelink-community:/radred/assets/sprites/347.png",
-    "party": "pokelink-community:/radred/assets/sprites/347.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/347.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/347.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/347.gif"
   },
   "baseStats": {
     "hp": 45,

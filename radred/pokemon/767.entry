@@ -2,9 +2,9 @@
   "gameId": 984,
   "name": "RadRed.Species.wimpod",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/767.png",
-    "normal": "pokelink-community:/radred/assets/sprites/767.png",
-    "party": "pokelink-community:/radred/assets/sprites/767.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/767.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/767.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/767.gif"
   },
   "baseStats": {
     "hp": 25,

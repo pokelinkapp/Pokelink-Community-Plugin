@@ -2,9 +2,9 @@
   "gameId": 988,
   "name": "RadRed.Species.pyukumuku",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/771.png",
-    "normal": "pokelink-community:/radred/assets/sprites/771.png",
-    "party": "pokelink-community:/radred/assets/sprites/771.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/771.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/771.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/771.gif"
   },
   "baseStats": {
     "hp": 55,

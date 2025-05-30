@@ -2,9 +2,9 @@
   "gameId": 970,
   "name": "RadRed.Species.fomantis",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/753.png",
-    "normal": "pokelink-community:/radred/assets/sprites/753.png",
-    "party": "pokelink-community:/radred/assets/sprites/753.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/753.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/753.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/753.gif"
   },
   "baseStats": {
     "hp": 40,

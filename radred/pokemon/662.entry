@@ -2,9 +2,9 @@
   "gameId": 770,
   "name": "RadRed.Species.fletchinder",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/662.png",
-    "normal": "pokelink-community:/radred/assets/sprites/662.png",
-    "party": "pokelink-community:/radred/assets/sprites/662.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/662.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/662.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/662.gif"
   },
   "baseStats": {
     "hp": 62,

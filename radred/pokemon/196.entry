@@ -2,9 +2,9 @@
   "gameId": 196,
   "name": "RadRed.Species.espeon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/196.png",
-    "normal": "pokelink-community:/radred/assets/sprites/196.png",
-    "party": "pokelink-community:/radred/assets/sprites/196.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/196.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/196.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/196.gif"
   },
   "baseStats": {
     "hp": 65,

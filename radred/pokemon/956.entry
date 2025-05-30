@@ -2,9 +2,9 @@
   "gameId": 1321,
   "name": "RadRed.Species.espathra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/956.png",
-    "normal": "pokelink-community:/radred/assets/sprites/956.png",
-    "party": "pokelink-community:/radred/assets/sprites/956.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/956.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/956.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/956.gif"
   },
   "baseStats": {
     "hp": 95,

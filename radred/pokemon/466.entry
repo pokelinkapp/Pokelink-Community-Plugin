@@ -2,9 +2,9 @@
   "gameId": 519,
   "name": "RadRed.Species.electivire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/466.png",
-    "normal": "pokelink-community:/radred/assets/sprites/466.png",
-    "party": "pokelink-community:/radred/assets/sprites/466.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/466.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/466.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/466.gif"
   },
   "baseStats": {
     "hp": 75,

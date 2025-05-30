@@ -2,9 +2,9 @@
   "gameId": 661,
   "name": "RadRed.Species.lampent",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/608.png",
-    "normal": "pokelink-community:/radred/assets/sprites/608.png",
-    "party": "pokelink-community:/radred/assets/sprites/608.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/608.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/608.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/608.gif"
   },
   "baseStats": {
     "hp": 60,

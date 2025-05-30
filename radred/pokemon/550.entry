@@ -2,9 +2,9 @@
   "gameId": 736,
   "name": "RadRed.Species.basculin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/550.png",
-    "normal": "pokelink-community:/radred/assets/sprites/550.png",
-    "party": "pokelink-community:/radred/assets/sprites/550.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/550.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/550.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/550.gif"
   },
   "baseStats": {
     "hp": 70,

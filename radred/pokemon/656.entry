@@ -2,9 +2,9 @@
   "gameId": 764,
   "name": "RadRed.Species.froakie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/656.png",
-    "normal": "pokelink-community:/radred/assets/sprites/656.png",
-    "party": "pokelink-community:/radred/assets/sprites/656.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/656.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/656.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/656.gif"
   },
   "baseStats": {
     "hp": 41,

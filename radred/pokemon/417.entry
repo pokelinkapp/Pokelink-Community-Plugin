@@ -2,9 +2,9 @@
   "gameId": 470,
   "name": "RadRed.Species.pachirisu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/417.png",
-    "normal": "pokelink-community:/radred/assets/sprites/417.png",
-    "party": "pokelink-community:/radred/assets/sprites/417.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/417.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/417.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/417.gif"
   },
   "baseStats": {
     "hp": 75,

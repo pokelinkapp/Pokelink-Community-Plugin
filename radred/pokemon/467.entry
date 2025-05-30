@@ -2,9 +2,9 @@
   "gameId": 520,
   "name": "RadRed.Species.magmortar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/467.png",
-    "normal": "pokelink-community:/radred/assets/sprites/467.png",
-    "party": "pokelink-community:/radred/assets/sprites/467.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/467.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/467.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/467.gif"
   },
   "baseStats": {
     "hp": 75,

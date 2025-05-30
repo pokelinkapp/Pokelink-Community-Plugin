@@ -2,9 +2,9 @@
   "gameId": 667,
   "name": "RadRed.Species.beartic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/614.png",
-    "normal": "pokelink-community:/radred/assets/sprites/614.png",
-    "party": "pokelink-community:/radred/assets/sprites/614.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/614.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/614.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/614.gif"
   },
   "baseStats": {
     "hp": 95,

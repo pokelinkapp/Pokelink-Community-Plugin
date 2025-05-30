@@ -2,9 +2,9 @@
   "gameId": 483,
   "name": "RadRed.Species.honchkrow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/430.png",
-    "normal": "pokelink-community:/radred/assets/sprites/430.png",
-    "party": "pokelink-community:/radred/assets/sprites/430.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/430.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/430.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/430.gif"
   },
   "baseStats": {
     "hp": 100,

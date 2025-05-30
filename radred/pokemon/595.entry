@@ -2,9 +2,9 @@
   "gameId": 648,
   "name": "RadRed.Species.joltik",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/595.png",
-    "normal": "pokelink-community:/radred/assets/sprites/595.png",
-    "party": "pokelink-community:/radred/assets/sprites/595.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/595.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/595.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/595.gif"
   },
   "baseStats": {
     "hp": 50,

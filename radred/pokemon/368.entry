@@ -2,9 +2,9 @@
   "gameId": 375,
   "name": "RadRed.Species.gorebyss",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/368.png",
-    "normal": "pokelink-community:/radred/assets/sprites/368.png",
-    "party": "pokelink-community:/radred/assets/sprites/368.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/368.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/368.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/368.gif"
   },
   "baseStats": {
     "hp": 55,

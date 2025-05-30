@@ -2,9 +2,9 @@
   "gameId": 410,
   "name": "RadRed.Species.deoxys",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/386.png",
-    "normal": "pokelink-community:/radred/assets/sprites/386.png",
-    "party": "pokelink-community:/radred/assets/sprites/386.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/386.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/386.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/386.gif"
   },
   "baseStats": {
     "hp": 50,

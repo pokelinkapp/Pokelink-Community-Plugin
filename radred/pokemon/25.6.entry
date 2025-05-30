@@ -4,9 +4,9 @@
   "name": "RadRed.Species.pikachu",
   "formName": "RadRed.Forms.rock_star",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/25.6.png",
-    "normal": "pokelink-community:/radred/assets/sprites/25.6.png",
-    "party": "pokelink-community:/radred/assets/sprites/25.6.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.6.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/25.6.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/25-6.gif"
   },
   "baseStats": {
     "hp": 35,

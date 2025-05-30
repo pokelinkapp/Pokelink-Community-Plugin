@@ -2,9 +2,9 @@
   "gameId": 640,
   "name": "RadRed.Species.emolga",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/587.png",
-    "normal": "pokelink-community:/radred/assets/sprites/587.png",
-    "party": "pokelink-community:/radred/assets/sprites/587.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/587.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/587.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/587.gif"
   },
   "baseStats": {
     "hp": 55,

@@ -2,9 +2,9 @@
   "gameId": 1319,
   "name": "RadRed.Species.rabsca",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/954.png",
-    "normal": "pokelink-community:/radred/assets/sprites/954.png",
-    "party": "pokelink-community:/radred/assets/sprites/954.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/954.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/954.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/954.gif"
   },
   "baseStats": {
     "hp": 75,

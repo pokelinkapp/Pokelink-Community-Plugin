@@ -2,9 +2,9 @@
   "gameId": 303,
   "name": "RadRed.Species.shedinja",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/292.png",
-    "normal": "pokelink-community:/radred/assets/sprites/292.png",
-    "party": "pokelink-community:/radred/assets/sprites/292.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/292.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/292.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/292.gif"
   },
   "baseStats": {
     "hp": 1,

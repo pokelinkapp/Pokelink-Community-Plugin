@@ -2,9 +2,9 @@
   "gameId": 1232,
   "name": "RadRed.Species.iron_valiant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1006.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1006.png",
-    "party": "pokelink-community:/radred/assets/sprites/1006.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1006.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1006.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1006.gif"
   },
   "baseStats": {
     "hp": 74,

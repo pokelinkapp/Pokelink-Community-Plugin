@@ -2,9 +2,9 @@
   "gameId": 1102,
   "name": "RadRed.Species.grookey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/810.png",
-    "normal": "pokelink-community:/radred/assets/sprites/810.png",
-    "party": "pokelink-community:/radred/assets/sprites/810.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/810.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/810.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/810.gif"
   },
   "baseStats": {
     "hp": 50,

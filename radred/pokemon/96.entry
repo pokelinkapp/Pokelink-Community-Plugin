@@ -2,9 +2,9 @@
   "gameId": 96,
   "name": "RadRed.Species.drowzee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/96.png",
-    "normal": "pokelink-community:/radred/assets/sprites/96.png",
-    "party": "pokelink-community:/radred/assets/sprites/96.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/96.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/96.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/96.gif"
   },
   "baseStats": {
     "hp": 60,

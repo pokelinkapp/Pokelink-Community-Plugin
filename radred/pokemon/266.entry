@@ -2,9 +2,9 @@
   "gameId": 291,
   "name": "RadRed.Species.silcoon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/266.png",
-    "normal": "pokelink-community:/radred/assets/sprites/266.png",
-    "party": "pokelink-community:/radred/assets/sprites/266.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/266.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/266.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/266.gif"
   },
   "baseStats": {
     "hp": 50,

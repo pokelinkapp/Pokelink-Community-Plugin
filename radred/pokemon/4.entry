@@ -2,9 +2,9 @@
   "gameId": 4,
   "name": "RadRed.Species.charmander",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/4.png",
-    "normal": "pokelink-community:/radred/assets/sprites/4.png",
-    "party": "pokelink-community:/radred/assets/sprites/4.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/4.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/4.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/4.gif"
   },
   "baseStats": {
     "hp": 39,

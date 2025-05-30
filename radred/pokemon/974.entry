@@ -2,9 +2,9 @@
   "gameId": 1332,
   "name": "RadRed.Species.cetoddle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/974.png",
-    "normal": "pokelink-community:/radred/assets/sprites/974.png",
-    "party": "pokelink-community:/radred/assets/sprites/974.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/974.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/974.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/974.gif"
   },
   "baseStats": {
     "hp": 108,

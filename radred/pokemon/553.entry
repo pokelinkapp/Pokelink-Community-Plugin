@@ -2,9 +2,9 @@
   "gameId": 606,
   "name": "RadRed.Species.krookodile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/553.png",
-    "normal": "pokelink-community:/radred/assets/sprites/553.png",
-    "party": "pokelink-community:/radred/assets/sprites/553.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/553.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/553.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/553.gif"
   },
   "baseStats": {
     "hp": 95,

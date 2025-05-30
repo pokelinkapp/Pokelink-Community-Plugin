@@ -2,9 +2,9 @@
   "gameId": 973,
   "name": "RadRed.Species.shiinotic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/756.png",
-    "normal": "pokelink-community:/radred/assets/sprites/756.png",
-    "party": "pokelink-community:/radred/assets/sprites/756.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/756.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/756.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/756.gif"
   },
   "baseStats": {
     "hp": 75,

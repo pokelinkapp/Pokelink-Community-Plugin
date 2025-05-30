@@ -2,9 +2,9 @@
   "gameId": 444,
   "name": "RadRed.Species.monferno",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/391.png",
-    "normal": "pokelink-community:/radred/assets/sprites/391.png",
-    "party": "pokelink-community:/radred/assets/sprites/391.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/391.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/391.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/391.gif"
   },
   "baseStats": {
     "hp": 64,

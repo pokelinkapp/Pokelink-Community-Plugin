@@ -2,9 +2,9 @@
   "gameId": 147,
   "name": "RadRed.Species.dratini",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/147.png",
-    "normal": "pokelink-community:/radred/assets/sprites/147.png",
-    "party": "pokelink-community:/radred/assets/sprites/147.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/147.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/147.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/147.gif"
   },
   "baseStats": {
     "hp": 41,

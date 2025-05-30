@@ -2,9 +2,9 @@
   "gameId": 1101,
   "name": "RadRed.Species.cyclizar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/967.png",
-    "normal": "pokelink-community:/radred/assets/sprites/967.png",
-    "party": "pokelink-community:/radred/assets/sprites/967.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/967.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/967.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/967.gif"
   },
   "baseStats": {
     "hp": 70,

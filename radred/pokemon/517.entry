@@ -2,9 +2,9 @@
   "gameId": 570,
   "name": "RadRed.Species.munna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/517.png",
-    "normal": "pokelink-community:/radred/assets/sprites/517.png",
-    "party": "pokelink-community:/radred/assets/sprites/517.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/517.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/517.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/517.gif"
   },
   "baseStats": {
     "hp": 76,

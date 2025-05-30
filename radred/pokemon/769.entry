@@ -2,9 +2,9 @@
   "gameId": 986,
   "name": "RadRed.Species.sandygast",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/769.png",
-    "normal": "pokelink-community:/radred/assets/sprites/769.png",
-    "party": "pokelink-community:/radred/assets/sprites/769.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/769.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/769.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/769.gif"
   },
   "baseStats": {
     "hp": 55,

@@ -2,9 +2,9 @@
   "gameId": 318,
   "name": "RadRed.Species.baltoy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/343.png",
-    "normal": "pokelink-community:/radred/assets/sprites/343.png",
-    "party": "pokelink-community:/radred/assets/sprites/343.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/343.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/343.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/343.gif"
   },
   "baseStats": {
     "hp": 40,

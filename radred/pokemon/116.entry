@@ -2,9 +2,9 @@
   "gameId": 116,
   "name": "RadRed.Species.horsea",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/116.png",
-    "normal": "pokelink-community:/radred/assets/sprites/116.png",
-    "party": "pokelink-community:/radred/assets/sprites/116.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/116.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/116.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/116.gif"
   },
   "baseStats": {
     "hp": 30,

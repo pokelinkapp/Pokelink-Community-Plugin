@@ -2,9 +2,9 @@
   "gameId": 583,
   "name": "RadRed.Species.excadrill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/530.png",
-    "normal": "pokelink-community:/radred/assets/sprites/530.png",
-    "party": "pokelink-community:/radred/assets/sprites/530.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/530.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/530.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/530.gif"
   },
   "baseStats": {
     "hp": 110,

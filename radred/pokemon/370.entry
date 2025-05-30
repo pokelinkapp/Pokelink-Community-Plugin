@@ -2,9 +2,9 @@
   "gameId": 325,
   "name": "RadRed.Species.luvdisc",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/370.png",
-    "normal": "pokelink-community:/radred/assets/sprites/370.png",
-    "party": "pokelink-community:/radred/assets/sprites/370.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/370.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/370.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/370.gif"
   },
   "baseStats": {
     "hp": 43,

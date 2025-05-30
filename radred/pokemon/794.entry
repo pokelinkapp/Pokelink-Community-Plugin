@@ -2,9 +2,9 @@
   "gameId": 1011,
   "name": "RadRed.Species.buzzwole",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/794.png",
-    "normal": "pokelink-community:/radred/assets/sprites/794.png",
-    "party": "pokelink-community:/radred/assets/sprites/794.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/794.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/794.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/794.gif"
   },
   "baseStats": {
     "hp": 107,

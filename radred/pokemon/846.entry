@@ -2,9 +2,9 @@
   "gameId": 1138,
   "name": "RadRed.Species.arrokuda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/846.png",
-    "normal": "pokelink-community:/radred/assets/sprites/846.png",
-    "party": "pokelink-community:/radred/assets/sprites/846.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/846.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/846.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/846.gif"
   },
   "baseStats": {
     "hp": 41,

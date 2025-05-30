@@ -2,9 +2,9 @@
   "gameId": 762,
   "name": "RadRed.Species.braixen",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/654.png",
-    "normal": "pokelink-community:/radred/assets/sprites/654.png",
-    "party": "pokelink-community:/radred/assets/sprites/654.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/654.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/654.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/654.gif"
   },
   "baseStats": {
     "hp": 59,

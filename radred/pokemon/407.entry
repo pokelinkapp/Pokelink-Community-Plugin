@@ -2,9 +2,9 @@
   "gameId": 460,
   "name": "RadRed.Species.roserade",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/407.png",
-    "normal": "pokelink-community:/radred/assets/sprites/407.png",
-    "party": "pokelink-community:/radred/assets/sprites/407.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/407.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/407.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/407.gif"
   },
   "baseStats": {
     "hp": 60,

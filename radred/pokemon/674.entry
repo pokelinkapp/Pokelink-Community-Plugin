@@ -2,9 +2,9 @@
   "gameId": 782,
   "name": "RadRed.Species.pancham",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/674.png",
-    "normal": "pokelink-community:/radred/assets/sprites/674.png",
-    "party": "pokelink-community:/radred/assets/sprites/674.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/674.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/674.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/674.gif"
   },
   "baseStats": {
     "hp": 67,

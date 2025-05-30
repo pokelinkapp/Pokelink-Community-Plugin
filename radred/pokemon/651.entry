@@ -2,9 +2,9 @@
   "gameId": 759,
   "name": "RadRed.Species.quilladin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/651.png",
-    "normal": "pokelink-community:/radred/assets/sprites/651.png",
-    "party": "pokelink-community:/radred/assets/sprites/651.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/651.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/651.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/651.gif"
   },
   "baseStats": {
     "hp": 61,

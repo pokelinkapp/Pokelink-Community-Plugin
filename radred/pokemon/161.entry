@@ -2,9 +2,9 @@
   "gameId": 161,
   "name": "RadRed.Species.sentret",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/161.png",
-    "normal": "pokelink-community:/radred/assets/sprites/161.png",
-    "party": "pokelink-community:/radred/assets/sprites/161.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/161.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/161.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/161.gif"
   },
   "baseStats": {
     "hp": 35,

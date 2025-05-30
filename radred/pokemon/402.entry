@@ -2,9 +2,9 @@
   "gameId": 455,
   "name": "RadRed.Species.kricketune",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/402.png",
-    "normal": "pokelink-community:/radred/assets/sprites/402.png",
-    "party": "pokelink-community:/radred/assets/sprites/402.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/402.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/402.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/402.gif"
   },
   "baseStats": {
     "hp": 77,

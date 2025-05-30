@@ -2,9 +2,9 @@
   "gameId": 503,
   "name": "RadRed.Species.hippowdon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/450.png",
-    "normal": "pokelink-community:/radred/assets/sprites/450.png",
-    "party": "pokelink-community:/radred/assets/sprites/450.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/450.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/450.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/450.gif"
   },
   "baseStats": {
     "hp": 108,

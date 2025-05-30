@@ -2,9 +2,9 @@
   "gameId": 211,
   "name": "RadRed.Species.qwilfish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/211.png",
-    "normal": "pokelink-community:/radred/assets/sprites/211.png",
-    "party": "pokelink-community:/radred/assets/sprites/211.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/211.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/211.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/211.gif"
   },
   "baseStats": {
     "hp": 80,

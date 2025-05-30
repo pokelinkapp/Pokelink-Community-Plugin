@@ -2,9 +2,9 @@
   "gameId": 1180,
   "name": "RadRed.Species.zacian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/888.png",
-    "normal": "pokelink-community:/radred/assets/sprites/888.png",
-    "party": "pokelink-community:/radred/assets/sprites/888.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/888.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/888.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/888.gif"
   },
   "baseStats": {
     "hp": 92,

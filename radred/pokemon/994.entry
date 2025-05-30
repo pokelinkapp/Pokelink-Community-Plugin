@@ -2,9 +2,9 @@
   "gameId": 1247,
   "name": "RadRed.Species.iron_moth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/994.png",
-    "normal": "pokelink-community:/radred/assets/sprites/994.png",
-    "party": "pokelink-community:/radred/assets/sprites/994.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/994.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/994.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/994.gif"
   },
   "baseStats": {
     "hp": 80,

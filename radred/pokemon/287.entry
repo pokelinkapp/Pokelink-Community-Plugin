@@ -2,9 +2,9 @@
   "gameId": 364,
   "name": "RadRed.Species.slakoth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/287.png",
-    "normal": "pokelink-community:/radred/assets/sprites/287.png",
-    "party": "pokelink-community:/radred/assets/sprites/287.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/287.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/287.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/287.gif"
   },
   "baseStats": {
     "hp": 60,

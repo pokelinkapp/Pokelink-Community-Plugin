@@ -2,9 +2,9 @@
   "gameId": 685,
   "name": "RadRed.Species.durant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/632.png",
-    "normal": "pokelink-community:/radred/assets/sprites/632.png",
-    "party": "pokelink-community:/radred/assets/sprites/632.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/632.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/632.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/632.gif"
   },
   "baseStats": {
     "hp": 58,

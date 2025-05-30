@@ -2,9 +2,9 @@
   "gameId": 1351,
   "name": "RadRed.Species.bramblin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/946.png",
-    "normal": "pokelink-community:/radred/assets/sprites/946.png",
-    "party": "pokelink-community:/radred/assets/sprites/946.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/946.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/946.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/946.gif"
   },
   "baseStats": {
     "hp": 40,

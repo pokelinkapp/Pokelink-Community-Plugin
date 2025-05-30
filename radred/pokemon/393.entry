@@ -2,9 +2,9 @@
   "gameId": 446,
   "name": "RadRed.Species.piplup",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/393.png",
-    "normal": "pokelink-community:/radred/assets/sprites/393.png",
-    "party": "pokelink-community:/radred/assets/sprites/393.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/393.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/393.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/393.gif"
   },
   "baseStats": {
     "hp": 53,

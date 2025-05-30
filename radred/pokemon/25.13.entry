@@ -4,9 +4,9 @@
   "name": "RadRed.Species.pikachu",
   "formName": "RadRed.Forms.kalos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/25.13.png",
-    "normal": "pokelink-community:/radred/assets/sprites/25.13.png",
-    "party": "pokelink-community:/radred/assets/sprites/25.13.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.13.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/25.13.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/25-13.gif"
   },
   "baseStats": {
     "hp": 35,

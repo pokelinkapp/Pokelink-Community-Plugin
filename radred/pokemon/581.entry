@@ -2,9 +2,9 @@
   "gameId": 634,
   "name": "RadRed.Species.swanna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/581.png",
-    "normal": "pokelink-community:/radred/assets/sprites/581.png",
-    "party": "pokelink-community:/radred/assets/sprites/581.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/581.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/581.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/581.gif"
   },
   "baseStats": {
     "hp": 75,

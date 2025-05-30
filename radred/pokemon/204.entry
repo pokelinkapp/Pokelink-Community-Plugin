@@ -2,9 +2,9 @@
   "gameId": 204,
   "name": "RadRed.Species.pineco",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/204.png",
-    "normal": "pokelink-community:/radred/assets/sprites/204.png",
-    "party": "pokelink-community:/radred/assets/sprites/204.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/204.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/204.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/204.gif"
   },
   "baseStats": {
     "hp": 50,

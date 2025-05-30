@@ -2,9 +2,9 @@
   "gameId": 1368,
   "name": "RadRed.Species.iron_crown",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1023.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1023.png",
-    "party": "pokelink-community:/radred/assets/sprites/1023.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1023.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1023.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1023.gif"
   },
   "baseStats": {
     "hp": 90,

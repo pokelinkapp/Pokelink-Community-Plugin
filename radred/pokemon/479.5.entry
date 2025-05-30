@@ -4,9 +4,9 @@
   "name": "RadRed.Species.rotom",
   "formName": "RadRed.Forms.mow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/479.5.png",
-    "normal": "pokelink-community:/radred/assets/sprites/479.5.png",
-    "party": "pokelink-community:/radred/assets/sprites/479.5.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.5.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/479.5.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/479-5.gif"
   },
   "baseStats": {
     "hp": 50,

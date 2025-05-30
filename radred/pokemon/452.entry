@@ -2,9 +2,9 @@
   "gameId": 505,
   "name": "RadRed.Species.drapion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/452.png",
-    "normal": "pokelink-community:/radred/assets/sprites/452.png",
-    "party": "pokelink-community:/radred/assets/sprites/452.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/452.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/452.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/452.gif"
   },
   "baseStats": {
     "hp": 70,

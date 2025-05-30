@@ -2,9 +2,9 @@
   "gameId": 440,
   "name": "RadRed.Species.turtwig",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/387.png",
-    "normal": "pokelink-community:/radred/assets/sprites/387.png",
-    "party": "pokelink-community:/radred/assets/sprites/387.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/387.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/387.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/387.gif"
   },
   "baseStats": {
     "hp": 55,

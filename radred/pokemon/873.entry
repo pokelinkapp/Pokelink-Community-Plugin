@@ -2,9 +2,9 @@
   "gameId": 1165,
   "name": "RadRed.Species.frosmoth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/873.png",
-    "normal": "pokelink-community:/radred/assets/sprites/873.png",
-    "party": "pokelink-community:/radred/assets/sprites/873.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/873.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/873.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/873.gif"
   },
   "baseStats": {
     "hp": 70,

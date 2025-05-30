@@ -2,9 +2,9 @@
   "gameId": 748,
   "name": "RadRed.Species.chien_pao",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1002.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1002.png",
-    "party": "pokelink-community:/radred/assets/sprites/1002.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1002.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1002.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1002.gif"
   },
   "baseStats": {
     "hp": 80,

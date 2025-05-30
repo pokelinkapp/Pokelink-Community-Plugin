@@ -2,9 +2,9 @@
   "gameId": 235,
   "name": "RadRed.Species.smeargle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/235.png",
-    "normal": "pokelink-community:/radred/assets/sprites/235.png",
-    "party": "pokelink-community:/radred/assets/sprites/235.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/235.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/235.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/235.gif"
   },
   "baseStats": {
     "hp": 55,

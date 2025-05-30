@@ -2,9 +2,9 @@
   "gameId": 758,
   "name": "RadRed.Species.chespin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/650.png",
-    "normal": "pokelink-community:/radred/assets/sprites/650.png",
-    "party": "pokelink-community:/radred/assets/sprites/650.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/650.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/650.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/650.gif"
   },
   "baseStats": {
     "hp": 56,

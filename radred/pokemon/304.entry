@@ -2,9 +2,9 @@
   "gameId": 382,
   "name": "RadRed.Species.aron",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/304.png",
-    "normal": "pokelink-community:/radred/assets/sprites/304.png",
-    "party": "pokelink-community:/radred/assets/sprites/304.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/304.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/304.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/304.gif"
   },
   "baseStats": {
     "hp": 50,

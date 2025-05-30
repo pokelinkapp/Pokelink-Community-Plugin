@@ -2,9 +2,9 @@
   "gameId": 1105,
   "name": "RadRed.Species.scorbunny",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/813.png",
-    "normal": "pokelink-community:/radred/assets/sprites/813.png",
-    "party": "pokelink-community:/radred/assets/sprites/813.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/813.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/813.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/813.gif"
   },
   "baseStats": {
     "hp": 50,

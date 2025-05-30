@@ -2,9 +2,9 @@
   "gameId": 925,
   "name": "RadRed.Species.crocalor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/910.png",
-    "normal": "pokelink-community:/radred/assets/sprites/910.png",
-    "party": "pokelink-community:/radred/assets/sprites/910.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/910.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/910.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/910.gif"
   },
   "baseStats": {
     "hp": 81,

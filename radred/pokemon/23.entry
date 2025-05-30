@@ -2,9 +2,9 @@
   "gameId": 23,
   "name": "RadRed.Species.ekans",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/23.png",
-    "normal": "pokelink-community:/radred/assets/sprites/23.png",
-    "party": "pokelink-community:/radred/assets/sprites/23.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/23.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/23.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/23.gif"
   },
   "baseStats": {
     "hp": 35,

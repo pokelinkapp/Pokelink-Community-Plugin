@@ -2,9 +2,9 @@
   "gameId": 62,
   "name": "RadRed.Species.poliwrath",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/62.png",
-    "normal": "pokelink-community:/radred/assets/sprites/62.png",
-    "party": "pokelink-community:/radred/assets/sprites/62.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/62.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/62.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/62.gif"
   },
   "baseStats": {
     "hp": 90,

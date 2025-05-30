@@ -2,9 +2,9 @@
   "gameId": 591,
   "name": "RadRed.Species.throh",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/538.png",
-    "normal": "pokelink-community:/radred/assets/sprites/538.png",
-    "party": "pokelink-community:/radred/assets/sprites/538.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/538.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/538.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/538.gif"
   },
   "baseStats": {
     "hp": 120,

@@ -2,9 +2,9 @@
   "gameId": 289,
   "name": "RadRed.Species.linoone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/264.png",
-    "normal": "pokelink-community:/radred/assets/sprites/264.png",
-    "party": "pokelink-community:/radred/assets/sprites/264.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/264.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/264.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/264.gif"
   },
   "baseStats": {
     "hp": 85,

@@ -2,9 +2,9 @@
   "gameId": 954,
   "name": "RadRed.Species.charjabug",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/737.png",
-    "normal": "pokelink-community:/radred/assets/sprites/737.png",
-    "party": "pokelink-community:/radred/assets/sprites/737.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/737.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/737.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/737.gif"
   },
   "baseStats": {
     "hp": 57,

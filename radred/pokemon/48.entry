@@ -2,9 +2,9 @@
   "gameId": 48,
   "name": "RadRed.Species.venonat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/48.png",
-    "normal": "pokelink-community:/radred/assets/sprites/48.png",
-    "party": "pokelink-community:/radred/assets/sprites/48.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/48.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/48.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/48.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 311,
   "name": "RadRed.Species.surskit",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/283.png",
-    "normal": "pokelink-community:/radred/assets/sprites/283.png",
-    "party": "pokelink-community:/radred/assets/sprites/283.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/283.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/283.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/283.gif"
   },
   "baseStats": {
     "hp": 40,

@@ -2,9 +2,9 @@
   "gameId": 794,
   "name": "RadRed.Species.inkay",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/686.png",
-    "normal": "pokelink-community:/radred/assets/sprites/686.png",
-    "party": "pokelink-community:/radred/assets/sprites/686.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/686.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/686.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/686.gif"
   },
   "baseStats": {
     "hp": 53,

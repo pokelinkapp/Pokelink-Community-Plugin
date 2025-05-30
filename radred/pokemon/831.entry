@@ -2,9 +2,9 @@
   "gameId": 1123,
   "name": "RadRed.Species.wooloo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/831.png",
-    "normal": "pokelink-community:/radred/assets/sprites/831.png",
-    "party": "pokelink-community:/radred/assets/sprites/831.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/831.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/831.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/831.gif"
   },
   "baseStats": {
     "hp": 42,

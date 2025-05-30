@@ -2,9 +2,9 @@
   "gameId": 1305,
   "name": "RadRed.Species.sneasler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/903.png",
-    "normal": "pokelink-community:/radred/assets/sprites/903.png",
-    "party": "pokelink-community:/radred/assets/sprites/903.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/903.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/903.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/903.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 389,
   "name": "RadRed.Species.cradily",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/346.png",
-    "normal": "pokelink-community:/radred/assets/sprites/346.png",
-    "party": "pokelink-community:/radred/assets/sprites/346.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/346.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/346.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/346.gif"
   },
   "baseStats": {
     "hp": 86,

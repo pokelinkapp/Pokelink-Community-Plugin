@@ -2,9 +2,9 @@
   "gameId": 573,
   "name": "RadRed.Species.tranquill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/520.png",
-    "normal": "pokelink-community:/radred/assets/sprites/520.png",
-    "party": "pokelink-community:/radred/assets/sprites/520.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/520.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/520.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/520.gif"
   },
   "baseStats": {
     "hp": 62,

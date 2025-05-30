@@ -2,9 +2,9 @@
   "gameId": 323,
   "name": "RadRed.Species.barboach",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/339.png",
-    "normal": "pokelink-community:/radred/assets/sprites/339.png",
-    "party": "pokelink-community:/radred/assets/sprites/339.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/339.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/339.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/339.gif"
   },
   "baseStats": {
     "hp": 50,

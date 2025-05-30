@@ -2,9 +2,9 @@
   "gameId": 941,
   "name": "RadRed.Species.decidueye",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/724.png",
-    "normal": "pokelink-community:/radred/assets/sprites/724.png",
-    "party": "pokelink-community:/radred/assets/sprites/724.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/724.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/724.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/724.gif"
   },
   "baseStats": {
     "hp": 78,

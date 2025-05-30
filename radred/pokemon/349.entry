@@ -2,9 +2,9 @@
   "gameId": 328,
   "name": "RadRed.Species.feebas",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/349.png",
-    "normal": "pokelink-community:/radred/assets/sprites/349.png",
-    "party": "pokelink-community:/radred/assets/sprites/349.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/349.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/349.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/349.gif"
   },
   "baseStats": {
     "hp": 20,

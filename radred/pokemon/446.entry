@@ -2,9 +2,9 @@
   "gameId": 499,
   "name": "RadRed.Species.munchlax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/446.png",
-    "normal": "pokelink-community:/radred/assets/sprites/446.png",
-    "party": "pokelink-community:/radred/assets/sprites/446.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/446.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/446.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/446.gif"
   },
   "baseStats": {
     "hp": 135,

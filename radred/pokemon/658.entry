@@ -2,9 +2,9 @@
   "gameId": 766,
   "name": "RadRed.Species.greninja",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/658.png",
-    "normal": "pokelink-community:/radred/assets/sprites/658.png",
-    "party": "pokelink-community:/radred/assets/sprites/658.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/658.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/658.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/658.gif"
   },
   "baseStats": {
     "hp": 72,

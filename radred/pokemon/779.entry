@@ -2,9 +2,9 @@
   "gameId": 996,
   "name": "RadRed.Species.bruxish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/779.png",
-    "normal": "pokelink-community:/radred/assets/sprites/779.png",
-    "party": "pokelink-community:/radred/assets/sprites/779.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/779.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/779.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/779.gif"
   },
   "baseStats": {
     "hp": 68,

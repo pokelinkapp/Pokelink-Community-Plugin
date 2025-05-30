@@ -2,9 +2,9 @@
   "gameId": 355,
   "name": "RadRed.Species.mawile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/303.png",
-    "normal": "pokelink-community:/radred/assets/sprites/303.png",
-    "party": "pokelink-community:/radred/assets/sprites/303.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/303.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/303.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/303.gif"
   },
   "baseStats": {
     "hp": 50,

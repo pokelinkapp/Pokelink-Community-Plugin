@@ -2,9 +2,9 @@
   "gameId": 641,
   "name": "RadRed.Species.karrablast",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/588.png",
-    "normal": "pokelink-community:/radred/assets/sprites/588.png",
-    "party": "pokelink-community:/radred/assets/sprites/588.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/588.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/588.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/588.gif"
   },
   "baseStats": {
     "hp": 50,

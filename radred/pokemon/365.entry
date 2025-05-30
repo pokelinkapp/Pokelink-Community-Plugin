@@ -2,9 +2,9 @@
   "gameId": 343,
   "name": "RadRed.Species.walrein",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/365.png",
-    "normal": "pokelink-community:/radred/assets/sprites/365.png",
-    "party": "pokelink-community:/radred/assets/sprites/365.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/365.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/365.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/365.gif"
   },
   "baseStats": {
     "hp": 90,

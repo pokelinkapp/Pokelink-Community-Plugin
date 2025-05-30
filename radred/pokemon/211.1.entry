@@ -4,9 +4,9 @@
   "name": "RadRed.Species.qwilfish",
   "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/211.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/211.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/211.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/211.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/211.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/211-1.gif"
   },
   "baseStats": {
     "hp": 65,

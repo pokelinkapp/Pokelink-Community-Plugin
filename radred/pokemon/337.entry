@@ -2,9 +2,9 @@
   "gameId": 348,
   "name": "RadRed.Species.lunatone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/337.png",
-    "normal": "pokelink-community:/radred/assets/sprites/337.png",
-    "party": "pokelink-community:/radred/assets/sprites/337.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/337.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/337.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/337.gif"
   },
   "baseStats": {
     "hp": 90,

@@ -2,9 +2,9 @@
   "gameId": 307,
   "name": "RadRed.Species.breloom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/286.png",
-    "normal": "pokelink-community:/radred/assets/sprites/286.png",
-    "party": "pokelink-community:/radred/assets/sprites/286.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/286.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/286.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/286.gif"
   },
   "baseStats": {
     "hp": 60,

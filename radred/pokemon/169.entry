@@ -2,9 +2,9 @@
   "gameId": 169,
   "name": "RadRed.Species.crobat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/169.png",
-    "normal": "pokelink-community:/radred/assets/sprites/169.png",
-    "party": "pokelink-community:/radred/assets/sprites/169.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/169.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/169.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/169.gif"
   },
   "baseStats": {
     "hp": 85,

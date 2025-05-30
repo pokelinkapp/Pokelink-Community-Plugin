@@ -2,9 +2,9 @@
   "gameId": 1164,
   "name": "RadRed.Species.snom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/872.png",
-    "normal": "pokelink-community:/radred/assets/sprites/872.png",
-    "party": "pokelink-community:/radred/assets/sprites/872.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/872.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/872.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/872.gif"
   },
   "baseStats": {
     "hp": 30,

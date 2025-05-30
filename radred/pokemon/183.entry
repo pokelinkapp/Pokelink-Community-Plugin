@@ -2,9 +2,9 @@
   "gameId": 183,
   "name": "RadRed.Species.marill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/183.png",
-    "normal": "pokelink-community:/radred/assets/sprites/183.png",
-    "party": "pokelink-community:/radred/assets/sprites/183.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/183.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/183.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/183.gif"
   },
   "baseStats": {
     "hp": 70,

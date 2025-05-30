@@ -2,9 +2,9 @@
   "gameId": 1197,
   "name": "RadRed.Species.baxcalibur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/998.png",
-    "normal": "pokelink-community:/radred/assets/sprites/998.png",
-    "party": "pokelink-community:/radred/assets/sprites/998.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/998.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/998.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/998.gif"
   },
   "baseStats": {
     "hp": 115,

@@ -2,9 +2,9 @@
   "gameId": 982,
   "name": "RadRed.Species.oranguru",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/765.png",
-    "normal": "pokelink-community:/radred/assets/sprites/765.png",
-    "party": "pokelink-community:/radred/assets/sprites/765.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/765.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/765.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/765.gif"
   },
   "baseStats": {
     "hp": 90,

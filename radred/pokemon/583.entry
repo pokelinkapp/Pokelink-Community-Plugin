@@ -2,9 +2,9 @@
   "gameId": 636,
   "name": "RadRed.Species.vanillish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/583.png",
-    "normal": "pokelink-community:/radred/assets/sprites/583.png",
-    "party": "pokelink-community:/radred/assets/sprites/583.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/583.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/583.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/583.gif"
   },
   "baseStats": {
     "hp": 51,

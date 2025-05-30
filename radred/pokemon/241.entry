@@ -2,9 +2,9 @@
   "gameId": 241,
   "name": "RadRed.Species.miltank",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/241.png",
-    "normal": "pokelink-community:/radred/assets/sprites/241.png",
-    "party": "pokelink-community:/radred/assets/sprites/241.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/241.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/241.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/241.gif"
   },
   "baseStats": {
     "hp": 95,

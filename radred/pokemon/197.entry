@@ -2,9 +2,9 @@
   "gameId": 197,
   "name": "RadRed.Species.umbreon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/197.png",
-    "normal": "pokelink-community:/radred/assets/sprites/197.png",
-    "party": "pokelink-community:/radred/assets/sprites/197.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/197.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/197.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/197.gif"
   },
   "baseStats": {
     "hp": 95,

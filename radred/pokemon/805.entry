@@ -2,9 +2,9 @@
   "gameId": 1076,
   "name": "RadRed.Species.stakataka",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/805.png",
-    "normal": "pokelink-community:/radred/assets/sprites/805.png",
-    "party": "pokelink-community:/radred/assets/sprites/805.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/805.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/805.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/805.gif"
   },
   "baseStats": {
     "hp": 61,

@@ -2,9 +2,9 @@
   "gameId": 212,
   "name": "RadRed.Species.scizor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/212.png",
-    "normal": "pokelink-community:/radred/assets/sprites/212.png",
-    "party": "pokelink-community:/radred/assets/sprites/212.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/212.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/212.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/212.gif"
   },
   "baseStats": {
     "hp": 70,

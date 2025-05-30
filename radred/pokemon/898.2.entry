@@ -4,9 +4,9 @@
   "name": "RadRed.Species.calyrex",
   "formName": "RadRed.Forms.shadow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/898.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/898.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/898.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/898.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/898.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/898-2.gif"
   },
   "baseStats": {
     "hp": 100,

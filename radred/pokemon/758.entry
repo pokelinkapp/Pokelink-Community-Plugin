@@ -2,9 +2,9 @@
   "gameId": 975,
   "name": "RadRed.Species.salazzle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/758.png",
-    "normal": "pokelink-community:/radred/assets/sprites/758.png",
-    "party": "pokelink-community:/radred/assets/sprites/758.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/758.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/758.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/758.gif"
   },
   "baseStats": {
     "hp": 68,

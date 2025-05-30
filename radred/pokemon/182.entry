@@ -2,9 +2,9 @@
   "gameId": 182,
   "name": "RadRed.Species.bellossom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/182.png",
-    "normal": "pokelink-community:/radred/assets/sprites/182.png",
-    "party": "pokelink-community:/radred/assets/sprites/182.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/182.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/182.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/182.gif"
   },
   "baseStats": {
     "hp": 75,

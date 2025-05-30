@@ -2,9 +2,9 @@
   "gameId": 780,
   "name": "RadRed.Species.skiddo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/672.png",
-    "normal": "pokelink-community:/radred/assets/sprites/672.png",
-    "party": "pokelink-community:/radred/assets/sprites/672.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/672.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/672.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/672.gif"
   },
   "baseStats": {
     "hp": 66,

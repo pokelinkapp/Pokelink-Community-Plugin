@@ -2,9 +2,9 @@
   "gameId": 961,
   "name": "RadRed.Species.rockruff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/744.png",
-    "normal": "pokelink-community:/radred/assets/sprites/744.png",
-    "party": "pokelink-community:/radred/assets/sprites/744.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/744.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/744.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/744.gif"
   },
   "baseStats": {
     "hp": 45,

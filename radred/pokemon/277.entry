@@ -2,9 +2,9 @@
   "gameId": 305,
   "name": "RadRed.Species.swellow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/277.png",
-    "normal": "pokelink-community:/radred/assets/sprites/277.png",
-    "party": "pokelink-community:/radred/assets/sprites/277.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/277.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/277.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/277.gif"
   },
   "baseStats": {
     "hp": 60,

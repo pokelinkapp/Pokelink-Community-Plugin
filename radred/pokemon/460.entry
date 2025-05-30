@@ -2,9 +2,9 @@
   "gameId": 513,
   "name": "RadRed.Species.abomasnow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/460.png",
-    "normal": "pokelink-community:/radred/assets/sprites/460.png",
-    "party": "pokelink-community:/radred/assets/sprites/460.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/460.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/460.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/460.gif"
   },
   "baseStats": {
     "hp": 90,

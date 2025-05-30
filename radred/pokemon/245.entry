@@ -2,9 +2,9 @@
   "gameId": 245,
   "name": "RadRed.Species.suicune",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/245.png",
-    "normal": "pokelink-community:/radred/assets/sprites/245.png",
-    "party": "pokelink-community:/radred/assets/sprites/245.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/245.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/245.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/245.gif"
   },
   "baseStats": {
     "hp": 100,

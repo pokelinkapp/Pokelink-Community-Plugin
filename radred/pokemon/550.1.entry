@@ -4,9 +4,9 @@
   "name": "RadRed.Species.basculin",
   "formName": "RadRed.Forms.blue_striped",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/550.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/550.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/550.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/550.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/550.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/550-1.gif"
   },
   "baseStats": {
     "hp": 70,

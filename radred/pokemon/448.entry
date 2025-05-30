@@ -2,9 +2,9 @@
   "gameId": 501,
   "name": "RadRed.Species.lucario",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/448.png",
-    "normal": "pokelink-community:/radred/assets/sprites/448.png",
-    "party": "pokelink-community:/radred/assets/sprites/448.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/448.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/448.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/448.gif"
   },
   "baseStats": {
     "hp": 70,

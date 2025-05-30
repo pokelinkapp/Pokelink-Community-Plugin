@@ -2,9 +2,9 @@
   "gameId": 526,
   "name": "RadRed.Species.mamoswine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/473.png",
-    "normal": "pokelink-community:/radred/assets/sprites/473.png",
-    "party": "pokelink-community:/radred/assets/sprites/473.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/473.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/473.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/473.gif"
   },
   "baseStats": {
     "hp": 110,

@@ -2,9 +2,9 @@
   "gameId": 92,
   "name": "RadRed.Species.gastly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/92.png",
-    "normal": "pokelink-community:/radred/assets/sprites/92.png",
-    "party": "pokelink-community:/radred/assets/sprites/92.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/92.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/92.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/92.gif"
   },
   "baseStats": {
     "hp": 30,

@@ -2,9 +2,9 @@
   "gameId": 948,
   "name": "RadRed.Species.pikipek",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/731.png",
-    "normal": "pokelink-community:/radred/assets/sprites/731.png",
-    "party": "pokelink-community:/radred/assets/sprites/731.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/731.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/731.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/731.gif"
   },
   "baseStats": {
     "hp": 35,

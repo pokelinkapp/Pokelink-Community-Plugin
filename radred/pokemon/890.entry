@@ -2,9 +2,9 @@
   "gameId": 1182,
   "name": "RadRed.Species.eternatus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/890.png",
-    "normal": "pokelink-community:/radred/assets/sprites/890.png",
-    "party": "pokelink-community:/radred/assets/sprites/890.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/890.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/890.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/890.gif"
   },
   "baseStats": {
     "hp": 140,

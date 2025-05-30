@@ -2,9 +2,9 @@
   "gameId": 1149,
   "name": "RadRed.Species.hattrem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/857.png",
-    "normal": "pokelink-community:/radred/assets/sprites/857.png",
-    "party": "pokelink-community:/radred/assets/sprites/857.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/857.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/857.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/857.gif"
   },
   "baseStats": {
     "hp": 57,

@@ -2,9 +2,9 @@
   "gameId": 298,
   "name": "RadRed.Species.seedot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/273.png",
-    "normal": "pokelink-community:/radred/assets/sprites/273.png",
-    "party": "pokelink-community:/radred/assets/sprites/273.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/273.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/273.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/273.gif"
   },
   "baseStats": {
     "hp": 40,

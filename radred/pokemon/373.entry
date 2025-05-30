@@ -2,9 +2,9 @@
   "gameId": 397,
   "name": "RadRed.Species.salamence",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/373.png",
-    "normal": "pokelink-community:/radred/assets/sprites/373.png",
-    "party": "pokelink-community:/radred/assets/sprites/373.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/373.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/373.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/373.gif"
   },
   "baseStats": {
     "hp": 95,

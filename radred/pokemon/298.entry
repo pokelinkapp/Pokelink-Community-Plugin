@@ -2,9 +2,9 @@
   "gameId": 350,
   "name": "RadRed.Species.azurill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/298.png",
-    "normal": "pokelink-community:/radred/assets/sprites/298.png",
-    "party": "pokelink-community:/radred/assets/sprites/298.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/298.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/298.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/298.gif"
   },
   "baseStats": {
     "hp": 50,

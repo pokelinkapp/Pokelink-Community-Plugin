@@ -2,9 +2,9 @@
   "gameId": 779,
   "name": "RadRed.Species.florges",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/671.png",
-    "normal": "pokelink-community:/radred/assets/sprites/671.png",
-    "party": "pokelink-community:/radred/assets/sprites/671.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/671.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/671.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/671.gif"
   },
   "baseStats": {
     "hp": 78,

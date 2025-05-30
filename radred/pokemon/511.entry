@@ -2,9 +2,9 @@
   "gameId": 564,
   "name": "RadRed.Species.pansage",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/511.png",
-    "normal": "pokelink-community:/radred/assets/sprites/511.png",
-    "party": "pokelink-community:/radred/assets/sprites/511.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/511.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/511.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/511.gif"
   },
   "baseStats": {
     "hp": 50,

@@ -2,9 +2,9 @@
   "gameId": 314,
   "name": "RadRed.Species.wailord",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/321.png",
-    "normal": "pokelink-community:/radred/assets/sprites/321.png",
-    "party": "pokelink-community:/radred/assets/sprites/321.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/321.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/321.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/321.gif"
   },
   "baseStats": {
     "hp": 150,

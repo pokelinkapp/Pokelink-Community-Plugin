@@ -2,9 +2,9 @@
   "gameId": 214,
   "name": "RadRed.Species.heracross",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/214.png",
-    "normal": "pokelink-community:/radred/assets/sprites/214.png",
-    "party": "pokelink-community:/radred/assets/sprites/214.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/214.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/214.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/214.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 816,
   "name": "RadRed.Species.phantump",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/708.png",
-    "normal": "pokelink-community:/radred/assets/sprites/708.png",
-    "party": "pokelink-community:/radred/assets/sprites/708.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/708.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/708.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/708.gif"
   },
   "baseStats": {
     "hp": 43,

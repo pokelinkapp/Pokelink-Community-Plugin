@@ -2,9 +2,9 @@
   "gameId": 1339,
   "name": "RadRed.Species.flamigo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/973.png",
-    "normal": "pokelink-community:/radred/assets/sprites/973.png",
-    "party": "pokelink-community:/radred/assets/sprites/973.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/973.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/973.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/973.gif"
   },
   "baseStats": {
     "hp": 92,

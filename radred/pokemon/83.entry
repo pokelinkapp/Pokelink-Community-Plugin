@@ -2,9 +2,9 @@
   "gameId": 83,
   "name": "RadRed.Species.farfetchd",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/83.png",
-    "normal": "pokelink-community:/radred/assets/sprites/83.png",
-    "party": "pokelink-community:/radred/assets/sprites/83.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/83.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/83.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/83.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 42,
   "name": "RadRed.Species.golbat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/42.png",
-    "normal": "pokelink-community:/radred/assets/sprites/42.png",
-    "party": "pokelink-community:/radred/assets/sprites/42.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/42.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/42.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/42.gif"
   },
   "baseStats": {
     "hp": 75,

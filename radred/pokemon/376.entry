@@ -2,9 +2,9 @@
   "gameId": 400,
   "name": "RadRed.Species.metagross",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/376.png",
-    "normal": "pokelink-community:/radred/assets/sprites/376.png",
-    "party": "pokelink-community:/radred/assets/sprites/376.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/376.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/376.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/376.gif"
   },
   "baseStats": {
     "hp": 80,

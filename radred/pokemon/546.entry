@@ -2,9 +2,9 @@
   "gameId": 599,
   "name": "RadRed.Species.cottonee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/546.png",
-    "normal": "pokelink-community:/radred/assets/sprites/546.png",
-    "party": "pokelink-community:/radred/assets/sprites/546.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/546.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/546.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/546.gif"
   },
   "baseStats": {
     "hp": 40,

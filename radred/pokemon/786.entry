@@ -2,9 +2,9 @@
   "gameId": 1003,
   "name": "RadRed.Species.tapu_lele",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/786.png",
-    "normal": "pokelink-community:/radred/assets/sprites/786.png",
-    "party": "pokelink-community:/radred/assets/sprites/786.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/786.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/786.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/786.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 103,
   "name": "RadRed.Species.exeggutor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/103.png",
-    "normal": "pokelink-community:/radred/assets/sprites/103.png",
-    "party": "pokelink-community:/radred/assets/sprites/103.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/103.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/103.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/103.gif"
   },
   "baseStats": {
     "hp": 95,

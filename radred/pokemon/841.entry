@@ -2,9 +2,9 @@
   "gameId": 1133,
   "name": "RadRed.Species.flapple",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/841.png",
-    "normal": "pokelink-community:/radred/assets/sprites/841.png",
-    "party": "pokelink-community:/radred/assets/sprites/841.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/841.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/841.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/841.gif"
   },
   "baseStats": {
     "hp": 70,

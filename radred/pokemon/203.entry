@@ -2,9 +2,9 @@
   "gameId": 203,
   "name": "RadRed.Species.girafarig",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/203.png",
-    "normal": "pokelink-community:/radred/assets/sprites/203.png",
-    "party": "pokelink-community:/radred/assets/sprites/203.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/203.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/203.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/203.gif"
   },
   "baseStats": {
     "hp": 70,

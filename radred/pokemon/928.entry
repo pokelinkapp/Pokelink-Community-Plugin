@@ -2,9 +2,9 @@
   "gameId": 1324,
   "name": "RadRed.Species.smoliv",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/928.png",
-    "normal": "pokelink-community:/radred/assets/sprites/928.png",
-    "party": "pokelink-community:/radred/assets/sprites/928.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/928.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/928.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/928.gif"
   },
   "baseStats": {
     "hp": 41,

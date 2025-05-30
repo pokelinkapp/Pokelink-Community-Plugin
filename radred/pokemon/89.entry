@@ -2,9 +2,9 @@
   "gameId": 89,
   "name": "RadRed.Species.muk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/89.png",
-    "normal": "pokelink-community:/radred/assets/sprites/89.png",
-    "party": "pokelink-community:/radred/assets/sprites/89.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/89.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/89.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/89.gif"
   },
   "baseStats": {
     "hp": 105,

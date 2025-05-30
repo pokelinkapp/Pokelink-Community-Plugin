@@ -2,9 +2,9 @@
   "gameId": 546,
   "name": "RadRed.Species.arceus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/493.png",
-    "normal": "pokelink-community:/radred/assets/sprites/493.png",
-    "party": "pokelink-community:/radred/assets/sprites/493.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/493.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493.gif"
   },
   "baseStats": {
     "hp": 120,

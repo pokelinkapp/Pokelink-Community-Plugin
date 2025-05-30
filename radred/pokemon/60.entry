@@ -2,9 +2,9 @@
   "gameId": 60,
   "name": "RadRed.Species.poliwag",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/60.png",
-    "normal": "pokelink-community:/radred/assets/sprites/60.png",
-    "party": "pokelink-community:/radred/assets/sprites/60.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/60.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/60.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/60.gif"
   },
   "baseStats": {
     "hp": 40,

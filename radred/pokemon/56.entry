@@ -2,9 +2,9 @@
   "gameId": 56,
   "name": "RadRed.Species.mankey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/56.png",
-    "normal": "pokelink-community:/radred/assets/sprites/56.png",
-    "party": "pokelink-community:/radred/assets/sprites/56.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/56.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/56.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/56.gif"
   },
   "baseStats": {
     "hp": 40,

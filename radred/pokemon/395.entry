@@ -2,9 +2,9 @@
   "gameId": 448,
   "name": "RadRed.Species.empoleon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/395.png",
-    "normal": "pokelink-community:/radred/assets/sprites/395.png",
-    "party": "pokelink-community:/radred/assets/sprites/395.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/395.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/395.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/395.gif"
   },
   "baseStats": {
     "hp": 84,

@@ -2,9 +2,9 @@
   "gameId": 1158,
   "name": "RadRed.Species.mr_rime",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/866.png",
-    "normal": "pokelink-community:/radred/assets/sprites/866.png",
-    "party": "pokelink-community:/radred/assets/sprites/866.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/866.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/866.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/866.gif"
   },
   "baseStats": {
     "hp": 80,

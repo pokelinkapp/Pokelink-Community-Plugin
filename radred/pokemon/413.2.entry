@@ -4,9 +4,9 @@
   "name": "RadRed.Species.wormadam",
   "formName": "RadRed.Forms.trash",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/413.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/413.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/413.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/413.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/413.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/413-2.gif"
   },
   "baseStats": {
     "hp": 60,

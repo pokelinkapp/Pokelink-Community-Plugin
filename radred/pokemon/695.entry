@@ -2,9 +2,9 @@
   "gameId": 803,
   "name": "RadRed.Species.heliolisk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/695.png",
-    "normal": "pokelink-community:/radred/assets/sprites/695.png",
-    "party": "pokelink-community:/radred/assets/sprites/695.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/695.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/695.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/695.gif"
   },
   "baseStats": {
     "hp": 62,

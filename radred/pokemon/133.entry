@@ -2,9 +2,9 @@
   "gameId": 133,
   "name": "RadRed.Species.eevee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/133.png",
-    "normal": "pokelink-community:/radred/assets/sprites/133.png",
-    "party": "pokelink-community:/radred/assets/sprites/133.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/133.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/133.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/133.gif"
   },
   "baseStats": {
     "hp": 55,

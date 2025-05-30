@@ -2,9 +2,9 @@
   "gameId": 964,
   "name": "RadRed.Species.mareanie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/747.png",
-    "normal": "pokelink-community:/radred/assets/sprites/747.png",
-    "party": "pokelink-community:/radred/assets/sprites/747.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/747.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/747.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/747.gif"
   },
   "baseStats": {
     "hp": 50,

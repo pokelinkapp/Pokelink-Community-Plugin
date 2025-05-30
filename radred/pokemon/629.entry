@@ -2,9 +2,9 @@
   "gameId": 682,
   "name": "RadRed.Species.vullaby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/629.png",
-    "normal": "pokelink-community:/radred/assets/sprites/629.png",
-    "party": "pokelink-community:/radred/assets/sprites/629.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/629.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/629.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/629.gif"
   },
   "baseStats": {
     "hp": 70,

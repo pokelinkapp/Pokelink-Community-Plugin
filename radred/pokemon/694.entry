@@ -2,9 +2,9 @@
   "gameId": 802,
   "name": "RadRed.Species.helioptile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/694.png",
-    "normal": "pokelink-community:/radred/assets/sprites/694.png",
-    "party": "pokelink-community:/radred/assets/sprites/694.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/694.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/694.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/694.gif"
   },
   "baseStats": {
     "hp": 44,

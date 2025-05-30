@@ -2,9 +2,9 @@
   "gameId": 16,
   "name": "RadRed.Species.pidgey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/16.png",
-    "normal": "pokelink-community:/radred/assets/sprites/16.png",
-    "party": "pokelink-community:/radred/assets/sprites/16.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/16.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/16.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/16.gif"
   },
   "baseStats": {
     "hp": 40,

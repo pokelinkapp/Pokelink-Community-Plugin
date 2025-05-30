@@ -2,9 +2,9 @@
   "gameId": 670,
   "name": "RadRed.Species.accelgor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/617.png",
-    "normal": "pokelink-community:/radred/assets/sprites/617.png",
-    "party": "pokelink-community:/radred/assets/sprites/617.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/617.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/617.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/617.gif"
   },
   "baseStats": {
     "hp": 80,

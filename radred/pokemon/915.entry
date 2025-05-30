@@ -2,9 +2,9 @@
   "gameId": 846,
   "name": "RadRed.Species.lechonk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/915.png",
-    "normal": "pokelink-community:/radred/assets/sprites/915.png",
-    "party": "pokelink-community:/radred/assets/sprites/915.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/915.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/915.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/915.gif"
   },
   "baseStats": {
     "hp": 54,

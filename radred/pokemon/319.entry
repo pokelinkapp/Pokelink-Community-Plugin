@@ -2,9 +2,9 @@
   "gameId": 331,
   "name": "RadRed.Species.sharpedo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/319.png",
-    "normal": "pokelink-community:/radred/assets/sprites/319.png",
-    "party": "pokelink-community:/radred/assets/sprites/319.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/319.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/319.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/319.gif"
   },
   "baseStats": {
     "hp": 70,

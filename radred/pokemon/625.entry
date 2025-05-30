@@ -2,9 +2,9 @@
   "gameId": 678,
   "name": "RadRed.Species.bisharp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/625.png",
-    "normal": "pokelink-community:/radred/assets/sprites/625.png",
-    "party": "pokelink-community:/radred/assets/sprites/625.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/625.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/625.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/625.gif"
   },
   "baseStats": {
     "hp": 65,

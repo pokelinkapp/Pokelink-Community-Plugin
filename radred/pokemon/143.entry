@@ -2,9 +2,9 @@
   "gameId": 143,
   "name": "RadRed.Species.snorlax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/143.png",
-    "normal": "pokelink-community:/radred/assets/sprites/143.png",
-    "party": "pokelink-community:/radred/assets/sprites/143.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/143.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/143.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/143.gif"
   },
   "baseStats": {
     "hp": 160,

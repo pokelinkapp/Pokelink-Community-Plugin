@@ -2,9 +2,9 @@
   "gameId": 170,
   "name": "RadRed.Species.chinchou",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/170.png",
-    "normal": "pokelink-community:/radred/assets/sprites/170.png",
-    "party": "pokelink-community:/radred/assets/sprites/170.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/170.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/170.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/170.gif"
   },
   "baseStats": {
     "hp": 75,

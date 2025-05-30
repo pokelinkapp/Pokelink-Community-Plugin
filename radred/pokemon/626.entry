@@ -2,9 +2,9 @@
   "gameId": 679,
   "name": "RadRed.Species.bouffalant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/626.png",
-    "normal": "pokelink-community:/radred/assets/sprites/626.png",
-    "party": "pokelink-community:/radred/assets/sprites/626.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/626.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/626.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/626.gif"
   },
   "baseStats": {
     "hp": 100,

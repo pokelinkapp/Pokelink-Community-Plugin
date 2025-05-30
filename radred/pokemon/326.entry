@@ -2,9 +2,9 @@
   "gameId": 352,
   "name": "RadRed.Species.grumpig",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/326.png",
-    "normal": "pokelink-community:/radred/assets/sprites/326.png",
-    "party": "pokelink-community:/radred/assets/sprites/326.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/326.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/326.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/326.gif"
   },
   "baseStats": {
     "hp": 90,

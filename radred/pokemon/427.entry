@@ -2,9 +2,9 @@
   "gameId": 480,
   "name": "RadRed.Species.buneary",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/427.png",
-    "normal": "pokelink-community:/radred/assets/sprites/427.png",
-    "party": "pokelink-community:/radred/assets/sprites/427.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/427.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/427.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/427.gif"
   },
   "baseStats": {
     "hp": 55,

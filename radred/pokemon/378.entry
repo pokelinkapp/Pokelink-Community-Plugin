@@ -2,9 +2,9 @@
   "gameId": 402,
   "name": "RadRed.Species.regice",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/378.png",
-    "normal": "pokelink-community:/radred/assets/sprites/378.png",
-    "party": "pokelink-community:/radred/assets/sprites/378.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/378.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/378.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/378.gif"
   },
   "baseStats": {
     "hp": 80,

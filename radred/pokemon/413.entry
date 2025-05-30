@@ -2,9 +2,9 @@
   "gameId": 466,
   "name": "RadRed.Species.wormadam",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/413.png",
-    "normal": "pokelink-community:/radred/assets/sprites/413.png",
-    "party": "pokelink-community:/radred/assets/sprites/413.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/413.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/413.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/413.gif"
   },
   "baseStats": {
     "hp": 60,

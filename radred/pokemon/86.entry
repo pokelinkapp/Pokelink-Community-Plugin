@@ -2,9 +2,9 @@
   "gameId": 86,
   "name": "RadRed.Species.seel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/86.png",
-    "normal": "pokelink-community:/radred/assets/sprites/86.png",
-    "party": "pokelink-community:/radred/assets/sprites/86.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/86.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/86.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/86.gif"
   },
   "baseStats": {
     "hp": 65,

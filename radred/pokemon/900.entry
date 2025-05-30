@@ -2,9 +2,9 @@
   "gameId": 1273,
   "name": "RadRed.Species.kleavor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/900.png",
-    "normal": "pokelink-community:/radred/assets/sprites/900.png",
-    "party": "pokelink-community:/radred/assets/sprites/900.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/900.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/900.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/900.gif"
   },
   "baseStats": {
     "hp": 85,

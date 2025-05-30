@@ -2,9 +2,9 @@
   "gameId": 45,
   "name": "RadRed.Species.vileplume",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/45.png",
-    "normal": "pokelink-community:/radred/assets/sprites/45.png",
-    "party": "pokelink-community:/radred/assets/sprites/45.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/45.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/45.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/45.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 535,
   "name": "RadRed.Species.azelf",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/482.png",
-    "normal": "pokelink-community:/radred/assets/sprites/482.png",
-    "party": "pokelink-community:/radred/assets/sprites/482.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/482.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/482.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/482.gif"
   },
   "baseStats": {
     "hp": 75,

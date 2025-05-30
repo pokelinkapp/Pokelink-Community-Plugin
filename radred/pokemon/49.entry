@@ -2,9 +2,9 @@
   "gameId": 49,
   "name": "RadRed.Species.venomoth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/49.png",
-    "normal": "pokelink-community:/radred/assets/sprites/49.png",
-    "party": "pokelink-community:/radred/assets/sprites/49.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/49.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/49.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/49.gif"
   },
   "baseStats": {
     "hp": 70,

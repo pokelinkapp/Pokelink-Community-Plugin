@@ -2,9 +2,9 @@
   "gameId": 366,
   "name": "RadRed.Species.slaking",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/289.png",
-    "normal": "pokelink-community:/radred/assets/sprites/289.png",
-    "party": "pokelink-community:/radred/assets/sprites/289.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/289.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/289.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/289.gif"
   },
   "baseStats": {
     "hp": 150,

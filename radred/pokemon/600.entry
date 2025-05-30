@@ -2,9 +2,9 @@
   "gameId": 653,
   "name": "RadRed.Species.klang",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/600.png",
-    "normal": "pokelink-community:/radred/assets/sprites/600.png",
-    "party": "pokelink-community:/radred/assets/sprites/600.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/600.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/600.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/600.gif"
   },
   "baseStats": {
     "hp": 60,

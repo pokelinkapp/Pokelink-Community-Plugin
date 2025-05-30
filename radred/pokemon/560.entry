@@ -2,9 +2,9 @@
   "gameId": 613,
   "name": "RadRed.Species.scrafty",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/560.png",
-    "normal": "pokelink-community:/radred/assets/sprites/560.png",
-    "party": "pokelink-community:/radred/assets/sprites/560.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/560.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/560.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/560.gif"
   },
   "baseStats": {
     "hp": 65,

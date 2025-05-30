@@ -2,9 +2,9 @@
   "gameId": 1107,
   "name": "RadRed.Species.cinderace",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/815.png",
-    "normal": "pokelink-community:/radred/assets/sprites/815.png",
-    "party": "pokelink-community:/radred/assets/sprites/815.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/815.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/815.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/815.gif"
   },
   "baseStats": {
     "hp": 80,

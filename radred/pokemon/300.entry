@@ -2,9 +2,9 @@
   "gameId": 315,
   "name": "RadRed.Species.skitty",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/300.png",
-    "normal": "pokelink-community:/radred/assets/sprites/300.png",
-    "party": "pokelink-community:/radred/assets/sprites/300.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/300.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/300.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/300.gif"
   },
   "baseStats": {
     "hp": 50,

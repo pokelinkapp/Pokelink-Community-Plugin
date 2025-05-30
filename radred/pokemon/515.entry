@@ -2,9 +2,9 @@
   "gameId": 568,
   "name": "RadRed.Species.panpour",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/515.png",
-    "normal": "pokelink-community:/radred/assets/sprites/515.png",
-    "party": "pokelink-community:/radred/assets/sprites/515.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/515.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/515.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/515.gif"
   },
   "baseStats": {
     "hp": 50,

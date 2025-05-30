@@ -2,9 +2,9 @@
   "gameId": 1017,
   "name": "RadRed.Species.necrozma",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/800.png",
-    "normal": "pokelink-community:/radred/assets/sprites/800.png",
-    "party": "pokelink-community:/radred/assets/sprites/800.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/800.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/800.gif"
   },
   "baseStats": {
     "hp": 97,

@@ -2,9 +2,9 @@
   "gameId": 1193,
   "name": "RadRed.Species.koraidon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1007.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1007.png",
-    "party": "pokelink-community:/radred/assets/sprites/1007.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1007.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1007.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1007.gif"
   },
   "baseStats": {
     "hp": 100,

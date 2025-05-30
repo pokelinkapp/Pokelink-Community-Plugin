@@ -2,9 +2,9 @@
   "gameId": 650,
   "name": "RadRed.Species.ferroseed",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/597.png",
-    "normal": "pokelink-community:/radred/assets/sprites/597.png",
-    "party": "pokelink-community:/radred/assets/sprites/597.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/597.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/597.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/597.gif"
   },
   "baseStats": {
     "hp": 44,

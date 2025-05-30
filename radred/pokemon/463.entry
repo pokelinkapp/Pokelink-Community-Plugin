@@ -2,9 +2,9 @@
   "gameId": 516,
   "name": "RadRed.Species.lickilicky",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/463.png",
-    "normal": "pokelink-community:/radred/assets/sprites/463.png",
-    "party": "pokelink-community:/radred/assets/sprites/463.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/463.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/463.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/463.gif"
   },
   "baseStats": {
     "hp": 110,

@@ -2,9 +2,9 @@
   "gameId": 1375,
   "name": "RadRed.Species.chillet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/2001.png",
-    "normal": "pokelink-community:/radred/assets/sprites/2001.png",
-    "party": "pokelink-community:/radred/assets/sprites/2001.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/2001.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/2001.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/2001.gif"
   },
   "baseStats": {
     "hp": 85,

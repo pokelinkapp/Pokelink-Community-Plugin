@@ -2,9 +2,9 @@
   "gameId": 1115,
   "name": "RadRed.Species.corviknight",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/823.png",
-    "normal": "pokelink-community:/radred/assets/sprites/823.png",
-    "party": "pokelink-community:/radred/assets/sprites/823.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/823.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/823.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/823.gif"
   },
   "baseStats": {
     "hp": 98,

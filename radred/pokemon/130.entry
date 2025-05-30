@@ -2,9 +2,9 @@
   "gameId": 130,
   "name": "RadRed.Species.gyarados",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/130.png",
-    "normal": "pokelink-community:/radred/assets/sprites/130.png",
-    "party": "pokelink-community:/radred/assets/sprites/130.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/130.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/130.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/130.gif"
   },
   "baseStats": {
     "hp": 95,

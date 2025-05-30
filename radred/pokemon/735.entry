@@ -2,9 +2,9 @@
   "gameId": 952,
   "name": "RadRed.Species.gumshoos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/735.png",
-    "normal": "pokelink-community:/radred/assets/sprites/735.png",
-    "party": "pokelink-community:/radred/assets/sprites/735.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/735.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/735.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/735.gif"
   },
   "baseStats": {
     "hp": 98,

@@ -2,9 +2,9 @@
   "gameId": 790,
   "name": "RadRed.Species.spritzee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/682.png",
-    "normal": "pokelink-community:/radred/assets/sprites/682.png",
-    "party": "pokelink-community:/radred/assets/sprites/682.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/682.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/682.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/682.gif"
   },
   "baseStats": {
     "hp": 78,

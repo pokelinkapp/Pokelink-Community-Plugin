@@ -2,9 +2,9 @@
   "gameId": 1312,
   "name": "RadRed.Species.enamorus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/905.png",
-    "normal": "pokelink-community:/radred/assets/sprites/905.png",
-    "party": "pokelink-community:/radred/assets/sprites/905.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/905.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/905.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/905.gif"
   },
   "baseStats": {
     "hp": 74,

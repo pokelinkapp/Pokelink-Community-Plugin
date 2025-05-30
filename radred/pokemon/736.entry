@@ -2,9 +2,9 @@
   "gameId": 953,
   "name": "RadRed.Species.grubbin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/736.png",
-    "normal": "pokelink-community:/radred/assets/sprites/736.png",
-    "party": "pokelink-community:/radred/assets/sprites/736.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/736.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/736.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/736.gif"
   },
   "baseStats": {
     "hp": 47,

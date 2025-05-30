@@ -2,9 +2,9 @@
   "gameId": 164,
   "name": "RadRed.Species.noctowl",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/164.png",
-    "normal": "pokelink-community:/radred/assets/sprites/164.png",
-    "party": "pokelink-community:/radred/assets/sprites/164.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/164.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/164.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/164.gif"
   },
   "baseStats": {
     "hp": 110,

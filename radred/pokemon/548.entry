@@ -2,9 +2,9 @@
   "gameId": 601,
   "name": "RadRed.Species.petilil",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/548.png",
-    "normal": "pokelink-community:/radred/assets/sprites/548.png",
-    "party": "pokelink-community:/radred/assets/sprites/548.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/548.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/548.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/548.gif"
   },
   "baseStats": {
     "hp": 45,

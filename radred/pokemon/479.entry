@@ -2,9 +2,9 @@
   "gameId": 532,
   "name": "RadRed.Species.rotom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/479.png",
-    "normal": "pokelink-community:/radred/assets/sprites/479.png",
-    "party": "pokelink-community:/radred/assets/sprites/479.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/479.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/479.gif"
   },
   "baseStats": {
     "hp": 50,

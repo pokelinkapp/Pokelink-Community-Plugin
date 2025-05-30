@@ -3,9 +3,9 @@
   "gameId": 465,
   "name": "RadRed.Species.burmy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/412.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/412.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/412.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/412.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/412.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/412-1.gif"
   },
   "baseStats": {
     "hp": 40,

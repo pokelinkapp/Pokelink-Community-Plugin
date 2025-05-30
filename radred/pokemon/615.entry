@@ -2,9 +2,9 @@
   "gameId": 668,
   "name": "RadRed.Species.cryogonal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/615.png",
-    "normal": "pokelink-community:/radred/assets/sprites/615.png",
-    "party": "pokelink-community:/radred/assets/sprites/615.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/615.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/615.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/615.gif"
   },
   "baseStats": {
     "hp": 80,

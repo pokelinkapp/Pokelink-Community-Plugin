@@ -2,9 +2,9 @@
   "gameId": 117,
   "name": "RadRed.Species.seadra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/117.png",
-    "normal": "pokelink-community:/radred/assets/sprites/117.png",
-    "party": "pokelink-community:/radred/assets/sprites/117.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/117.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/117.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/117.gif"
   },
   "baseStats": {
     "hp": 55,

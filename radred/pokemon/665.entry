@@ -2,9 +2,9 @@
   "gameId": 773,
   "name": "RadRed.Species.spewpa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/665.png",
-    "normal": "pokelink-community:/radred/assets/sprites/665.png",
-    "party": "pokelink-community:/radred/assets/sprites/665.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/665.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/665.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/665.gif"
   },
   "baseStats": {
     "hp": 45,

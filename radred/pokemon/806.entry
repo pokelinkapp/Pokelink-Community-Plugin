@@ -2,9 +2,9 @@
   "gameId": 1077,
   "name": "RadRed.Species.blacephalon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/806.png",
-    "normal": "pokelink-community:/radred/assets/sprites/806.png",
-    "party": "pokelink-community:/radred/assets/sprites/806.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/806.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/806.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/806.gif"
   },
   "baseStats": {
     "hp": 53,

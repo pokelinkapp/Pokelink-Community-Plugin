@@ -2,9 +2,9 @@
   "gameId": 41,
   "name": "RadRed.Species.zubat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/41.png",
-    "normal": "pokelink-community:/radred/assets/sprites/41.png",
-    "party": "pokelink-community:/radred/assets/sprites/41.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/41.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/41.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/41.gif"
   },
   "baseStats": {
     "hp": 40,

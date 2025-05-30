@@ -2,9 +2,9 @@
   "gameId": 798,
   "name": "RadRed.Species.skrelp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/690.png",
-    "normal": "pokelink-community:/radred/assets/sprites/690.png",
-    "party": "pokelink-community:/radred/assets/sprites/690.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/690.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/690.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/690.gif"
   },
   "baseStats": {
     "hp": 50,

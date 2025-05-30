@@ -4,9 +4,9 @@
   "name": "RadRed.Species.zigzagoon",
   "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/263.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/263.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/263.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/263.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/263.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/263-1.gif"
   },
   "baseStats": {
     "hp": 38,

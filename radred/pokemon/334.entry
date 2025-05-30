@@ -2,9 +2,9 @@
   "gameId": 359,
   "name": "RadRed.Species.altaria",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/334.png",
-    "normal": "pokelink-community:/radred/assets/sprites/334.png",
-    "party": "pokelink-community:/radred/assets/sprites/334.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/334.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/334.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/334.gif"
   },
   "baseStats": {
     "hp": 85,

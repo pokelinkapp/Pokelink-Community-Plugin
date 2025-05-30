@@ -2,9 +2,9 @@
   "gameId": 122,
   "name": "RadRed.Species.mr_mime",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/122.png",
-    "normal": "pokelink-community:/radred/assets/sprites/122.png",
-    "party": "pokelink-community:/radred/assets/sprites/122.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/122.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/122.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/122.gif"
   },
   "baseStats": {
     "hp": 50,

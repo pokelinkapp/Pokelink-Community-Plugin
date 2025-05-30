@@ -2,9 +2,9 @@
   "gameId": 572,
   "name": "RadRed.Species.pidove",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/519.png",
-    "normal": "pokelink-community:/radred/assets/sprites/519.png",
-    "party": "pokelink-community:/radred/assets/sprites/519.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/519.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/519.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/519.gif"
   },
   "baseStats": {
     "hp": 50,

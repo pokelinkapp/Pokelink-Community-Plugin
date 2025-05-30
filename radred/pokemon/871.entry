@@ -2,9 +2,9 @@
   "gameId": 1163,
   "name": "RadRed.Species.pincurchin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/871.png",
-    "normal": "pokelink-community:/radred/assets/sprites/871.png",
-    "party": "pokelink-community:/radred/assets/sprites/871.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/871.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/871.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/871.gif"
   },
   "baseStats": {
     "hp": 68,

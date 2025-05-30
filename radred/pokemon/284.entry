@@ -2,9 +2,9 @@
   "gameId": 312,
   "name": "RadRed.Species.masquerain",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/284.png",
-    "normal": "pokelink-community:/radred/assets/sprites/284.png",
-    "party": "pokelink-community:/radred/assets/sprites/284.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/284.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/284.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/284.gif"
   },
   "baseStats": {
     "hp": 80,

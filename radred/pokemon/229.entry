@@ -2,9 +2,9 @@
   "gameId": 229,
   "name": "RadRed.Species.houndoom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/229.png",
-    "normal": "pokelink-community:/radred/assets/sprites/229.png",
-    "party": "pokelink-community:/radred/assets/sprites/229.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/229.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/229.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/229.gif"
   },
   "baseStats": {
     "hp": 75,

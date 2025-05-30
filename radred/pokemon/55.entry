@@ -2,9 +2,9 @@
   "gameId": 55,
   "name": "RadRed.Species.golduck",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/55.png",
-    "normal": "pokelink-community:/radred/assets/sprites/55.png",
-    "party": "pokelink-community:/radred/assets/sprites/55.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/55.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/55.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/55.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 243,
   "name": "RadRed.Species.raikou",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/243.png",
-    "normal": "pokelink-community:/radred/assets/sprites/243.png",
-    "party": "pokelink-community:/radred/assets/sprites/243.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/243.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/243.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/243.gif"
   },
   "baseStats": {
     "hp": 90,

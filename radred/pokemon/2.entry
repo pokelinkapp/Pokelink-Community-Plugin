@@ -2,9 +2,9 @@
   "gameId": 2,
   "name": "RadRed.Species.ivysaur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/2.png",
-    "party": "pokelink-community:/radred/assets/sprites/2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/2.gif"
   },
   "baseStats": {
     "hp": 60,

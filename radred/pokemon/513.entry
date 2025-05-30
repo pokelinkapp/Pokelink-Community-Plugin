@@ -2,9 +2,9 @@
   "gameId": 566,
   "name": "RadRed.Species.pansear",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/513.png",
-    "normal": "pokelink-community:/radred/assets/sprites/513.png",
-    "party": "pokelink-community:/radred/assets/sprites/513.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/513.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/513.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/513.gif"
   },
   "baseStats": {
     "hp": 50,

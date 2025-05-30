@@ -2,9 +2,9 @@
   "gameId": 487,
   "name": "RadRed.Species.stunky",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/434.png",
-    "normal": "pokelink-community:/radred/assets/sprites/434.png",
-    "party": "pokelink-community:/radred/assets/sprites/434.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/434.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/434.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/434.gif"
   },
   "baseStats": {
     "hp": 63,

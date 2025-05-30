@@ -4,9 +4,9 @@
   "name": "RadRed.Species.geodude",
   "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/74.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/74.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/74.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/74.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/74.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/74-1.gif"
   },
   "baseStats": {
     "hp": 40,

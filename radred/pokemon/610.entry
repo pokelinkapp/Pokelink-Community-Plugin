@@ -2,9 +2,9 @@
   "gameId": 663,
   "name": "RadRed.Species.axew",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/610.png",
-    "normal": "pokelink-community:/radred/assets/sprites/610.png",
-    "party": "pokelink-community:/radred/assets/sprites/610.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/610.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/610.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/610.gif"
   },
   "baseStats": {
     "hp": 46,

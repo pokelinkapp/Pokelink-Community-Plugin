@@ -2,9 +2,9 @@
   "gameId": 54,
   "name": "RadRed.Species.psyduck",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/54.png",
-    "normal": "pokelink-community:/radred/assets/sprites/54.png",
-    "party": "pokelink-community:/radred/assets/sprites/54.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/54.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/54.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/54.gif"
   },
   "baseStats": {
     "hp": 50,

@@ -2,9 +2,9 @@
   "gameId": 1134,
   "name": "RadRed.Species.appletun",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/842.png",
-    "normal": "pokelink-community:/radred/assets/sprites/842.png",
-    "party": "pokelink-community:/radred/assets/sprites/842.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/842.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/842.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/842.gif"
   },
   "baseStats": {
     "hp": 110,

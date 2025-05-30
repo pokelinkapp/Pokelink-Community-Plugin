@@ -2,9 +2,9 @@
   "gameId": 174,
   "name": "RadRed.Species.igglybuff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/174.png",
-    "normal": "pokelink-community:/radred/assets/sprites/174.png",
-    "party": "pokelink-community:/radred/assets/sprites/174.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/174.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/174.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/174.gif"
   },
   "baseStats": {
     "hp": 90,

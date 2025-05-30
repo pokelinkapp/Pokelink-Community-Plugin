@@ -2,9 +2,9 @@
   "gameId": 776,
   "name": "RadRed.Species.pyroar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/668.png",
-    "normal": "pokelink-community:/radred/assets/sprites/668.png",
-    "party": "pokelink-community:/radred/assets/sprites/668.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/668.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/668.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/668.gif"
   },
   "baseStats": {
     "hp": 86,

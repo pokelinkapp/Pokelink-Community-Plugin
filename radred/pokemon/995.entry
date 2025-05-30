@@ -2,9 +2,9 @@
   "gameId": 1230,
   "name": "RadRed.Species.iron_thorns",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/995.png",
-    "normal": "pokelink-community:/radred/assets/sprites/995.png",
-    "party": "pokelink-community:/radred/assets/sprites/995.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/995.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/995.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/995.gif"
   },
   "baseStats": {
     "hp": 100,

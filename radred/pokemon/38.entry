@@ -2,9 +2,9 @@
   "gameId": 38,
   "name": "RadRed.Species.ninetales",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/38.png",
-    "normal": "pokelink-community:/radred/assets/sprites/38.png",
-    "party": "pokelink-community:/radred/assets/sprites/38.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/38.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/38.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/38.gif"
   },
   "baseStats": {
     "hp": 73,

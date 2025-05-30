@@ -2,9 +2,9 @@
   "gameId": 373,
   "name": "RadRed.Species.clamperl",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/366.png",
-    "normal": "pokelink-community:/radred/assets/sprites/366.png",
-    "party": "pokelink-community:/radred/assets/sprites/366.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/366.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/366.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/366.gif"
   },
   "baseStats": {
     "hp": 35,

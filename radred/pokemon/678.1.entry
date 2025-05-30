@@ -4,9 +4,9 @@
   "name": "RadRed.Species.meowstic",
   "formName": "RadRed.Forms.female",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/678.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/678.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/678.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/678.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/678.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/678-1.gif"
   },
   "baseStats": {
     "hp": 74,

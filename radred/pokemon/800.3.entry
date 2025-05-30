@@ -4,9 +4,9 @@
   "name": "RadRed.Species.necrozma",
   "formName": "RadRed.Forms.ultra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/800.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/800.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/800.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/800.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/800-3.gif"
   },
   "baseStats": {
     "hp": 97,

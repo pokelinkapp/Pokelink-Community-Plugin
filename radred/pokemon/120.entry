@@ -2,9 +2,9 @@
   "gameId": 120,
   "name": "RadRed.Species.staryu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/120.png",
-    "normal": "pokelink-community:/radred/assets/sprites/120.png",
-    "party": "pokelink-community:/radred/assets/sprites/120.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/120.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/120.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/120.gif"
   },
   "baseStats": {
     "hp": 30,

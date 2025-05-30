@@ -2,9 +2,9 @@
   "gameId": 404,
   "name": "RadRed.Species.kyogre",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/382.png",
-    "normal": "pokelink-community:/radred/assets/sprites/382.png",
-    "party": "pokelink-community:/radred/assets/sprites/382.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/382.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/382.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/382.gif"
   },
   "baseStats": {
     "hp": 100,

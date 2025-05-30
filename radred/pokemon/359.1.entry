@@ -4,9 +4,9 @@
   "name": "RadRed.Species.absol",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/359.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/359.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/359.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/359.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/359.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/359-1.gif"
   },
   "baseStats": {
     "hp": 65,

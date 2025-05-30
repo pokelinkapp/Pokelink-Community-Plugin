@@ -3,9 +3,9 @@
   "name": "RadRed.Species.aegislash",
   "formName": "RadRed.Forms.shield",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/681.png",
-    "normal": "pokelink-community:/radred/assets/sprites/681.png",
-    "party": "pokelink-community:/radred/assets/sprites/681.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/681.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/681.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/681.gif"
   },
   "baseStats": {
     "hp": 60,

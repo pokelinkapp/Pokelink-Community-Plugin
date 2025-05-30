@@ -2,9 +2,9 @@
   "gameId": 148,
   "name": "RadRed.Species.dragonair",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/148.png",
-    "normal": "pokelink-community:/radred/assets/sprites/148.png",
-    "party": "pokelink-community:/radred/assets/sprites/148.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/148.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/148.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/148.gif"
   },
   "baseStats": {
     "hp": 61,

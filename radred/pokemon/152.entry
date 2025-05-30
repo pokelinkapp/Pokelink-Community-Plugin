@@ -2,9 +2,9 @@
   "gameId": 152,
   "name": "RadRed.Species.chikorita",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/152.png",
-    "normal": "pokelink-community:/radred/assets/sprites/152.png",
-    "party": "pokelink-community:/radred/assets/sprites/152.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/152.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/152.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/152.gif"
   },
   "baseStats": {
     "hp": 45,

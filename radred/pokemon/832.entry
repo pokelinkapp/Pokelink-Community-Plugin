@@ -2,9 +2,9 @@
   "gameId": 1124,
   "name": "RadRed.Species.dubwool",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/832.png",
-    "normal": "pokelink-community:/radred/assets/sprites/832.png",
-    "party": "pokelink-community:/radred/assets/sprites/832.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/832.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/832.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/832.gif"
   },
   "baseStats": {
     "hp": 82,

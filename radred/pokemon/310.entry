@@ -2,9 +2,9 @@
   "gameId": 338,
   "name": "RadRed.Species.manectric",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/310.png",
-    "normal": "pokelink-community:/radred/assets/sprites/310.png",
-    "party": "pokelink-community:/radred/assets/sprites/310.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/310.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/310.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/310.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 563,
   "name": "RadRed.Species.liepard",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/510.png",
-    "normal": "pokelink-community:/radred/assets/sprites/510.png",
-    "party": "pokelink-community:/radred/assets/sprites/510.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/510.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/510.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/510.gif"
   },
   "baseStats": {
     "hp": 64,

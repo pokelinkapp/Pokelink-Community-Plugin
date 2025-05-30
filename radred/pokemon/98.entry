@@ -2,9 +2,9 @@
   "gameId": 98,
   "name": "RadRed.Species.krabby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/98.png",
-    "normal": "pokelink-community:/radred/assets/sprites/98.png",
-    "party": "pokelink-community:/radred/assets/sprites/98.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/98.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/98.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/98.gif"
   },
   "baseStats": {
     "hp": 30,

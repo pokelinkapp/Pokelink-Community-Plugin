@@ -2,9 +2,9 @@
   "gameId": 605,
   "name": "RadRed.Species.krokorok",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/552.png",
-    "normal": "pokelink-community:/radred/assets/sprites/552.png",
-    "party": "pokelink-community:/radred/assets/sprites/552.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/552.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/552.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/552.gif"
   },
   "baseStats": {
     "hp": 60,

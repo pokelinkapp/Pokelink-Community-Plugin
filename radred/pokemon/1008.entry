@@ -2,9 +2,9 @@
   "gameId": 1194,
   "name": "RadRed.Species.miraidon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1008.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1008.png",
-    "party": "pokelink-community:/radred/assets/sprites/1008.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1008.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1008.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1008.gif"
   },
   "baseStats": {
     "hp": 100,

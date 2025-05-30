@@ -2,9 +2,9 @@
   "gameId": 1126,
   "name": "RadRed.Species.drednaw",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/834.png",
-    "normal": "pokelink-community:/radred/assets/sprites/834.png",
-    "party": "pokelink-community:/radred/assets/sprites/834.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/834.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/834.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/834.gif"
   },
   "baseStats": {
     "hp": 90,

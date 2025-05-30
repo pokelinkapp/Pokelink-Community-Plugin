@@ -4,9 +4,9 @@
   "name": "RadRed.Species.golem",
   "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/76.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/76.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/76.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/76.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/76.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/76-1.gif"
   },
   "baseStats": {
     "hp": 80,

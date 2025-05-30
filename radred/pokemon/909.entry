@@ -2,9 +2,9 @@
   "gameId": 924,
   "name": "RadRed.Species.fuecoco",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/909.png",
-    "normal": "pokelink-community:/radred/assets/sprites/909.png",
-    "party": "pokelink-community:/radred/assets/sprites/909.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/909.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/909.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/909.gif"
   },
   "baseStats": {
     "hp": 67,

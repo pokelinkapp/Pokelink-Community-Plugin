@@ -2,9 +2,9 @@
   "gameId": 1243,
   "name": "RadRed.Species.brute_bonnet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/986.png",
-    "normal": "pokelink-community:/radred/assets/sprites/986.png",
-    "party": "pokelink-community:/radred/assets/sprites/986.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/986.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/986.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/986.gif"
   },
   "baseStats": {
     "hp": 111,

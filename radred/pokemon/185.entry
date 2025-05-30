@@ -2,9 +2,9 @@
   "gameId": 185,
   "name": "RadRed.Species.sudowoodo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/185.png",
-    "normal": "pokelink-community:/radred/assets/sprites/185.png",
-    "party": "pokelink-community:/radred/assets/sprites/185.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/185.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/185.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/185.gif"
   },
   "baseStats": {
     "hp": 90,

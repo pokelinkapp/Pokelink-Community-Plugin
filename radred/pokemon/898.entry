@@ -2,9 +2,9 @@
   "gameId": 1187,
   "name": "RadRed.Species.calyrex",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/898.png",
-    "normal": "pokelink-community:/radred/assets/sprites/898.png",
-    "party": "pokelink-community:/radred/assets/sprites/898.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/898.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/898.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/898.gif"
   },
   "baseStats": {
     "hp": 100,

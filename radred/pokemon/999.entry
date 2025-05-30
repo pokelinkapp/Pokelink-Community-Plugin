@@ -2,9 +2,9 @@
   "gameId": 850,
   "name": "RadRed.Species.gimmighoul",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/999.png",
-    "normal": "pokelink-community:/radred/assets/sprites/999.png",
-    "party": "pokelink-community:/radred/assets/sprites/999.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/999.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/999.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/999.gif"
   },
   "baseStats": {
     "hp": 45,

@@ -2,9 +2,9 @@
   "gameId": 590,
   "name": "RadRed.Species.seismitoad",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/537.png",
-    "normal": "pokelink-community:/radred/assets/sprites/537.png",
-    "party": "pokelink-community:/radred/assets/sprites/537.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/537.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/537.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/537.gif"
   },
   "baseStats": {
     "hp": 105,

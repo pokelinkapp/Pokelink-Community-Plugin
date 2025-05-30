@@ -2,9 +2,9 @@
   "gameId": 666,
   "name": "RadRed.Species.cubchoo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/613.png",
-    "normal": "pokelink-community:/radred/assets/sprites/613.png",
-    "party": "pokelink-community:/radred/assets/sprites/613.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/613.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/613.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/613.gif"
   },
   "baseStats": {
     "hp": 55,

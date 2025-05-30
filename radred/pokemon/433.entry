@@ -2,9 +2,9 @@
   "gameId": 486,
   "name": "RadRed.Species.chingling",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/433.png",
-    "normal": "pokelink-community:/radred/assets/sprites/433.png",
-    "party": "pokelink-community:/radred/assets/sprites/433.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/433.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/433.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/433.gif"
   },
   "baseStats": {
     "hp": 45,

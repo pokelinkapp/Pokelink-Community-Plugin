@@ -2,9 +2,9 @@
   "gameId": 217,
   "name": "RadRed.Species.ursaring",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/217.png",
-    "normal": "pokelink-community:/radred/assets/sprites/217.png",
-    "party": "pokelink-community:/radred/assets/sprites/217.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/217.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/217.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/217.gif"
   },
   "baseStats": {
     "hp": 90,

@@ -2,9 +2,9 @@
   "gameId": 959,
   "name": "RadRed.Species.cutiefly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/742.png",
-    "normal": "pokelink-community:/radred/assets/sprites/742.png",
-    "party": "pokelink-community:/radred/assets/sprites/742.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/742.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/742.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/742.gif"
   },
   "baseStats": {
     "hp": 40,

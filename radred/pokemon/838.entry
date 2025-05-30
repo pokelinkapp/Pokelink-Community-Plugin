@@ -2,9 +2,9 @@
   "gameId": 1130,
   "name": "RadRed.Species.carkol",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/838.png",
-    "normal": "pokelink-community:/radred/assets/sprites/838.png",
-    "party": "pokelink-community:/radred/assets/sprites/838.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/838.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/838.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/838.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 198,
   "name": "RadRed.Species.murkrow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/198.png",
-    "normal": "pokelink-community:/radred/assets/sprites/198.png",
-    "party": "pokelink-community:/radred/assets/sprites/198.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/198.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/198.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/198.gif"
   },
   "baseStats": {
     "hp": 60,

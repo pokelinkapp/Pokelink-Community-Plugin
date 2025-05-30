@@ -2,9 +2,9 @@
   "gameId": 1189,
   "name": "RadRed.Species.regidrago",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/895.png",
-    "normal": "pokelink-community:/radred/assets/sprites/895.png",
-    "party": "pokelink-community:/radred/assets/sprites/895.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/895.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/895.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/895.gif"
   },
   "baseStats": {
     "hp": 200,

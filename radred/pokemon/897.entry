@@ -2,9 +2,9 @@
   "gameId": 1266,
   "name": "RadRed.Species.spectrier",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/897.png",
-    "normal": "pokelink-community:/radred/assets/sprites/897.png",
-    "party": "pokelink-community:/radred/assets/sprites/897.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/897.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/897.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/897.gif"
   },
   "baseStats": {
     "hp": 100,

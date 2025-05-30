@@ -2,9 +2,9 @@
   "gameId": 149,
   "name": "RadRed.Species.dragonite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/149.png",
-    "normal": "pokelink-community:/radred/assets/sprites/149.png",
-    "party": "pokelink-community:/radred/assets/sprites/149.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/149.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/149.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/149.gif"
   },
   "baseStats": {
     "hp": 91,

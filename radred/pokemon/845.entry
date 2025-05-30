@@ -2,9 +2,9 @@
   "gameId": 1137,
   "name": "RadRed.Species.cramorant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/845.png",
-    "normal": "pokelink-community:/radred/assets/sprites/845.png",
-    "party": "pokelink-community:/radred/assets/sprites/845.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/845.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/845.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/845.gif"
   },
   "baseStats": {
     "hp": 85,

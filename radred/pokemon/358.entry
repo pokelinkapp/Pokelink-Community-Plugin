@@ -2,9 +2,9 @@
   "gameId": 411,
   "name": "RadRed.Species.chimecho",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/358.png",
-    "normal": "pokelink-community:/radred/assets/sprites/358.png",
-    "party": "pokelink-community:/radred/assets/sprites/358.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/358.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/358.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/358.gif"
   },
   "baseStats": {
     "hp": 90,

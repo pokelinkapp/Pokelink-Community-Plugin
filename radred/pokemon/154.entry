@@ -2,9 +2,9 @@
   "gameId": 154,
   "name": "RadRed.Species.meganium",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/154.png",
-    "normal": "pokelink-community:/radred/assets/sprites/154.png",
-    "party": "pokelink-community:/radred/assets/sprites/154.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/154.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/154.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/154.gif"
   },
   "baseStats": {
     "hp": 80,

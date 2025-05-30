@@ -2,9 +2,9 @@
   "gameId": 332,
   "name": "RadRed.Species.trapinch",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/328.png",
-    "normal": "pokelink-community:/radred/assets/sprites/328.png",
-    "party": "pokelink-community:/radred/assets/sprites/328.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/328.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/328.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/328.gif"
   },
   "baseStats": {
     "hp": 45,

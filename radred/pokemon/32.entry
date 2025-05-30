@@ -2,9 +2,9 @@
   "gameId": 32,
   "name": "RadRed.Species.nidoran_m",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/32.png",
-    "normal": "pokelink-community:/radred/assets/sprites/32.png",
-    "party": "pokelink-community:/radred/assets/sprites/32.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/32.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/32.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/32.gif"
   },
   "baseStats": {
     "hp": 46,

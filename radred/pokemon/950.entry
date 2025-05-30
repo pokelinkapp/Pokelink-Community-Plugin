@@ -2,9 +2,9 @@
   "gameId": 706,
   "name": "RadRed.Species.klawf",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/950.png",
-    "normal": "pokelink-community:/radred/assets/sprites/950.png",
-    "party": "pokelink-community:/radred/assets/sprites/950.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/950.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/950.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/950.gif"
   },
   "baseStats": {
     "hp": 70,

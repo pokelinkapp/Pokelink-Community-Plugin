@@ -2,9 +2,9 @@
   "gameId": 1347,
   "name": "RadRed.Species.fidough",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/926.png",
-    "normal": "pokelink-community:/radred/assets/sprites/926.png",
-    "party": "pokelink-community:/radred/assets/sprites/926.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/926.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/926.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/926.gif"
   },
   "baseStats": {
     "hp": 37,

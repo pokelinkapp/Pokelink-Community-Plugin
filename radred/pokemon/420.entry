@@ -2,9 +2,9 @@
   "gameId": 473,
   "name": "RadRed.Species.cherubi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/420.png",
-    "normal": "pokelink-community:/radred/assets/sprites/420.png",
-    "party": "pokelink-community:/radred/assets/sprites/420.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/420.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/420.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/420.gif"
   },
   "baseStats": {
     "hp": 45,

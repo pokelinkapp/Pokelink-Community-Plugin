@@ -2,9 +2,9 @@
   "gameId": 398,
   "name": "RadRed.Species.beldum",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/374.png",
-    "normal": "pokelink-community:/radred/assets/sprites/374.png",
-    "party": "pokelink-community:/radred/assets/sprites/374.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/374.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/374.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/374.gif"
   },
   "baseStats": {
     "hp": 40,

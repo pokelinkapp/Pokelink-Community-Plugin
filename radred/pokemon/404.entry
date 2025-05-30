@@ -2,9 +2,9 @@
   "gameId": 457,
   "name": "RadRed.Species.luxio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/404.png",
-    "normal": "pokelink-community:/radred/assets/sprites/404.png",
-    "party": "pokelink-community:/radred/assets/sprites/404.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/404.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/404.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/404.gif"
   },
   "baseStats": {
     "hp": 60,

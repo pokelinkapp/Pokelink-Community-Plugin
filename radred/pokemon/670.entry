@@ -2,9 +2,9 @@
   "gameId": 778,
   "name": "RadRed.Species.floette",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/670.png",
-    "normal": "pokelink-community:/radred/assets/sprites/670.png",
-    "party": "pokelink-community:/radred/assets/sprites/670.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/670.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/670.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/670.gif"
   },
   "baseStats": {
     "hp": 54,

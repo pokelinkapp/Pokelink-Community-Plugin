@@ -2,9 +2,9 @@
   "gameId": 1150,
   "name": "RadRed.Species.hatterene",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/858.png",
-    "normal": "pokelink-community:/radred/assets/sprites/858.png",
-    "party": "pokelink-community:/radred/assets/sprites/858.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/858.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/858.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/858.gif"
   },
   "baseStats": {
     "hp": 57,

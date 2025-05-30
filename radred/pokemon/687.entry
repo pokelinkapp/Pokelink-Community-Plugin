@@ -2,9 +2,9 @@
   "gameId": 795,
   "name": "RadRed.Species.malamar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/687.png",
-    "normal": "pokelink-community:/radred/assets/sprites/687.png",
-    "party": "pokelink-community:/radred/assets/sprites/687.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/687.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/687.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/687.gif"
   },
   "baseStats": {
     "hp": 86,

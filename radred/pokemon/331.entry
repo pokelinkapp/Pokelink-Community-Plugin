@@ -2,9 +2,9 @@
   "gameId": 344,
   "name": "RadRed.Species.cacnea",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/331.png",
-    "normal": "pokelink-community:/radred/assets/sprites/331.png",
-    "party": "pokelink-community:/radred/assets/sprites/331.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/331.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/331.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/331.gif"
   },
   "baseStats": {
     "hp": 50,

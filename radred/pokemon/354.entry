@@ -2,9 +2,9 @@
   "gameId": 378,
   "name": "RadRed.Species.banette",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/354.png",
-    "normal": "pokelink-community:/radred/assets/sprites/354.png",
-    "party": "pokelink-community:/radred/assets/sprites/354.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/354.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/354.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/354.gif"
   },
   "baseStats": {
     "hp": 64,

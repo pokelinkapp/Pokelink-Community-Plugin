@@ -2,9 +2,9 @@
   "gameId": 443,
   "name": "RadRed.Species.chimchar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/390.png",
-    "normal": "pokelink-community:/radred/assets/sprites/390.png",
-    "party": "pokelink-community:/radred/assets/sprites/390.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/390.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/390.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/390.gif"
   },
   "baseStats": {
     "hp": 44,

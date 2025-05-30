@@ -2,9 +2,9 @@
   "gameId": 813,
   "name": "RadRed.Species.sliggoo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/705.png",
-    "normal": "pokelink-community:/radred/assets/sprites/705.png",
-    "party": "pokelink-community:/radred/assets/sprites/705.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/705.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/705.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/705.gif"
   },
   "baseStats": {
     "hp": 68,

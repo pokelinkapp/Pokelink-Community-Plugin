@@ -2,9 +2,9 @@
   "gameId": 180,
   "name": "RadRed.Species.flaaffy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/180.png",
-    "normal": "pokelink-community:/radred/assets/sprites/180.png",
-    "party": "pokelink-community:/radred/assets/sprites/180.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/180.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/180.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/180.gif"
   },
   "baseStats": {
     "hp": 70,

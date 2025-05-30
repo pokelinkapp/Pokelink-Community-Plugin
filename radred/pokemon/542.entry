@@ -2,9 +2,9 @@
   "gameId": 595,
   "name": "RadRed.Species.leavanny",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/542.png",
-    "normal": "pokelink-community:/radred/assets/sprites/542.png",
-    "party": "pokelink-community:/radred/assets/sprites/542.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/542.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/542.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/542.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 1357,
   "name": "RadRed.Species.ogerpon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1017.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1017.png",
-    "party": "pokelink-community:/radred/assets/sprites/1017.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1017.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1017.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1017.gif"
   },
   "baseStats": {
     "hp": 80,

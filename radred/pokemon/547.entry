@@ -2,9 +2,9 @@
   "gameId": 600,
   "name": "RadRed.Species.whimsicott",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/547.png",
-    "normal": "pokelink-community:/radred/assets/sprites/547.png",
-    "party": "pokelink-community:/radred/assets/sprites/547.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/547.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/547.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/547.gif"
   },
   "baseStats": {
     "hp": 60,

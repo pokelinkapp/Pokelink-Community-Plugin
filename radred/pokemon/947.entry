@@ -2,9 +2,9 @@
   "gameId": 1352,
   "name": "RadRed.Species.brambleghast",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/947.png",
-    "normal": "pokelink-community:/radred/assets/sprites/947.png",
-    "party": "pokelink-community:/radred/assets/sprites/947.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/947.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/947.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/947.gif"
   },
   "baseStats": {
     "hp": 55,

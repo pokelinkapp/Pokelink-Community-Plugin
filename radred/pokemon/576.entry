@@ -2,9 +2,9 @@
   "gameId": 629,
   "name": "RadRed.Species.gothitelle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/576.png",
-    "normal": "pokelink-community:/radred/assets/sprites/576.png",
-    "party": "pokelink-community:/radred/assets/sprites/576.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/576.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/576.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/576.gif"
   },
   "baseStats": {
     "hp": 70,

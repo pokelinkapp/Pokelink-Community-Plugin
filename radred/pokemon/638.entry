@@ -2,9 +2,9 @@
   "gameId": 691,
   "name": "RadRed.Species.cobalion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/638.png",
-    "normal": "pokelink-community:/radred/assets/sprites/638.png",
-    "party": "pokelink-community:/radred/assets/sprites/638.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/638.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/638.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/638.gif"
   },
   "baseStats": {
     "hp": 91,

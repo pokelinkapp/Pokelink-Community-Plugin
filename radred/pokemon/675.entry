@@ -2,9 +2,9 @@
   "gameId": 783,
   "name": "RadRed.Species.pangoro",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/675.png",
-    "normal": "pokelink-community:/radred/assets/sprites/675.png",
-    "party": "pokelink-community:/radred/assets/sprites/675.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/675.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/675.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/675.gif"
   },
   "baseStats": {
     "hp": 95,

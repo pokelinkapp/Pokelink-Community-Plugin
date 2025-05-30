@@ -2,9 +2,9 @@
   "gameId": 490,
   "name": "RadRed.Species.bronzong",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/437.png",
-    "normal": "pokelink-community:/radred/assets/sprites/437.png",
-    "party": "pokelink-community:/radred/assets/sprites/437.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/437.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/437.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/437.gif"
   },
   "baseStats": {
     "hp": 67,

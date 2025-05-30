@@ -2,9 +2,9 @@
   "gameId": 39,
   "name": "RadRed.Species.jigglypuff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/39.png",
-    "normal": "pokelink-community:/radred/assets/sprites/39.png",
-    "party": "pokelink-community:/radred/assets/sprites/39.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/39.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/39.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/39.gif"
   },
   "baseStats": {
     "hp": 115,

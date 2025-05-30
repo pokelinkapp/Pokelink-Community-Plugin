@@ -2,9 +2,9 @@
   "gameId": 167,
   "name": "RadRed.Species.spinarak",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/167.png",
-    "normal": "pokelink-community:/radred/assets/sprites/167.png",
-    "party": "pokelink-community:/radred/assets/sprites/167.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/167.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/167.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/167.gif"
   },
   "baseStats": {
     "hp": 40,

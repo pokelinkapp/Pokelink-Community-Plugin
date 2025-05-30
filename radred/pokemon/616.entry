@@ -2,9 +2,9 @@
   "gameId": 669,
   "name": "RadRed.Species.shelmet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/616.png",
-    "normal": "pokelink-community:/radred/assets/sprites/616.png",
-    "party": "pokelink-community:/radred/assets/sprites/616.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/616.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/616.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/616.gif"
   },
   "baseStats": {
     "hp": 50,

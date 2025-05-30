@@ -4,9 +4,9 @@
   "name": "RadRed.Species.silvally",
   "formName": "RadRed.Forms.grass",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/773.11.png",
-    "normal": "pokelink-community:/radred/assets/sprites/773.11.png",
-    "party": "pokelink-community:/radred/assets/sprites/773.11.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.11.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/773.11.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773-11.gif"
   },
   "baseStats": {
     "hp": 100,

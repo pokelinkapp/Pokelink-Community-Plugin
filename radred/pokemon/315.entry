@@ -2,9 +2,9 @@
   "gameId": 363,
   "name": "RadRed.Species.roselia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/315.png",
-    "normal": "pokelink-community:/radred/assets/sprites/315.png",
-    "party": "pokelink-community:/radred/assets/sprites/315.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/315.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/315.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/315.gif"
   },
   "baseStats": {
     "hp": 50,

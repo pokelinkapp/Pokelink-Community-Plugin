@@ -2,9 +2,9 @@
   "gameId": 232,
   "name": "RadRed.Species.donphan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/232.png",
-    "normal": "pokelink-community:/radred/assets/sprites/232.png",
-    "party": "pokelink-community:/radred/assets/sprites/232.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/232.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/232.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/232.gif"
   },
   "baseStats": {
     "hp": 90,

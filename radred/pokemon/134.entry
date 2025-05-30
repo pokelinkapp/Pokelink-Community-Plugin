@@ -2,9 +2,9 @@
   "gameId": 134,
   "name": "RadRed.Species.vaporeon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/134.png",
-    "normal": "pokelink-community:/radred/assets/sprites/134.png",
-    "party": "pokelink-community:/radred/assets/sprites/134.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/134.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/134.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/134.gif"
   },
   "baseStats": {
     "hp": 130,

@@ -2,9 +2,9 @@
   "gameId": 1245,
   "name": "RadRed.Species.screamtail",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/985.png",
-    "normal": "pokelink-community:/radred/assets/sprites/985.png",
-    "party": "pokelink-community:/radred/assets/sprites/985.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/985.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/985.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/985.gif"
   },
   "baseStats": {
     "hp": 115,

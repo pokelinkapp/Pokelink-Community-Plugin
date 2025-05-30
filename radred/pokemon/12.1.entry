@@ -4,9 +4,9 @@
   "name": "RadRed.Species.butterfree",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/12.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/12.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/12.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/12.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/12.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/12-1.gif"
   },
   "baseStats": {
     "hp": 60,

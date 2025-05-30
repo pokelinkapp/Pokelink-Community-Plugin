@@ -2,9 +2,9 @@
   "gameId": 163,
   "name": "RadRed.Species.hoothoot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/163.png",
-    "normal": "pokelink-community:/radred/assets/sprites/163.png",
-    "party": "pokelink-community:/radred/assets/sprites/163.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/163.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/163.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/163.gif"
   },
   "baseStats": {
     "hp": 60,

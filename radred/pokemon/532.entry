@@ -2,9 +2,9 @@
   "gameId": 585,
   "name": "RadRed.Species.timburr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/532.png",
-    "normal": "pokelink-community:/radred/assets/sprites/532.png",
-    "party": "pokelink-community:/radred/assets/sprites/532.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/532.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/532.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/532.gif"
   },
   "baseStats": {
     "hp": 75,

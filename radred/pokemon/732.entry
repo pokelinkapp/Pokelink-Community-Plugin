@@ -2,9 +2,9 @@
   "gameId": 949,
   "name": "RadRed.Species.trumbeak",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/732.png",
-    "normal": "pokelink-community:/radred/assets/sprites/732.png",
-    "party": "pokelink-community:/radred/assets/sprites/732.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/732.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/732.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/732.gif"
   },
   "baseStats": {
     "hp": 55,

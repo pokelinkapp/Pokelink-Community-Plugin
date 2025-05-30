@@ -2,9 +2,9 @@
   "gameId": 93,
   "name": "RadRed.Species.haunter",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/93.png",
-    "normal": "pokelink-community:/radred/assets/sprites/93.png",
-    "party": "pokelink-community:/radred/assets/sprites/93.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/93.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/93.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/93.gif"
   },
   "baseStats": {
     "hp": 45,

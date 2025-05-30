@@ -2,9 +2,9 @@
   "gameId": 78,
   "name": "RadRed.Species.rapidash",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/78.png",
-    "normal": "pokelink-community:/radred/assets/sprites/78.png",
-    "party": "pokelink-community:/radred/assets/sprites/78.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/78.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/78.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/78.gif"
   },
   "baseStats": {
     "hp": 65,

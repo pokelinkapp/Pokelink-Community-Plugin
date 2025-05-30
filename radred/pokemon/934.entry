@@ -2,9 +2,9 @@
   "gameId": 1342,
   "name": "RadRed.Species.garganacl",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/934.png",
-    "normal": "pokelink-community:/radred/assets/sprites/934.png",
-    "party": "pokelink-community:/radred/assets/sprites/934.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/934.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/934.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/934.gif"
   },
   "baseStats": {
     "hp": 100,

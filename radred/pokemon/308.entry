@@ -2,9 +2,9 @@
   "gameId": 357,
   "name": "RadRed.Species.medicham",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/308.png",
-    "normal": "pokelink-community:/radred/assets/sprites/308.png",
-    "party": "pokelink-community:/radred/assets/sprites/308.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/308.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/308.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/308.gif"
   },
   "baseStats": {
     "hp": 60,

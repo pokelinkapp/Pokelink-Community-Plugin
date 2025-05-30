@@ -2,9 +2,9 @@
   "gameId": 1325,
   "name": "RadRed.Species.dolliv",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/929.png",
-    "normal": "pokelink-community:/radred/assets/sprites/929.png",
-    "party": "pokelink-community:/radred/assets/sprites/929.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/929.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/929.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/929.gif"
   },
   "baseStats": {
     "hp": 52,

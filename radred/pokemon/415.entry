@@ -2,9 +2,9 @@
   "gameId": 468,
   "name": "RadRed.Species.combee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/415.png",
-    "normal": "pokelink-community:/radred/assets/sprites/415.png",
-    "party": "pokelink-community:/radred/assets/sprites/415.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/415.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/415.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/415.gif"
   },
   "baseStats": {
     "hp": 30,

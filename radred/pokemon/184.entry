@@ -2,9 +2,9 @@
   "gameId": 184,
   "name": "RadRed.Species.azumarill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/184.png",
-    "normal": "pokelink-community:/radred/assets/sprites/184.png",
-    "party": "pokelink-community:/radred/assets/sprites/184.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/184.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/184.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/184.gif"
   },
   "baseStats": {
     "hp": 100,

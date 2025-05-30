@@ -2,9 +2,9 @@
   "gameId": 188,
   "name": "RadRed.Species.skiploom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/188.png",
-    "normal": "pokelink-community:/radred/assets/sprites/188.png",
-    "party": "pokelink-community:/radred/assets/sprites/188.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/188.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/188.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/188.gif"
   },
   "baseStats": {
     "hp": 55,

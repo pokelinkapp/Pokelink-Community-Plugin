@@ -2,9 +2,9 @@
   "gameId": 1366,
   "name": "RadRed.Species.okidogi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1014.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1014.png",
-    "party": "pokelink-community:/radred/assets/sprites/1014.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1014.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1014.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1014.gif"
   },
   "baseStats": {
     "hp": 88,

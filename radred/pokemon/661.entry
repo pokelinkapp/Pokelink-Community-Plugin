@@ -2,9 +2,9 @@
   "gameId": 769,
   "name": "RadRed.Species.fletchling",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/661.png",
-    "normal": "pokelink-community:/radred/assets/sprites/661.png",
-    "party": "pokelink-community:/radred/assets/sprites/661.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/661.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/661.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/661.gif"
   },
   "baseStats": {
     "hp": 45,

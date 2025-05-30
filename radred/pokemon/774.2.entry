@@ -3,9 +3,9 @@
   "gameId": 1065,
   "name": "RadRed.Species.minior",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/774.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/774.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/774.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/774.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/774.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/774-2.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 177,
   "name": "RadRed.Species.natu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/177.png",
-    "normal": "pokelink-community:/radred/assets/sprites/177.png",
-    "party": "pokelink-community:/radred/assets/sprites/177.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/177.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/177.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/177.gif"
   },
   "baseStats": {
     "hp": 40,

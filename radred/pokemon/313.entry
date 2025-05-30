@@ -2,9 +2,9 @@
   "gameId": 386,
   "name": "RadRed.Species.volbeat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/313.png",
-    "normal": "pokelink-community:/radred/assets/sprites/313.png",
-    "party": "pokelink-community:/radred/assets/sprites/313.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/313.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/313.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/313.gif"
   },
   "baseStats": {
     "hp": 85,

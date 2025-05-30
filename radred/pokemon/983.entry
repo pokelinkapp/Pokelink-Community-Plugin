@@ -2,9 +2,9 @@
   "gameId": 936,
   "name": "RadRed.Species.kingambit",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/983.png",
-    "normal": "pokelink-community:/radred/assets/sprites/983.png",
-    "party": "pokelink-community:/radred/assets/sprites/983.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/983.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/983.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/983.gif"
   },
   "baseStats": {
     "hp": 100,

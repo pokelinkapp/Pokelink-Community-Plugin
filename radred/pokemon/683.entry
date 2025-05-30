@@ -2,9 +2,9 @@
   "gameId": 791,
   "name": "RadRed.Species.aromatisse",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/683.png",
-    "normal": "pokelink-community:/radred/assets/sprites/683.png",
-    "party": "pokelink-community:/radred/assets/sprites/683.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/683.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/683.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/683.gif"
   },
   "baseStats": {
     "hp": 101,

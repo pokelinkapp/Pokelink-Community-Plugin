@@ -2,9 +2,9 @@
   "gameId": 681,
   "name": "RadRed.Species.braviary",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/628.png",
-    "normal": "pokelink-community:/radred/assets/sprites/628.png",
-    "party": "pokelink-community:/radred/assets/sprites/628.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/628.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/628.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/628.gif"
   },
   "baseStats": {
     "hp": 100,

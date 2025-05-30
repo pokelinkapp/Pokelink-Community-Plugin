@@ -2,9 +2,9 @@
   "gameId": 383,
   "name": "RadRed.Species.lairon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/305.png",
-    "normal": "pokelink-community:/radred/assets/sprites/305.png",
-    "party": "pokelink-community:/radred/assets/sprites/305.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/305.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/305.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/305.gif"
   },
   "baseStats": {
     "hp": 60,

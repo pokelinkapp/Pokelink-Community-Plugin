@@ -2,9 +2,9 @@
   "gameId": 1074,
   "name": "RadRed.Species.poipole",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/803.png",
-    "normal": "pokelink-community:/radred/assets/sprites/803.png",
-    "party": "pokelink-community:/radred/assets/sprites/803.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/803.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/803.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/803.gif"
   },
   "baseStats": {
     "hp": 67,

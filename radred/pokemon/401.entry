@@ -2,9 +2,9 @@
   "gameId": 454,
   "name": "RadRed.Species.kricketot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/401.png",
-    "normal": "pokelink-community:/radred/assets/sprites/401.png",
-    "party": "pokelink-community:/radred/assets/sprites/401.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/401.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/401.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/401.gif"
   },
   "baseStats": {
     "hp": 37,

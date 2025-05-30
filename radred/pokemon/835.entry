@@ -2,9 +2,9 @@
   "gameId": 1127,
   "name": "RadRed.Species.yamper",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/835.png",
-    "normal": "pokelink-community:/radred/assets/sprites/835.png",
-    "party": "pokelink-community:/radred/assets/sprites/835.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/835.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/835.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/835.gif"
   },
   "baseStats": {
     "hp": 59,

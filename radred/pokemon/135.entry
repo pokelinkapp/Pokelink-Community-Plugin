@@ -2,9 +2,9 @@
   "gameId": 135,
   "name": "RadRed.Species.jolteon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/135.png",
-    "normal": "pokelink-community:/radred/assets/sprites/135.png",
-    "party": "pokelink-community:/radred/assets/sprites/135.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/135.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/135.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/135.gif"
   },
   "baseStats": {
     "hp": 65,

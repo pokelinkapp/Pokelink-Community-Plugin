@@ -2,9 +2,9 @@
   "gameId": 1168,
   "name": "RadRed.Species.indeedee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/876.png",
-    "normal": "pokelink-community:/radred/assets/sprites/876.png",
-    "party": "pokelink-community:/radred/assets/sprites/876.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/876.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/876.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/876.gif"
   },
   "baseStats": {
     "hp": 60,

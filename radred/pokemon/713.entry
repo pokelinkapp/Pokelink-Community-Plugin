@@ -2,9 +2,9 @@
   "gameId": 821,
   "name": "RadRed.Species.avalugg",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/713.png",
-    "normal": "pokelink-community:/radred/assets/sprites/713.png",
-    "party": "pokelink-community:/radred/assets/sprites/713.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/713.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/713.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/713.gif"
   },
   "baseStats": {
     "hp": 95,

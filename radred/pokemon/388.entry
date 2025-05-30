@@ -2,9 +2,9 @@
   "gameId": 441,
   "name": "RadRed.Species.grotle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/388.png",
-    "normal": "pokelink-community:/radred/assets/sprites/388.png",
-    "party": "pokelink-community:/radred/assets/sprites/388.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/388.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/388.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/388.gif"
   },
   "baseStats": {
     "hp": 75,

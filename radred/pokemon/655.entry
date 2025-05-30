@@ -2,9 +2,9 @@
   "gameId": 763,
   "name": "RadRed.Species.delphox",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/655.png",
-    "normal": "pokelink-community:/radred/assets/sprites/655.png",
-    "party": "pokelink-community:/radred/assets/sprites/655.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/655.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/655.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/655.gif"
   },
   "baseStats": {
     "hp": 75,

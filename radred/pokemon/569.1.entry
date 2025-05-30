@@ -4,9 +4,9 @@
   "name": "RadRed.Species.garbodor",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/569.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/569.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/569.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/569.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/569.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/569-1.gif"
   },
   "baseStats": {
     "hp": 80,

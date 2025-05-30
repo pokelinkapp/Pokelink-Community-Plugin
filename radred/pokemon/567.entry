@@ -2,9 +2,9 @@
   "gameId": 620,
   "name": "RadRed.Species.archeops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/567.png",
-    "normal": "pokelink-community:/radred/assets/sprites/567.png",
-    "party": "pokelink-community:/radred/assets/sprites/567.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/567.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/567.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/567.gif"
   },
   "baseStats": {
     "hp": 75,

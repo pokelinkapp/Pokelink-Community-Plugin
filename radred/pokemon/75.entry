@@ -2,9 +2,9 @@
   "gameId": 75,
   "name": "RadRed.Species.graveler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/75.png",
-    "normal": "pokelink-community:/radred/assets/sprites/75.png",
-    "party": "pokelink-community:/radred/assets/sprites/75.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/75.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/75.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/75.gif"
   },
   "baseStats": {
     "hp": 55,

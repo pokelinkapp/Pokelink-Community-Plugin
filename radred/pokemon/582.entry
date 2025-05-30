@@ -2,9 +2,9 @@
   "gameId": 635,
   "name": "RadRed.Species.vanillite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/582.png",
-    "normal": "pokelink-community:/radred/assets/sprites/582.png",
-    "party": "pokelink-community:/radred/assets/sprites/582.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/582.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/582.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/582.gif"
   },
   "baseStats": {
     "hp": 36,

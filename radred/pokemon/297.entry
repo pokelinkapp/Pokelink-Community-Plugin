@@ -2,9 +2,9 @@
   "gameId": 336,
   "name": "RadRed.Species.hariyama",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/297.png",
-    "normal": "pokelink-community:/radred/assets/sprites/297.png",
-    "party": "pokelink-community:/radred/assets/sprites/297.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/297.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/297.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/297.gif"
   },
   "baseStats": {
     "hp": 144,

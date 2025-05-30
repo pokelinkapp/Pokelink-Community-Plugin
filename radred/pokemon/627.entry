@@ -2,9 +2,9 @@
   "gameId": 680,
   "name": "RadRed.Species.rufflet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/627.png",
-    "normal": "pokelink-community:/radred/assets/sprites/627.png",
-    "party": "pokelink-community:/radred/assets/sprites/627.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/627.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/627.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/627.gif"
   },
   "baseStats": {
     "hp": 70,

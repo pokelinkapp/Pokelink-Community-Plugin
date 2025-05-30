@@ -2,9 +2,9 @@
   "gameId": 129,
   "name": "RadRed.Species.magikarp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/129.png",
-    "normal": "pokelink-community:/radred/assets/sprites/129.png",
-    "party": "pokelink-community:/radred/assets/sprites/129.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/129.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/129.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/129.gif"
   },
   "baseStats": {
     "hp": 20,

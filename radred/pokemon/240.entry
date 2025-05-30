@@ -2,9 +2,9 @@
   "gameId": 240,
   "name": "RadRed.Species.magby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/240.png",
-    "normal": "pokelink-community:/radred/assets/sprites/240.png",
-    "party": "pokelink-community:/radred/assets/sprites/240.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/240.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/240.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/240.gif"
   },
   "baseStats": {
     "hp": 45,

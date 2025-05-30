@@ -2,9 +2,9 @@
   "gameId": 835,
   "name": "RadRed.Species.varoom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/965.png",
-    "normal": "pokelink-community:/radred/assets/sprites/965.png",
-    "party": "pokelink-community:/radred/assets/sprites/965.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/965.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/965.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/965.gif"
   },
   "baseStats": {
     "hp": 45,

@@ -2,9 +2,9 @@
   "gameId": 1157,
   "name": "RadRed.Species.sirfetchd",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/865.png",
-    "normal": "pokelink-community:/radred/assets/sprites/865.png",
-    "party": "pokelink-community:/radred/assets/sprites/865.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/865.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/865.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/865.gif"
   },
   "baseStats": {
     "hp": 82,

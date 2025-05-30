@@ -2,9 +2,9 @@
   "gameId": 251,
   "name": "RadRed.Species.celebi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/251.png",
-    "normal": "pokelink-community:/radred/assets/sprites/251.png",
-    "party": "pokelink-community:/radred/assets/sprites/251.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/251.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/251.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/251.gif"
   },
   "baseStats": {
     "hp": 100,

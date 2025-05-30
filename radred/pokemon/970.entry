@@ -2,9 +2,9 @@
   "gameId": 1344,
   "name": "RadRed.Species.glimmora",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/970.png",
-    "normal": "pokelink-community:/radred/assets/sprites/970.png",
-    "party": "pokelink-community:/radred/assets/sprites/970.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/970.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/970.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/970.gif"
   },
   "baseStats": {
     "hp": 83,

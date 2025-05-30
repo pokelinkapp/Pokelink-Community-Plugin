@@ -2,9 +2,9 @@
   "gameId": 1361,
   "name": "RadRed.Species.poltchageist",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1012.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1012.png",
-    "party": "pokelink-community:/radred/assets/sprites/1012.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1012.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1012.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1012.gif"
   },
   "baseStats": {
     "hp": 40,

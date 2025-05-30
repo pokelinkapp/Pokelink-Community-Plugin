@@ -2,9 +2,9 @@
   "gameId": 477,
   "name": "RadRed.Species.ambipom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/424.png",
-    "normal": "pokelink-community:/radred/assets/sprites/424.png",
-    "party": "pokelink-community:/radred/assets/sprites/424.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/424.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/424.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/424.gif"
   },
   "baseStats": {
     "hp": 75,

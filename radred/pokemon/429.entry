@@ -2,9 +2,9 @@
   "gameId": 482,
   "name": "RadRed.Species.mismagius",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/429.png",
-    "normal": "pokelink-community:/radred/assets/sprites/429.png",
-    "party": "pokelink-community:/radred/assets/sprites/429.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/429.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/429.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/429.gif"
   },
   "baseStats": {
     "hp": 70,

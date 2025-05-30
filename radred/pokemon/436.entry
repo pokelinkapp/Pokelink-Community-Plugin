@@ -2,9 +2,9 @@
   "gameId": 489,
   "name": "RadRed.Species.bronzor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/436.png",
-    "normal": "pokelink-community:/radred/assets/sprites/436.png",
-    "party": "pokelink-community:/radred/assets/sprites/436.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/436.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/436.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/436.gif"
   },
   "baseStats": {
     "hp": 57,

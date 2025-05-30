@@ -2,9 +2,9 @@
   "gameId": 181,
   "name": "RadRed.Species.ampharos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/181.png",
-    "normal": "pokelink-community:/radred/assets/sprites/181.png",
-    "party": "pokelink-community:/radred/assets/sprites/181.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/181.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/181.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/181.gif"
   },
   "baseStats": {
     "hp": 90,

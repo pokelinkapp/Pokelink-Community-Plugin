@@ -2,9 +2,9 @@
   "gameId": 651,
   "name": "RadRed.Species.ferrothorn",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/598.png",
-    "normal": "pokelink-community:/radred/assets/sprites/598.png",
-    "party": "pokelink-community:/radred/assets/sprites/598.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/598.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/598.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/598.gif"
   },
   "baseStats": {
     "hp": 74,

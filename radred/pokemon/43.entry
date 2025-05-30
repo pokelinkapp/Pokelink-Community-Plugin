@@ -2,9 +2,9 @@
   "gameId": 43,
   "name": "RadRed.Species.oddish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/43.png",
-    "normal": "pokelink-community:/radred/assets/sprites/43.png",
-    "party": "pokelink-community:/radred/assets/sprites/43.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/43.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/43.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/43.gif"
   },
   "baseStats": {
     "hp": 45,

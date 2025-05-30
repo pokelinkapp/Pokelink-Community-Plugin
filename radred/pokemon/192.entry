@@ -2,9 +2,9 @@
   "gameId": 192,
   "name": "RadRed.Species.sunflora",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/192.png",
-    "normal": "pokelink-community:/radred/assets/sprites/192.png",
-    "party": "pokelink-community:/radred/assets/sprites/192.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/192.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/192.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/192.gif"
   },
   "baseStats": {
     "hp": 95,

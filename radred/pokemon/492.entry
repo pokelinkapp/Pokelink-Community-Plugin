@@ -2,9 +2,9 @@
   "gameId": 545,
   "name": "RadRed.Species.shaymin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/492.png",
-    "normal": "pokelink-community:/radred/assets/sprites/492.png",
-    "party": "pokelink-community:/radred/assets/sprites/492.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/492.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/492.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/492.gif"
   },
   "baseStats": {
     "hp": 100,

@@ -2,9 +2,9 @@
   "gameId": 1135,
   "name": "RadRed.Species.silicobra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/843.png",
-    "normal": "pokelink-community:/radred/assets/sprites/843.png",
-    "party": "pokelink-community:/radred/assets/sprites/843.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/843.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/843.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/843.gif"
   },
   "baseStats": {
     "hp": 52,

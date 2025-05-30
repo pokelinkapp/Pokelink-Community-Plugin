@@ -2,9 +2,9 @@
   "gameId": 1132,
   "name": "RadRed.Species.applin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/840.png",
-    "normal": "pokelink-community:/radred/assets/sprites/840.png",
-    "party": "pokelink-community:/radred/assets/sprites/840.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/840.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/840.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/840.gif"
   },
   "baseStats": {
     "hp": 40,

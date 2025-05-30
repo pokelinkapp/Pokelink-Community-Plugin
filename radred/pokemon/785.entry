@@ -2,9 +2,9 @@
   "gameId": 1002,
   "name": "RadRed.Species.tapu_koko",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/785.png",
-    "normal": "pokelink-community:/radred/assets/sprites/785.png",
-    "party": "pokelink-community:/radred/assets/sprites/785.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/785.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/785.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/785.gif"
   },
   "baseStats": {
     "hp": 70,

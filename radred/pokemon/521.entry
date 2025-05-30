@@ -2,9 +2,9 @@
   "gameId": 574,
   "name": "RadRed.Species.unfezant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/521.png",
-    "normal": "pokelink-community:/radred/assets/sprites/521.png",
-    "party": "pokelink-community:/radred/assets/sprites/521.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/521.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/521.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/521.gif"
   },
   "baseStats": {
     "hp": 80,

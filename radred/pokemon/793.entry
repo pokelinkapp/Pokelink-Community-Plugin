@@ -2,9 +2,9 @@
   "gameId": 1010,
   "name": "RadRed.Species.nihilego",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/793.png",
-    "normal": "pokelink-community:/radred/assets/sprites/793.png",
-    "party": "pokelink-community:/radred/assets/sprites/793.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/793.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/793.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/793.gif"
   },
   "baseStats": {
     "hp": 109,

@@ -2,9 +2,9 @@
   "gameId": 224,
   "name": "RadRed.Species.octillery",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/224.png",
-    "normal": "pokelink-community:/radred/assets/sprites/224.png",
-    "party": "pokelink-community:/radred/assets/sprites/224.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/224.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/224.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/224.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 646,
   "name": "RadRed.Species.jellicent",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/593.png",
-    "normal": "pokelink-community:/radred/assets/sprites/593.png",
-    "party": "pokelink-community:/radred/assets/sprites/593.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/593.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/593.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/593.gif"
   },
   "baseStats": {
     "hp": 100,

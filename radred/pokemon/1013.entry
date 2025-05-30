@@ -2,9 +2,9 @@
   "gameId": 1362,
   "name": "RadRed.Species.sinistcha",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1013.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1013.png",
-    "party": "pokelink-community:/radred/assets/sprites/1013.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1013.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1013.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1013.gif"
   },
   "baseStats": {
     "hp": 71,

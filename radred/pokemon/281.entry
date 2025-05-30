@@ -2,9 +2,9 @@
   "gameId": 393,
   "name": "RadRed.Species.kirlia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/281.png",
-    "normal": "pokelink-community:/radred/assets/sprites/281.png",
-    "party": "pokelink-community:/radred/assets/sprites/281.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/281.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/281.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/281.gif"
   },
   "baseStats": {
     "hp": 38,

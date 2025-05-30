@@ -2,9 +2,9 @@
   "gameId": 277,
   "name": "RadRed.Species.treecko",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/252.png",
-    "normal": "pokelink-community:/radred/assets/sprites/252.png",
-    "party": "pokelink-community:/radred/assets/sprites/252.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/252.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/252.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/252.gif"
   },
   "baseStats": {
     "hp": 40,

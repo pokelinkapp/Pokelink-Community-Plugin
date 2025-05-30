@@ -2,9 +2,9 @@
   "gameId": 787,
   "name": "RadRed.Species.honedge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/679.png",
-    "normal": "pokelink-community:/radred/assets/sprites/679.png",
-    "party": "pokelink-community:/radred/assets/sprites/679.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/679.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/679.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/679.gif"
   },
   "baseStats": {
     "hp": 45,

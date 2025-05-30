@@ -2,9 +2,9 @@
   "gameId": 967,
   "name": "RadRed.Species.mudsdale",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/750.png",
-    "normal": "pokelink-community:/radred/assets/sprites/750.png",
-    "party": "pokelink-community:/radred/assets/sprites/750.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/750.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/750.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/750.gif"
   },
   "baseStats": {
     "hp": 100,

@@ -2,9 +2,9 @@
   "gameId": 1078,
   "name": "RadRed.Species.zeraora",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/807.png",
-    "normal": "pokelink-community:/radred/assets/sprites/807.png",
-    "party": "pokelink-community:/radred/assets/sprites/807.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/807.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/807.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/807.gif"
   },
   "baseStats": {
     "hp": 88,

@@ -2,9 +2,9 @@
   "gameId": 1263,
   "name": "RadRed.Species.iron_jugulis",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/993.png",
-    "normal": "pokelink-community:/radred/assets/sprites/993.png",
-    "party": "pokelink-community:/radred/assets/sprites/993.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/993.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/993.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/993.gif"
   },
   "baseStats": {
     "hp": 94,

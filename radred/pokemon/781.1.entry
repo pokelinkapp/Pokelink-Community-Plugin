@@ -4,9 +4,9 @@
   "name": "RadRed.Species.dhelmise",
   "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/781.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/781.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/781.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/781.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/781.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/781-1.gif"
   },
   "baseStats": {
     "hp": 90,

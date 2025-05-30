@@ -4,9 +4,9 @@
   "name": "RadRed.Species.pikachu",
   "formName": "RadRed.Forms.libre",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/25.4.png",
-    "normal": "pokelink-community:/radred/assets/sprites/25.4.png",
-    "party": "pokelink-community:/radred/assets/sprites/25.4.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.4.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/25.4.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/25-4.gif"
   },
   "baseStats": {
     "hp": 35,

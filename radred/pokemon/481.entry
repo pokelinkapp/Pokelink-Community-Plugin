@@ -2,9 +2,9 @@
   "gameId": 534,
   "name": "RadRed.Species.mesprit",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/481.png",
-    "normal": "pokelink-community:/radred/assets/sprites/481.png",
-    "party": "pokelink-community:/radred/assets/sprites/481.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/481.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/481.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/481.gif"
   },
   "baseStats": {
     "hp": 80,

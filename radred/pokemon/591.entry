@@ -2,9 +2,9 @@
   "gameId": 644,
   "name": "RadRed.Species.amoonguss",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/591.png",
-    "normal": "pokelink-community:/radred/assets/sprites/591.png",
-    "party": "pokelink-community:/radred/assets/sprites/591.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/591.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/591.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/591.gif"
   },
   "baseStats": {
     "hp": 114,

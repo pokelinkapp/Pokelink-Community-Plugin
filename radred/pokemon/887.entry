@@ -2,9 +2,9 @@
   "gameId": 1179,
   "name": "RadRed.Species.dragapult",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/887.png",
-    "normal": "pokelink-community:/radred/assets/sprites/887.png",
-    "party": "pokelink-community:/radred/assets/sprites/887.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/887.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/887.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/887.gif"
   },
   "baseStats": {
     "hp": 88,

@@ -2,9 +2,9 @@
   "gameId": 1196,
   "name": "RadRed.Species.arctibax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/997.png",
-    "normal": "pokelink-community:/radred/assets/sprites/997.png",
-    "party": "pokelink-community:/radred/assets/sprites/997.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/997.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/997.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/997.gif"
   },
   "baseStats": {
     "hp": 90,

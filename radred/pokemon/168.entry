@@ -2,9 +2,9 @@
   "gameId": 168,
   "name": "RadRed.Species.ariados",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/168.png",
-    "normal": "pokelink-community:/radred/assets/sprites/168.png",
-    "party": "pokelink-community:/radred/assets/sprites/168.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/168.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/168.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/168.gif"
   },
   "baseStats": {
     "hp": 70,

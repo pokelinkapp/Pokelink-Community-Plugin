@@ -2,9 +2,9 @@
   "gameId": 775,
   "name": "RadRed.Species.litleo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/667.png",
-    "normal": "pokelink-community:/radred/assets/sprites/667.png",
-    "party": "pokelink-community:/radred/assets/sprites/667.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/667.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/667.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/667.gif"
   },
   "baseStats": {
     "hp": 62,

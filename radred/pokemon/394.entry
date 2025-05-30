@@ -2,9 +2,9 @@
   "gameId": 447,
   "name": "RadRed.Species.prinplup",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/394.png",
-    "normal": "pokelink-community:/radred/assets/sprites/394.png",
-    "party": "pokelink-community:/radred/assets/sprites/394.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/394.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/394.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/394.gif"
   },
   "baseStats": {
     "hp": 64,

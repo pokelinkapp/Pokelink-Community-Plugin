@@ -2,9 +2,9 @@
   "gameId": 817,
   "name": "RadRed.Species.trevenant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/709.png",
-    "normal": "pokelink-community:/radred/assets/sprites/709.png",
-    "party": "pokelink-community:/radred/assets/sprites/709.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/709.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/709.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/709.gif"
   },
   "baseStats": {
     "hp": 85,

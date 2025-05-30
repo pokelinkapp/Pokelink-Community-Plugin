@@ -2,9 +2,9 @@
   "gameId": 394,
   "name": "RadRed.Species.gardevoir",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/282.png",
-    "normal": "pokelink-community:/radred/assets/sprites/282.png",
-    "party": "pokelink-community:/radred/assets/sprites/282.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/282.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/282.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/282.gif"
   },
   "baseStats": {
     "hp": 68,

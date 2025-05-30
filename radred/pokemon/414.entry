@@ -2,9 +2,9 @@
   "gameId": 467,
   "name": "RadRed.Species.mothim",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/414.png",
-    "normal": "pokelink-community:/radred/assets/sprites/414.png",
-    "party": "pokelink-community:/radred/assets/sprites/414.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/414.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/414.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/414.gif"
   },
   "baseStats": {
     "hp": 70,

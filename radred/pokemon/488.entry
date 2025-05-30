@@ -2,9 +2,9 @@
   "gameId": 541,
   "name": "RadRed.Species.cresselia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/488.png",
-    "normal": "pokelink-community:/radred/assets/sprites/488.png",
-    "party": "pokelink-community:/radred/assets/sprites/488.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/488.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/488.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/488.gif"
   },
   "baseStats": {
     "hp": 120,

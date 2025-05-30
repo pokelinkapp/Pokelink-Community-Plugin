@@ -2,9 +2,9 @@
   "gameId": 1083,
   "name": "RadRed.Species.meltan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/808.png",
-    "normal": "pokelink-community:/radred/assets/sprites/808.png",
-    "party": "pokelink-community:/radred/assets/sprites/808.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/808.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/808.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/808.gif"
   },
   "baseStats": {
     "hp": 46,

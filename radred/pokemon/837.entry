@@ -2,9 +2,9 @@
   "gameId": 1129,
   "name": "RadRed.Species.rolycoly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/837.png",
-    "normal": "pokelink-community:/radred/assets/sprites/837.png",
-    "party": "pokelink-community:/radred/assets/sprites/837.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/837.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/837.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/837.gif"
   },
   "baseStats": {
     "hp": 30,

@@ -2,9 +2,9 @@
   "gameId": 158,
   "name": "RadRed.Species.totodile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/158.png",
-    "normal": "pokelink-community:/radred/assets/sprites/158.png",
-    "party": "pokelink-community:/radred/assets/sprites/158.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/158.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/158.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/158.gif"
   },
   "baseStats": {
     "hp": 50,

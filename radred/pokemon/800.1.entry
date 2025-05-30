@@ -4,9 +4,9 @@
   "name": "RadRed.Species.necrozma",
   "formName": "RadRed.Forms.dusk_mane",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/800.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/800.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/800.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/800.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/800-1.gif"
   },
   "baseStats": {
     "hp": 97,

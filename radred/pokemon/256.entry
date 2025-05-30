@@ -2,9 +2,9 @@
   "gameId": 281,
   "name": "RadRed.Species.combusken",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/256.png",
-    "normal": "pokelink-community:/radred/assets/sprites/256.png",
-    "party": "pokelink-community:/radred/assets/sprites/256.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/256.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/256.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/256.gif"
   },
   "baseStats": {
     "hp": 60,

@@ -2,9 +2,9 @@
   "gameId": 1363,
   "name": "RadRed.Species.dipplin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1011.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1011.png",
-    "party": "pokelink-community:/radred/assets/sprites/1011.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1011.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1011.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1011.gif"
   },
   "baseStats": {
     "hp": 80,

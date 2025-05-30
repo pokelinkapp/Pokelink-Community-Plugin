@@ -2,9 +2,9 @@
   "gameId": 1112,
   "name": "RadRed.Species.greedent",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/820.png",
-    "normal": "pokelink-community:/radred/assets/sprites/820.png",
-    "party": "pokelink-community:/radred/assets/sprites/820.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/820.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/820.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/820.gif"
   },
   "baseStats": {
     "hp": 120,

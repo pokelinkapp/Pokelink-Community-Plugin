@@ -2,9 +2,9 @@
   "gameId": 983,
   "name": "RadRed.Species.passimian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/766.png",
-    "normal": "pokelink-community:/radred/assets/sprites/766.png",
-    "party": "pokelink-community:/radred/assets/sprites/766.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/766.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/766.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/766.gif"
   },
   "baseStats": {
     "hp": 100,

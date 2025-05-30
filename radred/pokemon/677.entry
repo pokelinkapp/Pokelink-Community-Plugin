@@ -2,9 +2,9 @@
   "gameId": 785,
   "name": "RadRed.Species.espurr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/677.png",
-    "normal": "pokelink-community:/radred/assets/sprites/677.png",
-    "party": "pokelink-community:/radred/assets/sprites/677.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/677.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/677.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/677.gif"
   },
   "baseStats": {
     "hp": 62,

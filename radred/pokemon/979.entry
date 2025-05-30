@@ -2,9 +2,9 @@
   "gameId": 937,
   "name": "RadRed.Species.annihilape",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/979.png",
-    "normal": "pokelink-community:/radred/assets/sprites/979.png",
-    "party": "pokelink-community:/radred/assets/sprites/979.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/979.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/979.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/979.gif"
   },
   "baseStats": {
     "hp": 110,

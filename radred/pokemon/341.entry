@@ -2,9 +2,9 @@
   "gameId": 326,
   "name": "RadRed.Species.corphish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/341.png",
-    "normal": "pokelink-community:/radred/assets/sprites/341.png",
-    "party": "pokelink-community:/radred/assets/sprites/341.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/341.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/341.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/341.gif"
   },
   "baseStats": {
     "hp": 43,

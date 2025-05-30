@@ -2,9 +2,9 @@
   "gameId": 985,
   "name": "RadRed.Species.golisopod",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/768.png",
-    "normal": "pokelink-community:/radred/assets/sprites/768.png",
-    "party": "pokelink-community:/radred/assets/sprites/768.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/768.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/768.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/768.gif"
   },
   "baseStats": {
     "hp": 75,

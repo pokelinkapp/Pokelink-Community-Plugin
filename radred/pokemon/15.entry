@@ -2,9 +2,9 @@
   "gameId": 15,
   "name": "RadRed.Species.beedrill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/15.png",
-    "normal": "pokelink-community:/radred/assets/sprites/15.png",
-    "party": "pokelink-community:/radred/assets/sprites/15.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/15.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/15.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/15.gif"
   },
   "baseStats": {
     "hp": 65,

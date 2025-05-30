@@ -2,9 +2,9 @@
   "gameId": 509,
   "name": "RadRed.Species.finneon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/456.png",
-    "normal": "pokelink-community:/radred/assets/sprites/456.png",
-    "party": "pokelink-community:/radred/assets/sprites/456.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/456.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/456.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/456.gif"
   },
   "baseStats": {
     "hp": 49,

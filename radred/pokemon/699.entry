@@ -2,9 +2,9 @@
   "gameId": 807,
   "name": "RadRed.Species.aurorus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/699.png",
-    "normal": "pokelink-community:/radred/assets/sprites/699.png",
-    "party": "pokelink-community:/radred/assets/sprites/699.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/699.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/699.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/699.gif"
   },
   "baseStats": {
     "hp": 123,

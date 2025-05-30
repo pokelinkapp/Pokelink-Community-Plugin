@@ -2,9 +2,9 @@
   "gameId": 21,
   "name": "RadRed.Species.spearow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/21.png",
-    "normal": "pokelink-community:/radred/assets/sprites/21.png",
-    "party": "pokelink-community:/radred/assets/sprites/21.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/21.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/21.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/21.gif"
   },
   "baseStats": {
     "hp": 40,

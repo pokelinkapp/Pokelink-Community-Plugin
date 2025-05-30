@@ -2,9 +2,9 @@
   "gameId": 1341,
   "name": "RadRed.Species.naclstack",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/933.png",
-    "normal": "pokelink-community:/radred/assets/sprites/933.png",
-    "party": "pokelink-community:/radred/assets/sprites/933.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/933.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/933.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/933.gif"
   },
   "baseStats": {
     "hp": 60,

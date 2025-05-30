@@ -2,9 +2,9 @@
   "gameId": 995,
   "name": "RadRed.Species.mimikyu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/778.png",
-    "normal": "pokelink-community:/radred/assets/sprites/778.png",
-    "party": "pokelink-community:/radred/assets/sprites/778.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/778.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/778.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/778.gif"
   },
   "baseStats": {
     "hp": 55,

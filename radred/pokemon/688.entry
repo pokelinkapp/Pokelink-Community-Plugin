@@ -2,9 +2,9 @@
   "gameId": 796,
   "name": "RadRed.Species.binacle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/688.png",
-    "normal": "pokelink-community:/radred/assets/sprites/688.png",
-    "party": "pokelink-community:/radred/assets/sprites/688.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/688.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/688.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/688.gif"
   },
   "baseStats": {
     "hp": 42,

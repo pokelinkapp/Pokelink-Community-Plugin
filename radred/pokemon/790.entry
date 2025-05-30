@@ -2,9 +2,9 @@
   "gameId": 1007,
   "name": "RadRed.Species.cosmoem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/790.png",
-    "normal": "pokelink-community:/radred/assets/sprites/790.png",
-    "party": "pokelink-community:/radred/assets/sprites/790.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/790.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/790.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/790.gif"
   },
   "baseStats": {
     "hp": 43,

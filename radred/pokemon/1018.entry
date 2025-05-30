@@ -2,9 +2,9 @@
   "gameId": 1369,
   "name": "RadRed.Species.archaludon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1018.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1018.png",
-    "party": "pokelink-community:/radred/assets/sprites/1018.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1018.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1018.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1018.gif"
   },
   "baseStats": {
     "hp": 90,

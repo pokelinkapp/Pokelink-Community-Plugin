@@ -2,9 +2,9 @@
   "gameId": 1367,
   "name": "RadRed.Species.raging_bolt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1021.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1021.png",
-    "party": "pokelink-community:/radred/assets/sprites/1021.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1021.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1021.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1021.gif"
   },
   "baseStats": {
     "hp": 125,

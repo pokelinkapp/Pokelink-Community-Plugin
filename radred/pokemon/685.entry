@@ -2,9 +2,9 @@
   "gameId": 793,
   "name": "RadRed.Species.slurpuff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/685.png",
-    "normal": "pokelink-community:/radred/assets/sprites/685.png",
-    "party": "pokelink-community:/radred/assets/sprites/685.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/685.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/685.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/685.gif"
   },
   "baseStats": {
     "hp": 82,

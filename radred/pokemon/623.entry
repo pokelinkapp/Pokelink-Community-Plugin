@@ -2,9 +2,9 @@
   "gameId": 676,
   "name": "RadRed.Species.golurk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/623.png",
-    "normal": "pokelink-community:/radred/assets/sprites/623.png",
-    "party": "pokelink-community:/radred/assets/sprites/623.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/623.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/623.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/623.gif"
   },
   "baseStats": {
     "hp": 100,

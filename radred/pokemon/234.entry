@@ -2,9 +2,9 @@
   "gameId": 234,
   "name": "RadRed.Species.stantler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/234.png",
-    "normal": "pokelink-community:/radred/assets/sprites/234.png",
-    "party": "pokelink-community:/radred/assets/sprites/234.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/234.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/234.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/234.gif"
   },
   "baseStats": {
     "hp": 73,

@@ -2,9 +2,9 @@
   "gameId": 517,
   "name": "RadRed.Species.rhyperior",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/464.png",
-    "normal": "pokelink-community:/radred/assets/sprites/464.png",
-    "party": "pokelink-community:/radred/assets/sprites/464.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/464.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/464.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/464.gif"
   },
   "baseStats": {
     "hp": 115,

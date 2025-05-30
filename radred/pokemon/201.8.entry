@@ -4,9 +4,9 @@
   "name": "RadRed.Species.unown",
   "formName": "RadRed.Forms.i",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/201.8.png",
-    "normal": "pokelink-community:/radred/assets/sprites/201.8.png",
-    "party": "pokelink-community:/radred/assets/sprites/201.8.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/201.8.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/201.8.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/201-8.gif"
   },
   "baseStats": {
     "hp": 48,

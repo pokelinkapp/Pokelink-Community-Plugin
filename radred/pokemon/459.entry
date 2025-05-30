@@ -2,9 +2,9 @@
   "gameId": 512,
   "name": "RadRed.Species.snover",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/459.png",
-    "normal": "pokelink-community:/radred/assets/sprites/459.png",
-    "party": "pokelink-community:/radred/assets/sprites/459.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/459.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/459.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/459.gif"
   },
   "baseStats": {
     "hp": 60,

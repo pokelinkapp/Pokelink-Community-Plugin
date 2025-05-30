@@ -2,9 +2,9 @@
   "gameId": 514,
   "name": "RadRed.Species.weavile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/461.png",
-    "normal": "pokelink-community:/radred/assets/sprites/461.png",
-    "party": "pokelink-community:/radred/assets/sprites/461.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/461.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/461.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/461.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 928,
   "name": "RadRed.Species.quaxwell",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/913.png",
-    "normal": "pokelink-community:/radred/assets/sprites/913.png",
-    "party": "pokelink-community:/radred/assets/sprites/913.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/913.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/913.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/913.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 957,
   "name": "RadRed.Species.crabominable",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/740.png",
-    "normal": "pokelink-community:/radred/assets/sprites/740.png",
-    "party": "pokelink-community:/radred/assets/sprites/740.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/740.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/740.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/740.gif"
   },
   "baseStats": {
     "hp": 97,

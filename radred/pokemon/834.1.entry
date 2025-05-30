@@ -4,9 +4,9 @@
   "name": "RadRed.Species.drednaw",
   "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/834.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/834.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/834.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/834.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/834.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/834-1.gif"
   },
   "baseStats": {
     "hp": 90,

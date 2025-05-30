@@ -2,9 +2,9 @@
   "gameId": 980,
   "name": "RadRed.Species.tsareena",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/763.png",
-    "normal": "pokelink-community:/radred/assets/sprites/763.png",
-    "party": "pokelink-community:/radred/assets/sprites/763.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/763.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/763.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/763.gif"
   },
   "baseStats": {
     "hp": 72,

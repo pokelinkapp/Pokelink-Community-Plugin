@@ -2,9 +2,9 @@
   "gameId": 210,
   "name": "RadRed.Species.granbull",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/210.png",
-    "normal": "pokelink-community:/radred/assets/sprites/210.png",
-    "party": "pokelink-community:/radred/assets/sprites/210.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/210.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/210.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/210.gif"
   },
   "baseStats": {
     "hp": 100,

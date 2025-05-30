@@ -2,9 +2,9 @@
   "gameId": 1336,
   "name": "RadRed.Species.kilowattrel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/941.png",
-    "normal": "pokelink-community:/radred/assets/sprites/941.png",
-    "party": "pokelink-community:/radred/assets/sprites/941.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/941.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/941.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/941.gif"
   },
   "baseStats": {
     "hp": 70,

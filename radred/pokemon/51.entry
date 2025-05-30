@@ -2,9 +2,9 @@
   "gameId": 51,
   "name": "RadRed.Species.dugtrio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/51.png",
-    "normal": "pokelink-community:/radred/assets/sprites/51.png",
-    "party": "pokelink-community:/radred/assets/sprites/51.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/51.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/51.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/51.gif"
   },
   "baseStats": {
     "hp": 35,

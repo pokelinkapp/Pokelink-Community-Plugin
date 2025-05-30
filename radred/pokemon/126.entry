@@ -2,9 +2,9 @@
   "gameId": 126,
   "name": "RadRed.Species.magmar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/126.png",
-    "normal": "pokelink-community:/radred/assets/sprites/126.png",
-    "party": "pokelink-community:/radred/assets/sprites/126.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/126.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/126.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/126.gif"
   },
   "baseStats": {
     "hp": 65,

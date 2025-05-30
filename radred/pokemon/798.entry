@@ -2,9 +2,9 @@
   "gameId": 1015,
   "name": "RadRed.Species.kartana",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/798.png",
-    "normal": "pokelink-community:/radred/assets/sprites/798.png",
-    "party": "pokelink-community:/radred/assets/sprites/798.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/798.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/798.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/798.gif"
   },
   "baseStats": {
     "hp": 59,

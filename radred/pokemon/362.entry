@@ -2,9 +2,9 @@
   "gameId": 347,
   "name": "RadRed.Species.glalie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/362.png",
-    "normal": "pokelink-community:/radred/assets/sprites/362.png",
-    "party": "pokelink-community:/radred/assets/sprites/362.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/362.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/362.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/362.gif"
   },
   "baseStats": {
     "hp": 80,

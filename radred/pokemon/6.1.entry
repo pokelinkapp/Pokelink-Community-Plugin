@@ -4,9 +4,9 @@
   "name": "RadRed.Species.charizard",
   "formName": "RadRed.Forms.mega_x",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/6.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/6.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/6.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/6.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/6.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/6-1.gif"
   },
   "baseStats": {
     "hp": 78,

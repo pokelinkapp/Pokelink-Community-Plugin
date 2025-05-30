@@ -2,9 +2,9 @@
   "gameId": 1237,
   "name": "RadRed.Species.great_tusk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/984.png",
-    "normal": "pokelink-community:/radred/assets/sprites/984.png",
-    "party": "pokelink-community:/radred/assets/sprites/984.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/984.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/984.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/984.gif"
   },
   "baseStats": {
     "hp": 115,

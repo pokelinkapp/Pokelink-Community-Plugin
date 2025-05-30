@@ -4,9 +4,9 @@
   "name": "RadRed.Species.cherrim",
   "formName": "RadRed.Forms.sunshine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/421.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/421.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/421.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/421.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/421.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/421-1.gif"
   },
   "baseStats": {
     "hp": 70,

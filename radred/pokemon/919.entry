@@ -2,9 +2,9 @@
   "gameId": 1316,
   "name": "RadRed.Species.nymble",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/919.png",
-    "normal": "pokelink-community:/radred/assets/sprites/919.png",
-    "party": "pokelink-community:/radred/assets/sprites/919.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/919.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/919.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/919.gif"
   },
   "baseStats": {
     "hp": 33,

@@ -2,9 +2,9 @@
   "gameId": 407,
   "name": "RadRed.Species.latias",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/380.png",
-    "normal": "pokelink-community:/radred/assets/sprites/380.png",
-    "party": "pokelink-community:/radred/assets/sprites/380.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/380.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/380.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/380.gif"
   },
   "baseStats": {
     "hp": 80,

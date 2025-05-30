@@ -2,9 +2,9 @@
   "gameId": 810,
   "name": "RadRed.Species.dedenne",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/702.png",
-    "normal": "pokelink-community:/radred/assets/sprites/702.png",
-    "party": "pokelink-community:/radred/assets/sprites/702.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/702.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/702.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/702.gif"
   },
   "baseStats": {
     "hp": 67,

@@ -2,9 +2,9 @@
   "gameId": 660,
   "name": "RadRed.Species.litwick",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/607.png",
-    "normal": "pokelink-community:/radred/assets/sprites/607.png",
-    "party": "pokelink-community:/radred/assets/sprites/607.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/607.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/607.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/607.gif"
   },
   "baseStats": {
     "hp": 50,

@@ -2,9 +2,9 @@
   "gameId": 592,
   "name": "RadRed.Species.sawk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/539.png",
-    "normal": "pokelink-community:/radred/assets/sprites/539.png",
-    "party": "pokelink-community:/radred/assets/sprites/539.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/539.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/539.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/539.gif"
   },
   "baseStats": {
     "hp": 75,

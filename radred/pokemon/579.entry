@@ -2,9 +2,9 @@
   "gameId": 632,
   "name": "RadRed.Species.reuniclus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/579.png",
-    "normal": "pokelink-community:/radred/assets/sprites/579.png",
-    "party": "pokelink-community:/radred/assets/sprites/579.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/579.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/579.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/579.gif"
   },
   "baseStats": {
     "hp": 110,

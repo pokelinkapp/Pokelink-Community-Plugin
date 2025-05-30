@@ -2,9 +2,9 @@
   "gameId": 206,
   "name": "RadRed.Species.dunsparce",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/206.png",
-    "normal": "pokelink-community:/radred/assets/sprites/206.png",
-    "party": "pokelink-community:/radred/assets/sprites/206.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/206.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/206.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/206.gif"
   },
   "baseStats": {
     "hp": 100,

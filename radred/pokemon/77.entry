@@ -2,9 +2,9 @@
   "gameId": 77,
   "name": "RadRed.Species.ponyta",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/77.png",
-    "normal": "pokelink-community:/radred/assets/sprites/77.png",
-    "party": "pokelink-community:/radred/assets/sprites/77.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/77.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/77.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/77.gif"
   },
   "baseStats": {
     "hp": 50,

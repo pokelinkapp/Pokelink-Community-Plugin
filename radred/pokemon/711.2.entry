@@ -3,9 +3,9 @@
   "gameId": 819,
   "name": "RadRed.Species.gourgeist",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/711.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/711.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/711.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/711.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/711.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/711-2.gif"
   },
   "baseStats": {
     "hp": 75,

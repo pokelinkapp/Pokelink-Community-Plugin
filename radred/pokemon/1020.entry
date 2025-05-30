@@ -2,9 +2,9 @@
   "gameId": 1374,
   "name": "RadRed.Species.gouging_fire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1020.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1020.png",
-    "party": "pokelink-community:/radred/assets/sprites/1020.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1020.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1020.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1020.gif"
   },
   "baseStats": {
     "hp": 105,

@@ -2,9 +2,9 @@
   "gameId": 10,
   "name": "RadRed.Species.caterpie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/10.png",
-    "normal": "pokelink-community:/radred/assets/sprites/10.png",
-    "party": "pokelink-community:/radred/assets/sprites/10.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/10.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/10.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/10.gif"
   },
   "baseStats": {
     "hp": 45,

@@ -2,9 +2,9 @@
   "gameId": 554,
   "name": "RadRed.Species.oshawott",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/501.png",
-    "normal": "pokelink-community:/radred/assets/sprites/501.png",
-    "party": "pokelink-community:/radred/assets/sprites/501.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/501.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/501.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/501.gif"
   },
   "baseStats": {
     "hp": 55,

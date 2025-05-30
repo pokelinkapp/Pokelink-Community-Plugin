@@ -2,9 +2,9 @@
   "gameId": 1110,
   "name": "RadRed.Species.inteleon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/818.png",
-    "normal": "pokelink-community:/radred/assets/sprites/818.png",
-    "party": "pokelink-community:/radred/assets/sprites/818.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/818.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/818.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/818.gif"
   },
   "baseStats": {
     "hp": 70,

@@ -2,9 +2,9 @@
   "gameId": 310,
   "name": "RadRed.Species.pelipper",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/279.png",
-    "normal": "pokelink-community:/radred/assets/sprites/279.png",
-    "party": "pokelink-community:/radred/assets/sprites/279.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/279.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/279.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/279.gif"
   },
   "baseStats": {
     "hp": 60,

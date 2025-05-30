@@ -2,9 +2,9 @@
   "gameId": 1373,
   "name": "RadRed.Species.iron_boulder",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1022.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1022.png",
-    "party": "pokelink-community:/radred/assets/sprites/1022.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1022.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1022.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1022.gif"
   },
   "baseStats": {
     "hp": 90,

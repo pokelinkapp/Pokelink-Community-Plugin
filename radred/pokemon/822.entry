@@ -2,9 +2,9 @@
   "gameId": 1114,
   "name": "RadRed.Species.corvisquire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/822.png",
-    "normal": "pokelink-community:/radred/assets/sprites/822.png",
-    "party": "pokelink-community:/radred/assets/sprites/822.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/822.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/822.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/822.gif"
   },
   "baseStats": {
     "hp": 68,

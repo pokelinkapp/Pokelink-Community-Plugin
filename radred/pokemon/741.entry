@@ -2,9 +2,9 @@
   "gameId": 958,
   "name": "RadRed.Species.oricorio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/741.png",
-    "normal": "pokelink-community:/radred/assets/sprites/741.png",
-    "party": "pokelink-community:/radred/assets/sprites/741.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/741.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/741.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/741.gif"
   },
   "baseStats": {
     "hp": 75,

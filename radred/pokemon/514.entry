@@ -2,9 +2,9 @@
   "gameId": 567,
   "name": "RadRed.Species.simisear",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/514.png",
-    "normal": "pokelink-community:/radred/assets/sprites/514.png",
-    "party": "pokelink-community:/radred/assets/sprites/514.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/514.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/514.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/514.gif"
   },
   "baseStats": {
     "hp": 75,

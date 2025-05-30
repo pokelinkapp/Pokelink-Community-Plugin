@@ -2,9 +2,9 @@
   "gameId": 971,
   "name": "RadRed.Species.lurantis",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/754.png",
-    "normal": "pokelink-community:/radred/assets/sprites/754.png",
-    "party": "pokelink-community:/radred/assets/sprites/754.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/754.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/754.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/754.gif"
   },
   "baseStats": {
     "hp": 70,

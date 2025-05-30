@@ -2,9 +2,9 @@
   "gameId": 123,
   "name": "RadRed.Species.scyther",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/123.png",
-    "normal": "pokelink-community:/radred/assets/sprites/123.png",
-    "party": "pokelink-community:/radred/assets/sprites/123.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/123.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/123.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/123.gif"
   },
   "baseStats": {
     "hp": 70,

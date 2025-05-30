@@ -2,9 +2,9 @@
   "gameId": 825,
   "name": "RadRed.Species.yveltal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/717.png",
-    "normal": "pokelink-community:/radred/assets/sprites/717.png",
-    "party": "pokelink-community:/radred/assets/sprites/717.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/717.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/717.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/717.gif"
   },
   "baseStats": {
     "hp": 126,

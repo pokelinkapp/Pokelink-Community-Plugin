@@ -2,9 +2,9 @@
   "gameId": 113,
   "name": "RadRed.Species.chansey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/113.png",
-    "normal": "pokelink-community:/radred/assets/sprites/113.png",
-    "party": "pokelink-community:/radred/assets/sprites/113.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/113.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/113.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/113.gif"
   },
   "baseStats": {
     "hp": 250,

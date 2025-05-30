@@ -2,9 +2,9 @@
   "gameId": 380,
   "name": "RadRed.Species.zangoose",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/335.png",
-    "normal": "pokelink-community:/radred/assets/sprites/335.png",
-    "party": "pokelink-community:/radred/assets/sprites/335.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/335.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/335.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/335.gif"
   },
   "baseStats": {
     "hp": 73,

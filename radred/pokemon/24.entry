@@ -2,9 +2,9 @@
   "gameId": 24,
   "name": "RadRed.Species.arbok",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/24.png",
-    "normal": "pokelink-community:/radred/assets/sprites/24.png",
-    "party": "pokelink-community:/radred/assets/sprites/24.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/24.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/24.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/24.gif"
   },
   "baseStats": {
     "hp": 75,

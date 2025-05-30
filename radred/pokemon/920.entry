@@ -2,9 +2,9 @@
   "gameId": 1317,
   "name": "RadRed.Species.lokix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/920.png",
-    "normal": "pokelink-community:/radred/assets/sprites/920.png",
-    "party": "pokelink-community:/radred/assets/sprites/920.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/920.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/920.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/920.gif"
   },
   "baseStats": {
     "hp": 71,

@@ -2,9 +2,9 @@
   "gameId": 826,
   "name": "RadRed.Species.zygarde",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/718.png",
-    "normal": "pokelink-community:/radred/assets/sprites/718.png",
-    "party": "pokelink-community:/radred/assets/sprites/718.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/718.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/718.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/718.gif"
   },
   "baseStats": {
     "hp": 108,

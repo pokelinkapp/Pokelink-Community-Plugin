@@ -2,9 +2,9 @@
   "gameId": 615,
   "name": "RadRed.Species.yamask",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/562.png",
-    "normal": "pokelink-community:/radred/assets/sprites/562.png",
-    "party": "pokelink-community:/radred/assets/sprites/562.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/562.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/562.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/562.gif"
   },
   "baseStats": {
     "hp": 38,

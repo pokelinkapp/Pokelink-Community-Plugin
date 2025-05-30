@@ -2,9 +2,9 @@
   "gameId": 547,
   "name": "RadRed.Species.victini",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/494.png",
-    "normal": "pokelink-community:/radred/assets/sprites/494.png",
-    "party": "pokelink-community:/radred/assets/sprites/494.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/494.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/494.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/494.gif"
   },
   "baseStats": {
     "hp": 100,

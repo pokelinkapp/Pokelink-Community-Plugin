@@ -2,9 +2,9 @@
   "gameId": 187,
   "name": "RadRed.Species.hoppip",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/187.png",
-    "normal": "pokelink-community:/radred/assets/sprites/187.png",
-    "party": "pokelink-community:/radred/assets/sprites/187.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/187.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/187.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/187.gif"
   },
   "baseStats": {
     "hp": 35,

@@ -2,9 +2,9 @@
   "gameId": 507,
   "name": "RadRed.Species.toxicroak",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/454.png",
-    "normal": "pokelink-community:/radred/assets/sprites/454.png",
-    "party": "pokelink-community:/radred/assets/sprites/454.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/454.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/454.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/454.gif"
   },
   "baseStats": {
     "hp": 83,

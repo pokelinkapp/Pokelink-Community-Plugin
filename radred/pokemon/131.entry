@@ -2,9 +2,9 @@
   "gameId": 131,
   "name": "RadRed.Species.lapras",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/131.png",
-    "normal": "pokelink-community:/radred/assets/sprites/131.png",
-    "party": "pokelink-community:/radred/assets/sprites/131.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/131.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/131.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/131.gif"
   },
   "baseStats": {
     "hp": 130,

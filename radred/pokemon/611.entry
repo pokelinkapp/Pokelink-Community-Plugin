@@ -2,9 +2,9 @@
   "gameId": 664,
   "name": "RadRed.Species.fraxure",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/611.png",
-    "normal": "pokelink-community:/radred/assets/sprites/611.png",
-    "party": "pokelink-community:/radred/assets/sprites/611.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/611.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/611.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/611.gif"
   },
   "baseStats": {
     "hp": 66,

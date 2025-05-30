@@ -2,9 +2,9 @@
   "gameId": 140,
   "name": "RadRed.Species.kabuto",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/140.png",
-    "normal": "pokelink-community:/radred/assets/sprites/140.png",
-    "party": "pokelink-community:/radred/assets/sprites/140.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/140.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/140.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/140.gif"
   },
   "baseStats": {
     "hp": 30,

@@ -2,9 +2,9 @@
   "gameId": 561,
   "name": "RadRed.Species.stoutland",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/508.png",
-    "normal": "pokelink-community:/radred/assets/sprites/508.png",
-    "party": "pokelink-community:/radred/assets/sprites/508.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/508.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/508.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/508.gif"
   },
   "baseStats": {
     "hp": 90,

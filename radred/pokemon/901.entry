@@ -2,9 +2,9 @@
   "gameId": 1302,
   "name": "RadRed.Species.ursaluna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/901.png",
-    "normal": "pokelink-community:/radred/assets/sprites/901.png",
-    "party": "pokelink-community:/radred/assets/sprites/901.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/901.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/901.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/901.gif"
   },
   "baseStats": {
     "hp": 130,

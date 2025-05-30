@@ -2,9 +2,9 @@
   "gameId": 633,
   "name": "RadRed.Species.ducklett",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/580.png",
-    "normal": "pokelink-community:/radred/assets/sprites/580.png",
-    "party": "pokelink-community:/radred/assets/sprites/580.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/580.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/580.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/580.gif"
   },
   "baseStats": {
     "hp": 62,

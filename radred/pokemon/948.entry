@@ -2,9 +2,9 @@
   "gameId": 1198,
   "name": "RadRed.Species.toedscool",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/948.png",
-    "normal": "pokelink-community:/radred/assets/sprites/948.png",
-    "party": "pokelink-community:/radred/assets/sprites/948.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/948.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/948.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/948.gif"
   },
   "baseStats": {
     "hp": 40,

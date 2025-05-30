@@ -2,9 +2,9 @@
   "gameId": 654,
   "name": "RadRed.Species.klinklang",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/601.png",
-    "normal": "pokelink-community:/radred/assets/sprites/601.png",
-    "party": "pokelink-community:/radred/assets/sprites/601.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/601.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/601.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/601.gif"
   },
   "baseStats": {
     "hp": 60,

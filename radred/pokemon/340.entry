@@ -2,9 +2,9 @@
   "gameId": 324,
   "name": "RadRed.Species.whiscash",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/340.png",
-    "normal": "pokelink-community:/radred/assets/sprites/340.png",
-    "party": "pokelink-community:/radred/assets/sprites/340.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/340.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/340.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/340.gif"
   },
   "baseStats": {
     "hp": 110,

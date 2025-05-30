@@ -2,9 +2,9 @@
   "gameId": 966,
   "name": "RadRed.Species.mudbray",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/749.png",
-    "normal": "pokelink-community:/radred/assets/sprites/749.png",
-    "party": "pokelink-community:/radred/assets/sprites/749.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/749.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/749.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/749.gif"
   },
   "baseStats": {
     "hp": 70,

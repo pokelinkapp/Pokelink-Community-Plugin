@@ -2,9 +2,9 @@
   "gameId": 95,
   "name": "RadRed.Species.onix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/95.png",
-    "normal": "pokelink-community:/radred/assets/sprites/95.png",
-    "party": "pokelink-community:/radred/assets/sprites/95.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/95.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/95.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/95.gif"
   },
   "baseStats": {
     "hp": 50,

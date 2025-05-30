@@ -2,9 +2,9 @@
   "gameId": 801,
   "name": "RadRed.Species.clawitzer",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/693.png",
-    "normal": "pokelink-community:/radred/assets/sprites/693.png",
-    "party": "pokelink-community:/radred/assets/sprites/693.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/693.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/693.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/693.gif"
   },
   "baseStats": {
     "hp": 71,

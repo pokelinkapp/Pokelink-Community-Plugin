@@ -2,9 +2,9 @@
   "gameId": 248,
   "name": "RadRed.Species.tyranitar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/248.png",
-    "normal": "pokelink-community:/radred/assets/sprites/248.png",
-    "party": "pokelink-community:/radred/assets/sprites/248.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/248.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/248.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/248.gif"
   },
   "baseStats": {
     "hp": 100,

@@ -2,9 +2,9 @@
   "gameId": 115,
   "name": "RadRed.Species.kangaskhan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/115.png",
-    "normal": "pokelink-community:/radred/assets/sprites/115.png",
-    "party": "pokelink-community:/radred/assets/sprites/115.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/115.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/115.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/115.gif"
   },
   "baseStats": {
     "hp": 105,

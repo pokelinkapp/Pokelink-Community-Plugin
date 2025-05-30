@@ -2,9 +2,9 @@
   "gameId": 565,
   "name": "RadRed.Species.simisage",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/512.png",
-    "normal": "pokelink-community:/radred/assets/sprites/512.png",
-    "party": "pokelink-community:/radred/assets/sprites/512.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/512.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/512.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/512.gif"
   },
   "baseStats": {
     "hp": 75,

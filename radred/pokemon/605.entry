@@ -2,9 +2,9 @@
   "gameId": 658,
   "name": "RadRed.Species.elgyem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/605.png",
-    "normal": "pokelink-community:/radred/assets/sprites/605.png",
-    "party": "pokelink-community:/radred/assets/sprites/605.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/605.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/605.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/605.gif"
   },
   "baseStats": {
     "hp": 55,

@@ -2,9 +2,9 @@
   "gameId": 811,
   "name": "RadRed.Species.carbink",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/703.png",
-    "normal": "pokelink-community:/radred/assets/sprites/703.png",
-    "party": "pokelink-community:/radred/assets/sprites/703.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/703.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/703.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/703.gif"
   },
   "baseStats": {
     "hp": 50,

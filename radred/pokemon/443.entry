@@ -2,9 +2,9 @@
   "gameId": 496,
   "name": "RadRed.Species.gible",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/443.png",
-    "normal": "pokelink-community:/radred/assets/sprites/443.png",
-    "party": "pokelink-community:/radred/assets/sprites/443.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/443.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/443.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/443.gif"
   },
   "baseStats": {
     "hp": 58,

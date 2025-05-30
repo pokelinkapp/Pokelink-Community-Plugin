@@ -2,9 +2,9 @@
   "gameId": 1199,
   "name": "RadRed.Species.toedscruel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/949.png",
-    "normal": "pokelink-community:/radred/assets/sprites/949.png",
-    "party": "pokelink-community:/radred/assets/sprites/949.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/949.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/949.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/949.gif"
   },
   "baseStats": {
     "hp": 80,

@@ -2,9 +2,9 @@
   "gameId": 1346,
   "name": "RadRed.Species.grafaiai",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/945.png",
-    "normal": "pokelink-community:/radred/assets/sprites/945.png",
-    "party": "pokelink-community:/radred/assets/sprites/945.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/945.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/945.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/945.gif"
   },
   "baseStats": {
     "hp": 63,

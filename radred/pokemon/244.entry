@@ -2,9 +2,9 @@
   "gameId": 244,
   "name": "RadRed.Species.entei",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/244.png",
-    "normal": "pokelink-community:/radred/assets/sprites/244.png",
-    "party": "pokelink-community:/radred/assets/sprites/244.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/244.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/244.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/244.gif"
   },
   "baseStats": {
     "hp": 115,

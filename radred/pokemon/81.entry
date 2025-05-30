@@ -2,9 +2,9 @@
   "gameId": 81,
   "name": "RadRed.Species.magnemite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/81.png",
-    "normal": "pokelink-community:/radred/assets/sprites/81.png",
-    "party": "pokelink-community:/radred/assets/sprites/81.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/81.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/81.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/81.gif"
   },
   "baseStats": {
     "hp": 25,

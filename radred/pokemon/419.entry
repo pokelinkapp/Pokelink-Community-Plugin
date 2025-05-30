@@ -2,9 +2,9 @@
   "gameId": 472,
   "name": "RadRed.Species.floatzel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/419.png",
-    "normal": "pokelink-community:/radred/assets/sprites/419.png",
-    "party": "pokelink-community:/radred/assets/sprites/419.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/419.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/419.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/419.gif"
   },
   "baseStats": {
     "hp": 85,

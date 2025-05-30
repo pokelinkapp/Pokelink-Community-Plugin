@@ -2,9 +2,9 @@
   "gameId": 841,
   "name": "RadRed.Species.tinkatuff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/958.png",
-    "normal": "pokelink-community:/radred/assets/sprites/958.png",
-    "party": "pokelink-community:/radred/assets/sprites/958.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/958.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/958.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/958.gif"
   },
   "baseStats": {
     "hp": 65,

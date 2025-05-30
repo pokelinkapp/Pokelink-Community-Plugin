@@ -2,9 +2,9 @@
   "gameId": 596,
   "name": "RadRed.Species.venipede",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/543.png",
-    "normal": "pokelink-community:/radred/assets/sprites/543.png",
-    "party": "pokelink-community:/radred/assets/sprites/543.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/543.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/543.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/543.gif"
   },
   "baseStats": {
     "hp": 30,

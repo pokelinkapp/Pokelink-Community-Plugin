@@ -2,9 +2,9 @@
   "gameId": 360,
   "name": "RadRed.Species.wynaut",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/360.png",
-    "normal": "pokelink-community:/radred/assets/sprites/360.png",
-    "party": "pokelink-community:/radred/assets/sprites/360.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/360.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/360.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/360.gif"
   },
   "baseStats": {
     "hp": 95,

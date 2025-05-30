@@ -2,9 +2,9 @@
   "gameId": 809,
   "name": "RadRed.Species.hawlucha",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/701.png",
-    "normal": "pokelink-community:/radred/assets/sprites/701.png",
-    "party": "pokelink-community:/radred/assets/sprites/701.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/701.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/701.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/701.gif"
   },
   "baseStats": {
     "hp": 78,

@@ -2,9 +2,9 @@
   "gameId": 945,
   "name": "RadRed.Species.popplio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/728.png",
-    "normal": "pokelink-community:/radred/assets/sprites/728.png",
-    "party": "pokelink-community:/radred/assets/sprites/728.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/728.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/728.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/728.gif"
   },
   "baseStats": {
     "hp": 50,

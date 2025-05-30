@@ -2,9 +2,9 @@
   "gameId": 625,
   "name": "RadRed.Species.minccino",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/572.png",
-    "normal": "pokelink-community:/radred/assets/sprites/572.png",
-    "party": "pokelink-community:/radred/assets/sprites/572.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/572.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/572.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/572.gif"
   },
   "baseStats": {
     "hp": 55,

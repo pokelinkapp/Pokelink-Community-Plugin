@@ -2,9 +2,9 @@
   "gameId": 469,
   "name": "RadRed.Species.vespiquen",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/416.png",
-    "normal": "pokelink-community:/radred/assets/sprites/416.png",
-    "party": "pokelink-community:/radred/assets/sprites/416.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/416.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/416.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/416.gif"
   },
   "baseStats": {
     "hp": 85,

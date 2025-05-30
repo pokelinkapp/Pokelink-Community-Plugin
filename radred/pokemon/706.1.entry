@@ -4,9 +4,9 @@
   "name": "RadRed.Species.goodra",
   "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/706.1.png",
-    "normal": "pokelink-community:/radred/assets/sprites/706.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/706.1.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/706.1.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/706.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/706-1.gif"
   },
   "baseStats": {
     "hp": 80,

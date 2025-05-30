@@ -2,9 +2,9 @@
   "gameId": 1326,
   "name": "RadRed.Species.arboliva",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/930.png",
-    "normal": "pokelink-community:/radred/assets/sprites/930.png",
-    "party": "pokelink-community:/radred/assets/sprites/930.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/930.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/930.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/930.gif"
   },
   "baseStats": {
     "hp": 78,

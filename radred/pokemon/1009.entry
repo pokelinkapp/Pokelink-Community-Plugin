@@ -2,9 +2,9 @@
   "gameId": 1354,
   "name": "RadRed.Species.walking_wake",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/1009.png",
-    "normal": "pokelink-community:/radred/assets/sprites/1009.png",
-    "party": "pokelink-community:/radred/assets/sprites/1009.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1009.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/1009.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1009.gif"
   },
   "baseStats": {
     "hp": 99,

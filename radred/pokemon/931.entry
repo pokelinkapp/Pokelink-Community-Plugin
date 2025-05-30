@@ -2,9 +2,9 @@
   "gameId": 1338,
   "name": "RadRed.Species.squawkabilly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/931.png",
-    "normal": "pokelink-community:/radred/assets/sprites/931.png",
-    "party": "pokelink-community:/radred/assets/sprites/931.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/931.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/931.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/931.gif"
   },
   "baseStats": {
     "hp": 82,

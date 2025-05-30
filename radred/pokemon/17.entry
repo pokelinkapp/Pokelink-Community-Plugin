@@ -2,9 +2,9 @@
   "gameId": 17,
   "name": "RadRed.Species.pidgeotto",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/17.png",
-    "normal": "pokelink-community:/radred/assets/sprites/17.png",
-    "party": "pokelink-community:/radred/assets/sprites/17.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/17.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/17.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/17.gif"
   },
   "baseStats": {
     "hp": 63,

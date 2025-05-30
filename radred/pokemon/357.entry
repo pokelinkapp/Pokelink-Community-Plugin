@@ -2,9 +2,9 @@
   "gameId": 369,
   "name": "RadRed.Species.tropius",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/357.png",
-    "normal": "pokelink-community:/radred/assets/sprites/357.png",
-    "party": "pokelink-community:/radred/assets/sprites/357.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/357.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/357.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/357.gif"
   },
   "baseStats": {
     "hp": 99,

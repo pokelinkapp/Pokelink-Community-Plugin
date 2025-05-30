@@ -2,9 +2,9 @@
   "gameId": 824,
   "name": "RadRed.Species.xerneas",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/716.png",
-    "normal": "pokelink-community:/radred/assets/sprites/716.png",
-    "party": "pokelink-community:/radred/assets/sprites/716.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/716.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/716.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/716.gif"
   },
   "baseStats": {
     "hp": 126,

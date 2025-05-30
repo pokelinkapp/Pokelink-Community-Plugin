@@ -2,9 +2,9 @@
   "gameId": 90,
   "name": "RadRed.Species.shellder",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/90.png",
-    "normal": "pokelink-community:/radred/assets/sprites/90.png",
-    "party": "pokelink-community:/radred/assets/sprites/90.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/90.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/90.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/90.gif"
   },
   "baseStats": {
     "hp": 30,

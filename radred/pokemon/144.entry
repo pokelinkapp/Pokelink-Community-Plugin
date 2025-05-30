@@ -2,9 +2,9 @@
   "gameId": 144,
   "name": "RadRed.Species.articuno",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/144.png",
-    "normal": "pokelink-community:/radred/assets/sprites/144.png",
-    "party": "pokelink-community:/radred/assets/sprites/144.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/144.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/144.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/144.gif"
   },
   "baseStats": {
     "hp": 90,

@@ -2,9 +2,9 @@
   "gameId": 1100,
   "name": "RadRed.Species.dudunsparce",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/982.png",
-    "normal": "pokelink-community:/radred/assets/sprites/982.png",
-    "party": "pokelink-community:/radred/assets/sprites/982.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/982.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/982.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/982.gif"
   },
   "baseStats": {
     "hp": 125,

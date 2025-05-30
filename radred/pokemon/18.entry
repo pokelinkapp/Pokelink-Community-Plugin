@@ -2,9 +2,9 @@
   "gameId": 18,
   "name": "RadRed.Species.pidgeot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/18.png",
-    "normal": "pokelink-community:/radred/assets/sprites/18.png",
-    "party": "pokelink-community:/radred/assets/sprites/18.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/18.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/18.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/18.gif"
   },
   "baseStats": {
     "hp": 83,

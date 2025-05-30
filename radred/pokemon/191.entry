@@ -2,9 +2,9 @@
   "gameId": 191,
   "name": "RadRed.Species.sunkern",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/191.png",
-    "normal": "pokelink-community:/radred/assets/sprites/191.png",
-    "party": "pokelink-community:/radred/assets/sprites/191.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/191.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/191.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/191.gif"
   },
   "baseStats": {
     "hp": 30,

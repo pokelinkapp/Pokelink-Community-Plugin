@@ -2,9 +2,9 @@
   "gameId": 82,
   "name": "RadRed.Species.magneton",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/82.png",
-    "normal": "pokelink-community:/radred/assets/sprites/82.png",
-    "party": "pokelink-community:/radred/assets/sprites/82.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/82.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/82.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/82.gif"
   },
   "baseStats": {
     "hp": 50,

@@ -2,9 +2,9 @@
   "gameId": 694,
   "name": "RadRed.Species.tornadus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/641.png",
-    "normal": "pokelink-community:/radred/assets/sprites/641.png",
-    "party": "pokelink-community:/radred/assets/sprites/641.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/641.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/641.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/641.gif"
   },
   "baseStats": {
     "hp": 79,

@@ -2,9 +2,9 @@
   "gameId": 156,
   "name": "RadRed.Species.quilava",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/156.png",
-    "normal": "pokelink-community:/radred/assets/sprites/156.png",
-    "party": "pokelink-community:/radred/assets/sprites/156.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/156.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/156.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/156.gif"
   },
   "baseStats": {
     "hp": 58,

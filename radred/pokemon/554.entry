@@ -2,9 +2,9 @@
   "gameId": 607,
   "name": "RadRed.Species.darumaka",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/554.png",
-    "normal": "pokelink-community:/radred/assets/sprites/554.png",
-    "party": "pokelink-community:/radred/assets/sprites/554.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/554.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/554.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/554.gif"
   },
   "baseStats": {
     "hp": 70,

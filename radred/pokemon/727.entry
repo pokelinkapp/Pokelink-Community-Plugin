@@ -2,9 +2,9 @@
   "gameId": 944,
   "name": "RadRed.Species.incineroar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/727.png",
-    "normal": "pokelink-community:/radred/assets/sprites/727.png",
-    "party": "pokelink-community:/radred/assets/sprites/727.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/727.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/727.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/727.gif"
   },
   "baseStats": {
     "hp": 95,

@@ -4,9 +4,9 @@
   "name": "RadRed.Species.wishiwashi",
   "formName": "RadRed.Forms.sevii_school",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/746.3.png",
-    "normal": "pokelink-community:/radred/assets/sprites/746.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/746.3.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/746.3.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/746.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/746-3.gif"
   },
   "baseStats": {
     "hp": 60,

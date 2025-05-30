@@ -2,9 +2,9 @@
   "gameId": 194,
   "name": "RadRed.Species.wooper",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/194.png",
-    "normal": "pokelink-community:/radred/assets/sprites/194.png",
-    "party": "pokelink-community:/radred/assets/sprites/194.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/194.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/194.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/194.gif"
   },
   "baseStats": {
     "hp": 55,

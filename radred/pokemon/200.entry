@@ -2,9 +2,9 @@
   "gameId": 200,
   "name": "RadRed.Species.misdreavus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/200.png",
-    "normal": "pokelink-community:/radred/assets/sprites/200.png",
-    "party": "pokelink-community:/radred/assets/sprites/200.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/200.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/200.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/200.gif"
   },
   "baseStats": {
     "hp": 60,

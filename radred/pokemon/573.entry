@@ -2,9 +2,9 @@
   "gameId": 626,
   "name": "RadRed.Species.cinccino",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/573.png",
-    "normal": "pokelink-community:/radred/assets/sprites/573.png",
-    "party": "pokelink-community:/radred/assets/sprites/573.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/573.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/573.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/573.gif"
   },
   "baseStats": {
     "hp": 75,

@@ -2,9 +2,9 @@
   "gameId": 218,
   "name": "RadRed.Species.slugma",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/218.png",
-    "normal": "pokelink-community:/radred/assets/sprites/218.png",
-    "party": "pokelink-community:/radred/assets/sprites/218.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/218.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/218.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/218.gif"
   },
   "baseStats": {
     "hp": 40,

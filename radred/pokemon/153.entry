@@ -2,9 +2,9 @@
   "gameId": 153,
   "name": "RadRed.Species.bayleef",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/153.png",
-    "normal": "pokelink-community:/radred/assets/sprites/153.png",
-    "party": "pokelink-community:/radred/assets/sprites/153.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/153.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/153.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/153.gif"
   },
   "baseStats": {
     "hp": 60,

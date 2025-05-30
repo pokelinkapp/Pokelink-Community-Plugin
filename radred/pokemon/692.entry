@@ -2,9 +2,9 @@
   "gameId": 800,
   "name": "RadRed.Species.clauncher",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/692.png",
-    "normal": "pokelink-community:/radred/assets/sprites/692.png",
-    "party": "pokelink-community:/radred/assets/sprites/692.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/692.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/692.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/692.gif"
   },
   "baseStats": {
     "hp": 50,

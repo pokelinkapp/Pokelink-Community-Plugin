@@ -4,9 +4,9 @@
   "name": "RadRed.Species.kyurem",
   "formName": "RadRed.Forms.black",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/646.2.png",
-    "normal": "pokelink-community:/radred/assets/sprites/646.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/646.2.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/646.2.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/646.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/646-2.gif"
   },
   "baseStats": {
     "hp": 125,

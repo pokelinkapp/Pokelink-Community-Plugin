@@ -2,9 +2,9 @@
   "gameId": 686,
   "name": "RadRed.Species.deino",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/633.png",
-    "normal": "pokelink-community:/radred/assets/sprites/633.png",
-    "party": "pokelink-community:/radred/assets/sprites/633.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/633.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/633.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/633.gif"
   },
   "baseStats": {
     "hp": 52,

@@ -2,9 +2,9 @@
   "gameId": 1323,
   "name": "RadRed.Species.veluza",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/976.png",
-    "normal": "pokelink-community:/radred/assets/sprites/976.png",
-    "party": "pokelink-community:/radred/assets/sprites/976.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/976.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/976.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/976.gif"
   },
   "baseStats": {
     "hp": 95,

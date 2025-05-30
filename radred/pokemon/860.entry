@@ -2,9 +2,9 @@
   "gameId": 1152,
   "name": "RadRed.Species.morgrem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/860.png",
-    "normal": "pokelink-community:/radred/assets/sprites/860.png",
-    "party": "pokelink-community:/radred/assets/sprites/860.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/860.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/860.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/860.gif"
   },
   "baseStats": {
     "hp": 65,

@@ -2,9 +2,9 @@
   "gameId": 1103,
   "name": "RadRed.Species.thwackey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/811.png",
-    "normal": "pokelink-community:/radred/assets/sprites/811.png",
-    "party": "pokelink-community:/radred/assets/sprites/811.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/811.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/811.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/811.gif"
   },
   "baseStats": {
     "hp": 70,

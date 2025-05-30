@@ -2,9 +2,9 @@
   "gameId": 537,
   "name": "RadRed.Species.palkia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/484.png",
-    "normal": "pokelink-community:/radred/assets/sprites/484.png",
-    "party": "pokelink-community:/radred/assets/sprites/484.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/484.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/484.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/484.gif"
   },
   "baseStats": {
     "hp": 90,

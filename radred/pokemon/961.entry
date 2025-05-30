@@ -2,9 +2,9 @@
   "gameId": 933,
   "name": "RadRed.Species.wugtrio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/961.png",
-    "normal": "pokelink-community:/radred/assets/sprites/961.png",
-    "party": "pokelink-community:/radred/assets/sprites/961.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/961.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/961.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/961.gif"
   },
   "baseStats": {
     "hp": 35,

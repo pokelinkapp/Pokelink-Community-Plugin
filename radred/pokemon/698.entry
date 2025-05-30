@@ -2,9 +2,9 @@
   "gameId": 806,
   "name": "RadRed.Species.amaura",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/698.png",
-    "normal": "pokelink-community:/radred/assets/sprites/698.png",
-    "party": "pokelink-community:/radred/assets/sprites/698.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/698.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/698.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/698.gif"
   },
   "baseStats": {
     "hp": 77,

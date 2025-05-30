@@ -2,9 +2,9 @@
   "gameId": 220,
   "name": "RadRed.Species.swinub",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/220.png",
-    "normal": "pokelink-community:/radred/assets/sprites/220.png",
-    "party": "pokelink-community:/radred/assets/sprites/220.png"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/220.png",
+    "normal": "pokelink-community:/radred/assets/sprites/normal/220.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/220.gif"
   },
   "baseStats": {
     "hp": 50,
