@@ -21,6 +21,7 @@
             "component": "pokelink.porygon.gen3.crfu.party",
             "config": {
                 "playerPartyAddress": "0x02024284",
+                "maxSpeciesID": 1375,
                 "pokemonDataSize": 100
             }
         }
