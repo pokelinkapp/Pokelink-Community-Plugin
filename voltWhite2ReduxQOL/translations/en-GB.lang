@@ -1,0 +1,13 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Name": {
+                "voltWhite2ReduxQOL": "Volt White 2 Redux QOL patch"
+            },
+            "Version": {
+                "V1.3": "V1.3"
+            }
+        }
+    }
+}

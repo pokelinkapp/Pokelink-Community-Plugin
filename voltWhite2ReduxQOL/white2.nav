@@ -1,0 +1,52 @@
+{
+    "version": "Game.Version.V1.3",
+    "romHeader": "POKEMON W2",
+    "features": {
+        "unsupported": [
+            "Features.Pokelink.badgeTracking"
+        ],
+        "knownIssues": [
+        ]
+    },
+    "partyReader": "pokelink.gen5.partyReader",
+    "ramComponents": [
+        {
+            "component": "pokelink.porygon.gen5.basePointer",
+            "config": {
+                "basePointerAddress": "0x0223E684",
+                "battlePointerAddresses": [
+                    "0x0225A5AC",
+                    "0x02261C14",
+                    "0x02261C54"
+                ]
+            }
+        },
+        {
+            "component": "pokelink.porygon.gen5.battlePID",
+            "config": {}
+        },
+        {
+            "component": "pokelink.porygon.gen5.battle",
+            "config": {
+                "battleDataSize": "0x0224",
+                "maxHP": 714,
+                "expOffset": "0x08",
+                "speciesOffset": "0x0C",
+                "maxHealthOffset": "0x0E",
+                "currentHealthOffset": "0x10",
+                "heldItemOffset": "0x12",
+                "movesOffset": "0x0104",
+                "formOffset": "0x0141",
+                "statusOffset": "0x6C"
+            }
+        },
+        {
+            "component": "pokelink.porygon.gen5.party",
+            "config": {
+                "partyOffset": "0x08",
+                "pokemonDataSize": 220,
+                "maxHP": 714
+            }
+        }
+    ]
+}

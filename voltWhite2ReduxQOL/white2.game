@@ -1,0 +1,40 @@
+{
+    "__import": {
+        "pokelink:/items/gen5.items": null,
+        "pokelink:/locations/gen5.locations": null,
+        "pokelink:/locations/b2w2.nuzloc": null,
+        "pokelink:/badges/unova2.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink:/abilities/gen5.abilities": null,
+        "pokelink:/keybinds/bw2.keybinds": null
+    },
+    "name": "Game.Name.voltWhite2ReduxQOL",
+    "generation": 5,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink:/assets/game-logos/white_2.png",
+    "lightTheme": {
+        "color": "#fff",
+        "darkText": true
+    },
+    "darkTheme": {
+        "color": "#fff",
+        "darkText": true
+    },
+    "priority": 1,
+    "pokedex": {
+        "auto": "pokelink:/pokedex/b2w2.dex",
+        "manual": "pokelink:/pokedex/national.dex"
+    },
+    "moves": "pokelink:/moves/b2w2.moves",
+    "typeChart": "pokelink:/typeCharts/gen2.typeChart",
+    "hatchMultiplier": 257,
+    "gameId": "WHITE_2",
+    "console": "nds",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/voltWhite2ReduxQOL/white2.nav": null
+            }
+        }
+    ]
+}
