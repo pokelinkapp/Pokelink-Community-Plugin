@@ -1,11 +1,11 @@
 {
-  "gameId": 195,
   "name": "RadRed.Species.quagsire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/195.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/195.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/195.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/195.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/195.png"
   },
+  "gameId": 195,
   "baseStats": {
     "hp": 100,
     "atk": 85,
@@ -14,19 +14,18 @@
     "spDef": 65,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.damp",
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.unaware"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 90,
-  "genderRatio": 127
+  ]
 }

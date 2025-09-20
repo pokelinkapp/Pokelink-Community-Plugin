@@ -4,7 +4,11 @@
       "to": 464,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.protector"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.protector"
+            }
+          }
         }
       }
     }

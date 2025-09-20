@@ -1,11 +1,11 @@
 {
-  "gameId": 45,
   "name": "RadRed.Species.vileplume",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/45.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/45.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/45.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/45.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/45.png"
   },
+  "gameId": 45,
   "baseStats": {
     "hp": 75,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.effect_spore"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

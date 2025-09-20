@@ -1,11 +1,11 @@
 {
-  "gameId": 594,
   "name": "RadRed.Species.swadloon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/541.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/541.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/541.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/541.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/541.png"
   },
+  "gameId": 594,
   "baseStats": {
     "hp": 55,
     "atk": 63,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 42
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.overcoat"
   ],
+  "color": "color.green",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

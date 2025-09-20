@@ -1,11 +1,11 @@
 {
-  "gameId": 543,
   "name": "RadRed.Species.manaphy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/490.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/490.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/490.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/490.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/490.png"
   },
+  "gameId": 543,
   "baseStats": {
     "hp": 100,
     "atk": 100,
@@ -14,18 +14,18 @@
     "spDef": 100,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hydration",
     "RadRed.Abilities.hydration",
     "RadRed.Abilities.hydration"
   ],
+  "color": "color.blue",
+  "hatchCycles": 10,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 10,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1285,
   "name": "RadRed.Species.feebas",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/349.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/349-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/349.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/349-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/349.1.png"
   },
+  "gameId": 1285,
+  "form": 1,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 20,
     "atk": 15,
@@ -16,19 +16,19 @@
     "spDef": 55,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.oblivious",
     "RadRed.Abilities.adaptability"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 1,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 1
 }

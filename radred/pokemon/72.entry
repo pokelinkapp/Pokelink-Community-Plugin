@@ -1,11 +1,11 @@
 {
-  "gameId": 72,
   "name": "RadRed.Species.tentacool",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/72.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/72.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/72.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/72.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/72.png"
   },
+  "gameId": 72,
   "baseStats": {
     "hp": 40,
     "atk": 40,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.liquid_ooze",
     "RadRed.Abilities.rain_dish"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.water",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 5
 }

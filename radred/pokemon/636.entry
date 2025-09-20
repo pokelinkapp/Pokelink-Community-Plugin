@@ -1,11 +1,11 @@
 {
-  "gameId": 689,
   "name": "RadRed.Species.larvesta",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/636.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/636.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/636.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/636.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/636.png"
   },
+  "gameId": 689,
   "baseStats": {
     "hp": 55,
     "atk": 85,
@@ -14,19 +14,19 @@
     "spDef": 55,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flame_body",
     "RadRed.Abilities.flame_body",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.white",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

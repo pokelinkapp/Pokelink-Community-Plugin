@@ -1,11 +1,11 @@
 {
-  "gameId": 963,
   "name": "RadRed.Species.wishiwashi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/746.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/746.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/746.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/746.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/746.png"
   },
+  "gameId": 963,
   "baseStats": {
     "hp": 55,
     "atk": 20,
@@ -14,18 +14,18 @@
     "spDef": 25,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.schooling",
     "RadRed.Abilities.schooling",
     "RadRed.Abilities.schooling"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 4,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 4
 }

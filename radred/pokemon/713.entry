@@ -1,11 +1,11 @@
 {
-  "gameId": 821,
   "name": "RadRed.Species.avalugg",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/713.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/713.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/713.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/713.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/713.png"
   },
+  "gameId": 821,
   "baseStats": {
     "hp": 95,
     "atk": 117,
@@ -14,18 +14,17 @@
     "spDef": 46,
     "spd": 28
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.filter",
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.sturdy"
   ],
-  "types": [
-    "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 55,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ice"
+  ]
 }

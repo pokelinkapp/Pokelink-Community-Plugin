@@ -1,11 +1,11 @@
 {
-  "gameId": 612,
   "name": "RadRed.Species.scraggy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/559.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/559.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/559.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/559.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/559.png"
   },
+  "gameId": 612,
   "baseStats": {
     "hp": 50,
     "atk": 75,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 48
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.moxie"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 180,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.fighting"
-  ],
-  "baseFriendship": 35,
-  "color": "color.yellow",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 180,
-  "genderRatio": 127
+  ]
 }

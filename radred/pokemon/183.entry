@@ -1,11 +1,11 @@
 {
-  "gameId": 183,
   "name": "RadRed.Species.marill",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/183.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/183.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/183.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/183.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/183.png"
   },
+  "gameId": 183,
   "baseStats": {
     "hp": 70,
     "atk": 20,
@@ -14,19 +14,19 @@
     "spDef": 50,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.huge_power",
     "RadRed.Abilities.sap_sipper"
   ],
+  "color": "color.blue",
+  "hatchCycles": 10,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.water",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 10,
-  "expGroup": 4,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 4
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 777,
   "name": "RadRed.Species.flabebe",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/669.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/669.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/669.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/669.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/669.png"
   },
+  "gameId": 777,
   "baseStats": {
     "hp": 44,
     "atk": 38,
@@ -14,18 +14,17 @@
     "spDef": 79,
     "spd": 42
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.natural_cure"
   ],
-  "types": [
-    "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 254,
   "catchRate": 225,
-  "genderRatio": 254
+  "types": [
+    "pokemon.type.fairy"
+  ]
 }

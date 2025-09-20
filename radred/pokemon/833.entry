@@ -1,11 +1,11 @@
 {
-  "gameId": 1125,
   "name": "RadRed.Species.chewtle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/833.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/833.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/833.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/833.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/833.png"
   },
+  "gameId": 1125,
   "baseStats": {
     "hp": 50,
     "atk": 64,
@@ -14,18 +14,17 @@
     "spDef": 38,
     "spd": 44
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.swift_swim"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

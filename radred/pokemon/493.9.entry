@@ -1,13 +1,13 @@
 {
-  "form": 9,
-  "gameId": 728,
   "name": "RadRed.Species.arceus",
-  "formName": "RadRed.Forms.fire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.9.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-9.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/493.9.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/493-9.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.9.png"
   },
+  "gameId": 728,
+  "form": 9,
+  "formName": "RadRed.Forms.fire",
   "baseStats": {
     "hp": 120,
     "atk": 120,
@@ -16,18 +16,18 @@
     "spDef": 120,
     "spd": 120
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 146,
   "name": "RadRed.Species.moltres",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/146.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/146.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/146.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/146.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/146.png"
   },
+  "gameId": 146,
   "baseStats": {
     "hp": 90,
     "atk": 100,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 90
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.flame_body"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.yellow",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

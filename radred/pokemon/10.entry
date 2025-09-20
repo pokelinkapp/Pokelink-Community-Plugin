@@ -1,11 +1,11 @@
 {
-  "gameId": 10,
   "name": "RadRed.Species.caterpie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/10.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/10.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/10.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/10.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/10.png"
   },
+  "gameId": 10,
   "baseStats": {
     "hp": 45,
     "atk": 30,
@@ -14,18 +14,17 @@
     "spDef": 20,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.run_away"
   ],
-  "types": [
-    "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.bug"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1374,
   "name": "RadRed.Species.gouging_fire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1020.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1020.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1020.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1020.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1020.png"
   },
+  "gameId": 1374,
   "baseStats": {
     "hp": 105,
     "atk": 115,
@@ -14,19 +14,19 @@
     "spDef": 93,
     "spd": 91
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.protosynthesis",
     "RadRed.Abilities.protosynthesis",
     "RadRed.Abilities.protosynthesis"
   ],
+  "color": "color.brown",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.brown",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

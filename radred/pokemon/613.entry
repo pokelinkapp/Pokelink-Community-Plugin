@@ -1,11 +1,11 @@
 {
-  "gameId": 666,
   "name": "RadRed.Species.cubchoo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/613.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/613.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/613.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/613.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/613.png"
   },
+  "gameId": 666,
   "baseStats": {
     "hp": 55,
     "atk": 70,
@@ -14,18 +14,17 @@
     "spDef": 40,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.slush_rush",
     "RadRed.Abilities.slush_rush",
     "RadRed.Abilities.swift_swim"
   ],
-  "types": [
-    "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ice"
+  ]
 }

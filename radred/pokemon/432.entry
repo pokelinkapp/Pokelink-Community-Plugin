@@ -1,11 +1,11 @@
 {
-  "gameId": 485,
   "name": "RadRed.Species.purugly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/432.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/432.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/432.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/432.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/432.png"
   },
+  "gameId": 485,
   "baseStats": {
     "hp": 100,
     "atk": 82,
@@ -14,18 +14,18 @@
     "spDef": 74,
     "spd": 112
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.defiant"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 75,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 75,
-  "genderRatio": 191
+  "growthRate": 4
 }

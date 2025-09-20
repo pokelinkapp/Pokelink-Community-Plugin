@@ -1,11 +1,11 @@
 {
-  "gameId": 773,
   "name": "RadRed.Species.spewpa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/665.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/665.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/665.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/665.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/665.png"
   },
+  "gameId": 773,
   "baseStats": {
     "hp": 45,
     "atk": 22,
@@ -14,18 +14,17 @@
     "spDef": 30,
     "spd": 29
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.friend_guard"
   ],
-  "types": [
-    "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
   "color": "color.black",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.bug"
+  ]
 }

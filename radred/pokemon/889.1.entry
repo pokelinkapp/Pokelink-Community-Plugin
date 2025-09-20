@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1205,
   "name": "RadRed.Species.zamazenta",
-  "formName": "RadRed.Forms.crowned",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/889.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/889-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/889.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/889-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/889.1.png"
   },
+  "gameId": 1205,
+  "form": 1,
+  "formName": "RadRed.Forms.crowned",
   "baseStats": {
     "hp": 92,
     "atk": 120,
@@ -16,19 +16,19 @@
     "spDef": 140,
     "spd": 128
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.valiant_shield",
     "RadRed.Abilities.valiant_shield",
     "RadRed.Abilities.valiant_shield"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

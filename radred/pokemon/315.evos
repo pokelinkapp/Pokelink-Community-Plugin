@@ -3,7 +3,9 @@
     {
       "to": 407,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.shiny_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.shiny_stone"
+        }
       }
     }
   ]

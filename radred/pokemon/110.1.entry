@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1215,
   "name": "RadRed.Species.weezing",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/110.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/110-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/110.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/110-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/110.1.png"
   },
+  "gameId": 1215,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 65,
     "atk": 90,
@@ -16,19 +16,18 @@
     "spDef": 70,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.neutralize_gas",
     "RadRed.Abilities.misty_surge"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 127
+  ]
 }

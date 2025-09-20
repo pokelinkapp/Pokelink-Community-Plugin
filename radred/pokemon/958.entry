@@ -1,11 +1,11 @@
 {
-  "gameId": 841,
   "name": "RadRed.Species.tinkatuff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/958.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/958.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/958.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/958.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/958.png"
   },
+  "gameId": 841,
   "baseStats": {
     "hp": 65,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 82,
     "spd": 78
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.mold_breaker"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 90,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 90,
-  "genderRatio": 254
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 249,
   "name": "RadRed.Species.lugia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/249.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/249.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/249.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/249.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/249.png"
   },
+  "gameId": 249,
   "baseStats": {
     "hp": 106,
     "atk": 90,
@@ -14,19 +14,19 @@
     "spDef": 154,
     "spd": 110
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.multiscale"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

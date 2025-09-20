@@ -1,11 +1,11 @@
 {
-  "gameId": 383,
   "name": "RadRed.Species.lairon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/305.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/305.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/305.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/305.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/305.png"
   },
+  "gameId": 383,
   "baseStats": {
     "hp": 60,
     "atk": 90,
@@ -14,19 +14,19 @@
     "spDef": 50,
     "spd": 40
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.heavy_metal"
   ],
+  "color": "color.gray",
+  "hatchCycles": 35,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 90,
-  "genderRatio": 127
+  "growthRate": 5
 }

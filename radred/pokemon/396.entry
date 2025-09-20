@@ -1,11 +1,11 @@
 {
-  "gameId": 449,
   "name": "RadRed.Species.starly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/396.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/396.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/396.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/396.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/396.png"
   },
+  "gameId": 449,
   "baseStats": {
     "hp": 40,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 30,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.reckless"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

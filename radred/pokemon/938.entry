@@ -1,11 +1,11 @@
 {
-  "gameId": 861,
   "name": "RadRed.Species.tadbulb",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/938.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/938.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/938.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/938.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/938.png"
   },
+  "gameId": 861,
   "baseStats": {
     "hp": 61,
     "atk": 31,
@@ -14,18 +14,17 @@
     "spDef": 35,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.static",
     "RadRed.Abilities.damp"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

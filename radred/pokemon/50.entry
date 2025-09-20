@@ -1,11 +1,11 @@
 {
-  "gameId": 50,
   "name": "RadRed.Species.diglett",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/50.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/50.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/50.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/50.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/50.png"
   },
+  "gameId": 50,
   "baseStats": {
     "hp": 10,
     "atk": 55,
@@ -14,18 +14,17 @@
     "spDef": 45,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.arena_trap",
     "RadRed.Abilities.sand_force"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1346,
   "name": "RadRed.Species.grafaiai",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/945.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/945.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/945.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/945.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/945.png"
   },
+  "gameId": 1346,
   "baseStats": {
     "hp": 63,
     "atk": 95,
@@ -14,19 +14,19 @@
     "spDef": 72,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.prankster"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 90,
-  "genderRatio": 127
+  "growthRate": 3
 }

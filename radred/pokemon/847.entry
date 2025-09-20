@@ -1,11 +1,11 @@
 {
-  "gameId": 1139,
   "name": "RadRed.Species.barraskewda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/847.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/847.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/847.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/847.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/847.png"
   },
+  "gameId": 1139,
   "baseStats": {
     "hp": 61,
     "atk": 123,
@@ -14,18 +14,18 @@
     "spDef": 50,
     "spd": 136
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.propeller_tail"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 5
 }

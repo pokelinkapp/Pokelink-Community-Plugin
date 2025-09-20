@@ -1,11 +1,11 @@
 {
-  "gameId": 811,
   "name": "RadRed.Species.carbink",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/703.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/703.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/703.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/703.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/703.png"
   },
+  "gameId": 811,
   "baseStats": {
     "hp": 50,
     "atk": 50,
@@ -14,19 +14,19 @@
     "spDef": 150,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.sturdy"
   ],
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "genderRatio": 255,
+  "catchRate": 60,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 25,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 255
+  "growthRate": 5
 }

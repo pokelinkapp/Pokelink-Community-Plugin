@@ -1,11 +1,11 @@
 {
-  "gameId": 116,
   "name": "RadRed.Species.horsea",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/116.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/116.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/116.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/116.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/116.png"
   },
+  "gameId": 116,
   "baseStats": {
     "hp": 30,
     "atk": 40,
@@ -14,18 +14,17 @@
     "spDef": 25,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.sniper",
     "RadRed.Abilities.damp"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 225,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

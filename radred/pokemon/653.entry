@@ -1,11 +1,11 @@
 {
-  "gameId": 761,
   "name": "RadRed.Species.fennekin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/653.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/653.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/653.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/653.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/653.png"
   },
+  "gameId": 761,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.magic_guard"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

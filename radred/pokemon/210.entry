@@ -1,11 +1,11 @@
 {
-  "gameId": 210,
   "name": "RadRed.Species.granbull",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/210.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/210.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/210.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/210.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/210.png"
   },
+  "gameId": 210,
   "baseStats": {
     "hp": 100,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.bull_rush"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 75,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 75,
-  "genderRatio": 191
+  "growthRate": 4
 }

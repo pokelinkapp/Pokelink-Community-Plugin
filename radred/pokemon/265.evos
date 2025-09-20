@@ -3,15 +3,23 @@
     {
       "to": 266,
       "conditions": {
-        "pokemon.evolve.level": 7,
-        "pokemon.evolve.rarity": "rarity.randomPersonality"
+        "pokemon.evolve.level": {
+          "number": 7
+        },
+        "pokemon.evolve.rarity": {
+          "string": "rarity.randomPersonality"
+        }
       }
     },
     {
       "to": 268,
       "conditions": {
-        "pokemon.evolve.level": 7,
-        "pokemon.evolve.rarity": "rarity.randomPersonality"
+        "pokemon.evolve.level": {
+          "number": 7
+        },
+        "pokemon.evolve.rarity": {
+          "string": "rarity.randomPersonality"
+        }
       }
     }
   ]

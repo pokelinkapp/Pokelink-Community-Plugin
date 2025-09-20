@@ -4,7 +4,11 @@
       "to": 463,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.rollout"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.rollout"
+            }
+          }
         }
       }
     }

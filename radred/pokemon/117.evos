@@ -4,7 +4,11 @@
       "to": 230,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.dragon_scale"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.dragon_scale"
+            }
+          }
         }
       }
     }

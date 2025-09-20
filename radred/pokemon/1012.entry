@@ -1,11 +1,11 @@
 {
-  "gameId": 1361,
   "name": "RadRed.Species.poltchageist",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1012.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1012.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1012.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1012.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1012.png"
   },
+  "gameId": 1361,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,19 +14,18 @@
     "spDef": 54,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.heatproof",
     "RadRed.Abilities.heatproof",
     "RadRed.Abilities.heatproof"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 255
+  ]
 }

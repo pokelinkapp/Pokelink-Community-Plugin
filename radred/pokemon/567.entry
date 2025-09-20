@@ -1,11 +1,11 @@
 {
-  "gameId": 620,
   "name": "RadRed.Species.archeops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/567.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/567.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/567.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/567.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/567.png"
   },
+  "gameId": 620,
   "baseStats": {
     "hp": 75,
     "atk": 140,
@@ -14,19 +14,18 @@
     "spDef": 65,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.defeatist",
     "RadRed.Abilities.defeatist",
     "RadRed.Abilities.defeatist"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

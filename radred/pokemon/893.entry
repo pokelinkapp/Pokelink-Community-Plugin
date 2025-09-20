@@ -1,11 +1,11 @@
 {
-  "gameId": 1185,
   "name": "RadRed.Species.zarude",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/893.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/893.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/893.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/893.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/893.png"
   },
+  "gameId": 1185,
   "baseStats": {
     "hp": 105,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 95,
     "spd": 105
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.defiant",
     "RadRed.Abilities.leaf_guard"
   ],
+  "color": "color.black",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.grass"
   ],
-  "baseFriendship": 0,
-  "color": "color.black",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

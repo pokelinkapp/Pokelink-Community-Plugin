@@ -1,11 +1,11 @@
 {
-  "gameId": 1007,
   "name": "RadRed.Species.cosmoem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/790.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/790.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/790.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/790.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/790.png"
   },
+  "gameId": 1007,
   "baseStats": {
     "hp": 43,
     "atk": 29,
@@ -14,18 +14,18 @@
     "spDef": 131,
     "spd": 37
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy"
   ],
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.blue",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

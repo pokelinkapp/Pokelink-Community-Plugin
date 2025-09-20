@@ -4,8 +4,14 @@
       "to": 979,
       "conditions": {
         "pokemon.evolve.useMove": {
-          "move": "pokemon.move.rage_fist",
-          "count": 20
+          "nested": {
+            "move": {
+              "string": "pokemon.move.rage_fist"
+            },
+            "count": {
+              "number": 20
+            }
+          }
         }
       }
     }

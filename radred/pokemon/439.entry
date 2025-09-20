@@ -1,11 +1,11 @@
 {
-  "gameId": 492,
   "name": "RadRed.Species.mime_jr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/439.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/439.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/439.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/439.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/439.png"
   },
+  "gameId": 492,
   "baseStats": {
     "hp": 20,
     "atk": 25,
@@ -14,19 +14,18 @@
     "spDef": 90,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.soundproof",
     "RadRed.Abilities.filter",
     "RadRed.Abilities.technician"
   ],
+  "color": "color.pink",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 145,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 145,
-  "genderRatio": 127
+  ]
 }

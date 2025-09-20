@@ -1,11 +1,11 @@
 {
-  "gameId": 55,
   "name": "RadRed.Species.golduck",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/55.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/55.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/55.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/55.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/55.png"
   },
+  "gameId": 55,
   "baseStats": {
     "hp": 80,
     "atk": 82,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.cloud_nine",
     "RadRed.Abilities.neuroforce"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.water",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

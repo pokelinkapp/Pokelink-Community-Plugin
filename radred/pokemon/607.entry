@@ -1,11 +1,11 @@
 {
-  "gameId": 660,
   "name": "RadRed.Species.litwick",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/607.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/607.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/607.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/607.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/607.png"
   },
+  "gameId": 660,
   "baseStats": {
     "hp": 50,
     "atk": 30,
@@ -14,19 +14,19 @@
     "spDef": 55,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.flame_body",
     "RadRed.Abilities.shadow_tag"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

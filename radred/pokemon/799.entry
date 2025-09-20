@@ -1,11 +1,11 @@
 {
-  "gameId": 1016,
   "name": "RadRed.Species.guzzlord",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/799.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/799.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/799.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/799.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/799.png"
   },
+  "gameId": 1016,
   "baseStats": {
     "hp": 203,
     "atk": 101,
@@ -14,19 +14,19 @@
     "spDef": 73,
     "spd": 23
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.dark_aura",
     "RadRed.Abilities.beast_boost"
   ],
+  "color": "color.black",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.black",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

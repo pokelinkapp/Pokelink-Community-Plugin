@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 753,
   "name": "RadRed.Species.kyurem",
-  "formName": "RadRed.Forms.white",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/646.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/646-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/646.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/646-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/646.1.png"
   },
+  "gameId": 753,
+  "form": 1,
+  "formName": "RadRed.Forms.white",
   "baseStats": {
     "hp": 125,
     "atk": 120,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 95
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.turboblaze",
     "RadRed.Abilities.turboblaze",
     "RadRed.Abilities.turboblaze"
   ],
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

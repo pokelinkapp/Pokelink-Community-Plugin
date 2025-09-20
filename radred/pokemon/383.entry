@@ -1,11 +1,11 @@
 {
-  "gameId": 405,
   "name": "RadRed.Species.groudon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/383.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/383.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/383.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/383.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/383.png"
   },
+  "gameId": 405,
   "baseStats": {
     "hp": 100,
     "atk": 150,
@@ -14,18 +14,18 @@
     "spDef": 90,
     "spd": 90
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.drought",
     "RadRed.Abilities.drought",
     "RadRed.Abilities.drought"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.ground"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 242,
   "name": "RadRed.Species.blissey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/242.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/242.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/242.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/242.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/242.png"
   },
+  "gameId": 242,
   "baseStats": {
     "hp": 255,
     "atk": 10,
@@ -14,18 +14,18 @@
     "spDef": 135,
     "spd": 55
   },
+  "baseFriendship": 140,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.natural_cure"
   ],
+  "color": "color.pink",
+  "hatchCycles": 40,
+  "genderRatio": 254,
+  "catchRate": 30,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 140,
-  "color": "color.pink",
-  "hatchCycles": 40,
-  "expGroup": 4,
-  "catchRate": 30,
-  "genderRatio": 254
+  "growthRate": 4
 }

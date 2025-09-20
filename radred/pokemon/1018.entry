@@ -1,11 +1,11 @@
 {
-  "gameId": 1369,
   "name": "RadRed.Species.archaludon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1018.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1018.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1018.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1018.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1018.png"
   },
+  "gameId": 1369,
   "baseStats": {
     "hp": 90,
     "atk": 105,
@@ -14,19 +14,18 @@
     "spDef": 65,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.stamina",
     "RadRed.Abilities.bad_company"
   ],
+  "color": "color.white",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 10,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.dragon"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 10,
-  "genderRatio": 127
+  ]
 }

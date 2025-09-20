@@ -1,11 +1,11 @@
 {
-  "gameId": 481,
   "name": "RadRed.Species.lopunny",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/428.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/428.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/428.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/428.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/428.png"
   },
+  "gameId": 481,
   "baseStats": {
     "hp": 65,
     "atk": 76,
@@ -14,19 +14,18 @@
     "spDef": 96,
     "spd": 105
   },
+  "baseFriendship": 140,
   "abilities": [
     "RadRed.Abilities.cute_charm",
     "RadRed.Abilities.cute_charm",
     "RadRed.Abilities.limber"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.fighting"
-  ],
-  "baseFriendship": 140,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 127
+  ]
 }

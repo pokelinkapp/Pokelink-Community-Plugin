@@ -1,11 +1,11 @@
 {
-  "gameId": 513,
   "name": "RadRed.Species.abomasnow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/460.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/460.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/460.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/460.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/460.png"
   },
+  "gameId": 513,
   "baseStats": {
     "hp": 90,
     "atk": 92,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.snow_warning",
     "RadRed.Abilities.snow_warning",
     "RadRed.Abilities.soundproof"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 5
 }

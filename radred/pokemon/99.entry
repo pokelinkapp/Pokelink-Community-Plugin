@@ -1,11 +1,11 @@
 {
-  "gameId": 99,
   "name": "RadRed.Species.kingler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/99.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/99.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/99.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/99.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/99.png"
   },
+  "gameId": 99,
   "baseStats": {
     "hp": 55,
     "atk": 130,
@@ -14,18 +14,17 @@
     "spDef": 50,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hyper_cutter",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.sheer_force"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 60,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

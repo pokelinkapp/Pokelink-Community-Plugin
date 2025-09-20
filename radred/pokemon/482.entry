@@ -1,11 +1,11 @@
 {
-  "gameId": 535,
   "name": "RadRed.Species.azelf",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/482.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/482.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/482.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/482.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/482.png"
   },
+  "gameId": 535,
   "baseStats": {
     "hp": 75,
     "atk": 125,
@@ -14,18 +14,18 @@
     "spDef": 70,
     "spd": 115
   },
+  "baseFriendship": 140,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.blue",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 140,
-  "color": "color.blue",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

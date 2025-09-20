@@ -3,15 +3,23 @@
     {
       "to": 791,
       "conditions": {
-        "pokemon.evolve.level": 53,
-        "pokemon.evolve.game": "Game.Name.SUN} / ${Game.Name.ULTRA_SUN} / ${Game.Name.SWORD} / ${Game.Name.SCARLET"
+        "pokemon.evolve.level": {
+          "number": 53
+        },
+        "pokemon.evolve.game": {
+          "string": "Game.Name.SUN} / ${Game.Name.ULTRA_SUN} / ${Game.Name.SWORD} / ${Game.Name.SCARLET"
+        }
       }
     },
     {
       "to": 792,
       "conditions": {
-        "pokemon.evolve.level": 53,
-        "pokemon.evolve.game": "Game.Name.MOON} / ${Game.Name.ULTRA_MOON} / ${Game.Name.SHIELD} / ${Game.Name.VIOLET"
+        "pokemon.evolve.level": {
+          "number": 53
+        },
+        "pokemon.evolve.game": {
+          "string": "Game.Name.MOON} / ${Game.Name.ULTRA_MOON} / ${Game.Name.SHIELD} / ${Game.Name.VIOLET"
+        }
       }
     }
   ]

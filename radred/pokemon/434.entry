@@ -1,11 +1,11 @@
 {
-  "gameId": 487,
   "name": "RadRed.Species.stunky",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/434.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/434.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/434.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/434.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/434.png"
   },
+  "gameId": 487,
   "baseStats": {
     "hp": 63,
     "atk": 63,
@@ -14,19 +14,18 @@
     "spDef": 41,
     "spd": 74
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.stench",
     "RadRed.Abilities.aftermath",
     "RadRed.Abilities.frisk"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 225,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 225,
-  "genderRatio": 127
+  ]
 }

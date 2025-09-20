@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 877,
   "name": "RadRed.Species.gengar",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/94.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/94-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/94.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/94-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/94.1.png"
   },
+  "gameId": 877,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 60,
     "atk": 65,
@@ -16,19 +16,19 @@
     "spDef": 95,
     "spd": 130
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shadow_tag",
     "RadRed.Abilities.shadow_tag",
     "RadRed.Abilities.shadow_tag"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

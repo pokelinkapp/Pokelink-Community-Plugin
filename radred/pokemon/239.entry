@@ -1,11 +1,11 @@
 {
-  "gameId": 239,
   "name": "RadRed.Species.elekid",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/239.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/239.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/239.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/239.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/239.png"
   },
+  "gameId": 239,
   "baseStats": {
     "hp": 45,
     "atk": 63,
@@ -14,18 +14,17 @@
     "spDef": 55,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.static",
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.iron_fist"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 25,
-  "expGroup": 0,
+  "genderRatio": 63,
   "catchRate": 45,
-  "genderRatio": 63
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

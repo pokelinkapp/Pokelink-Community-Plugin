@@ -1,11 +1,11 @@
 {
-  "gameId": 446,
   "name": "RadRed.Species.piplup",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/393.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/393.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/393.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/393.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/393.png"
   },
+  "gameId": 446,
   "baseStats": {
     "hp": 53,
     "atk": 51,
@@ -14,18 +14,18 @@
     "spDef": 56,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.competitive"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

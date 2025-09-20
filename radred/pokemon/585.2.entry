@@ -1,12 +1,12 @@
 {
-  "form": 2,
-  "gameId": 739,
   "name": "RadRed.Species.deerling",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/585.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/585-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/585.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/585-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/585.2.png"
   },
+  "gameId": 739,
+  "form": 2,
   "baseStats": {
     "hp": 60,
     "atk": 60,
@@ -15,19 +15,18 @@
     "spDef": 50,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.serene_grace"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

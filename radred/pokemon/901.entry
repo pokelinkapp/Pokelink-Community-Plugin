@@ -1,11 +1,11 @@
 {
-  "gameId": 1302,
   "name": "RadRed.Species.ursaluna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/901.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/901.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/901.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/901.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/901.png"
   },
+  "gameId": 1302,
   "baseStats": {
     "hp": 130,
     "atk": 140,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.bulletproof",
     "RadRed.Abilities.unnerve"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 20,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 20,
-  "genderRatio": 127
+  ]
 }

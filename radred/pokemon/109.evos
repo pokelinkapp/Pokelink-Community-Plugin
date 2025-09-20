@@ -3,14 +3,18 @@
     {
       "to": 110,
       "conditions": {
-        "pokemon.evolve.level": 35
+        "pokemon.evolve.level": {
+          "number": 35
+        }
       },
       "toForm": 1
     },
     {
       "to": 110,
       "conditions": {
-        "pokemon.evolve.level": 35
+        "pokemon.evolve.level": {
+          "number": 35
+        }
       }
     }
   ]

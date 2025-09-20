@@ -1,11 +1,11 @@
 {
-  "gameId": 828,
   "name": "RadRed.Species.hoopa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/720.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/720.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/720.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/720.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/720.png"
   },
+  "gameId": 828,
   "baseStats": {
     "hp": 80,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 130,
     "spd": 70
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.magician",
     "RadRed.Abilities.magician",
     "RadRed.Abilities.magician"
   ],
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 100,
-  "color": "color.purple",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

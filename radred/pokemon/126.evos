@@ -4,7 +4,11 @@
       "to": 467,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.magmarizer"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.magmarizer"
+            }
+          }
         }
       }
     }

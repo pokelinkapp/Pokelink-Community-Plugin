@@ -1,11 +1,11 @@
 {
-  "gameId": 775,
   "name": "RadRed.Species.litleo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/667.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/667.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/667.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/667.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/667.png"
   },
+  "gameId": 775,
   "baseStats": {
     "hp": 62,
     "atk": 50,
@@ -14,19 +14,19 @@
     "spDef": 54,
     "spd": 72
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rivalry",
     "RadRed.Abilities.unnerve",
     "RadRed.Abilities.adaptability"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 225,
+  "catchRate": 220,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 220,
-  "genderRatio": 225
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 403,
   "name": "RadRed.Species.registeel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/379.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/379.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/379.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/379.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/379.png"
   },
+  "gameId": 403,
   "baseStats": {
     "hp": 80,
     "atk": 75,
@@ -14,18 +14,18 @@
     "spDef": 150,
     "spd": 50
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body"
   ],
+  "color": "color.gray",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1232,
   "name": "RadRed.Species.iron_valiant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1006.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1006.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1006.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1006.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1006.png"
   },
+  "gameId": 1232,
   "baseStats": {
     "hp": 74,
     "atk": 130,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 116
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive"
   ],
+  "color": "color.white",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

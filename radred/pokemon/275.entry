@@ -1,11 +1,11 @@
 {
-  "gameId": 300,
   "name": "RadRed.Species.shiftry",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/275.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/275.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/275.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/275.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/275.png"
   },
+  "gameId": 300,
   "baseStats": {
     "hp": 90,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.wind_rider",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

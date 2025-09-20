@@ -1,13 +1,13 @@
 {
-  "form": 15,
-  "gameId": 1099,
   "name": "RadRed.Species.pikachu",
-  "formName": "RadRed.Forms.partner",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.15.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/25-15.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/25.15.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/25-15.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/25.15.png"
   },
+  "gameId": 1099,
+  "form": 15,
+  "formName": "RadRed.Forms.partner",
   "baseStats": {
     "hp": 35,
     "atk": 55,
@@ -16,18 +16,17 @@
     "spDef": 50,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.static",
     "RadRed.Abilities.static",
     "RadRed.Abilities.lightning_rod"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 10,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

@@ -4,7 +4,11 @@
       "to": 1000,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.gimmighoulCoins": 999
+          "nested": {
+            "pokemon.evolve.gimmighoulCoins": {
+              "number": 999
+            }
+          }
         }
       }
     }

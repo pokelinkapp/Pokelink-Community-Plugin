@@ -1,11 +1,11 @@
 {
-  "gameId": 75,
   "name": "RadRed.Species.graveler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/75.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/75.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/75.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/75.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/75.png"
   },
+  "gameId": 75,
   "baseStats": {
     "hp": 55,
     "atk": 95,
@@ -14,19 +14,19 @@
     "spDef": 45,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sand_veil"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

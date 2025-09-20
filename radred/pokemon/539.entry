@@ -1,11 +1,11 @@
 {
-  "gameId": 592,
   "name": "RadRed.Species.sawk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/539.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/539.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/539.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/539.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/539.png"
   },
+  "gameId": 592,
   "baseStats": {
     "hp": 75,
     "atk": 125,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.contrary"
   ],
-  "types": [
-    "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 0,
   "catchRate": 45,
-  "genderRatio": 0
+  "types": [
+    "pokemon.type.fighting"
+  ]
 }

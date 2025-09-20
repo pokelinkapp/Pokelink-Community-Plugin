@@ -1,11 +1,11 @@
 {
-  "gameId": 321,
   "name": "RadRed.Species.torkoal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/324.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/324.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/324.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/324.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/324.png"
   },
+  "gameId": 321,
   "baseStats": {
     "hp": 70,
     "atk": 75,
@@ -14,18 +14,17 @@
     "spDef": 70,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.white_smoke",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.drought"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

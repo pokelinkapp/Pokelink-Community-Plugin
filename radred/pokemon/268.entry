@@ -1,11 +1,11 @@
 {
-  "gameId": 293,
   "name": "RadRed.Species.cascoon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/268.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/268.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/268.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/268.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/268.png"
   },
+  "gameId": 293,
   "baseStats": {
     "hp": 50,
     "atk": 35,
@@ -14,18 +14,17 @@
     "spDef": 25,
     "spd": 15
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.run_away"
   ],
-  "types": [
-    "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
   "color": "color.purple",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.bug"
+  ]
 }

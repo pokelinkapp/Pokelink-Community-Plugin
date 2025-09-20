@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1287,
   "name": "RadRed.Species.clauncher",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/692.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/692-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/692.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/692-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/692.1.png"
   },
+  "gameId": 1287,
+  "form": 1,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 50,
     "atk": 38,
@@ -16,19 +16,19 @@
     "spDef": 63,
     "spd": 59
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 225,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 225,
-  "genderRatio": 127
+  "growthRate": 5
 }

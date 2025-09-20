@@ -1,11 +1,11 @@
 {
-  "gameId": 778,
   "name": "RadRed.Species.floette",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/670.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/670.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/670.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/670.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/670.png"
   },
+  "gameId": 778,
   "baseStats": {
     "hp": 54,
     "atk": 45,
@@ -14,18 +14,17 @@
     "spDef": 98,
     "spd": 52
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.natural_cure"
   ],
-  "types": [
-    "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 254,
   "catchRate": 120,
-  "genderRatio": 254
+  "types": [
+    "pokemon.type.fairy"
+  ]
 }

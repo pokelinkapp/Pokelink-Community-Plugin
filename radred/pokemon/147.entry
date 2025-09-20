@@ -1,11 +1,11 @@
 {
-  "gameId": 147,
   "name": "RadRed.Species.dratini",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/147.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/147.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/147.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/147.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/147.png"
   },
+  "gameId": 147,
   "baseStats": {
     "hp": 41,
     "atk": 64,
@@ -14,18 +14,18 @@
     "spDef": 50,
     "spd": 50
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.marvel_scale"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

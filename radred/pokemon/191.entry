@@ -1,11 +1,11 @@
 {
-  "gameId": 191,
   "name": "RadRed.Species.sunkern",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/191.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/191.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/191.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/191.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/191.png"
   },
+  "gameId": 191,
   "baseStats": {
     "hp": 30,
     "atk": 30,
@@ -14,18 +14,18 @@
     "spDef": 30,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.solar_power",
     "RadRed.Abilities.early_bird"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 235,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 235,
-  "genderRatio": 127
+  "growthRate": 3
 }

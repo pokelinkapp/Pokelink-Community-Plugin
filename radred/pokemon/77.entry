@@ -1,11 +1,11 @@
 {
-  "gameId": 77,
   "name": "RadRed.Species.ponyta",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/77.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/77.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/77.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/77.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/77.png"
   },
+  "gameId": 77,
   "baseStats": {
     "hp": 50,
     "atk": 85,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.flame_body"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

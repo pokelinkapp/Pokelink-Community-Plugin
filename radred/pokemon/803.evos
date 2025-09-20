@@ -4,7 +4,11 @@
       "to": 804,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.dragon_pulse"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.dragon_pulse"
+            }
+          }
         }
       }
     }

@@ -1,11 +1,11 @@
 {
-  "gameId": 154,
   "name": "RadRed.Species.meganium",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/154.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/154.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/154.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/154.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/154.png"
   },
+  "gameId": 154,
   "baseStats": {
     "hp": 80,
     "atk": 82,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.triage"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

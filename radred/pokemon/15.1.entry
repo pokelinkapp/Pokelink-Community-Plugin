@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 873,
   "name": "RadRed.Species.beedrill",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/15.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/15-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/15.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/15-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/15.1.png"
   },
+  "gameId": 873,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 65,
     "atk": 150,
@@ -16,19 +16,18 @@
     "spDef": 80,
     "spd": 145
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.adaptability"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.poison"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

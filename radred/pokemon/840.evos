@@ -3,19 +3,25 @@
     {
       "to": 841,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.tart_apple"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.tart_apple"
+        }
       }
     },
     {
       "to": 842,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.sweet_apple"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.sweet_apple"
+        }
       }
     },
     {
       "to": 1011,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.syrupy_apple"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.syrupy_apple"
+        }
       }
     }
   ]

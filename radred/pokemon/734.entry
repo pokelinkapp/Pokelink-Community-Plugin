@@ -1,11 +1,11 @@
 {
-  "gameId": 951,
   "name": "RadRed.Species.yungoos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/734.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/734.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/734.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/734.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/734.png"
   },
+  "gameId": 951,
   "baseStats": {
     "hp": 48,
     "atk": 70,
@@ -14,18 +14,17 @@
     "spDef": 30,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.stakeout",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.adaptability"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

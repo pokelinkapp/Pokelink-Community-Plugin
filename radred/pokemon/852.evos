@@ -4,7 +4,11 @@
       "to": 853,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.taunt"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.taunt"
+            }
+          }
         }
       }
     }

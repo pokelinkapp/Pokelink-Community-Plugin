@@ -1,11 +1,11 @@
 {
-  "gameId": 156,
   "name": "RadRed.Species.quilava",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/156.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/156.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/156.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/156.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/156.png"
   },
+  "gameId": 156,
   "baseStats": {
     "hp": 58,
     "atk": 64,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.flash_fire"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

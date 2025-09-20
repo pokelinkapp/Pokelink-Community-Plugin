@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 884,
   "name": "RadRed.Species.ampharos",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/181.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/181-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/181.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/181-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/181.1.png"
   },
+  "gameId": 884,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 90,
     "atk": 95,
@@ -16,19 +16,19 @@
     "spDef": 110,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.mold_breaker"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

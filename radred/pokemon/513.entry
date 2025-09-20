@@ -1,11 +1,11 @@
 {
-  "gameId": 566,
   "name": "RadRed.Species.pansear",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/513.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/513.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/513.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/513.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/513.png"
   },
+  "gameId": 566,
   "baseStats": {
     "hp": 50,
     "atk": 53,
@@ -14,18 +14,17 @@
     "spDef": 48,
     "spd": 64
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.blaze"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 31,
   "catchRate": 190,
-  "genderRatio": 31
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

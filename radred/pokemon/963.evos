@@ -4,7 +4,11 @@
       "to": 964,
       "conditions": {
         "pokemon.evolve.multiplayer": {
-          "pokemon.evolve.level": 38
+          "nested": {
+            "pokemon.evolve.level": {
+              "number": 38
+            }
+          }
         }
       }
     }

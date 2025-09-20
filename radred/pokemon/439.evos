@@ -4,7 +4,11 @@
       "to": 122,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.mimic"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.mimic"
+            }
+          }
         }
       },
       "toForm": 1
@@ -13,7 +17,11 @@
       "to": 122,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.mimic"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.mimic"
+            }
+          }
         }
       }
     }

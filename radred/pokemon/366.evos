@@ -4,7 +4,11 @@
       "to": 367,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.deep_sea_tooth"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.deep_sea_tooth"
+            }
+          }
         }
       }
     },
@@ -12,7 +16,11 @@
       "to": 368,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.deep_sea_scale"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.deep_sea_scale"
+            }
+          }
         }
       }
     }

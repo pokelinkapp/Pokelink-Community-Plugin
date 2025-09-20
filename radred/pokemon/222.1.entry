@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1221,
   "name": "RadRed.Species.corsola",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/222.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/222-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/222.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/222-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/222.1.png"
   },
+  "gameId": 1221,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 60,
     "atk": 55,
@@ -16,18 +16,18 @@
     "spDef": 100,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.perish_body"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 60,
-  "genderRatio": 191
+  "growthRate": 4
 }

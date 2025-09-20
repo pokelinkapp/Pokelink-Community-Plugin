@@ -1,11 +1,11 @@
 {
-  "gameId": 467,
   "name": "RadRed.Species.mothim",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/414.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/414.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/414.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/414.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/414.png"
   },
+  "gameId": 467,
   "baseStats": {
     "hp": 70,
     "atk": 84,
@@ -14,19 +14,18 @@
     "spDef": 50,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.tinted_lens"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "genderRatio": 0,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 0
+  ]
 }

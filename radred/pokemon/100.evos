@@ -3,18 +3,22 @@
     {
       "to": 101,
       "conditions": {
-        "pokemon.evolve.level": 30
+        "pokemon.evolve.level": {
+          "number": 30
+        }
       },
-      "toForm": 0,
-      "fromForm": 0
+      "fromForm": 0,
+      "toForm": 0
     },
     {
       "to": 101,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.leaf_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.leaf_stone"
+        }
       },
-      "toForm": 1,
-      "fromForm": 1
+      "fromForm": 1,
+      "toForm": 1
     }
   ]
 }

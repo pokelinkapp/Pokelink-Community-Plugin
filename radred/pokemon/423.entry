@@ -1,11 +1,11 @@
 {
-  "gameId": 476,
   "name": "RadRed.Species.gastrodon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/423.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/423.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/423.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/423.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/423.png"
   },
+  "gameId": 476,
   "baseStats": {
     "hp": 111,
     "atk": 83,
@@ -14,19 +14,18 @@
     "spDef": 82,
     "spd": 39
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sticky_hold",
     "RadRed.Abilities.storm_drain",
     "RadRed.Abilities.sand_force"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 942,
   "name": "RadRed.Species.litten",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/725.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/725.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/725.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/725.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/725.png"
   },
+  "gameId": 942,
   "baseStats": {
     "hp": 45,
     "atk": 65,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.intimidate"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

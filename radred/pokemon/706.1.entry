@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1298,
   "name": "RadRed.Species.goodra",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/706.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/706-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/706.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/706-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/706.1.png"
   },
+  "gameId": 1298,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 80,
     "atk": 100,
@@ -16,19 +16,19 @@
     "spDef": 150,
     "spd": 60
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.overcoat",
     "RadRed.Abilities.gooey"
   ],
+  "color": "color.purple",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 35,
-  "color": "color.purple",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

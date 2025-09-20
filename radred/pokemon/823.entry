@@ -1,11 +1,11 @@
 {
-  "gameId": 1115,
   "name": "RadRed.Species.corviknight",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/823.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/823.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/823.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/823.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/823.png"
   },
+  "gameId": 1115,
   "baseStats": {
     "hp": 98,
     "atk": 87,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 67
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.unnerve",
     "RadRed.Abilities.pressure"
   ],
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.flying",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

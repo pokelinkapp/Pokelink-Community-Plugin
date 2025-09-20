@@ -1,11 +1,11 @@
 {
-  "gameId": 1149,
   "name": "RadRed.Species.hattrem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/857.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/857.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/857.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/857.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/857.png"
   },
+  "gameId": 1149,
   "baseStats": {
     "hp": 57,
     "atk": 40,
@@ -14,18 +14,18 @@
     "spDef": 73,
     "spd": 49
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.magic_bounce",
     "RadRed.Abilities.magic_bounce",
     "RadRed.Abilities.magic_bounce"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 120,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 120,
-  "genderRatio": 254
+  "growthRate": 5
 }

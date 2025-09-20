@@ -1,11 +1,11 @@
 {
-  "gameId": 224,
   "name": "RadRed.Species.octillery",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/224.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/224.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/224.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/224.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/224.png"
   },
+  "gameId": 224,
   "baseStats": {
     "hp": 75,
     "atk": 105,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.sniper",
     "RadRed.Abilities.skill_link"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 75,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

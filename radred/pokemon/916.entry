@@ -1,11 +1,11 @@
 {
-  "gameId": 847,
   "name": "RadRed.Species.oinkologne",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/916.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/916.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/916.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/916.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/916.png"
   },
+  "gameId": 847,
   "baseStats": {
     "hp": 110,
     "atk": 100,
@@ -14,18 +14,17 @@
     "spDef": 80,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.lingering_aroma",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.thick_fat"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.gray",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 0,
   "catchRate": 100,
-  "genderRatio": 0
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

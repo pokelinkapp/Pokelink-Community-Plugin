@@ -1,11 +1,11 @@
 {
-  "gameId": 460,
   "name": "RadRed.Species.roserade",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/407.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/407.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/407.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/407.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/407.png"
   },
+  "gameId": 460,
   "baseStats": {
     "hp": 60,
     "atk": 70,
@@ -14,19 +14,19 @@
     "spDef": 105,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.technician"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 75,
-  "genderRatio": 127
+  "growthRate": 3
 }

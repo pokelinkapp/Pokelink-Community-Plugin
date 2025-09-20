@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1296,
   "name": "RadRed.Species.electrode",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/101.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/101-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/101.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/101-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/101.1.png"
   },
+  "gameId": 1296,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 60,
     "atk": 55,
@@ -16,19 +16,18 @@
     "spDef": 80,
     "spd": 150
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.soundproof",
     "RadRed.Abilities.static",
     "RadRed.Abilities.reckless"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 60,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 255
+  ]
 }

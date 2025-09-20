@@ -1,11 +1,11 @@
 {
-  "gameId": 402,
   "name": "RadRed.Species.regice",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/378.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/378.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/378.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/378.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/378.png"
   },
+  "gameId": 402,
   "baseStats": {
     "hp": 80,
     "atk": 50,
@@ -14,18 +14,18 @@
     "spDef": 200,
     "spd": 50
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.filter"
   ],
+  "color": "color.blue",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.ice"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

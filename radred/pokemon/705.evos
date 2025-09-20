@@ -3,20 +3,28 @@
     {
       "to": 706,
       "conditions": {
-        "pokemon.evolve.level": 50,
-        "pokemon.evolve.weather": "weather.raining"
+        "pokemon.evolve.level": {
+          "number": 50
+        },
+        "pokemon.evolve.weather": {
+          "string": "weather.raining"
+        }
       },
-      "toForm": 1,
-      "fromForm": 1
+      "fromForm": 1,
+      "toForm": 1
     },
     {
       "to": 706,
       "conditions": {
-        "pokemon.evolve.level": 50,
-        "pokemon.evolve.weather": "weather.raining"
+        "pokemon.evolve.level": {
+          "number": 50
+        },
+        "pokemon.evolve.weather": {
+          "string": "weather.raining"
+        }
       },
-      "toForm": 0,
-      "fromForm": 0
+      "fromForm": 0,
+      "toForm": 0
     }
   ]
 }

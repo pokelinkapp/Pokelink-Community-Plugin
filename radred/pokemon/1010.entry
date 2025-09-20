@@ -1,11 +1,11 @@
 {
-  "gameId": 1353,
   "name": "RadRed.Species.iron_leaves",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1010.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1010.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1010.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1010.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1010.png"
   },
+  "gameId": 1353,
   "baseStats": {
     "hp": 90,
     "atk": 130,
@@ -14,19 +14,19 @@
     "spDef": 108,
     "spd": 104
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.green",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 5,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.green",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 5,
-  "genderRatio": 255
+  "growthRate": 5
 }

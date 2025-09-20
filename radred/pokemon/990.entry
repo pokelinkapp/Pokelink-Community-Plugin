@@ -1,11 +1,11 @@
 {
-  "gameId": 1258,
   "name": "RadRed.Species.iron_treads",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/990.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/990.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/990.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/990.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/990.png"
   },
+  "gameId": 1258,
   "baseStats": {
     "hp": 90,
     "atk": 112,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 106
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive"
   ],
+  "color": "color.gray",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 30,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 30,
-  "genderRatio": 255
+  "growthRate": 5
 }

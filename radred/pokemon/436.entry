@@ -1,11 +1,11 @@
 {
-  "gameId": 489,
   "name": "RadRed.Species.bronzor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/436.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/436.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/436.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/436.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/436.png"
   },
+  "gameId": 489,
   "baseStats": {
     "hp": 57,
     "atk": 24,
@@ -14,19 +14,18 @@
     "spDef": 86,
     "spd": 23
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.heatproof",
     "RadRed.Abilities.heavy_metal"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 255,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 255
+  ]
 }

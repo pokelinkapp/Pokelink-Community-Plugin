@@ -3,10 +3,12 @@
     {
       "to": 671,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.shiny_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.shiny_stone"
+        }
       },
-      "toForm": 0,
-      "fromForm": 0
+      "fromForm": 0,
+      "toForm": 0
     }
   ]
 }

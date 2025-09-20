@@ -1,12 +1,12 @@
 {
-  "form": 1,
-  "gameId": 705,
   "name": "RadRed.Species.jellicent",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/593.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/593-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/593.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/593-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/593.1.png"
   },
+  "gameId": 705,
+  "form": 1,
   "baseStats": {
     "hp": 100,
     "atk": 60,
@@ -15,19 +15,18 @@
     "spDef": 105,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.damp",
     "RadRed.Abilities.water_bubble"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 127
+  ]
 }

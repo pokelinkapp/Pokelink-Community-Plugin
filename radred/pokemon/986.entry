@@ -1,11 +1,11 @@
 {
-  "gameId": 1243,
   "name": "RadRed.Species.brute_bonnet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/986.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/986.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/986.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/986.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/986.png"
   },
+  "gameId": 1243,
   "baseStats": {
     "hp": 111,
     "atk": 127,
@@ -14,19 +14,19 @@
     "spDef": 99,
     "spd": 55
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.protosynthesis",
     "RadRed.Abilities.protosynthesis",
     "RadRed.Abilities.poison_heal"
   ],
+  "color": "color.gray",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 50,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 50,
-  "genderRatio": 255
+  "growthRate": 5
 }

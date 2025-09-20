@@ -1,11 +1,11 @@
 {
-  "gameId": 582,
   "name": "RadRed.Species.drilbur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/529.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/529.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/529.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/529.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/529.png"
   },
+  "gameId": 582,
   "baseStats": {
     "hp": 60,
     "atk": 85,
@@ -14,18 +14,17 @@
     "spDef": 45,
     "spd": 68
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sand_rush",
     "RadRed.Abilities.sand_force",
     "RadRed.Abilities.mold_breaker"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.gray",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

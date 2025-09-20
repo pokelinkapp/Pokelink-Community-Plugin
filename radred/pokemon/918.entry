@@ -1,11 +1,11 @@
 {
-  "gameId": 1315,
   "name": "RadRed.Species.spidops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/918.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/918.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/918.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/918.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/918.png"
   },
+  "gameId": 1315,
   "baseStats": {
     "hp": 85,
     "atk": 89,
@@ -14,18 +14,18 @@
     "spDef": 86,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.insomnia",
     "RadRed.Abilities.stakeout",
     "RadRed.Abilities.insomnia"
   ],
+  "color": "color.green",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.bug"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 15,
-  "expGroup": 1,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 1
 }

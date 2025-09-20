@@ -1,11 +1,11 @@
 {
-  "gameId": 110,
   "name": "RadRed.Species.weezing",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/110.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/110.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/110.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/110.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/110.png"
   },
+  "gameId": 110,
   "baseStats": {
     "hp": 65,
     "atk": 90,
@@ -14,18 +14,17 @@
     "spDef": 70,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.neutralize_gas",
     "RadRed.Abilities.toxic_debris"
   ],
-  "types": [
-    "pokemon.type.poison"
-  ],
-  "baseFriendship": 50,
   "color": "color.purple",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 60,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.poison"
+  ]
 }

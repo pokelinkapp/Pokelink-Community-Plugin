@@ -1,12 +1,12 @@
 {
-  "form": 2,
-  "gameId": 857,
   "name": "RadRed.Species.gourgeist",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/711.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/711-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/711.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/711-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/711.2.png"
   },
+  "gameId": 857,
+  "form": 2,
   "baseStats": {
     "hp": 75,
     "atk": 58,
@@ -15,19 +15,18 @@
     "spDef": 75,
     "spd": 69
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.flare_boost"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 127
+  ]
 }

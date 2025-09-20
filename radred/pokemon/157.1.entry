@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1299,
   "name": "RadRed.Species.typhlosion",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/157.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/157-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/157.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/157-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/157.1.png"
   },
+  "gameId": 1299,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 73,
     "atk": 84,
@@ -16,19 +16,19 @@
     "spDef": 85,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.flash_fire"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

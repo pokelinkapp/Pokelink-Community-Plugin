@@ -3,14 +3,18 @@
     {
       "to": 103,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.leaf_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.leaf_stone"
+        }
       },
       "toForm": 1
     },
     {
       "to": 103,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.leaf_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.leaf_stone"
+        }
       }
     }
   ]

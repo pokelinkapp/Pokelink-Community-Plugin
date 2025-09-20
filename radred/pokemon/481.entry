@@ -1,11 +1,11 @@
 {
-  "gameId": 534,
   "name": "RadRed.Species.mesprit",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/481.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/481.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/481.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/481.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/481.png"
   },
+  "gameId": 534,
   "baseStats": {
     "hp": 80,
     "atk": 105,
@@ -14,18 +14,18 @@
     "spDef": 105,
     "spd": 80
   },
+  "baseFriendship": 140,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.pink",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 140,
-  "color": "color.pink",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 664,
   "name": "RadRed.Species.fraxure",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/611.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/611.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/611.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/611.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/611.png"
   },
+  "gameId": 664,
   "baseStats": {
     "hp": 66,
     "atk": 117,
@@ -14,18 +14,18 @@
     "spDef": 50,
     "spd": 67
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.rivalry",
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.unnerve"
   ],
+  "color": "color.green",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 35,
-  "color": "color.green",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 765,
   "name": "RadRed.Species.frogadier",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/657.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/657.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/657.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/657.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/657.png"
   },
+  "gameId": 765,
   "baseStats": {
     "hp": 54,
     "atk": 63,
@@ -14,18 +14,18 @@
     "spDef": 56,
     "spd": 97
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.protean"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

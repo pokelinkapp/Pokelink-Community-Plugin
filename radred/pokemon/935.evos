@@ -3,13 +3,17 @@
     {
       "to": 936,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.auspicious_armor"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.auspicious_armor"
+        }
       }
     },
     {
       "to": 937,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.malicious_armor"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.malicious_armor"
+        }
       }
     }
   ]

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1028,
   "name": "RadRed.Species.dugtrio",
-  "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/51.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/51-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/51.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/51-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/51.1.png"
   },
+  "gameId": 1028,
+  "form": 1,
+  "formName": "RadRed.Forms.alola",
   "baseStats": {
     "hp": 35,
     "atk": 110,
@@ -16,19 +16,18 @@
     "spDef": 70,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.tangling_hair",
     "RadRed.Abilities.sand_force"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 50,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 50,
-  "genderRatio": 127
+  ]
 }

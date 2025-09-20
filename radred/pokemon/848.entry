@@ -1,11 +1,11 @@
 {
-  "gameId": 1140,
   "name": "RadRed.Species.toxel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/848.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/848.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/848.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/848.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/848.png"
   },
+  "gameId": 1140,
   "baseStats": {
     "hp": 40,
     "atk": 38,
@@ -14,19 +14,19 @@
     "spDef": 35,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.lightning_rod",
     "RadRed.Abilities.static",
     "RadRed.Abilities.lightning_rod"
   ],
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 25,
-  "expGroup": 3,
-  "catchRate": 75,
-  "genderRatio": 127
+  "growthRate": 3
 }

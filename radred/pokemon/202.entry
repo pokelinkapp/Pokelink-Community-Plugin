@@ -1,11 +1,11 @@
 {
-  "gameId": 202,
   "name": "RadRed.Species.wobbuffet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/202.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/202.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/202.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/202.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/202.png"
   },
+  "gameId": 202,
   "baseStats": {
     "hp": 190,
     "atk": 33,
@@ -14,18 +14,17 @@
     "spDef": 58,
     "spd": 33
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shadow_tag",
     "RadRed.Abilities.shadow_tag",
     "RadRed.Abilities.telepathy"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 45,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

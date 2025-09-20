@@ -1,11 +1,11 @@
 {
-  "gameId": 100,
   "name": "RadRed.Species.voltorb",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/100.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/100.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/100.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/100.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/100.png"
   },
+  "gameId": 100,
   "baseStats": {
     "hp": 40,
     "atk": 30,
@@ -14,18 +14,17 @@
     "spDef": 55,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.soundproof",
     "RadRed.Abilities.static",
     "RadRed.Abilities.galvanize"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 255,
   "catchRate": 190,
-  "genderRatio": 255
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

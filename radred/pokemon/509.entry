@@ -1,11 +1,11 @@
 {
-  "gameId": 562,
   "name": "RadRed.Species.purrloin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/509.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/509.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/509.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/509.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/509.png"
   },
+  "gameId": 562,
   "baseStats": {
     "hp": 41,
     "atk": 50,
@@ -14,18 +14,17 @@
     "spDef": 37,
     "spd": 66
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.limber",
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.prankster"
   ],
-  "types": [
-    "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
   "color": "color.purple",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.dark"
+  ]
 }

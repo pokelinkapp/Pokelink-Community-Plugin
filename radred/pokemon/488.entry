@@ -1,11 +1,11 @@
 {
-  "gameId": 541,
   "name": "RadRed.Species.cresselia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/488.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/488.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/488.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/488.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/488.png"
   },
+  "gameId": 541,
   "baseStats": {
     "hp": 120,
     "atk": 70,
@@ -14,18 +14,18 @@
     "spDef": 130,
     "spd": 85
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "genderRatio": 254,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 100,
-  "color": "color.yellow",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 254
+  "growthRate": 5
 }

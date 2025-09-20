@@ -1,11 +1,11 @@
 {
-  "gameId": 284,
   "name": "RadRed.Species.marshtomp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/259.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/259.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/259.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/259.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/259.png"
   },
+  "gameId": 284,
   "baseStats": {
     "hp": 70,
     "atk": 85,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.damp"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1176,
   "name": "RadRed.Species.duraludon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/884.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/884.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/884.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/884.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/884.png"
   },
+  "gameId": 1176,
   "baseStats": {
     "hp": 85,
     "atk": 95,
@@ -14,19 +14,18 @@
     "spDef": 50,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.heavy_metal",
     "RadRed.Abilities.heavy_metal",
     "RadRed.Abilities.stalwart"
   ],
+  "color": "color.white",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.dragon"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

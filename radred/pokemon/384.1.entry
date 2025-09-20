@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 911,
   "name": "RadRed.Species.rayquaza",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/384.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/384-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/384.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/384-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/384.1.png"
   },
+  "gameId": 911,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 105,
     "atk": 180,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 115
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.delta_stream",
     "RadRed.Abilities.delta_stream",
     "RadRed.Abilities.delta_stream"
   ],
+  "color": "color.green",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 0,
-  "color": "color.green",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

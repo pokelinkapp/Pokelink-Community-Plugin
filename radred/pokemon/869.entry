@@ -1,11 +1,11 @@
 {
-  "gameId": 1161,
   "name": "RadRed.Species.alcremie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/869.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/869.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/869.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/869.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/869.png"
   },
+  "gameId": 1161,
   "baseStats": {
     "hp": 65,
     "atk": 60,
@@ -14,18 +14,17 @@
     "spDef": 121,
     "spd": 64
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sweet_veil",
     "RadRed.Abilities.sweet_veil",
     "RadRed.Abilities.aroma_veil"
   ],
-  "types": [
-    "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 254,
   "catchRate": 100,
-  "genderRatio": 254
+  "types": [
+    "pokemon.type.fairy"
+  ]
 }

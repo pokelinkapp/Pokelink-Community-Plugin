@@ -1,11 +1,11 @@
 {
-  "gameId": 810,
   "name": "RadRed.Species.dedenne",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/702.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/702.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/702.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/702.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/702.png"
   },
+  "gameId": 810,
   "baseStats": {
     "hp": 67,
     "atk": 58,
@@ -14,19 +14,18 @@
     "spDef": 67,
     "spd": 101
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.cheek_pouch",
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.electric_surge"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 180,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 180,
-  "genderRatio": 127
+  ]
 }

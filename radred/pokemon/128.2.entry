@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1240,
   "name": "RadRed.Species.tauros",
-  "formName": "RadRed.Forms.paldea_blaze",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/128.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/128-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/128.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/128-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/128.2.png"
   },
+  "gameId": 1240,
+  "form": 2,
+  "formName": "RadRed.Forms.paldea_blaze",
   "baseStats": {
     "hp": 75,
     "atk": 110,
@@ -16,19 +16,19 @@
     "spDef": 70,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.anger_point",
     "RadRed.Abilities.gluttony"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 0
+  "growthRate": 5
 }

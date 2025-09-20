@@ -3,8 +3,12 @@
     {
       "to": 901,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.peat_block",
-        "pokemon.evolve.time": "timeOfDay.fullMoon"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.peat_block"
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.fullMoon"
+        }
       }
     }
   ]

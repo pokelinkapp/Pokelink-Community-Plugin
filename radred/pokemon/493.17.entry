@@ -1,13 +1,13 @@
 {
-  "form": 17,
-  "gameId": 834,
   "name": "RadRed.Species.arceus",
-  "formName": "RadRed.Forms.fairy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.17.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-17.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/493.17.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/493-17.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.17.png"
   },
+  "gameId": 834,
+  "form": 17,
+  "formName": "RadRed.Forms.fairy",
   "baseStats": {
     "hp": 120,
     "atk": 120,
@@ -16,18 +16,18 @@
     "spDef": 120,
     "spd": 120
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 800,
   "name": "RadRed.Species.clauncher",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/692.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/692.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/692.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/692.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/692.png"
   },
+  "gameId": 800,
   "baseStats": {
     "hp": 50,
     "atk": 53,
@@ -14,18 +14,18 @@
     "spDef": 63,
     "spd": 44
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 225,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 225,
-  "genderRatio": 127
+  "growthRate": 5
 }

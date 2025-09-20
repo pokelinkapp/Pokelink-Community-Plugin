@@ -1,11 +1,11 @@
 {
-  "gameId": 979,
   "name": "RadRed.Species.steenee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/762.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/762.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/762.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/762.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/762.png"
   },
+  "gameId": 979,
   "baseStats": {
     "hp": 52,
     "atk": 70,
@@ -14,18 +14,18 @@
     "spDef": 48,
     "spd": 62
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.oblivious",
     "RadRed.Abilities.sweet_veil"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 120,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 254
+  "growthRate": 3
 }

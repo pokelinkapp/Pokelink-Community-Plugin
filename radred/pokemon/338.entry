@@ -1,11 +1,11 @@
 {
-  "gameId": 349,
   "name": "RadRed.Species.solrock",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/338.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/338.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/338.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/338.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/338.png"
   },
+  "gameId": 349,
   "baseStats": {
     "hp": 90,
     "atk": 105,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.red",
+  "hatchCycles": 25,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 25,
-  "expGroup": 4,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 4
 }

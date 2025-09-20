@@ -1,11 +1,11 @@
 {
-  "gameId": 28,
   "name": "RadRed.Species.sandslash",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/28.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/28.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/28.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/28.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/28.png"
   },
+  "gameId": 28,
   "baseStats": {
     "hp": 75,
     "atk": 110,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.sand_rush"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

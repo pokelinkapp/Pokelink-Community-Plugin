@@ -1,11 +1,11 @@
 {
-  "gameId": 308,
   "name": "RadRed.Species.spinda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/327.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/327.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/327.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/327.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/327.png"
   },
+  "gameId": 308,
   "baseStats": {
     "hp": 80,
     "atk": 80,
@@ -14,18 +14,18 @@
     "spDef": 80,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.contrary"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 4,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 4
 }

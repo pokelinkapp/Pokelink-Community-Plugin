@@ -1,11 +1,11 @@
 {
-  "gameId": 104,
   "name": "RadRed.Species.cubone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/104.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/104.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/104.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/104.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/104.png"
   },
+  "gameId": 104,
   "baseStats": {
     "hp": 50,
     "atk": 50,
@@ -14,18 +14,17 @@
     "spDef": 50,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.bone_zone"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

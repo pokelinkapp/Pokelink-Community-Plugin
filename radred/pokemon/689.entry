@@ -1,11 +1,11 @@
 {
-  "gameId": 797,
   "name": "RadRed.Species.barbaracle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/689.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/689.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/689.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/689.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/689.png"
   },
+  "gameId": 797,
   "baseStats": {
     "hp": 72,
     "atk": 105,
@@ -14,19 +14,18 @@
     "spDef": 86,
     "spd": 68
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.tough_claws",
     "RadRed.Abilities.sniper",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1165,
   "name": "RadRed.Species.frosmoth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/873.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/873.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/873.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/873.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/873.png"
   },
+  "gameId": 1165,
   "baseStats": {
     "hp": 70,
     "atk": 65,
@@ -14,19 +14,18 @@
     "spDef": 90,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.ice_scales"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

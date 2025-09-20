@@ -1,11 +1,11 @@
 {
-  "gameId": 587,
   "name": "RadRed.Species.conkeldurr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/534.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/534.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/534.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/534.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/534.png"
   },
+  "gameId": 587,
   "baseStats": {
     "hp": 105,
     "atk": 140,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.iron_fist"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 63,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 63
+  "growthRate": 3
 }

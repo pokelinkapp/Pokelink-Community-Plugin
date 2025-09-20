@@ -1,11 +1,11 @@
 {
-  "gameId": 162,
   "name": "RadRed.Species.furret",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/162.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/162.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/162.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/162.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/162.png"
   },
+  "gameId": 162,
   "baseStats": {
     "hp": 85,
     "atk": 86,
@@ -14,18 +14,17 @@
     "spDef": 55,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.adaptability"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

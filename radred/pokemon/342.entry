@@ -1,11 +1,11 @@
 {
-  "gameId": 327,
   "name": "RadRed.Species.crawdaunt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/342.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/342.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/342.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/342.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/342.png"
   },
+  "gameId": 327,
   "baseStats": {
     "hp": 63,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 55,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hyper_cutter",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.adaptability"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 155,
   "types": [
     "pokemon.type.water",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 2,
-  "catchRate": 155,
-  "genderRatio": 127
+  "growthRate": 2
 }

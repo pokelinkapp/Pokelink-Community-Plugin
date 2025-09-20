@@ -1,11 +1,11 @@
 {
-  "gameId": 807,
   "name": "RadRed.Species.aurorus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/699.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/699.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/699.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/699.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/699.png"
   },
+  "gameId": 807,
   "baseStats": {
     "hp": 123,
     "atk": 77,
@@ -14,19 +14,18 @@
     "spDef": 92,
     "spd": 58
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.refrigerate",
     "RadRed.Abilities.refrigerate",
     "RadRed.Abilities.snow_warning"
   ],
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 459,
   "name": "RadRed.Species.budew",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/406.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/406.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/406.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/406.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/406.png"
   },
+  "gameId": 459,
   "baseStats": {
     "hp": 40,
     "atk": 30,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.leaf_guard"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

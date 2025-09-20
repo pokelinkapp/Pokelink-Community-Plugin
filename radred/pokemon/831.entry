@@ -1,11 +1,11 @@
 {
-  "gameId": 1123,
   "name": "RadRed.Species.wooloo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/831.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/831.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/831.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/831.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/831.png"
   },
+  "gameId": 1123,
   "baseStats": {
     "hp": 42,
     "atk": 40,
@@ -14,18 +14,17 @@
     "spDef": 45,
     "spd": 48
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.fluffy",
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.bulletproof"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

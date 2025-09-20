@@ -1,11 +1,11 @@
 {
-  "gameId": 136,
   "name": "RadRed.Species.flareon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/136.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/136.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/136.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/136.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/136.png"
   },
+  "gameId": 136,
   "baseStats": {
     "hp": 65,
     "atk": 130,
@@ -14,18 +14,17 @@
     "spDef": 100,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.toxic_boost"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 35,
-  "expGroup": 0,
+  "genderRatio": 31,
   "catchRate": 45,
-  "genderRatio": 31
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

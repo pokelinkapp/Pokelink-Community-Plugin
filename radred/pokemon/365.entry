@@ -1,11 +1,11 @@
 {
-  "gameId": 343,
   "name": "RadRed.Species.walrein",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/365.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/365.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/365.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/365.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/365.png"
   },
+  "gameId": 343,
   "baseStats": {
     "hp": 90,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.fur_coat"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

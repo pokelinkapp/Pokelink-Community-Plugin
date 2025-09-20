@@ -1,11 +1,11 @@
 {
-  "gameId": 1197,
   "name": "RadRed.Species.baxcalibur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/998.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/998.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/998.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/998.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/998.png"
   },
+  "gameId": 1197,
   "baseStats": {
     "hp": 115,
     "atk": 145,
@@ -14,19 +14,19 @@
     "spDef": 86,
     "spd": 87
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thermalexchange",
     "RadRed.Abilities.thermalexchange",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 10,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 127
+  "growthRate": 5
 }

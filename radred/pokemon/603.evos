@@ -3,7 +3,9 @@
     {
       "to": 604,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.thunder_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.thunder_stone"
+        }
       }
     }
   ]

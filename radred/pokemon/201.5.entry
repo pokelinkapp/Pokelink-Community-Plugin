@@ -1,13 +1,13 @@
 {
-  "form": 5,
-  "gameId": 417,
   "name": "RadRed.Species.unown",
-  "formName": "RadRed.Forms.f",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/201.5.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/201-5.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/201.5.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/201-5.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/201.5.png"
   },
+  "gameId": 417,
+  "form": 5,
+  "formName": "RadRed.Forms.f",
   "baseStats": {
     "hp": 48,
     "atk": 48,
@@ -16,18 +16,17 @@
     "spDef": 48,
     "spd": 96
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.simple"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.black",
   "hatchCycles": 40,
-  "expGroup": 0,
+  "genderRatio": 255,
   "catchRate": 225,
-  "genderRatio": 255
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

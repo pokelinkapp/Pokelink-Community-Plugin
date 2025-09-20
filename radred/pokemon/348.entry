@@ -1,11 +1,11 @@
 {
-  "gameId": 391,
   "name": "RadRed.Species.armaldo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/348.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/348.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/348.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/348.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/348.png"
   },
+  "gameId": 391,
   "baseStats": {
     "hp": 100,
     "atk": 125,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.skill_link",
     "RadRed.Abilities.swift_swim"
   ],
+  "color": "color.gray",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.bug"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 30,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 1
 }

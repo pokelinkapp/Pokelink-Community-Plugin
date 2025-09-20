@@ -1,11 +1,11 @@
 {
-  "gameId": 768,
   "name": "RadRed.Species.diggersby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/660.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/660.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/660.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/660.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/660.png"
   },
+  "gameId": 768,
   "baseStats": {
     "hp": 85,
     "atk": 56,
@@ -14,19 +14,18 @@
     "spDef": 77,
     "spd": 78
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.cheek_pouch",
     "RadRed.Abilities.huge_power"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 127,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 127,
-  "genderRatio": 127
+  ]
 }

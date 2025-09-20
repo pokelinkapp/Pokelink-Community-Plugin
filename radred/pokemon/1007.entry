@@ -1,11 +1,11 @@
 {
-  "gameId": 1193,
   "name": "RadRed.Species.koraidon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1007.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1007.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1007.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1007.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1007.png"
   },
+  "gameId": 1193,
   "baseStats": {
     "hp": 100,
     "atk": 135,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 135
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.orichalcumpulse",
     "RadRed.Abilities.orichalcumpulse",
     "RadRed.Abilities.orichalcumpulse"
   ],
+  "color": "color.red",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

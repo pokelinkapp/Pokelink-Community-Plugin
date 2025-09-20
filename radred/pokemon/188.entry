@@ -1,11 +1,11 @@
 {
-  "gameId": 188,
   "name": "RadRed.Species.skiploom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/188.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/188.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/188.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/188.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/188.png"
   },
+  "gameId": 188,
   "baseStats": {
     "hp": 55,
     "atk": 45,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

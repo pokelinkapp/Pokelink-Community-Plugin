@@ -1,11 +1,11 @@
 {
-  "gameId": 785,
   "name": "RadRed.Species.espurr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/677.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/677.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/677.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/677.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/677.png"
   },
+  "gameId": 785,
   "baseStats": {
     "hp": 62,
     "atk": 48,
@@ -14,18 +14,17 @@
     "spDef": 60,
     "spd": 68
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.infiltrator"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.gray",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

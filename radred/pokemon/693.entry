@@ -1,11 +1,11 @@
 {
-  "gameId": 801,
   "name": "RadRed.Species.clawitzer",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/693.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/693.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/693.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/693.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/693.png"
   },
+  "gameId": 801,
   "baseStats": {
     "hp": 71,
     "atk": 73,
@@ -14,18 +14,18 @@
     "spDef": 89,
     "spd": 72
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 55,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 55,
-  "genderRatio": 127
+  "growthRate": 5
 }

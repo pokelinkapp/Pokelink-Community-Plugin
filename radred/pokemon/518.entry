@@ -1,11 +1,11 @@
 {
-  "gameId": 571,
   "name": "RadRed.Species.musharna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/518.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/518.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/518.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/518.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/518.png"
   },
+  "gameId": 571,
   "baseStats": {
     "hp": 116,
     "atk": 55,
@@ -14,18 +14,18 @@
     "spDef": 95,
     "spd": 29
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.synchronize",
     "RadRed.Abilities.synchronize",
     "RadRed.Abilities.unaware"
   ],
+  "color": "color.pink",
+  "hatchCycles": 10,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 10,
-  "expGroup": 4,
-  "catchRate": 75,
-  "genderRatio": 127
+  "growthRate": 4
 }

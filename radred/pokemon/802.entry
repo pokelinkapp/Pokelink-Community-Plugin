@@ -1,11 +1,11 @@
 {
-  "gameId": 1019,
   "name": "RadRed.Species.marshadow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/802.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/802.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/802.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/802.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/802.png"
   },
+  "gameId": 1019,
   "baseStats": {
     "hp": 90,
     "atk": 125,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 125
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.technician",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.technician"
   ],
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

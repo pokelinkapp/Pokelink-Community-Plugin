@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1304,
   "name": "RadRed.Species.sneasel",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/215.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/215-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/215.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/215-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/215.1.png"
   },
+  "gameId": 1304,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 55,
     "atk": 95,
@@ -16,19 +16,19 @@
     "spDef": 75,
     "spd": 115
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.poison_touch"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 3
 }

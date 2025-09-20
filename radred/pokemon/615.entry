@@ -1,11 +1,11 @@
 {
-  "gameId": 668,
   "name": "RadRed.Species.cryogonal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/615.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/615.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/615.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/615.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/615.png"
   },
+  "gameId": 668,
   "baseStats": {
     "hp": 80,
     "atk": 50,
@@ -14,18 +14,17 @@
     "spDef": 135,
     "spd": 105
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
-  "types": [
-    "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 25,
-  "expGroup": 0,
+  "genderRatio": 255,
   "catchRate": 25,
-  "genderRatio": 255
+  "types": [
+    "pokemon.type.ice"
+  ]
 }

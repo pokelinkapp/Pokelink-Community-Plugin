@@ -1,11 +1,11 @@
 {
-  "gameId": 1011,
   "name": "RadRed.Species.buzzwole",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/794.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/794.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/794.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/794.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/794.png"
   },
+  "gameId": 1011,
   "baseStats": {
     "hp": 107,
     "atk": 139,
@@ -14,19 +14,19 @@
     "spDef": 53,
     "spd": 79
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

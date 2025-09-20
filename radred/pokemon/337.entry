@@ -1,11 +1,11 @@
 {
-  "gameId": 348,
   "name": "RadRed.Species.lunatone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/337.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/337.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/337.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/337.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/337.png"
   },
+  "gameId": 348,
   "baseStats": {
     "hp": 90,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 25,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 25,
-  "expGroup": 4,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 4
 }

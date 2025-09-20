@@ -1,11 +1,11 @@
 {
-  "gameId": 815,
   "name": "RadRed.Species.klefki",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/707.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/707.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/707.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/707.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/707.png"
   },
+  "gameId": 815,
   "baseStats": {
     "hp": 57,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 87,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.prankster",
     "RadRed.Abilities.prankster",
     "RadRed.Abilities.magician"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 75,
-  "genderRatio": 127
+  "growthRate": 4
 }

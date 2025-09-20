@@ -1,11 +1,11 @@
 {
-  "gameId": 1065,
   "name": "RadRed.Species.minior",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/774.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/774.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/774.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/774.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/774.png"
   },
+  "gameId": 1065,
   "baseStats": {
     "hp": 60,
     "atk": 100,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 120
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shields_down",
     "RadRed.Abilities.shields_down",
     "RadRed.Abilities.shields_down"
   ],
+  "color": "color.brown",
+  "hatchCycles": 25,
+  "genderRatio": 255,
+  "catchRate": 30,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 25,
-  "expGroup": 3,
-  "catchRate": 30,
-  "genderRatio": 255
+  "growthRate": 3
 }

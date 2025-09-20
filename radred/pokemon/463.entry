@@ -1,11 +1,11 @@
 {
-  "gameId": 516,
   "name": "RadRed.Species.lickilicky",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/463.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/463.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/463.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/463.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/463.png"
   },
+  "gameId": 516,
   "baseStats": {
     "hp": 110,
     "atk": 95,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.unaware",
     "RadRed.Abilities.cloud_nine"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.pink",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 30,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

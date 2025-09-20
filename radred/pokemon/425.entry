@@ -1,11 +1,11 @@
 {
-  "gameId": 478,
   "name": "RadRed.Species.drifloon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/425.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/425.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/425.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/425.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/425.png"
   },
+  "gameId": 478,
   "baseStats": {
     "hp": 90,
     "atk": 50,
@@ -14,19 +14,19 @@
     "spDef": 44,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.aftermath",
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.flare_boost"
   ],
+  "color": "color.purple",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 125,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 30,
-  "expGroup": 2,
-  "catchRate": 125,
-  "genderRatio": 127
+  "growthRate": 2
 }

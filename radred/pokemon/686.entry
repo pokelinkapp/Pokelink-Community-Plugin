@@ -1,11 +1,11 @@
 {
-  "gameId": 794,
   "name": "RadRed.Species.inkay",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/686.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/686.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/686.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/686.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/686.png"
   },
+  "gameId": 794,
   "baseStats": {
     "hp": 53,
     "atk": 54,
@@ -14,19 +14,18 @@
     "spDef": 46,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.contrary",
     "RadRed.Abilities.suction_cups",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

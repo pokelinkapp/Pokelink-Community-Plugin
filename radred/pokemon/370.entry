@@ -1,11 +1,11 @@
 {
-  "gameId": 325,
   "name": "RadRed.Species.luvdisc",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/370.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/370.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/370.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/370.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/370.png"
   },
+  "gameId": 325,
   "baseStats": {
     "hp": 43,
     "atk": 30,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 97
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.soul_heart"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 225,
   "types": [
     "pokemon.type.water",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 225,
-  "genderRatio": 191
+  "growthRate": 4
 }

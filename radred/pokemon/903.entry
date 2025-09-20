@@ -1,11 +1,11 @@
 {
-  "gameId": 1305,
   "name": "RadRed.Species.sneasler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/903.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/903.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/903.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/903.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/903.png"
   },
+  "gameId": 1305,
   "baseStats": {
     "hp": 80,
     "atk": 130,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 120
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.poison_touch"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 20,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 20,
-  "genderRatio": 127
+  "growthRate": 3
 }

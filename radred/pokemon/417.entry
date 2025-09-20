@@ -1,11 +1,11 @@
 {
-  "gameId": 470,
   "name": "RadRed.Species.pachirisu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/417.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/417.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/417.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/417.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/417.png"
   },
+  "gameId": 470,
   "baseStats": {
     "hp": 75,
     "atk": 45,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 95
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.prankster",
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.volt_absorb"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 100,
   "color": "color.white",
   "hatchCycles": 10,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 200,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

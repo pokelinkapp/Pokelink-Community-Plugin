@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1219,
   "name": "RadRed.Species.moltres",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/146.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/146-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/146.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/146-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/146.1.png"
   },
+  "gameId": 1219,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 90,
     "atk": 85,
@@ -16,19 +16,19 @@
     "spDef": 125,
     "spd": 90
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.berserk",
     "RadRed.Abilities.berserk",
     "RadRed.Abilities.berserk"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

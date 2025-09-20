@@ -1,11 +1,11 @@
 {
-  "gameId": 823,
   "name": "RadRed.Species.noivern",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/715.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/715.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/715.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/715.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/715.png"
   },
+  "gameId": 823,
   "baseStats": {
     "hp": 85,
     "atk": 70,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 123
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.infiltrator",
     "RadRed.Abilities.telepathy"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.flying",
     "pokemon.type.dragon"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

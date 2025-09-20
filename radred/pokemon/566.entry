@@ -1,11 +1,11 @@
 {
-  "gameId": 619,
   "name": "RadRed.Species.archen",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/566.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/566.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/566.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/566.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/566.png"
   },
+  "gameId": 619,
   "baseStats": {
     "hp": 55,
     "atk": 112,
@@ -14,19 +14,18 @@
     "spDef": 45,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.defeatist",
     "RadRed.Abilities.defeatist",
     "RadRed.Abilities.defeatist"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

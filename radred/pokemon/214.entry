@@ -1,11 +1,11 @@
 {
-  "gameId": 214,
   "name": "RadRed.Species.heracross",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/214.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/214.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/214.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/214.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/214.png"
   },
+  "gameId": 214,
   "baseStats": {
     "hp": 80,
     "atk": 125,
@@ -14,19 +14,19 @@
     "spDef": 95,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.guts",
     "RadRed.Abilities.moxie"
   ],
+  "color": "color.blue",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 25,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

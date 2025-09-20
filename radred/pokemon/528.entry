@@ -1,11 +1,11 @@
 {
-  "gameId": 581,
   "name": "RadRed.Species.swoobat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/528.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/528.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/528.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/528.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/528.png"
   },
+  "gameId": 581,
   "baseStats": {
     "hp": 75,
     "atk": 57,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 114
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.unaware",
     "RadRed.Abilities.unaware",
     "RadRed.Abilities.simple"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

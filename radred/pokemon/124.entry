@@ -1,11 +1,11 @@
 {
-  "gameId": 124,
   "name": "RadRed.Species.jynx",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/124.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/124.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/124.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/124.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/124.png"
   },
+  "gameId": 124,
   "baseStats": {
     "hp": 65,
     "atk": 50,
@@ -14,19 +14,18 @@
     "spDef": 95,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.dry_skin"
   ],
+  "color": "color.red",
+  "hatchCycles": 25,
+  "genderRatio": 254,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 254
+  ]
 }

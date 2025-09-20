@@ -1,11 +1,11 @@
 {
-  "gameId": 442,
   "name": "RadRed.Species.torterra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/389.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/389.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/389.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/389.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/389.png"
   },
+  "gameId": 442,
   "baseStats": {
     "hp": 95,
     "atk": 109,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 56
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.self_sufficient",
     "RadRed.Abilities.rock_head"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

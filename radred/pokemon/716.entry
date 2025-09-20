@@ -1,11 +1,11 @@
 {
-  "gameId": 824,
   "name": "RadRed.Species.xerneas",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/716.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/716.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/716.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/716.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/716.png"
   },
+  "gameId": 824,
   "baseStats": {
     "hp": 126,
     "atk": 131,
@@ -14,18 +14,18 @@
     "spDef": 98,
     "spd": 99
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.fairy_aura",
     "RadRed.Abilities.fairy_aura",
     "RadRed.Abilities.fairy_aura"
   ],
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 0,
-  "color": "color.blue",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

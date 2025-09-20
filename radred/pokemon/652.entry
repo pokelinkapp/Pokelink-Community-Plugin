@@ -1,11 +1,11 @@
 {
-  "gameId": 760,
   "name": "RadRed.Species.chesnaught",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/652.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/652.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/652.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/652.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/652.png"
   },
+  "gameId": 760,
   "baseStats": {
     "hp": 88,
     "atk": 107,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 64
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.bulletproof",
     "RadRed.Abilities.bulletproof",
     "RadRed.Abilities.iron_barbs"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

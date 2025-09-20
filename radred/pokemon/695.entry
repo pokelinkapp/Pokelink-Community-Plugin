@@ -1,11 +1,11 @@
 {
-  "gameId": 803,
   "name": "RadRed.Species.heliolisk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/695.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/695.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/695.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/695.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/695.png"
   },
+  "gameId": 803,
   "baseStats": {
     "hp": 62,
     "atk": 55,
@@ -14,19 +14,18 @@
     "spDef": 94,
     "spd": 109
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.solar_power"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

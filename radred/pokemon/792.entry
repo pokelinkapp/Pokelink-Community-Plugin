@@ -1,11 +1,11 @@
 {
-  "gameId": 1009,
   "name": "RadRed.Species.lunala",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/792.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/792.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/792.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/792.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/792.png"
   },
+  "gameId": 1009,
   "baseStats": {
     "hp": 137,
     "atk": 113,
@@ -14,19 +14,19 @@
     "spDef": 107,
     "spd": 97
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.shadow_shield",
     "RadRed.Abilities.shadow_shield",
     "RadRed.Abilities.shadow_shield"
   ],
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 0,
-  "color": "color.purple",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

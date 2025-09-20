@@ -1,11 +1,11 @@
 {
-  "gameId": 663,
   "name": "RadRed.Species.axew",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/610.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/610.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/610.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/610.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/610.png"
   },
+  "gameId": 663,
   "baseStats": {
     "hp": 46,
     "atk": 87,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 57
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.rivalry",
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.unnerve"
   ],
+  "color": "color.green",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 35,
-  "color": "color.green",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 75,
-  "genderRatio": 127
+  "growthRate": 5
 }

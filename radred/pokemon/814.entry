@@ -1,11 +1,11 @@
 {
-  "gameId": 1106,
   "name": "RadRed.Species.raboot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/814.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/814.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/814.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/814.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/814.png"
   },
+  "gameId": 1106,
   "baseStats": {
     "hp": 65,
     "atk": 86,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 94
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.libero"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

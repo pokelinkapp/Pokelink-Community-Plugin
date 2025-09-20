@@ -1,11 +1,11 @@
 {
-  "gameId": 1182,
   "name": "RadRed.Species.eternatus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/890.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/890.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/890.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/890.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/890.png"
   },
+  "gameId": 1182,
   "baseStats": {
     "hp": 140,
     "atk": 85,
@@ -14,19 +14,19 @@
     "spDef": 95,
     "spd": 130
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure"
   ],
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 255,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.purple",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 255,
-  "genderRatio": 255
+  "growthRate": 5
 }

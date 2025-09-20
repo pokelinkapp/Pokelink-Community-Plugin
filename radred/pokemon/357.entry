@@ -1,11 +1,11 @@
 {
-  "gameId": 369,
   "name": "RadRed.Species.tropius",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/357.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/357.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/357.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/357.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/357.png"
   },
+  "gameId": 369,
   "baseStats": {
     "hp": 99,
     "atk": 68,
@@ -14,19 +14,19 @@
     "spDef": 87,
     "spd": 81
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.wind_rider",
     "RadRed.Abilities.harvest"
   ],
+  "color": "color.green",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 200,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 25,
-  "expGroup": 5,
-  "catchRate": 200,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 987,
   "name": "RadRed.Species.palossand",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/770.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/770.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/770.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/770.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/770.png"
   },
+  "gameId": 987,
   "baseStats": {
     "hp": 85,
     "atk": 75,
@@ -14,19 +14,18 @@
     "spDef": 75,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.watercompaction",
     "RadRed.Abilities.watercompaction",
     "RadRed.Abilities.sand_veil"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 127
+  ]
 }

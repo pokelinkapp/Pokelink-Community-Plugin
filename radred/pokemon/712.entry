@@ -1,11 +1,11 @@
 {
-  "gameId": 820,
   "name": "RadRed.Species.bergmite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/712.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/712.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/712.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/712.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/712.png"
   },
+  "gameId": 820,
   "baseStats": {
     "hp": 55,
     "atk": 69,
@@ -14,18 +14,17 @@
     "spDef": 35,
     "spd": 28
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.sturdy"
   ],
-  "types": [
-    "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ice"
+  ]
 }

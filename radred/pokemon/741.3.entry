@@ -1,13 +1,13 @@
 {
-  "form": 3,
-  "gameId": 1045,
   "name": "RadRed.Species.oricorio",
-  "formName": "RadRed.Forms.sensu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/741.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/741-3.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/741.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/741-3.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/741.3.png"
   },
+  "gameId": 1045,
+  "form": 3,
+  "formName": "RadRed.Forms.sensu",
   "baseStats": {
     "hp": 75,
     "atk": 70,
@@ -16,19 +16,18 @@
     "spDef": 70,
     "spd": 93
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.dancer",
     "RadRed.Abilities.dancer",
     "RadRed.Abilities.dancer"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 191
+  ]
 }

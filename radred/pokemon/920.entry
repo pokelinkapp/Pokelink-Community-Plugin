@@ -1,11 +1,11 @@
 {
-  "gameId": 1317,
   "name": "RadRed.Species.lokix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/920.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/920.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/920.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/920.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/920.png"
   },
+  "gameId": 1317,
   "baseStats": {
     "hp": 71,
     "atk": 102,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 92
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.tinted_lens",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 30,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.dark"
-  ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 30,
-  "genderRatio": 127
+  ]
 }

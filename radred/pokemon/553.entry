@@ -1,11 +1,11 @@
 {
-  "gameId": 606,
   "name": "RadRed.Species.krookodile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/553.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/553.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/553.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/553.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/553.png"
   },
+  "gameId": 606,
   "baseStats": {
     "hp": 95,
     "atk": 117,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 92
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.moxie",
     "RadRed.Abilities.anger_point"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

@@ -4,8 +4,14 @@
       "to": 358,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.friendship": "friendship.high",
-          "pokemon.evolve.time": "timeOfDay.night"
+          "nested": {
+            "pokemon.evolve.friendship": {
+              "string": "friendship.high"
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.night"
+            }
+          }
         }
       }
     }

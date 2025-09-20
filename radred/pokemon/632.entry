@@ -1,11 +1,11 @@
 {
-  "gameId": 685,
   "name": "RadRed.Species.durant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/632.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/632.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/632.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/632.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/632.png"
   },
+  "gameId": 685,
   "baseStats": {
     "hp": 58,
     "atk": 109,
@@ -14,19 +14,18 @@
     "spDef": 48,
     "spd": 109
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.truant"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 90,
-  "genderRatio": 127
+  ]
 }

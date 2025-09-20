@@ -1,11 +1,11 @@
 {
-  "gameId": 479,
   "name": "RadRed.Species.drifblim",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/426.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/426.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/426.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/426.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/426.png"
   },
+  "gameId": 479,
   "baseStats": {
     "hp": 150,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 54,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.aftermath",
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.flare_boost"
   ],
+  "color": "color.purple",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 30,
-  "expGroup": 2,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 2
 }

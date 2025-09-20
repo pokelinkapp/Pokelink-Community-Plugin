@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1303,
   "name": "RadRed.Species.lilligant",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/549.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/549-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/549.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/549-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/549.1.png"
   },
+  "gameId": 1303,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 70,
     "atk": 105,
@@ -16,19 +16,18 @@
     "spDef": 75,
     "spd": 105
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.leaf_guard"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 75,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 254
+  ]
 }

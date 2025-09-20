@@ -4,7 +4,11 @@
       "to": 589,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.tradeWith": "pokemon.species.shelmet"
+          "nested": {
+            "pokemon.evolve.tradeWith": {
+              "string": "pokemon.species.shelmet"
+            }
+          }
         }
       }
     }

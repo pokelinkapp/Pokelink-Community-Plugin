@@ -1,11 +1,11 @@
 {
-  "gameId": 1363,
   "name": "RadRed.Species.dipplin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1011.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1011.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1011.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1011.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1011.png"
   },
+  "gameId": 1363,
   "baseStats": {
     "hp": 80,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sticky_hold",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.sticky_hold"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 1
 }

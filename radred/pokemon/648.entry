@@ -1,11 +1,11 @@
 {
-  "gameId": 701,
   "name": "RadRed.Species.meloetta",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/648.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/648.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/648.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/648.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/648.png"
   },
+  "gameId": 701,
   "baseStats": {
     "hp": 100,
     "atk": 77,
@@ -14,19 +14,19 @@
     "spDef": 128,
     "spd": 90
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.serene_grace"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 100,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

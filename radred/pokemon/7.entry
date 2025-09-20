@@ -1,11 +1,11 @@
 {
-  "gameId": 7,
   "name": "RadRed.Species.squirtle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/7.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/7.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/7.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/7.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/7.png"
   },
+  "gameId": 7,
   "baseStats": {
     "hp": 44,
     "atk": 48,
@@ -14,18 +14,18 @@
     "spDef": 64,
     "spd": 43
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.rain_dish"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

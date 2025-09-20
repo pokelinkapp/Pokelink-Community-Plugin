@@ -1,11 +1,11 @@
 {
-  "gameId": 232,
   "name": "RadRed.Species.donphan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/232.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/232.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/232.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/232.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/232.png"
   },
+  "gameId": 232,
   "baseStats": {
     "hp": 90,
     "atk": 120,
@@ -14,18 +14,17 @@
     "spDef": 60,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.technician"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.gray",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 60,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

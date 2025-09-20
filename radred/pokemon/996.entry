@@ -1,11 +1,11 @@
 {
-  "gameId": 1195,
   "name": "RadRed.Species.frigibax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/996.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/996.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/996.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/996.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/996.png"
   },
+  "gameId": 1195,
   "baseStats": {
     "hp": 65,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 45,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thermalexchange",
     "RadRed.Abilities.thermalexchange",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.gray",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

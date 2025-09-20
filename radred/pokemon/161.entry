@@ -1,11 +1,11 @@
 {
-  "gameId": 161,
   "name": "RadRed.Species.sentret",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/161.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/161.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/161.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/161.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/161.png"
   },
+  "gameId": 161,
   "baseStats": {
     "hp": 35,
     "atk": 46,
@@ -14,18 +14,17 @@
     "spDef": 45,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.run_away"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1148,
   "name": "RadRed.Species.hatenna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/856.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/856.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/856.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/856.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/856.png"
   },
+  "gameId": 1148,
   "baseStats": {
     "hp": 42,
     "atk": 30,
@@ -14,18 +14,18 @@
     "spDef": 53,
     "spd": 39
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.magic_bounce",
     "RadRed.Abilities.magic_bounce",
     "RadRed.Abilities.magic_bounce"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 235,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 235,
-  "genderRatio": 254
+  "growthRate": 5
 }

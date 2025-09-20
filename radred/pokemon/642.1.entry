@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 755,
   "name": "RadRed.Species.thundurus",
-  "formName": "RadRed.Forms.therian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/642.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/642-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/642.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/642-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/642.1.png"
   },
+  "gameId": 755,
+  "form": 1,
+  "formName": "RadRed.Forms.therian",
   "baseStats": {
     "hp": 79,
     "atk": 105,
@@ -16,19 +16,19 @@
     "spDef": 80,
     "spd": 101
   },
+  "baseFriendship": 90,
   "abilities": [
     "RadRed.Abilities.volt_absorb",
     "RadRed.Abilities.volt_absorb",
     "RadRed.Abilities.volt_absorb"
   ],
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "genderRatio": 0,
+  "catchRate": 3,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 90,
-  "color": "color.blue",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 0
+  "growthRate": 5
 }

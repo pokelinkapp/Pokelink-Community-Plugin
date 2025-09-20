@@ -1,11 +1,11 @@
 {
-  "gameId": 370,
   "name": "RadRed.Species.whismur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/293.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/293.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/293.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/293.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/293.png"
   },
+  "gameId": 370,
   "baseStats": {
     "hp": 64,
     "atk": 51,
@@ -14,18 +14,18 @@
     "spDef": 23,
     "spd": 28
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.soundproof",
     "RadRed.Abilities.oblivious",
     "RadRed.Abilities.scrappy"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

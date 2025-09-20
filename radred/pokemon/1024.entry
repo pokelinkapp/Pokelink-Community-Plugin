@@ -1,12 +1,12 @@
 {
-  "gameId": 1370,
   "name": "RadRed.Species.terapagos",
-  "formName": "RadRed.Forms.terastal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1024.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1024.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1024.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1024.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1024.png"
   },
+  "gameId": 1370,
+  "formName": "RadRed.Forms.terastal",
   "baseStats": {
     "hp": 110,
     "atk": 95,
@@ -15,18 +15,18 @@
     "spDef": 110,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.tera_shell",
     "RadRed.Abilities.tera_shell",
     "RadRed.Abilities.tera_shell"
   ],
+  "color": "color.blue",
+  "hatchCycles": 5,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 5,
-  "expGroup": 5,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 5
 }

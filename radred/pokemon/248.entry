@@ -1,11 +1,11 @@
 {
-  "gameId": 248,
   "name": "RadRed.Species.tyranitar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/248.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/248.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/248.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/248.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/248.png"
   },
+  "gameId": 248,
   "baseStats": {
     "hp": 100,
     "atk": 134,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 61
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sand_stream",
     "RadRed.Abilities.sand_stream",
     "RadRed.Abilities.unnerve"
   ],
+  "color": "color.green",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 35,
-  "color": "color.green",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

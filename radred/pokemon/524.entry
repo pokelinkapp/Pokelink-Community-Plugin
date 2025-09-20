@@ -1,11 +1,11 @@
 {
-  "gameId": 577,
   "name": "RadRed.Species.roggenrola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/524.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/524.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/524.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/524.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/524.png"
   },
+  "gameId": 577,
   "baseStats": {
     "hp": 55,
     "atk": 75,
@@ -14,18 +14,18 @@
     "spDef": 25,
     "spd": 15
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.sand_force"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

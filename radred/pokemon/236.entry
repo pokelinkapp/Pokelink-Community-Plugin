@@ -1,11 +1,11 @@
 {
-  "gameId": 236,
   "name": "RadRed.Species.tyrogue",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/236.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/236.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/236.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/236.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/236.png"
   },
+  "gameId": 236,
   "baseStats": {
     "hp": 35,
     "atk": 35,
@@ -14,18 +14,17 @@
     "spDef": 35,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.steadfast",
     "RadRed.Abilities.vital_spirit"
   ],
-  "types": [
-    "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
   "color": "color.purple",
   "hatchCycles": 25,
-  "expGroup": 0,
+  "genderRatio": 0,
   "catchRate": 75,
-  "genderRatio": 0
+  "types": [
+    "pokemon.type.fighting"
+  ]
 }

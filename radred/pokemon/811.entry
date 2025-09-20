@@ -1,11 +1,11 @@
 {
-  "gameId": 1103,
   "name": "RadRed.Species.thwackey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/811.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/811.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/811.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/811.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/811.png"
   },
+  "gameId": 1103,
   "baseStats": {
     "hp": 70,
     "atk": 85,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.grassy_surge"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

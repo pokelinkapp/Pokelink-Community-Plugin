@@ -1,11 +1,11 @@
 {
-  "gameId": 245,
   "name": "RadRed.Species.suicune",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/245.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/245.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/245.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/245.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/245.png"
   },
+  "gameId": 245,
   "baseStats": {
     "hp": 100,
     "atk": 75,
@@ -14,18 +14,18 @@
     "spDef": 115,
     "spd": 85
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.inner_focus"
   ],
+  "color": "color.blue",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

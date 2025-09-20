@@ -1,11 +1,11 @@
 {
-  "gameId": 1010,
   "name": "RadRed.Species.nihilego",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/793.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/793.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/793.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/793.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/793.png"
   },
+  "gameId": 1010,
   "baseStats": {
     "hp": 109,
     "atk": 53,
@@ -14,19 +14,19 @@
     "spDef": 131,
     "spd": 103
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

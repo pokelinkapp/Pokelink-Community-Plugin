@@ -1,11 +1,11 @@
 {
-  "gameId": 1373,
   "name": "RadRed.Species.iron_boulder",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1022.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1022.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1022.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1022.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1022.png"
   },
+  "gameId": 1373,
   "baseStats": {
     "hp": 90,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 108,
     "spd": 124
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive"
   ],
+  "color": "color.gray",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

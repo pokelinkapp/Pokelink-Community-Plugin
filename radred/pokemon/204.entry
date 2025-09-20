@@ -1,11 +1,11 @@
 {
-  "gameId": 204,
   "name": "RadRed.Species.pineco",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/204.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/204.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/204.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/204.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/204.png"
   },
+  "gameId": 204,
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -14,18 +14,17 @@
     "spDef": 35,
     "spd": 15
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.overcoat"
   ],
-  "types": [
-    "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
   "color": "color.gray",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.bug"
+  ]
 }

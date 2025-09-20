@@ -4,10 +4,20 @@
       "to": 983,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.defeatPokemon": {
-            "species": "pokemon.species.bisharp",
-            "count": 3,
-            "item": "pokemon.item.gen9.leaders_crest"
+          "nested": {
+            "pokemon.evolve.defeatPokemon": {
+              "nested": {
+                "species": {
+                  "string": "pokemon.species.bisharp"
+                },
+                "count": {
+                  "number": 3
+                },
+                "item": {
+                  "string": "pokemon.item.gen9.leaders_crest"
+                }
+              }
+            }
           }
         }
       }

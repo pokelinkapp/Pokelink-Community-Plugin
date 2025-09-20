@@ -1,11 +1,11 @@
 {
-  "gameId": 379,
   "name": "RadRed.Species.seviper",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/336.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/336.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/336.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/336.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/336.png"
   },
+  "gameId": 379,
   "baseStats": {
     "hp": 83,
     "atk": 100,
@@ -14,18 +14,18 @@
     "spDef": 83,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.merciless",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.fatal_precision"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 2,
-  "catchRate": 90,
-  "genderRatio": 127
+  "growthRate": 2
 }

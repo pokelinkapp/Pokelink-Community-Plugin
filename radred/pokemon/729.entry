@@ -1,11 +1,11 @@
 {
-  "gameId": 946,
   "name": "RadRed.Species.brionne",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/729.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/729.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/729.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/729.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/729.png"
   },
+  "gameId": 946,
   "baseStats": {
     "hp": 60,
     "atk": 69,
@@ -14,18 +14,18 @@
     "spDef": 81,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.liquid_voice"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

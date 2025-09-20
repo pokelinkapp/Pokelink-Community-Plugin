@@ -1,11 +1,11 @@
 {
-  "gameId": 1330,
   "name": "RadRed.Species.tandemaus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/924.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/924.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/924.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/924.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/924.png"
   },
+  "gameId": 1330,
   "baseStats": {
     "hp": 50,
     "atk": 50,
@@ -14,18 +14,18 @@
     "spDef": 45,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.own_tempo"
   ],
+  "color": "color.white",
+  "hatchCycles": 10,
+  "genderRatio": 255,
+  "catchRate": 150,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 10,
-  "expGroup": 4,
-  "catchRate": 150,
-  "genderRatio": 255
+  "growthRate": 4
 }

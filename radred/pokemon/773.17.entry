@@ -1,13 +1,13 @@
 {
-  "form": 17,
-  "gameId": 1064,
   "name": "RadRed.Species.silvally",
-  "formName": "RadRed.Forms.fairy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.17.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773-17.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/773.17.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/773-17.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.17.png"
   },
+  "gameId": 1064,
+  "form": 17,
+  "formName": "RadRed.Forms.fairy",
   "baseStats": {
     "hp": 100,
     "atk": 100,
@@ -16,18 +16,18 @@
     "spDef": 100,
     "spd": 100
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.battle_armor"
   ],
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 934,
   "name": "RadRed.Species.ceruledge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/937.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/937.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/937.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/937.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/937.png"
   },
+  "gameId": 934,
   "baseStats": {
     "hp": 75,
     "atk": 125,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 85
   },
+  "baseFriendship": 20,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.purple",
+  "hatchCycles": 35,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 20,
-  "color": "color.purple",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 25,
-  "genderRatio": 127
+  "growthRate": 5
 }

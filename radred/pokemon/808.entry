@@ -1,11 +1,11 @@
 {
-  "gameId": 1083,
   "name": "RadRed.Species.meltan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/808.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/808.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/808.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/808.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/808.png"
   },
+  "gameId": 1083,
   "baseStats": {
     "hp": 46,
     "atk": 65,
@@ -14,18 +14,18 @@
     "spDef": 35,
     "spd": 34
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.magnet_pull",
     "RadRed.Abilities.magnet_pull",
     "RadRed.Abilities.magnet_pull"
   ],
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

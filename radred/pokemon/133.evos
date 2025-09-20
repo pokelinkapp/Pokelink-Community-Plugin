@@ -3,27 +3,39 @@
     {
       "to": 134,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.water_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.water_stone"
+        }
       }
     },
     {
       "to": 135,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.thunder_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.thunder_stone"
+        }
       }
     },
     {
       "to": 136,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.fire_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.fire_stone"
+        }
       }
     },
     {
       "to": 196,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.time": "timeOfDay.day",
-          "pokemon.evolve.friendship": "friendship.high"
+          "nested": {
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.friendship": {
+              "string": "friendship.high"
+            }
+          }
         }
       }
     },
@@ -31,18 +43,32 @@
       "to": 197,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.time": "timeOfDay.night",
-          "pokemon.evolve.friendship": "friendship.high"
+          "nested": {
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.friendship": {
+              "string": "friendship.high"
+            }
+          }
         }
       }
     },
     {
       "to": 470,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.leaf_stone",
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.leaf_stone"
+        },
         "pokemon.evolve.or": {
-          "pokemon.evolve.levelUp": {
-            "pokemon.evolve.location": "area.nearMossyRock"
+          "nested": {
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.location": {
+                  "string": "area.nearMossyRock"
+                }
+              }
+            }
           }
         }
       }
@@ -50,10 +76,18 @@
     {
       "to": 471,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.ice_stone",
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.ice_stone"
+        },
         "pokemon.evolve.or": {
-          "pokemon.evolve.levelUp": {
-            "pokemon.evolve.location": "area.nearIcyRock"
+          "nested": {
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.location": {
+                  "string": "area.nearIcyRock"
+                }
+              }
+            }
           }
         }
       }
@@ -62,8 +96,14 @@
       "to": 700,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMoveType": "pokemon.type.fairy",
-          "pokemon.evolve.friendship": "friendship.high"
+          "nested": {
+            "pokemon.evolve.knowMoveType": {
+              "string": "pokemon.type.fairy"
+            },
+            "pokemon.evolve.friendship": {
+              "string": "friendship.high"
+            }
+          }
         }
       }
     }

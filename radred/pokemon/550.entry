@@ -1,11 +1,11 @@
 {
-  "gameId": 736,
   "name": "RadRed.Species.basculin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/550.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/550.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/550.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/550.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/550.png"
   },
+  "gameId": 736,
   "baseStats": {
     "hp": 70,
     "atk": 92,
@@ -14,18 +14,17 @@
     "spDef": 55,
     "spd": 98
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.reckless",
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.mold_breaker"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 40,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

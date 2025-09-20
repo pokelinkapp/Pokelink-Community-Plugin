@@ -1,13 +1,13 @@
 {
-  "form": 3,
-  "gameId": 1360,
   "name": "RadRed.Species.ogerpon",
-  "formName": "RadRed.Forms.cornerstone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1017.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1017-3.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1017.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1017-3.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1017.3.png"
   },
+  "gameId": 1360,
+  "form": 3,
+  "formName": "RadRed.Forms.cornerstone",
   "baseStats": {
     "hp": 80,
     "atk": 120,
@@ -16,19 +16,19 @@
     "spDef": 96,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy"
   ],
+  "color": "color.gray",
+  "hatchCycles": 5,
+  "genderRatio": 254,
+  "catchRate": 5,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 5,
-  "expGroup": 5,
-  "catchRate": 5,
-  "genderRatio": 254
+  "growthRate": 5
 }

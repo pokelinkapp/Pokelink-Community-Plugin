@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 895,
   "name": "RadRed.Species.mawile",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/303.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/303-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/303.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/303-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/303.1.png"
   },
+  "gameId": 895,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 50,
     "atk": 105,
@@ -16,19 +16,19 @@
     "spDef": 95,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.huge_power",
     "RadRed.Abilities.huge_power",
     "RadRed.Abilities.huge_power"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 4
 }

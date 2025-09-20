@@ -3,33 +3,55 @@
     {
       "to": 414,
       "conditions": {
-        "pokemon.evolve.level": 20,
-        "pokemon.evolve.gender": "Gender.male"
+        "pokemon.evolve.level": {
+          "number": 20
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.male"
+        }
       }
     },
     {
       "to": 413,
       "conditions": {
-        "pokemon.evolve.level": 20,
-        "pokemon.evolve.location": "area.inGrass",
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.level": {
+          "number": 20
+        },
+        "pokemon.evolve.location": {
+          "string": "area.inGrass"
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       }
     },
     {
       "to": 413,
       "conditions": {
-        "pokemon.evolve.level": 20,
-        "pokemon.evolve.location": "area.inCaves",
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.level": {
+          "number": 20
+        },
+        "pokemon.evolve.location": {
+          "string": "area.inCaves"
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       },
       "toForm": 1
     },
     {
       "to": 413,
       "conditions": {
-        "pokemon.evolve.level": 20,
-        "pokemon.evolve.location": "area.inBuildings",
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.level": {
+          "number": 20
+        },
+        "pokemon.evolve.location": {
+          "string": "area.inBuildings"
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       },
       "toForm": 2
     }

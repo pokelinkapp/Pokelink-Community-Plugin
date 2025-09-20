@@ -1,11 +1,11 @@
 {
-  "gameId": 1175,
   "name": "RadRed.Species.arctovish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/883.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/883.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/883.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/883.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/883.png"
   },
+  "gameId": 1175,
   "baseStats": {
     "hp": 90,
     "atk": 90,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.slush_rush"
   ],
+  "color": "color.blue",
+  "hatchCycles": 35,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

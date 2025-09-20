@@ -1,11 +1,11 @@
 {
-  "gameId": 182,
   "name": "RadRed.Species.bellossom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/182.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/182.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/182.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/182.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/182.png"
   },
+  "gameId": 182,
   "baseStats": {
     "hp": 75,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.chlorophyll"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

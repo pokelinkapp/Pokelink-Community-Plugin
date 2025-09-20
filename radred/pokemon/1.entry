@@ -1,11 +1,11 @@
 {
-  "gameId": 1,
   "name": "RadRed.Species.bulbasaur",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1.png"
   },
+  "gameId": 1,
   "baseStats": {
     "hp": 45,
     "atk": 49,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.chlorophyll"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -4,19 +4,31 @@
       "to": 461,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.razor_claw",
-          "pokemon.evolve.time": "timeOfDay.night"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.razor_claw"
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.night"
+            }
+          }
         }
       },
-      "toForm": 0,
-      "fromForm": 0
+      "fromForm": 0,
+      "toForm": 0
     },
     {
       "to": 903,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.razor_claw",
-          "pokemon.evolve.time": "timeOfDay.day"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.razor_claw"
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.day"
+            }
+          }
         }
       },
       "fromForm": 1

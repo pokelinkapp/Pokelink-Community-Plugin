@@ -1,11 +1,11 @@
 {
-  "gameId": 314,
   "name": "RadRed.Species.wailord",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/321.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/321.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/321.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/321.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/321.png"
   },
+  "gameId": 314,
   "baseStats": {
     "hp": 150,
     "atk": 50,
@@ -14,18 +14,18 @@
     "spDef": 80,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_veil",
     "RadRed.Abilities.blubber_defense",
     "RadRed.Abilities.pressure"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 2,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 2
 }

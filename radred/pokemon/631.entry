@@ -1,11 +1,11 @@
 {
-  "gameId": 684,
   "name": "RadRed.Species.heatmor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/631.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/631.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/631.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/631.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/631.png"
   },
+  "gameId": 684,
   "baseStats": {
     "hp": 85,
     "atk": 90,
@@ -14,18 +14,17 @@
     "spDef": 66,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.fatal_precision"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "form": 5,
-  "gameId": 717,
   "name": "RadRed.Species.rotom",
-  "formName": "RadRed.Forms.mow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.5.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/479-5.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/479.5.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/479-5.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.5.png"
   },
+  "gameId": 717,
+  "form": 5,
+  "formName": "RadRed.Forms.mow",
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -16,19 +16,18 @@
     "spDef": 107,
     "spd": 86
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 255
+  ]
 }

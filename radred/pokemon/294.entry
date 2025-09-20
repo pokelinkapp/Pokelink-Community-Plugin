@@ -1,11 +1,11 @@
 {
-  "gameId": 371,
   "name": "RadRed.Species.loudred",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/294.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/294.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/294.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/294.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/294.png"
   },
+  "gameId": 371,
   "baseStats": {
     "hp": 84,
     "atk": 71,
@@ -14,18 +14,18 @@
     "spDef": 43,
     "spd": 48
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.soundproof",
     "RadRed.Abilities.scrappy",
     "RadRed.Abilities.punk_rock"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

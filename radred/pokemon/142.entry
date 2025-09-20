@@ -1,11 +1,11 @@
 {
-  "gameId": 142,
   "name": "RadRed.Species.aerodactyl",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/142.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/142.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/142.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/142.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/142.png"
   },
+  "gameId": 142,
   "baseStats": {
     "hp": 80,
     "atk": 105,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 130
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.unnerve"
   ],
+  "color": "color.purple",
+  "hatchCycles": 35,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 5
 }

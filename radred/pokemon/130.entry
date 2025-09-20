@@ -1,11 +1,11 @@
 {
-  "gameId": 130,
   "name": "RadRed.Species.gyarados",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/130.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/130.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/130.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/130.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/130.png"
   },
+  "gameId": 130,
   "baseStats": {
     "hp": 95,
     "atk": 125,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 81
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.moxie"
   ],
+  "color": "color.blue",
+  "hatchCycles": 5,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 5,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 71,
   "name": "RadRed.Species.victreebel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/71.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/71.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/71.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/71.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/71.png"
   },
+  "gameId": 71,
   "baseStats": {
     "hp": 80,
     "atk": 105,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.gluttony"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

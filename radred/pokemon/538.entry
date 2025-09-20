@@ -1,11 +1,11 @@
 {
-  "gameId": 591,
   "name": "RadRed.Species.throh",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/538.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/538.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/538.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/538.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/538.png"
   },
+  "gameId": 591,
   "baseStats": {
     "hp": 120,
     "atk": 100,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.mold_breaker"
   ],
-  "types": [
-    "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 0,
   "catchRate": 45,
-  "genderRatio": 0
+  "types": [
+    "pokemon.type.fighting"
+  ]
 }

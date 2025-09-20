@@ -1,11 +1,11 @@
 {
-  "gameId": 9,
   "name": "RadRed.Species.blastoise",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/9.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/9.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/9.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/9.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/9.png"
   },
+  "gameId": 9,
   "baseStats": {
     "hp": 79,
     "atk": 83,
@@ -14,18 +14,18 @@
     "spDef": 105,
     "spd": 78
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.rain_dish"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

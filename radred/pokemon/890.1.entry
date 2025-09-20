@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1206,
   "name": "RadRed.Species.eternatus",
-  "formName": "RadRed.Forms.eternamax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/890.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/890-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/890.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/890-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/890.1.png"
   },
+  "gameId": 1206,
+  "form": 1,
+  "formName": "RadRed.Forms.eternamax",
   "baseStats": {
     "hp": 140,
     "atk": 105,
@@ -16,19 +16,19 @@
     "spDef": 110,
     "spd": 140
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 255,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.purple",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 255,
-  "genderRatio": 255
+  "growthRate": 5
 }

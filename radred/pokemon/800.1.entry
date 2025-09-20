@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1079,
   "name": "RadRed.Species.necrozma",
-  "formName": "RadRed.Forms.dusk_mane",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/800-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/800.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/800-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.1.png"
   },
+  "gameId": 1079,
+  "form": 1,
+  "formName": "RadRed.Forms.dusk_mane",
   "baseStats": {
     "hp": 97,
     "atk": 157,
@@ -16,19 +16,19 @@
     "spDef": 109,
     "spd": 77
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.prism_armor",
     "RadRed.Abilities.prism_armor",
     "RadRed.Abilities.prism_armor"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.yellow",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -3,19 +3,27 @@
     {
       "to": 902,
       "conditions": {
-        "pokemon.evolve.recoilDamage": 294,
-        "pokemon.evolve.gender": "Gender.male"
+        "pokemon.evolve.recoilDamage": {
+          "number": 294
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.male"
+        }
       },
       "fromForm": 2
     },
     {
       "to": 902,
       "conditions": {
-        "pokemon.evolve.recoilDamage": 294,
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.recoilDamage": {
+          "number": 294
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       },
-      "toForm": 1,
-      "fromForm": 2
+      "fromForm": 2,
+      "toForm": 1
     }
   ]
 }

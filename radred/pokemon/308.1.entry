@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 897,
   "name": "RadRed.Species.medicham",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/308.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/308-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/308.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/308-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/308.1.png"
   },
+  "gameId": 897,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 60,
     "atk": 100,
@@ -16,19 +16,18 @@
     "spDef": 85,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pure_power",
     "RadRed.Abilities.pure_power",
     "RadRed.Abilities.pure_power"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 90,
-  "genderRatio": 127
+  ]
 }

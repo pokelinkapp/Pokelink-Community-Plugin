@@ -1,13 +1,13 @@
 {
-  "form": 13,
-  "gameId": 1060,
   "name": "RadRed.Species.silvally",
-  "formName": "RadRed.Forms.psychic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.13.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/773-13.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/773.13.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/773-13.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/773.13.png"
   },
+  "gameId": 1060,
+  "form": 13,
+  "formName": "RadRed.Forms.psychic",
   "baseStats": {
     "hp": 100,
     "atk": 100,
@@ -16,18 +16,18 @@
     "spDef": 100,
     "spd": 100
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.battle_armor"
   ],
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

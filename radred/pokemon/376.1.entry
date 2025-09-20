@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 906,
   "name": "RadRed.Species.metagross",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/376.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/376-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/376.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/376-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/376.1.png"
   },
+  "gameId": 906,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 80,
     "atk": 145,
@@ -16,19 +16,19 @@
     "spDef": 110,
     "spd": 110
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.tough_claws",
     "RadRed.Abilities.tough_claws",
     "RadRed.Abilities.tough_claws"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1217,
   "name": "RadRed.Species.articuno",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/144.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/144-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/144.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/144-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/144.1.png"
   },
+  "gameId": 1217,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 90,
     "atk": 70,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 100
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.competitive",
     "RadRed.Abilities.competitive",
     "RadRed.Abilities.competitive"
   ],
+  "color": "color.purple",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.purple",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

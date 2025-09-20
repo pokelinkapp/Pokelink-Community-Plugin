@@ -1,11 +1,11 @@
 {
-  "gameId": 1273,
   "name": "RadRed.Species.kleavor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/900.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/900.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/900.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/900.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/900.png"
   },
+  "gameId": 1273,
   "baseStats": {
     "hp": 85,
     "atk": 135,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 15,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.rock"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 15,
-  "genderRatio": 127
+  ]
 }

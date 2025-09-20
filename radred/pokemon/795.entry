@@ -1,11 +1,11 @@
 {
-  "gameId": 1012,
   "name": "RadRed.Species.pheromosa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/795.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/795.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/795.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/795.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/795.png"
   },
+  "gameId": 1012,
   "baseStats": {
     "hp": 71,
     "atk": 137,
@@ -14,19 +14,19 @@
     "spDef": 37,
     "spd": 151
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -3,8 +3,12 @@
     {
       "to": 758,
       "conditions": {
-        "pokemon.evolve.level": 33,
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.level": {
+          "number": 33
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       }
     }
   ]

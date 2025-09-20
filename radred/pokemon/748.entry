@@ -1,11 +1,11 @@
 {
-  "gameId": 965,
   "name": "RadRed.Species.toxapex",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/748.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/748.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/748.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/748.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/748.png"
   },
+  "gameId": 965,
   "baseStats": {
     "hp": 50,
     "atk": 63,
@@ -14,19 +14,18 @@
     "spDef": 142,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.merciless",
     "RadRed.Abilities.limber",
     "RadRed.Abilities.regenerator"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

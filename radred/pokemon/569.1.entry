@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1242,
   "name": "RadRed.Species.garbodor",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/569.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/569-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/569.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/569-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/569.1.png"
   },
+  "gameId": 1242,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 80,
     "atk": 135,
@@ -16,18 +16,17 @@
     "spDef": 105,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.parasitic_waste",
     "RadRed.Abilities.parasitic_waste",
     "RadRed.Abilities.parasitic_waste"
   ],
-  "types": [
-    "pokemon.type.poison"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 60,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.poison"
+  ]
 }

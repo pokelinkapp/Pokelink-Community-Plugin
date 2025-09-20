@@ -1,11 +1,11 @@
 {
-  "gameId": 969,
   "name": "RadRed.Species.araquanid",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/752.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/752.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/752.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/752.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/752.png"
   },
+  "gameId": 969,
   "baseStats": {
     "hp": 68,
     "atk": 70,
@@ -14,19 +14,18 @@
     "spDef": 132,
     "spd": 42
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_bubble",
     "RadRed.Abilities.water_bubble",
     "RadRed.Abilities.water_absorb"
   ],
+  "color": "color.green",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 100,
   "types": [
     "pokemon.type.water",
     "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 100,
-  "genderRatio": 127
+  ]
 }

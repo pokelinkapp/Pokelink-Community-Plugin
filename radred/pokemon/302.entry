@@ -1,11 +1,11 @@
 {
-  "gameId": 322,
   "name": "RadRed.Species.sableye",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/302.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/302.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/302.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/302.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/302.png"
   },
+  "gameId": 322,
   "baseStats": {
     "hp": 50,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 50
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.prankster"
   ],
+  "color": "color.purple",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 35,
-  "color": "color.purple",
-  "hatchCycles": 25,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

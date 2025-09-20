@@ -1,11 +1,11 @@
 {
-  "gameId": 56,
   "name": "RadRed.Species.mankey",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/56.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/56.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/56.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/56.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/56.png"
   },
+  "gameId": 56,
   "baseStats": {
     "hp": 40,
     "atk": 80,
@@ -14,18 +14,17 @@
     "spDef": 45,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.anger_point",
     "RadRed.Abilities.defiant"
   ],
-  "types": [
-    "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.fighting"
+  ]
 }

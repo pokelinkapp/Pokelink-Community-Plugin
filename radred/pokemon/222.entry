@@ -1,11 +1,11 @@
 {
-  "gameId": 222,
   "name": "RadRed.Species.corsola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/222.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/222.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/222.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/222.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/222.png"
   },
+  "gameId": 222,
   "baseStats": {
     "hp": 85,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.regenerator",
     "RadRed.Abilities.hustle"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 60,
-  "genderRatio": 191
+  "growthRate": 4
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 231,
   "name": "RadRed.Species.phanpy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/231.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/231.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/231.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/231.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/231.png"
   },
+  "gameId": 231,
   "baseStats": {
     "hp": 90,
     "atk": 60,
@@ -14,18 +14,17 @@
     "spDef": 40,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.sand_veil"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1002,
   "name": "RadRed.Species.tapu_koko",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/785.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/785.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/785.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/785.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/785.png"
   },
+  "gameId": 1002,
   "baseStats": {
     "hp": 70,
     "atk": 115,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 130
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.electric_surge",
     "RadRed.Abilities.electric_surge",
     "RadRed.Abilities.telepathy"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

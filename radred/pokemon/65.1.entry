@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 875,
   "name": "RadRed.Species.alakazam",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/65.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/65-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/65.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/65-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/65.1.png"
   },
+  "gameId": 875,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 55,
     "atk": 50,
@@ -16,18 +16,18 @@
     "spDef": 105,
     "spd": 150
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.trace",
     "RadRed.Abilities.trace",
     "RadRed.Abilities.trace"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 63,
+  "catchRate": 50,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 50,
-  "genderRatio": 63
+  "growthRate": 3
 }

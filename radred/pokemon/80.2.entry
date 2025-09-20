@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1212,
   "name": "RadRed.Species.slowbro",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/80.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/80-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/80.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/80-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/80.2.png"
   },
+  "gameId": 1212,
+  "form": 2,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 95,
     "atk": 75,
@@ -16,19 +16,18 @@
     "spDef": 70,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.quick_draw",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.regenerator"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

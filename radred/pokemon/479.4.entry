@@ -1,13 +1,13 @@
 {
-  "form": 4,
-  "gameId": 716,
   "name": "RadRed.Species.rotom",
-  "formName": "RadRed.Forms.fan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.4.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/479-4.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/479.4.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/479-4.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.4.png"
   },
+  "gameId": 716,
+  "form": 4,
+  "formName": "RadRed.Forms.fan",
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -16,19 +16,18 @@
     "spDef": 107,
     "spd": 86
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.motor_drive",
     "RadRed.Abilities.motor_drive",
     "RadRed.Abilities.motor_drive"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 255
+  ]
 }

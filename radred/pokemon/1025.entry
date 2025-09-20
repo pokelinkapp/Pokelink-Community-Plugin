@@ -1,11 +1,11 @@
 {
-  "gameId": 1372,
   "name": "RadRed.Species.pecharunt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1025.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1025.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1025.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1025.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1025.png"
   },
+  "gameId": 1372,
   "baseStats": {
     "hp": 88,
     "atk": 88,
@@ -14,19 +14,19 @@
     "spDef": 88,
     "spd": 88
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.toxic_chain",
     "RadRed.Abilities.toxic_chain",
     "RadRed.Abilities.toxic_chain"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 0,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

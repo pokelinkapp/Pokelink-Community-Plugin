@@ -1,11 +1,11 @@
 {
-  "gameId": 1230,
   "name": "RadRed.Species.iron_thorns",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/995.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/995.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/995.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/995.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/995.png"
   },
+  "gameId": 1230,
   "baseStats": {
     "hp": 100,
     "atk": 134,
@@ -14,19 +14,19 @@
     "spDef": 84,
     "spd": 72
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.solid_rock"
   ],
+  "color": "color.green",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 30,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.electric"
   ],
-  "baseFriendship": 0,
-  "color": "color.green",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 30,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 608,
   "name": "RadRed.Species.darmanitan",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/555.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/555.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/555.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/555.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/555.png"
   },
+  "gameId": 608,
   "baseStats": {
     "hp": 105,
     "atk": 140,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.zen_mode"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 3
 }

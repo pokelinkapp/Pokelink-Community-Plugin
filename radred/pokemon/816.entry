@@ -1,11 +1,11 @@
 {
-  "gameId": 1108,
   "name": "RadRed.Species.sobble",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/816.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/816.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/816.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/816.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/816.png"
   },
+  "gameId": 1108,
   "baseStats": {
     "hp": 50,
     "atk": 40,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.sniper"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

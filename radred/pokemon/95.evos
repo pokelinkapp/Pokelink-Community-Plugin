@@ -4,7 +4,11 @@
       "to": 208,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.metal_coat"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.metal_coat"
+            }
+          }
         }
       }
     }

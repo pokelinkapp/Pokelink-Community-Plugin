@@ -1,11 +1,11 @@
 {
-  "gameId": 507,
   "name": "RadRed.Species.toxicroak",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/454.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/454.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/454.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/454.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/454.png"
   },
+  "gameId": 507,
   "baseStats": {
     "hp": 83,
     "atk": 106,
@@ -14,19 +14,18 @@
     "spDef": 65,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.poison_touch"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

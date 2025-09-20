@@ -1,11 +1,11 @@
 {
-  "gameId": 138,
   "name": "RadRed.Species.omanyte",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/138.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/138.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/138.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/138.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/138.png"
   },
+  "gameId": 138,
   "baseStats": {
     "hp": 35,
     "atk": 40,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.weak_armor"
   ],
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

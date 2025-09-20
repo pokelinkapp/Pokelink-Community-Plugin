@@ -1,11 +1,11 @@
 {
-  "gameId": 998,
   "name": "RadRed.Species.dhelmise",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/781.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/781.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/781.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/781.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/781.png"
   },
+  "gameId": 998,
   "baseStats": {
     "hp": 70,
     "atk": 131,
@@ -14,19 +14,18 @@
     "spDef": 90,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.steely_spirit",
     "RadRed.Abilities.steely_spirit",
     "RadRed.Abilities.steely_spirit"
   ],
+  "color": "color.green",
+  "hatchCycles": 25,
+  "genderRatio": 255,
+  "catchRate": 25,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 25,
-  "genderRatio": 255
+  ]
 }

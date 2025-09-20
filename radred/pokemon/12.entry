@@ -1,11 +1,11 @@
 {
-  "gameId": 12,
   "name": "RadRed.Species.butterfree",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/12.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/12.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/12.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/12.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/12.png"
   },
+  "gameId": 12,
   "baseStats": {
     "hp": 60,
     "atk": 45,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.compound_eyes",
     "RadRed.Abilities.compound_eyes",
     "RadRed.Abilities.tinted_lens"
   ],
+  "color": "color.white",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

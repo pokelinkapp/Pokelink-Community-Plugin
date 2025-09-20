@@ -4,7 +4,11 @@
       "to": 226,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.presentInParty": "pokemon.species.remoraid"
+          "nested": {
+            "pokemon.evolve.presentInParty": {
+              "string": "pokemon.species.remoraid"
+            }
+          }
         }
       }
     }

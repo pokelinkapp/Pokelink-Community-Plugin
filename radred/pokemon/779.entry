@@ -1,11 +1,11 @@
 {
-  "gameId": 996,
   "name": "RadRed.Species.bruxish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/779.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/779.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/779.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/779.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/779.png"
   },
+  "gameId": 996,
   "baseStats": {
     "hp": 68,
     "atk": 105,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 92
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.dazzling",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.wonder_skin"
   ],
+  "color": "color.pink",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 80,
   "types": [
     "pokemon.type.water",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 80,
-  "genderRatio": 127
+  ]
 }

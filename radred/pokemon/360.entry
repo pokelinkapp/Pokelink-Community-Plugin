@@ -1,11 +1,11 @@
 {
-  "gameId": 360,
   "name": "RadRed.Species.wynaut",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/360.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/360.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/360.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/360.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/360.png"
   },
+  "gameId": 360,
   "baseStats": {
     "hp": 95,
     "atk": 23,
@@ -14,18 +14,17 @@
     "spDef": 48,
     "spd": 23
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shadow_tag",
     "RadRed.Abilities.shadow_tag",
     "RadRed.Abilities.telepathy"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 125,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

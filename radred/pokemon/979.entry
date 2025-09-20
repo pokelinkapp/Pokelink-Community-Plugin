@@ -1,11 +1,11 @@
 {
-  "gameId": 937,
   "name": "RadRed.Species.annihilape",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/979.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/979.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/979.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/979.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/979.png"
   },
+  "gameId": 937,
   "baseStats": {
     "hp": 110,
     "atk": 115,
@@ -14,19 +14,18 @@
     "spDef": 90,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.defiant"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

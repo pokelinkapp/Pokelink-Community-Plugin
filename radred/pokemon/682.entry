@@ -1,11 +1,11 @@
 {
-  "gameId": 790,
   "name": "RadRed.Species.spritzee",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/682.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/682.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/682.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/682.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/682.png"
   },
+  "gameId": 790,
   "baseStats": {
     "hp": 78,
     "atk": 52,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 23
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.fairy_aura",
     "RadRed.Abilities.fairy_aura",
     "RadRed.Abilities.aroma_veil"
   ],
-  "types": [
-    "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
   "color": "color.pink",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 200,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.fairy"
+  ]
 }

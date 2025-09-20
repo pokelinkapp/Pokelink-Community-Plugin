@@ -1,11 +1,11 @@
 {
-  "gameId": 121,
   "name": "RadRed.Species.starmie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/121.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/121.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/121.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/121.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/121.png"
   },
+  "gameId": 121,
   "baseStats": {
     "hp": 60,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 115
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.illuminate",
     "RadRed.Abilities.analytic"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 255
+  "growthRate": 5
 }

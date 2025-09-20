@@ -1,11 +1,11 @@
 {
-  "gameId": 39,
   "name": "RadRed.Species.jigglypuff",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/39.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/39.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/39.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/39.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/39.png"
   },
+  "gameId": 39,
   "baseStats": {
     "hp": 115,
     "atk": 45,
@@ -14,19 +14,19 @@
     "spDef": 25,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.cute_charm",
     "RadRed.Abilities.competitive",
     "RadRed.Abilities.friend_guard"
   ],
+  "color": "color.pink",
+  "hatchCycles": 10,
+  "genderRatio": 191,
+  "catchRate": 170,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 10,
-  "expGroup": 4,
-  "catchRate": 170,
-  "genderRatio": 191
+  "growthRate": 4
 }

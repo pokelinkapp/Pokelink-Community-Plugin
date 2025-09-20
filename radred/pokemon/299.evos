@@ -3,10 +3,18 @@
     {
       "to": 476,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.thunder_stone",
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.thunder_stone"
+        },
         "pokemon.evolve.or": {
-          "pokemon.evolve.levelUp": {
-            "pokemon.evolve.location": "area.magneticField"
+          "nested": {
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.location": {
+                  "string": "area.magneticField"
+                }
+              }
+            }
           }
         }
       }

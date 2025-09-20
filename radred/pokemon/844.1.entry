@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1253,
   "name": "RadRed.Species.sandaconda",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/844.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/844-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/844.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/844-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/844.1.png"
   },
+  "gameId": 1253,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 72,
     "atk": 140,
@@ -16,19 +16,18 @@
     "spDef": 90,
     "spd": 81
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.aerilate",
     "RadRed.Abilities.aerilate",
     "RadRed.Abilities.aerilate"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 127
+  ]
 }

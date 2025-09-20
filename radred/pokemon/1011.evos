@@ -4,7 +4,11 @@
       "to": 1019,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.dragon_cheer"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.dragon_cheer"
+            }
+          }
         }
       }
     }

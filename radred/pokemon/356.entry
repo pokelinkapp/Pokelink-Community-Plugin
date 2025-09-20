@@ -1,11 +1,11 @@
 {
-  "gameId": 362,
   "name": "RadRed.Species.dusclops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/356.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/356.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/356.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/356.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/356.png"
   },
+  "gameId": 362,
   "baseStats": {
     "hp": 40,
     "atk": 70,
@@ -14,18 +14,18 @@
     "spDef": 130,
     "spd": 25
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.frisk"
   ],
+  "color": "color.black",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 35,
-  "color": "color.black",
-  "hatchCycles": 25,
-  "expGroup": 4,
-  "catchRate": 90,
-  "genderRatio": 127
+  "growthRate": 4
 }

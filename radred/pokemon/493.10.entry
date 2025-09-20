@@ -1,13 +1,13 @@
 {
-  "form": 10,
-  "gameId": 729,
   "name": "RadRed.Species.arceus",
-  "formName": "RadRed.Forms.water",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.10.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-10.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/493.10.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/493-10.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.10.png"
   },
+  "gameId": 729,
+  "form": 10,
+  "formName": "RadRed.Forms.water",
   "baseStats": {
     "hp": 120,
     "atk": 120,
@@ -16,18 +16,18 @@
     "spDef": 120,
     "spd": 120
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

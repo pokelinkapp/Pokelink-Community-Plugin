@@ -1,11 +1,11 @@
 {
-  "gameId": 140,
   "name": "RadRed.Species.kabuto",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/140.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/140.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/140.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/140.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/140.png"
   },
+  "gameId": 140,
   "baseStats": {
     "hp": 30,
     "atk": 80,
@@ -14,19 +14,18 @@
     "spDef": 45,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.swift_swim"
   ],
+  "color": "color.brown",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

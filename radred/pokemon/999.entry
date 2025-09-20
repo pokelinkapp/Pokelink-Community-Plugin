@@ -1,11 +1,11 @@
 {
-  "gameId": 850,
   "name": "RadRed.Species.gimmighoul",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/999.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/999.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/999.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/999.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/999.png"
   },
+  "gameId": 850,
   "baseStats": {
     "hp": 45,
     "atk": 30,
@@ -14,18 +14,18 @@
     "spDef": 70,
     "spd": 10
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body"
   ],
+  "color": "color.red",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

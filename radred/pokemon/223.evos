@@ -3,7 +3,9 @@
     {
       "to": 224,
       "conditions": {
-        "pokemon.evolve.level": 25
+        "pokemon.evolve.level": {
+          "number": 25
+        }
       }
     }
   ]

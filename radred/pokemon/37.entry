@@ -1,11 +1,11 @@
 {
-  "gameId": 37,
   "name": "RadRed.Species.vulpix",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/37.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/37.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/37.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/37.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/37.png"
   },
+  "gameId": 37,
   "baseStats": {
     "hp": 38,
     "atk": 41,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.drought"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 191,
   "catchRate": 190,
-  "genderRatio": 191
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

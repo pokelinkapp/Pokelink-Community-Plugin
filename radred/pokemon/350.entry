@@ -1,11 +1,11 @@
 {
-  "gameId": 329,
   "name": "RadRed.Species.milotic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/350.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/350.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/350.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/350.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/350.png"
   },
+  "gameId": 329,
   "baseStats": {
     "hp": 95,
     "atk": 60,
@@ -14,18 +14,18 @@
     "spDef": 125,
     "spd": 86
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.marvel_scale",
     "RadRed.Abilities.competitive",
     "RadRed.Abilities.cute_charm"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 1,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 1
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 166,
   "name": "RadRed.Species.ledian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/166.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/166.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/166.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/166.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/166.png"
   },
+  "gameId": 166,
   "baseStats": {
     "hp": 55,
     "atk": 90,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.iron_fist",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 4,
-  "catchRate": 90,
-  "genderRatio": 127
+  "growthRate": 4
 }

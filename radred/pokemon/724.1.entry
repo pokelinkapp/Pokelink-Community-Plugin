@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1301,
   "name": "RadRed.Species.decidueye",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/724.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/724-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/724.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/724-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/724.1.png"
   },
+  "gameId": 1301,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 98,
     "atk": 112,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.striker",
     "RadRed.Abilities.quill_rush"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

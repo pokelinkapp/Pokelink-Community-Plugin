@@ -1,11 +1,11 @@
 {
-  "gameId": 675,
   "name": "RadRed.Species.golett",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/622.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/622.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/622.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/622.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/622.png"
   },
+  "gameId": 675,
   "baseStats": {
     "hp": 59,
     "atk": 74,
@@ -14,19 +14,18 @@
     "spDef": 50,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.iron_fist",
     "RadRed.Abilities.iron_fist",
     "RadRed.Abilities.no_guard"
   ],
+  "color": "color.green",
+  "hatchCycles": 25,
+  "genderRatio": 255,
+  "catchRate": 190,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 255
+  ]
 }

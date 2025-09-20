@@ -1,11 +1,11 @@
 {
-  "gameId": 1151,
   "name": "RadRed.Species.impidimp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/859.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/859.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/859.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/859.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/859.png"
   },
+  "gameId": 1151,
   "baseStats": {
     "hp": 45,
     "atk": 45,
@@ -14,19 +14,18 @@
     "spDef": 40,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.prankster",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 255,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 0
+  ]
 }

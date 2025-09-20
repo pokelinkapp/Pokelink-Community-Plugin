@@ -1,11 +1,11 @@
 {
-  "gameId": 1194,
   "name": "RadRed.Species.miraidon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1008.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1008.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1008.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1008.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1008.png"
   },
+  "gameId": 1194,
   "baseStats": {
     "hp": 100,
     "atk": 85,
@@ -14,19 +14,19 @@
     "spDef": 115,
     "spd": 135
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.hadron_engine",
     "RadRed.Abilities.hadron_engine",
     "RadRed.Abilities.hadron_engine"
   ],
+  "color": "color.purple",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.purple",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

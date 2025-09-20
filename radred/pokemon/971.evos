@@ -3,8 +3,12 @@
     {
       "to": 972,
       "conditions": {
-        "pokemon.evolve.level": 30,
-        "pokemon.evolve.time": "timeOfDay.night"
+        "pokemon.evolve.level": {
+          "number": 30
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.night"
+        }
       }
     }
   ]

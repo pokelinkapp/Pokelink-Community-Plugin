@@ -1,11 +1,11 @@
 {
-  "gameId": 1312,
   "name": "RadRed.Species.enamorus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/905.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/905.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/905.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/905.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/905.png"
   },
+  "gameId": 1312,
   "baseStats": {
     "hp": 74,
     "atk": 115,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 106
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.cute_charm",
     "RadRed.Abilities.cute_charm",
     "RadRed.Abilities.contrary"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 254
+  "growthRate": 5
 }

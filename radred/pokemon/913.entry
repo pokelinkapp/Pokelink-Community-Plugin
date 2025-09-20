@@ -1,11 +1,11 @@
 {
-  "gameId": 928,
   "name": "RadRed.Species.quaxwell",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/913.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/913.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/913.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/913.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/913.png"
   },
+  "gameId": 928,
   "baseStats": {
     "hp": 70,
     "atk": 85,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.moxie"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

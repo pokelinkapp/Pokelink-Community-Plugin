@@ -3,10 +3,18 @@
     {
       "to": 809,
       "conditions": {
-        "pokemon.evolve.game": "pokemon.go",
+        "pokemon.evolve.game": {
+          "string": "pokemon.go"
+        },
         "pokemon.evolve.candy": {
-          "count": 400,
-          "species": "pokemon.species.meltan"
+          "nested": {
+            "count": {
+              "number": 400
+            },
+            "species": {
+              "string": "pokemon.species.meltan"
+            }
+          }
         }
       }
     }

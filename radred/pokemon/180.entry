@@ -1,11 +1,11 @@
 {
-  "gameId": 180,
   "name": "RadRed.Species.flaaffy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/180.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/180.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/180.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/180.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/180.png"
   },
+  "gameId": 180,
   "baseStats": {
     "hp": 70,
     "atk": 55,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.static",
     "RadRed.Abilities.illuminate",
     "RadRed.Abilities.plus"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

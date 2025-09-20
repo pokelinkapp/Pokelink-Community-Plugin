@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 886,
   "name": "RadRed.Species.scizor",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/212.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/212-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/212.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/212-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/212.1.png"
   },
+  "gameId": 886,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 70,
     "atk": 150,
@@ -16,19 +16,18 @@
     "spDef": 100,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.technician",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.technician"
   ],
+  "color": "color.red",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 25,
-  "genderRatio": 127
+  ]
 }

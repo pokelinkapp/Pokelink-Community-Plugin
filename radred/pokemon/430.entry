@@ -1,11 +1,11 @@
 {
-  "gameId": 483,
   "name": "RadRed.Species.honchkrow",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/430.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/430.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/430.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/430.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/430.png"
   },
+  "gameId": 483,
   "baseStats": {
     "hp": 100,
     "atk": 125,
@@ -14,19 +14,19 @@
     "spDef": 52,
     "spd": 96
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.insomnia",
     "RadRed.Abilities.super_luck",
     "RadRed.Abilities.moxie"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 30,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 30,
-  "genderRatio": 127
+  "growthRate": 3
 }

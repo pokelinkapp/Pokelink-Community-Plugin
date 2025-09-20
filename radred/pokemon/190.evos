@@ -4,7 +4,11 @@
       "to": 424,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.double_hit"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.double_hit"
+            }
+          }
         }
       }
     }

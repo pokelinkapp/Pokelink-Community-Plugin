@@ -1,11 +1,11 @@
 {
-  "gameId": 508,
   "name": "RadRed.Species.carnivine",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/455.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/455.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/455.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/455.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/455.png"
   },
+  "gameId": 508,
   "baseStats": {
     "hp": 89,
     "atk": 100,
@@ -14,18 +14,18 @@
     "spDef": 82,
     "spd": 46
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.green",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 200,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 25,
-  "expGroup": 5,
-  "catchRate": 200,
-  "genderRatio": 127
+  "growthRate": 5
 }

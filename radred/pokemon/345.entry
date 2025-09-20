@@ -1,11 +1,11 @@
 {
-  "gameId": 388,
   "name": "RadRed.Species.lileep",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/345.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/345.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/345.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/345.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/345.png"
   },
+  "gameId": 388,
   "baseStats": {
     "hp": 66,
     "atk": 41,
@@ -14,19 +14,19 @@
     "spDef": 87,
     "spd": 23
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.suction_cups",
     "RadRed.Abilities.suction_cups",
     "RadRed.Abilities.storm_drain"
   ],
+  "color": "color.purple",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 30,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 1
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 818,
   "name": "RadRed.Species.pumpkaboo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/710.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/710.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/710.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/710.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/710.png"
   },
+  "gameId": 818,
   "baseStats": {
     "hp": 49,
     "atk": 44,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 51
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.flare_boost"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 127
+  ]
 }

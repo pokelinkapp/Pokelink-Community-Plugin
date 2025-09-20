@@ -1,11 +1,11 @@
 {
-  "gameId": 217,
   "name": "RadRed.Species.ursaring",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/217.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/217.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/217.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/217.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/217.png"
   },
+  "gameId": 217,
   "baseStats": {
     "hp": 90,
     "atk": 130,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.quick_feet",
     "RadRed.Abilities.unnerve"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 60,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

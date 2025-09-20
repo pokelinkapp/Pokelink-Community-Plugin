@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1035,
   "name": "RadRed.Species.muk",
-  "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/89.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/89-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/89.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/89-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/89.1.png"
   },
+  "gameId": 1035,
+  "form": 1,
+  "formName": "RadRed.Forms.alola",
   "baseStats": {
     "hp": 105,
     "atk": 105,
@@ -16,19 +16,18 @@
     "spDef": 100,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.alchemic_power"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 648,
   "name": "RadRed.Species.joltik",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/595.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/595.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/595.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/595.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/595.png"
   },
+  "gameId": 648,
   "baseStats": {
     "hp": 50,
     "atk": 47,
@@ -14,19 +14,18 @@
     "spDef": 50,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.compound_eyes",
     "RadRed.Abilities.unnerve",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

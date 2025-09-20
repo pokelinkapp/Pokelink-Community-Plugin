@@ -1,11 +1,11 @@
 {
-  "gameId": 610,
   "name": "RadRed.Species.dwebble",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/557.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/557.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/557.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/557.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/557.png"
   },
+  "gameId": 610,
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -14,19 +14,18 @@
     "spDef": 35,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.weak_armor"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.rock"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

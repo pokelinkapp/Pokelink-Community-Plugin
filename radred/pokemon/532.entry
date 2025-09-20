@@ -1,11 +1,11 @@
 {
-  "gameId": 585,
   "name": "RadRed.Species.timburr",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/532.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/532.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/532.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/532.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/532.png"
   },
+  "gameId": 585,
   "baseStats": {
     "hp": 75,
     "atk": 80,
@@ -14,18 +14,18 @@
     "spDef": 35,
     "spd": 35
   },
+  "baseFriendship": 70,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.iron_fist"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 63,
+  "catchRate": 180,
   "types": [
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 70,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 180,
-  "genderRatio": 63
+  "growthRate": 3
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1023,
   "name": "RadRed.Species.sandshrew",
-  "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/27.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/27-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/27.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/27-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/27.1.png"
   },
+  "gameId": 1023,
+  "form": 1,
+  "formName": "RadRed.Forms.alola",
   "baseStats": {
     "hp": 50,
     "atk": 75,
@@ -16,19 +16,18 @@
     "spDef": 35,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.slush_rush",
     "RadRed.Abilities.slush_rush",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 127
+  ]
 }

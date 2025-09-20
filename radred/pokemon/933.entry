@@ -1,11 +1,11 @@
 {
-  "gameId": 1341,
   "name": "RadRed.Species.naclstack",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/933.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/933.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/933.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/933.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/933.png"
   },
+  "gameId": 1341,
   "baseStats": {
     "hp": 60,
     "atk": 60,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.purifying_salt",
     "RadRed.Abilities.clear_body"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

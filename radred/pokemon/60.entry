@@ -1,11 +1,11 @@
 {
-  "gameId": 60,
   "name": "RadRed.Species.poliwag",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/60.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/60.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/60.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/60.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/60.png"
   },
+  "gameId": 60,
   "baseStats": {
     "hp": 40,
     "atk": 50,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.damp",
     "RadRed.Abilities.swift_swim"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 518,
   "name": "RadRed.Species.tangrowth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/465.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/465.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/465.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/465.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/465.png"
   },
+  "gameId": 518,
   "baseStats": {
     "hp": 100,
     "atk": 100,
@@ -14,18 +14,17 @@
     "spDef": 50,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.regenerator"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 30,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1203,
   "name": "RadRed.Species.morpeko",
-  "formName": "RadRed.Forms.hangry",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/877.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/877-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/877.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/877-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/877.1.png"
   },
+  "gameId": 1203,
+  "form": 1,
+  "formName": "RadRed.Forms.hangry",
   "baseStats": {
     "hp": 58,
     "atk": 110,
@@ -16,19 +16,18 @@
     "spDef": 58,
     "spd": 97
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hunger_switch",
     "RadRed.Abilities.hunger_switch",
     "RadRed.Abilities.hunger_switch"
   ],
+  "color": "color.purple",
+  "hatchCycles": 10,
+  "genderRatio": 127,
+  "catchRate": 180,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 10,
-  "expGroup": 0,
-  "catchRate": 180,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 970,
   "name": "RadRed.Species.fomantis",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/753.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/753.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/753.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/753.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/753.png"
   },
+  "gameId": 970,
   "baseStats": {
     "hp": 40,
     "atk": 55,
@@ -14,18 +14,17 @@
     "spDef": 35,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.contrary"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.pink",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

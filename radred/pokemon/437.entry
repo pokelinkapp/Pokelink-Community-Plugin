@@ -1,11 +1,11 @@
 {
-  "gameId": 490,
   "name": "RadRed.Species.bronzong",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/437.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/437.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/437.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/437.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/437.png"
   },
+  "gameId": 490,
   "baseStats": {
     "hp": 67,
     "atk": 89,
@@ -14,19 +14,18 @@
     "spDef": 116,
     "spd": 33
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.heatproof",
     "RadRed.Abilities.heavy_metal"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 90,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 90,
-  "genderRatio": 255
+  ]
 }

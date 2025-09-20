@@ -1,11 +1,11 @@
 {
-  "gameId": 70,
   "name": "RadRed.Species.weepinbell",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/70.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/70.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/70.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/70.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/70.png"
   },
+  "gameId": 70,
   "baseStats": {
     "hp": 65,
     "atk": 90,
@@ -14,19 +14,19 @@
     "spDef": 45,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.gluttony"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

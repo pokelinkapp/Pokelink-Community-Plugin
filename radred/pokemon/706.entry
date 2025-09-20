@@ -1,11 +1,11 @@
 {
-  "gameId": 814,
   "name": "RadRed.Species.goodra",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/706.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/706.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/706.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/706.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/706.png"
   },
+  "gameId": 814,
   "baseStats": {
     "hp": 90,
     "atk": 100,
@@ -14,18 +14,18 @@
     "spDef": 150,
     "spd": 80
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.hydration",
     "RadRed.Abilities.gooey"
   ],
+  "color": "color.purple",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 35,
-  "color": "color.purple",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

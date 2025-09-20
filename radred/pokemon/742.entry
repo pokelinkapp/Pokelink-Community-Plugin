@@ -1,11 +1,11 @@
 {
-  "gameId": 959,
   "name": "RadRed.Species.cutiefly",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/742.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/742.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/742.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/742.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/742.png"
   },
+  "gameId": 959,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,19 +14,18 @@
     "spDef": 40,
     "spd": 84
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.sweet_veil"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

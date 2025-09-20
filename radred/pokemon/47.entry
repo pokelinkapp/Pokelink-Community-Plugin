@@ -1,11 +1,11 @@
 {
-  "gameId": 47,
   "name": "RadRed.Species.parasect",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/47.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/47.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/47.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/47.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/47.png"
   },
+  "gameId": 47,
   "baseStats": {
     "hp": 80,
     "atk": 110,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.effect_spore",
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.damp"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

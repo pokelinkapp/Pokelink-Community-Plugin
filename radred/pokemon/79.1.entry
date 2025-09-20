@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1211,
   "name": "RadRed.Species.slowpoke",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/79.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/79-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/79.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/79-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/79.1.png"
   },
+  "gameId": 1211,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 90,
     "atk": 65,
@@ -16,18 +16,17 @@
     "spDef": 40,
     "spd": 15
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.regenerator"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.pink",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

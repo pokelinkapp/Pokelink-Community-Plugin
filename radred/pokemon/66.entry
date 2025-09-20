@@ -1,11 +1,11 @@
 {
-  "gameId": 66,
   "name": "RadRed.Species.machop",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/66.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/66.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/66.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/66.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/66.png"
   },
+  "gameId": 66,
   "baseStats": {
     "hp": 70,
     "atk": 80,
@@ -14,18 +14,18 @@
     "spDef": 35,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.guts",
     "RadRed.Abilities.no_guard",
     "RadRed.Abilities.steadfast"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 63,
+  "catchRate": 180,
   "types": [
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 180,
-  "genderRatio": 63
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 805,
   "name": "RadRed.Species.tyrantrum",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/697.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/697.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/697.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/697.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/697.png"
   },
+  "gameId": 805,
   "baseStats": {
     "hp": 82,
     "atk": 121,
@@ -14,19 +14,18 @@
     "spDef": 59,
     "spd": 71
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.rock_head"
   ],
+  "color": "color.red",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.dragon"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

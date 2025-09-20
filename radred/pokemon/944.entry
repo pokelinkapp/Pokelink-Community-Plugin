@@ -1,11 +1,11 @@
 {
-  "gameId": 1345,
   "name": "RadRed.Species.shroodle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/944.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/944.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/944.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/944.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/944.png"
   },
+  "gameId": 1345,
   "baseStats": {
     "hp": 40,
     "atk": 65,
@@ -14,19 +14,19 @@
     "spDef": 35,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.prankster"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

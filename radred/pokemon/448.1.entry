@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 914,
   "name": "RadRed.Species.lucario",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/448.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/448-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/448.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/448-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/448.1.png"
   },
+  "gameId": 914,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 70,
     "atk": 145,
@@ -16,19 +16,19 @@
     "spDef": 70,
     "spd": 112
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.adaptability"
   ],
+  "color": "color.blue",
+  "hatchCycles": 25,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 25,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

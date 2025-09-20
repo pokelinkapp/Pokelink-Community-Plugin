@@ -1,11 +1,11 @@
 {
-  "gameId": 112,
   "name": "RadRed.Species.rhydon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/112.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/112.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/112.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/112.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/112.png"
   },
+  "gameId": 112,
   "baseStats": {
     "hp": 105,
     "atk": 130,
@@ -14,19 +14,19 @@
     "spDef": 45,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.lightning_rod",
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.reckless"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 5
 }

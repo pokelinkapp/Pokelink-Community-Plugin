@@ -1,11 +1,11 @@
 {
-  "gameId": 830,
   "name": "RadRed.Species.volcanion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/721.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/721.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/721.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/721.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/721.png"
   },
+  "gameId": 830,
   "baseStats": {
     "hp": 80,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 70
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.water_absorb"
   ],
+  "color": "color.brown",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.water"
   ],
-  "baseFriendship": 100,
-  "color": "color.brown",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

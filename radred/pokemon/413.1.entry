@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 709,
   "name": "RadRed.Species.wormadam",
-  "formName": "RadRed.Forms.sandy",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/413.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/413-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/413.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/413-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/413.1.png"
   },
+  "gameId": 709,
+  "form": 1,
+  "formName": "RadRed.Forms.sandy",
   "baseStats": {
     "hp": 60,
     "atk": 59,
@@ -16,19 +16,18 @@
     "spDef": 85,
     "spd": 36
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overcoat",
     "RadRed.Abilities.overcoat",
     "RadRed.Abilities.overcoat"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 254,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 254
+  ]
 }

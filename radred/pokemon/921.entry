@@ -1,11 +1,11 @@
 {
-  "gameId": 843,
   "name": "RadRed.Species.pawmi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/921.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/921.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/921.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/921.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/921.png"
   },
+  "gameId": 843,
   "baseStats": {
     "hp": 45,
     "atk": 50,
@@ -14,18 +14,17 @@
     "spDef": 25,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.static",
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.iron_fist"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

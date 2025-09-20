@@ -1,11 +1,11 @@
 {
-  "gameId": 474,
   "name": "RadRed.Species.cherrim",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/421.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/421.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/421.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/421.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/421.png"
   },
+  "gameId": 474,
   "baseStats": {
     "hp": 70,
     "atk": 100,
@@ -14,18 +14,17 @@
     "spDef": 78,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flower_gift",
     "RadRed.Abilities.flower_gift",
     "RadRed.Abilities.flower_gift"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.purple",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 75,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 179,
   "name": "RadRed.Species.mareep",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/179.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/179.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/179.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/179.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/179.png"
   },
+  "gameId": 179,
   "baseStats": {
     "hp": 55,
     "atk": 40,
@@ -14,18 +14,18 @@
     "spDef": 45,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.static",
     "RadRed.Abilities.illuminate",
     "RadRed.Abilities.plus"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 235,
   "types": [
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 235,
-  "genderRatio": 127
+  "growthRate": 3
 }

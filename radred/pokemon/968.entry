@@ -1,11 +1,11 @@
 {
-  "gameId": 1329,
   "name": "RadRed.Species.orthworm",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/968.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/968.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/968.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/968.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/968.png"
   },
+  "gameId": 1329,
   "baseStats": {
     "hp": 70,
     "atk": 85,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.earth_eater",
     "RadRed.Abilities.earth_eater",
     "RadRed.Abilities.sand_veil"
   ],
+  "color": "color.pink",
+  "hatchCycles": 35,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 25,
-  "genderRatio": 127
+  "growthRate": 5
 }

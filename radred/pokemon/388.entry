@@ -1,11 +1,11 @@
 {
-  "gameId": 441,
   "name": "RadRed.Species.grotle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/388.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/388.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/388.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/388.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/388.png"
   },
+  "gameId": 441,
   "baseStats": {
     "hp": 75,
     "atk": 89,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 36
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.self_sufficient",
     "RadRed.Abilities.rock_head"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

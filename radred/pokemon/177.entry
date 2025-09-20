@@ -1,11 +1,11 @@
 {
-  "gameId": 177,
   "name": "RadRed.Species.natu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/177.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/177.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/177.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/177.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/177.png"
   },
+  "gameId": 177,
   "baseStats": {
     "hp": 40,
     "atk": 50,
@@ -14,19 +14,18 @@
     "spDef": 45,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.synchronize",
     "RadRed.Abilities.early_bird",
     "RadRed.Abilities.magic_bounce"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

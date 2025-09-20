@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1080,
   "name": "RadRed.Species.necrozma",
-  "formName": "RadRed.Forms.dawn_wings",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/800-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/800.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/800-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/800.2.png"
   },
+  "gameId": 1080,
+  "form": 2,
+  "formName": "RadRed.Forms.dawn_wings",
   "baseStats": {
     "hp": 97,
     "atk": 113,
@@ -16,19 +16,19 @@
     "spDef": 127,
     "spd": 77
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.prism_armor",
     "RadRed.Abilities.prism_armor",
     "RadRed.Abilities.prism_armor"
   ],
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 0,
-  "color": "color.blue",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1216,
   "name": "RadRed.Species.mr_mime",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/122.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/122-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/122.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/122-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/122.1.png"
   },
+  "gameId": 1216,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -16,19 +16,18 @@
     "spDef": 90,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.screen_cleaner",
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.white",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

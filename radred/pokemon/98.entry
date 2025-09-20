@@ -1,11 +1,11 @@
 {
-  "gameId": 98,
   "name": "RadRed.Species.krabby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/98.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/98.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/98.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/98.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/98.png"
   },
+  "gameId": 98,
   "baseStats": {
     "hp": 30,
     "atk": 105,
@@ -14,18 +14,17 @@
     "spDef": 25,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hyper_cutter",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.sheer_force"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 225,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

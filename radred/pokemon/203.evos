@@ -4,7 +4,11 @@
       "to": 981,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.twin_beam"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.twin_beam"
+            }
+          }
         }
       }
     }

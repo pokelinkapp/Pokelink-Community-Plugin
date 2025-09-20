@@ -1,11 +1,11 @@
 {
-  "gameId": 1187,
   "name": "RadRed.Species.calyrex",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/898.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/898.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/898.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/898.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/898.png"
   },
+  "gameId": 1187,
   "baseStats": {
     "hp": 100,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 80
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.unnerve",
     "RadRed.Abilities.unnerve",
     "RadRed.Abilities.unnerve"
   ],
+  "color": "color.green",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.grass"
   ],
-  "baseFriendship": 100,
-  "color": "color.green",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

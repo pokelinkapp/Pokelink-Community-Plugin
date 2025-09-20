@@ -1,11 +1,11 @@
 {
-  "gameId": 52,
   "name": "RadRed.Species.meowth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/52.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/52.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/52.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/52.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/52.png"
   },
+  "gameId": 52,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,18 +14,17 @@
     "spDef": 40,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.feline_prowess"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

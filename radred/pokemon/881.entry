@@ -1,11 +1,11 @@
 {
-  "gameId": 1173,
   "name": "RadRed.Species.arctozolt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/881.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/881.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/881.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/881.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/881.png"
   },
+  "gameId": 1173,
   "baseStats": {
     "hp": 90,
     "atk": 100,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.volt_absorb",
     "RadRed.Abilities.static",
     "RadRed.Abilities.slush_rush"
   ],
+  "color": "color.blue",
+  "hatchCycles": 35,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

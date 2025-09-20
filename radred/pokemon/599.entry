@@ -1,11 +1,11 @@
 {
-  "gameId": 652,
   "name": "RadRed.Species.klink",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/599.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/599.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/599.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/599.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/599.png"
   },
+  "gameId": 652,
   "baseStats": {
     "hp": 40,
     "atk": 55,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.plus",
     "RadRed.Abilities.minus",
     "RadRed.Abilities.clear_body"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 130,
   "types": [
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 130,
-  "genderRatio": 255
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 859,
   "name": "RadRed.Species.greavard",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/971.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/971.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/971.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/971.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/971.png"
   },
+  "gameId": 859,
   "baseStats": {
     "hp": 50,
     "atk": 61,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 34
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.fluffy"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

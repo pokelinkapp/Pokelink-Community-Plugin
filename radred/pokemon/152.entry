@@ -1,11 +1,11 @@
 {
-  "gameId": 152,
   "name": "RadRed.Species.chikorita",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/152.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/152.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/152.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/152.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/152.png"
   },
+  "gameId": 152,
   "baseStats": {
     "hp": 45,
     "atk": 49,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.leaf_guard"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 311,
   "name": "RadRed.Species.surskit",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/283.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/283.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/283.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/283.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/283.png"
   },
+  "gameId": 311,
   "baseStats": {
     "hp": 40,
     "atk": 30,
@@ -14,19 +14,18 @@
     "spDef": 52,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.rain_dish"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 200,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 200,
-  "genderRatio": 127
+  ]
 }

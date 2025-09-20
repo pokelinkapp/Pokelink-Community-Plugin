@@ -1,11 +1,11 @@
 {
-  "gameId": 1231,
   "name": "RadRed.Species.iron_bundle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/991.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/991.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/991.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/991.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/991.png"
   },
+  "gameId": 1231,
   "baseStats": {
     "hp": 56,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 136
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive"
   ],
+  "color": "color.red",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 50,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 50,
-  "genderRatio": 255
+  "growthRate": 5
 }

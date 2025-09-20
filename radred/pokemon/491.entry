@@ -1,11 +1,11 @@
 {
-  "gameId": 544,
   "name": "RadRed.Species.darkrai",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/491.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/491.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/491.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/491.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/491.png"
   },
+  "gameId": 544,
   "baseStats": {
     "hp": 70,
     "atk": 90,
@@ -14,18 +14,18 @@
     "spDef": 90,
     "spd": 125
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.bad_dreams",
     "RadRed.Abilities.bad_dreams",
     "RadRed.Abilities.bad_dreams"
   ],
+  "color": "color.black",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.dark"
   ],
-  "baseFriendship": 0,
-  "color": "color.black",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

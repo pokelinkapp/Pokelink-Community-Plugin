@@ -1,11 +1,11 @@
 {
-  "gameId": 1339,
   "name": "RadRed.Species.flamigo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/973.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/973.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/973.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/973.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/973.png"
   },
+  "gameId": 1339,
   "baseStats": {
     "hp": 92,
     "atk": 115,
@@ -14,19 +14,19 @@
     "spDef": 74,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.scrappy",
     "RadRed.Abilities.scrappy",
     "RadRed.Abilities.scrappy"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 100,
   "types": [
     "pokemon.type.flying",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 100,
-  "genderRatio": 127
+  "growthRate": 3
 }

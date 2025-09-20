@@ -4,7 +4,11 @@
       "to": 982,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.hyper_drill"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.hyper_drill"
+            }
+          }
         }
       }
     }

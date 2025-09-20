@@ -1,11 +1,11 @@
 {
-  "gameId": 206,
   "name": "RadRed.Species.dunsparce",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/206.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/206.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/206.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/206.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/206.png"
   },
+  "gameId": 206,
   "baseStats": {
     "hp": 100,
     "atk": 70,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.serene_grace"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1100,
   "name": "RadRed.Species.dudunsparce",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/982.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/982.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/982.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/982.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/982.png"
   },
+  "gameId": 1100,
   "baseStats": {
     "hp": 125,
     "atk": 100,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.serene_grace"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 45,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

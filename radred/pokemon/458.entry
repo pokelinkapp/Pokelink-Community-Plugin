@@ -1,11 +1,11 @@
 {
-  "gameId": 511,
   "name": "RadRed.Species.mantyke",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/458.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/458.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/458.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/458.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/458.png"
   },
+  "gameId": 511,
   "baseStats": {
     "hp": 45,
     "atk": 20,
@@ -14,19 +14,19 @@
     "spDef": 120,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.water_veil"
   ],
+  "color": "color.blue",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.water",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 25,
-  "expGroup": 5,
-  "catchRate": 25,
-  "genderRatio": 127
+  "growthRate": 5
 }

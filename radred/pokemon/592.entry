@@ -1,11 +1,11 @@
 {
-  "gameId": 645,
   "name": "RadRed.Species.frillish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/592.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/592.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/592.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/592.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/592.png"
   },
+  "gameId": 645,
   "baseStats": {
     "hp": 55,
     "atk": 40,
@@ -14,19 +14,18 @@
     "spDef": 85,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.damp",
     "RadRed.Abilities.water_bubble"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1275,
   "name": "RadRed.Species.zebstrika",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/523.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/523-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/523.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/523-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/523.1.png"
   },
+  "gameId": 1275,
+  "form": 1,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 75,
     "atk": 70,
@@ -16,19 +16,18 @@
     "spDef": 63,
     "spd": 116
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.lightning_rod",
     "RadRed.Abilities.illuminate",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

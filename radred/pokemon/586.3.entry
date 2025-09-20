@@ -1,12 +1,12 @@
 {
-  "form": 3,
-  "gameId": 743,
   "name": "RadRed.Species.sawsbuck",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/586.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/586-3.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/586.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/586-3.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/586.3.png"
   },
+  "gameId": 743,
+  "form": 3,
   "baseStats": {
     "hp": 80,
     "atk": 110,
@@ -15,19 +15,18 @@
     "spDef": 70,
     "spd": 105
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.serene_grace"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

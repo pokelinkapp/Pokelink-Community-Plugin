@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 839,
   "name": "RadRed.Species.greninja",
-  "formName": "RadRed.Forms.ash",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/658.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/658-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/658.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/658-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/658.1.png"
   },
+  "gameId": 839,
+  "form": 1,
+  "formName": "RadRed.Forms.ash",
   "baseStats": {
     "hp": 72,
     "atk": 145,
@@ -16,19 +16,19 @@
     "spDef": 71,
     "spd": 132
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.battle_bond",
     "RadRed.Abilities.battle_bond",
     "RadRed.Abilities.battle_bond"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 0
+  "growthRate": 3
 }

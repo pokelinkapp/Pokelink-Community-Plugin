@@ -1,11 +1,11 @@
 {
-  "gameId": 306,
   "name": "RadRed.Species.shroomish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/285.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/285.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/285.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/285.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/285.png"
   },
+  "gameId": 306,
   "baseStats": {
     "hp": 60,
     "atk": 40,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.effect_spore",
     "RadRed.Abilities.poison_heal",
     "RadRed.Abilities.quick_feet"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 2,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 2
 }

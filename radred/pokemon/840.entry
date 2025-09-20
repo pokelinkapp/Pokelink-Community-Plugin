@@ -1,11 +1,11 @@
 {
-  "gameId": 1132,
   "name": "RadRed.Species.applin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/840.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/840.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/840.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/840.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/840.png"
   },
+  "gameId": 1132,
   "baseStats": {
     "hp": 40,
     "atk": 40,
@@ -14,19 +14,19 @@
     "spDef": 40,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.ripen",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.bulletproof"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 1,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 1
 }

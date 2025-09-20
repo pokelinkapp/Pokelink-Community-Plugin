@@ -1,11 +1,11 @@
 {
-  "gameId": 659,
   "name": "RadRed.Species.beheeyem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/606.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/606.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/606.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/606.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/606.png"
   },
+  "gameId": 659,
   "baseStats": {
     "hp": 95,
     "atk": 75,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.analytic",
     "RadRed.Abilities.synchronize",
     "RadRed.Abilities.analytic"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

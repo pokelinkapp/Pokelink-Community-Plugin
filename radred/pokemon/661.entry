@@ -1,11 +1,11 @@
 {
-  "gameId": 769,
   "name": "RadRed.Species.fletchling",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/661.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/661.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/661.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/661.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/661.png"
   },
+  "gameId": 769,
   "baseStats": {
     "hp": 45,
     "atk": 50,
@@ -14,19 +14,19 @@
     "spDef": 38,
     "spd": 62
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.gale_wings"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

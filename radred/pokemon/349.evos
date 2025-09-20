@@ -4,11 +4,21 @@
       "to": 350,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.maxTrait": "trait.beauty"
+          "nested": {
+            "pokemon.evolve.maxTrait": {
+              "string": "trait.beauty"
+            }
+          }
         },
         "pokemon.evolve.or": {
-          "pokemon.evolve.trade": {
-            "pokemon.evolve.holdItem": "pokemon.item.gen9.prism_scale"
+          "nested": {
+            "pokemon.evolve.trade": {
+              "nested": {
+                "pokemon.evolve.holdItem": {
+                  "string": "pokemon.item.gen9.prism_scale"
+                }
+              }
+            }
           }
         }
       }

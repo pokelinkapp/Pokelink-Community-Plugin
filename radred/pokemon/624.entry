@@ -1,11 +1,11 @@
 {
-  "gameId": 677,
   "name": "RadRed.Species.pawniard",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/624.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/624.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/624.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/624.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/624.png"
   },
+  "gameId": 677,
   "baseStats": {
     "hp": 45,
     "atk": 85,
@@ -14,19 +14,18 @@
     "spDef": 40,
     "spd": 60
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.defiant",
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.pressure"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 35,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 127
+  ]
 }

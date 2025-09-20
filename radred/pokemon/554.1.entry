@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1225,
   "name": "RadRed.Species.darumaka",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/554.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/554-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/554.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/554-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/554.1.png"
   },
+  "gameId": 1225,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 70,
     "atk": 90,
@@ -16,18 +16,18 @@
     "spDef": 45,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.inner_focus"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

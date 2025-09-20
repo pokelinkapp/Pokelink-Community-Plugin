@@ -1,11 +1,11 @@
 {
-  "gameId": 614,
   "name": "RadRed.Species.sigilyph",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/561.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/561.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/561.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/561.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/561.png"
   },
+  "gameId": 614,
   "baseStats": {
     "hp": 72,
     "atk": 58,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 97
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.wonder_skin",
     "RadRed.Abilities.magic_guard",
     "RadRed.Abilities.tinted_lens"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

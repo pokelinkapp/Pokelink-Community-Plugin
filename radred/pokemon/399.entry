@@ -1,11 +1,11 @@
 {
-  "gameId": 452,
   "name": "RadRed.Species.bidoof",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/399.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/399.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/399.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/399.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/399.png"
   },
+  "gameId": 452,
   "baseStats": {
     "hp": 59,
     "atk": 45,
@@ -14,18 +14,17 @@
     "spDef": 40,
     "spd": 31
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.simple",
     "RadRed.Abilities.unaware",
     "RadRed.Abilities.simple"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 748,
   "name": "RadRed.Species.chien_pao",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1002.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1002.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1002.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1002.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1002.png"
   },
+  "gameId": 748,
   "baseStats": {
     "hp": 80,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 135
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.sword_of_ruin",
     "RadRed.Abilities.sword_of_ruin",
     "RadRed.Abilities.sword_of_ruin"
   ],
+  "color": "color.white",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 6,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 6,
-  "genderRatio": 255
+  "growthRate": 5
 }

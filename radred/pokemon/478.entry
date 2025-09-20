@@ -1,11 +1,11 @@
 {
-  "gameId": 531,
   "name": "RadRed.Species.froslass",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/478.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/478.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/478.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/478.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/478.png"
   },
+  "gameId": 531,
   "baseStats": {
     "hp": 70,
     "atk": 95,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.stakeout"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 75,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 254
+  ]
 }

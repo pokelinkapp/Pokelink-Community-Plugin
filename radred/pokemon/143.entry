@@ -1,11 +1,11 @@
 {
-  "gameId": 143,
   "name": "RadRed.Species.snorlax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/143.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/143.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/143.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/143.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/143.png"
   },
+  "gameId": 143,
   "baseStats": {
     "hp": 160,
     "atk": 110,
@@ -14,18 +14,18 @@
     "spDef": 110,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.immunity",
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.gluttony"
   ],
+  "color": "color.black",
+  "hatchCycles": 40,
+  "genderRatio": 31,
+  "catchRate": 25,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 25,
-  "genderRatio": 31
+  "growthRate": 5
 }

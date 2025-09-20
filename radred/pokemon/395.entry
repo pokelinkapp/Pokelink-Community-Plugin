@@ -1,11 +1,11 @@
 {
-  "gameId": 448,
   "name": "RadRed.Species.empoleon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/395.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/395.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/395.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/395.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/395.png"
   },
+  "gameId": 448,
   "baseStats": {
     "hp": 84,
     "atk": 86,
@@ -14,19 +14,19 @@
     "spDef": 101,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.competitive"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

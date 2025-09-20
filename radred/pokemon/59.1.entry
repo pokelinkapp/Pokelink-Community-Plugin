@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1272,
   "name": "RadRed.Species.arcanine",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/59.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/59-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/59.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/59-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/59.1.png"
   },
+  "gameId": 1272,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 95,
     "atk": 125,
@@ -16,19 +16,19 @@
     "spDef": 80,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.rock_head"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 63,
+  "catchRate": 75,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 75,
-  "genderRatio": 63
+  "growthRate": 5
 }

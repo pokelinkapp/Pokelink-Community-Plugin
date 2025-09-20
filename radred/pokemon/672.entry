@@ -1,11 +1,11 @@
 {
-  "gameId": 780,
   "name": "RadRed.Species.skiddo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/672.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/672.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/672.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/672.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/672.png"
   },
+  "gameId": 780,
   "baseStats": {
     "hp": 66,
     "atk": 65,
@@ -14,18 +14,17 @@
     "spDef": 57,
     "spd": 52
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.grass_pelt"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 200,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

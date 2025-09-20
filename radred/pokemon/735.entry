@@ -1,11 +1,11 @@
 {
-  "gameId": 952,
   "name": "RadRed.Species.gumshoos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/735.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/735.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/735.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/735.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/735.png"
   },
+  "gameId": 952,
   "baseStats": {
     "hp": 98,
     "atk": 110,
@@ -14,18 +14,17 @@
     "spDef": 60,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.stakeout",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.adaptability"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 127,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

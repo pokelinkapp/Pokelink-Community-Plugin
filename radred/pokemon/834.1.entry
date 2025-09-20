@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1249,
   "name": "RadRed.Species.drednaw",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/834.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/834-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/834.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/834-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/834.1.png"
   },
+  "gameId": 1249,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 90,
     "atk": 155,
@@ -16,19 +16,18 @@
     "spDef": 98,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.strong_jaw"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.water",
     "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 718,
   "name": "RadRed.Species.giratina",
-  "formName": "RadRed.Forms.origin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/487.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/487-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/487.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/487-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/487.1.png"
   },
+  "gameId": 718,
+  "form": 1,
+  "formName": "RadRed.Forms.origin",
   "baseStats": {
     "hp": 150,
     "atk": 120,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 90
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.black",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.black",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

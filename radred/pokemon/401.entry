@@ -1,11 +1,11 @@
 {
-  "gameId": 454,
   "name": "RadRed.Species.kricketot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/401.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/401.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/401.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/401.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/401.png"
   },
+  "gameId": 454,
   "baseStats": {
     "hp": 37,
     "atk": 40,
@@ -14,18 +14,18 @@
     "spDef": 41,
     "spd": 25
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.technician",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.technician"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.bug"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

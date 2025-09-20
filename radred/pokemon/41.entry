@@ -1,11 +1,11 @@
 {
-  "gameId": 41,
   "name": "RadRed.Species.zubat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/41.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/41.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/41.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/41.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/41.png"
   },
+  "gameId": 41,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,19 +14,18 @@
     "spDef": 40,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.infiltrator",
     "RadRed.Abilities.sniper",
     "RadRed.Abilities.corrosion"
   ],
+  "color": "color.purple",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 356,
   "name": "RadRed.Species.meditite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/307.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/307.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/307.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/307.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/307.png"
   },
+  "gameId": 356,
   "baseStats": {
     "hp": 30,
     "atk": 40,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pure_power",
     "RadRed.Abilities.pure_power",
     "RadRed.Abilities.telepathy"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 180,
   "types": [
     "pokemon.type.fighting",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 180,
-  "genderRatio": 127
+  ]
 }

@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1191,
   "name": "RadRed.Species.cramorant",
-  "formName": "RadRed.Forms.gorging",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/845.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/845-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/845.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/845-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/845.2.png"
   },
+  "gameId": 1191,
+  "form": 2,
+  "formName": "RadRed.Forms.gorging",
   "baseStats": {
     "hp": 85,
     "atk": 85,
@@ -16,19 +16,18 @@
     "spDef": 95,
     "spd": 105
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gulp_missile",
     "RadRed.Abilities.gulp_missile",
     "RadRed.Abilities.gulp_missile"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.flying",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

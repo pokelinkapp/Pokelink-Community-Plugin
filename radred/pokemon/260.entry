@@ -1,11 +1,11 @@
 {
-  "gameId": 285,
   "name": "RadRed.Species.swampert",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/260.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/260.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/260.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/260.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/260.png"
   },
+  "gameId": 285,
   "baseStats": {
     "hp": 100,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.damp"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

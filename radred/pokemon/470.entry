@@ -1,11 +1,11 @@
 {
-  "gameId": 523,
   "name": "RadRed.Species.leafeon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/470.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/470.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/470.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/470.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/470.png"
   },
+  "gameId": 523,
   "baseStats": {
     "hp": 65,
     "atk": 130,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 95
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.leaf_guard",
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.chlorophyll"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 35,
   "color": "color.green",
   "hatchCycles": 35,
-  "expGroup": 0,
+  "genderRatio": 31,
   "catchRate": 45,
-  "genderRatio": 31
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

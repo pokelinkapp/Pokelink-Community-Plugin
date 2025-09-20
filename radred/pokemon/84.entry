@@ -1,11 +1,11 @@
 {
-  "gameId": 84,
   "name": "RadRed.Species.doduo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/84.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/84.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/84.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/84.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/84.png"
   },
+  "gameId": 84,
   "baseStats": {
     "hp": 35,
     "atk": 85,
@@ -14,19 +14,18 @@
     "spDef": 35,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.early_bird",
     "RadRed.Abilities.run_away"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

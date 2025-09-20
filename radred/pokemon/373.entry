@@ -1,11 +1,11 @@
 {
-  "gameId": 397,
   "name": "RadRed.Species.salamence",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/373.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/373.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/373.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/373.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/373.png"
   },
+  "gameId": 397,
   "baseStats": {
     "hp": 95,
     "atk": 135,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 100
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.moxie"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

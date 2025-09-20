@@ -1,11 +1,11 @@
 {
-  "gameId": 682,
   "name": "RadRed.Species.vullaby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/629.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/629.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/629.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/629.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/629.png"
   },
+  "gameId": 682,
   "baseStats": {
     "hp": 70,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 60
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.overcoat",
     "RadRed.Abilities.weak_armor"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 190,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 190,
-  "genderRatio": 254
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 211,
   "name": "RadRed.Species.qwilfish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/211.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/211.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/211.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/211.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/211.png"
   },
+  "gameId": 211,
   "baseStats": {
     "hp": 80,
     "atk": 105,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.toxic_debris",
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.intimidate"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.poison"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

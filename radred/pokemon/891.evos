@@ -3,13 +3,17 @@
     {
       "to": 892,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.scroll_of_darkness"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.scroll_of_darkness"
+        }
       }
     },
     {
       "to": 892,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.scroll_of_waters"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.scroll_of_waters"
+        }
       },
       "toForm": 1
     }

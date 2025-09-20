@@ -1,11 +1,11 @@
 {
-  "gameId": 54,
   "name": "RadRed.Species.psyduck",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/54.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/54.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/54.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/54.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/54.png"
   },
+  "gameId": 54,
   "baseStats": {
     "hp": 50,
     "atk": 52,
@@ -14,18 +14,17 @@
     "spDef": 50,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.damp",
     "RadRed.Abilities.cloud_nine",
     "RadRed.Abilities.swift_swim"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

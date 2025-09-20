@@ -1,11 +1,11 @@
 {
-  "gameId": 616,
   "name": "RadRed.Species.cofagrigus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/563.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/563.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/563.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/563.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/563.png"
   },
+  "gameId": 616,
   "baseStats": {
     "hp": 58,
     "atk": 50,
@@ -14,18 +14,17 @@
     "spDef": 105,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mummy",
     "RadRed.Abilities.mummy",
     "RadRed.Abilities.shadow_shield"
   ],
-  "types": [
-    "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 25,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ghost"
+  ]
 }

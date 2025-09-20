@@ -1,11 +1,11 @@
 {
-  "gameId": 1146,
   "name": "RadRed.Species.sinistea",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/854.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/854.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/854.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/854.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/854.png"
   },
+  "gameId": 1146,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,18 +14,17 @@
     "spDef": 54,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.heatproof"
   ],
-  "types": [
-    "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
   "color": "color.purple",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 255,
   "catchRate": 120,
-  "genderRatio": 255
+  "types": [
+    "pokemon.type.ghost"
+  ]
 }

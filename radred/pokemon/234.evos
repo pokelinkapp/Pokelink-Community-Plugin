@@ -4,9 +4,17 @@
       "to": 899,
       "conditions": {
         "pokemon.evolve.useMoveHisui": {
-          "move": "pokemon.move.psyshield_bash",
-          "count": 20,
-          "style": "moveStyle.agile"
+          "nested": {
+            "move": {
+              "string": "pokemon.move.psyshield_bash"
+            },
+            "count": {
+              "number": 20
+            },
+            "style": {
+              "string": "moveStyle.agile"
+            }
+          }
         }
       }
     }

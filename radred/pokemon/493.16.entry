@@ -1,13 +1,13 @@
 {
-  "form": 16,
-  "gameId": 735,
   "name": "RadRed.Species.arceus",
-  "formName": "RadRed.Forms.dark",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.16.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/493-16.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/493.16.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/493-16.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/493.16.png"
   },
+  "gameId": 735,
+  "form": 16,
+  "formName": "RadRed.Forms.dark",
   "baseStats": {
     "hp": 120,
     "atk": 120,
@@ -16,18 +16,18 @@
     "spDef": 120,
     "spd": 120
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype",
     "RadRed.Abilities.multitype"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.dark"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

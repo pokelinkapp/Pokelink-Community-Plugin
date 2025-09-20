@@ -1,11 +1,11 @@
 {
-  "gameId": 453,
   "name": "RadRed.Species.bibarel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/400.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/400.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/400.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/400.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/400.png"
   },
+  "gameId": 453,
   "baseStats": {
     "hp": 79,
     "atk": 85,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.simple",
     "RadRed.Abilities.unaware",
     "RadRed.Abilities.simple"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 127,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 127,
-  "genderRatio": 127
+  ]
 }

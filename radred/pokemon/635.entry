@@ -1,11 +1,11 @@
 {
-  "gameId": 688,
   "name": "RadRed.Species.hydreigon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/635.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/635.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/635.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/635.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/635.png"
   },
+  "gameId": 688,
   "baseStats": {
     "hp": 92,
     "atk": 105,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 98
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

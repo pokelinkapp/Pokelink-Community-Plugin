@@ -1,11 +1,11 @@
 {
-  "gameId": 398,
   "name": "RadRed.Species.beldum",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/374.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/374.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/374.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/374.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/374.png"
   },
+  "gameId": 398,
   "baseStats": {
     "hp": 40,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 30
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.magnet_pull"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

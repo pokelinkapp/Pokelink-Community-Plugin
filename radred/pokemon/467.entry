@@ -1,11 +1,11 @@
 {
-  "gameId": 520,
   "name": "RadRed.Species.magmortar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/467.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/467.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/467.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/467.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/467.png"
   },
+  "gameId": 520,
   "baseStats": {
     "hp": 75,
     "atk": 80,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 98
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flame_body",
     "RadRed.Abilities.quick_draw",
     "RadRed.Abilities.mega_launcher"
   ],
-  "types": [
-    "pokemon.type.fire"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 25,
-  "expGroup": 0,
+  "genderRatio": 63,
   "catchRate": 30,
-  "genderRatio": 63
+  "types": [
+    "pokemon.type.fire"
+  ]
 }

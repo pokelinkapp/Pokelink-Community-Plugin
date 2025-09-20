@@ -1,11 +1,11 @@
 {
-  "gameId": 787,
   "name": "RadRed.Species.honedge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/679.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/679.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/679.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/679.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/679.png"
   },
+  "gameId": 787,
   "baseStats": {
     "hp": 45,
     "atk": 80,
@@ -14,19 +14,18 @@
     "spDef": 37,
     "spd": 28
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sharpness",
     "RadRed.Abilities.sharpness",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 180,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 180,
-  "genderRatio": 127
+  ]
 }

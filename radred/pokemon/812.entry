@@ -1,11 +1,11 @@
 {
-  "gameId": 1104,
   "name": "RadRed.Species.rillaboom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/812.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/812.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/812.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/812.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/812.png"
   },
+  "gameId": 1104,
   "baseStats": {
     "hp": 100,
     "atk": 125,
@@ -14,18 +14,18 @@
     "spDef": 70,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.grassy_surge"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

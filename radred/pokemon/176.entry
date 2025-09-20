@@ -1,11 +1,11 @@
 {
-  "gameId": 176,
   "name": "RadRed.Species.togetic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/176.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/176.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/176.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/176.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/176.png"
   },
+  "gameId": 176,
   "baseStats": {
     "hp": 55,
     "atk": 40,
@@ -14,19 +14,19 @@
     "spDef": 105,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.super_luck"
   ],
+  "color": "color.white",
+  "hatchCycles": 10,
+  "genderRatio": 31,
+  "catchRate": 75,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 10,
-  "expGroup": 4,
-  "catchRate": 75,
-  "genderRatio": 31
+  "growthRate": 4
 }

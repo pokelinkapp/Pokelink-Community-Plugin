@@ -1,11 +1,11 @@
 {
-  "gameId": 628,
   "name": "RadRed.Species.gothorita",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/575.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/575.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/575.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/575.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/575.png"
   },
+  "gameId": 628,
   "baseStats": {
     "hp": 60,
     "atk": 45,
@@ -14,18 +14,18 @@
     "spDef": 85,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.competitive",
     "RadRed.Abilities.shadow_tag"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 191,
+  "catchRate": 100,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 100,
-  "genderRatio": 191
+  "growthRate": 3
 }

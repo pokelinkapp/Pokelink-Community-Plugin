@@ -1,11 +1,11 @@
 {
-  "gameId": 545,
   "name": "RadRed.Species.shaymin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/492.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/492.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/492.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/492.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/492.png"
   },
+  "gameId": 545,
   "baseStats": {
     "hp": 100,
     "atk": 100,
@@ -14,18 +14,18 @@
     "spDef": 100,
     "spd": 100
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.natural_cure"
   ],
+  "color": "color.green",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 100,
-  "color": "color.green",
-  "hatchCycles": 120,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 3
 }

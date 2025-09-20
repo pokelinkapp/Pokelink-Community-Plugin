@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1250,
   "name": "RadRed.Species.coalossal",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/839.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/839-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/839.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/839-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/839.1.png"
   },
+  "gameId": 1250,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 110,
     "atk": 80,
@@ -16,19 +16,19 @@
     "spDef": 105,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mountaineer",
     "RadRed.Abilities.mountaineer",
     "RadRed.Abilities.mountaineer"
   ],
+  "color": "color.black",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1110,
   "name": "RadRed.Species.inteleon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/818.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/818.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/818.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/818.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/818.png"
   },
+  "gameId": 1110,
   "baseStats": {
     "hp": 70,
     "atk": 85,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 120
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.sniper"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

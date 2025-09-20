@@ -1,11 +1,11 @@
 {
-  "gameId": 655,
   "name": "RadRed.Species.tynamo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/602.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/602.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/602.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/602.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/602.png"
   },
+  "gameId": 655,
   "baseStats": {
     "hp": 35,
     "atk": 55,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 5
 }

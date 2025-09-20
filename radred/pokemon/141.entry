@@ -1,11 +1,11 @@
 {
-  "gameId": 141,
   "name": "RadRed.Species.kabutops",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/141.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/141.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/141.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/141.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/141.png"
   },
+  "gameId": 141,
   "baseStats": {
     "hp": 60,
     "atk": 115,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sharpness",
     "RadRed.Abilities.sharpness",
     "RadRed.Abilities.swift_swim"
   ],
+  "color": "color.brown",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

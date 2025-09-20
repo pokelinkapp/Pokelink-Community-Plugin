@@ -1,11 +1,11 @@
 {
-  "gameId": 505,
   "name": "RadRed.Species.drapion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/452.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/452.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/452.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/452.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/452.png"
   },
+  "gameId": 505,
   "baseStats": {
     "hp": 70,
     "atk": 90,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.sniper",
     "RadRed.Abilities.frisk"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 758,
   "name": "RadRed.Species.chespin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/650.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/650.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/650.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/650.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/650.png"
   },
+  "gameId": 758,
   "baseStats": {
     "hp": 56,
     "atk": 61,
@@ -14,18 +14,18 @@
     "spDef": 45,
     "spd": 38
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.bulletproof",
     "RadRed.Abilities.bulletproof",
     "RadRed.Abilities.iron_barbs"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

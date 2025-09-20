@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 899,
   "name": "RadRed.Species.sharpedo",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/319.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/319-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/319.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/319-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/319.1.png"
   },
+  "gameId": 899,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 70,
     "atk": 140,
@@ -16,19 +16,19 @@
     "spDef": 65,
     "spd": 105
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.strong_jaw"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.water",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 5
 }

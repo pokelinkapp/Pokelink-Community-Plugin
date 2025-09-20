@@ -1,11 +1,11 @@
 {
-  "gameId": 296,
   "name": "RadRed.Species.lombre",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/271.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/271.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/271.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/271.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/271.png"
   },
+  "gameId": 296,
   "baseStats": {
     "hp": 60,
     "atk": 50,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.rain_dish",
     "RadRed.Abilities.own_tempo"
   ],
+  "color": "color.green",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.water",
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

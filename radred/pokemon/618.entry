@@ -1,11 +1,11 @@
 {
-  "gameId": 671,
   "name": "RadRed.Species.stunfisk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/618.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/618.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/618.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/618.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/618.png"
   },
+  "gameId": 671,
   "baseStats": {
     "hp": 109,
     "atk": 66,
@@ -14,19 +14,18 @@
     "spDef": 99,
     "spd": 32
   },
+  "baseFriendship": 70,
   "abilities": [
     "RadRed.Abilities.static",
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.sand_veil"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.electric"
-  ],
-  "baseFriendship": 70,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

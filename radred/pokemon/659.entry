@@ -1,11 +1,11 @@
 {
-  "gameId": 767,
   "name": "RadRed.Species.bunnelby",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/659.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/659.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/659.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/659.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/659.png"
   },
+  "gameId": 767,
   "baseStats": {
     "hp": 38,
     "atk": 36,
@@ -14,18 +14,17 @@
     "spDef": 36,
     "spd": 57
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.cheek_pouch",
     "RadRed.Abilities.huge_power"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

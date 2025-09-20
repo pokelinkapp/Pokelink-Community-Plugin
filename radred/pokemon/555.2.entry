@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1226,
   "name": "RadRed.Species.darmanitan",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/555.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/555-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/555.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/555-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/555.2.png"
   },
+  "gameId": 1226,
+  "form": 2,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 105,
     "atk": 140,
@@ -16,18 +16,18 @@
     "spDef": 55,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gorilla_tactics",
     "RadRed.Abilities.gorilla_tactics",
     "RadRed.Abilities.zen_mode"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 3
 }

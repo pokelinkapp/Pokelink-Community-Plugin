@@ -1,11 +1,11 @@
 {
-  "gameId": 13,
   "name": "RadRed.Species.weedle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/13.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/13.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/13.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/13.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/13.png"
   },
+  "gameId": 13,
   "baseStats": {
     "hp": 40,
     "atk": 35,
@@ -14,19 +14,18 @@
     "spDef": 20,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.shield_dust",
     "RadRed.Abilities.run_away"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.poison"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 51,
   "name": "RadRed.Species.dugtrio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/51.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/51.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/51.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/51.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/51.png"
   },
+  "gameId": 51,
   "baseStats": {
     "hp": 35,
     "atk": 100,
@@ -14,18 +14,17 @@
     "spDef": 70,
     "spd": 120
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.arena_trap",
     "RadRed.Abilities.sand_force"
   ],
-  "types": [
-    "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 50,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ground"
+  ]
 }

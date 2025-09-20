@@ -1,11 +1,11 @@
 {
-  "gameId": 461,
   "name": "RadRed.Species.cranidos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/408.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/408.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/408.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/408.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/408.png"
   },
+  "gameId": 461,
   "baseStats": {
     "hp": 67,
     "atk": 125,
@@ -14,18 +14,18 @@
     "spDef": 30,
     "spd": 58
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.sheer_force"
   ],
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 30,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 1
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1278,
   "name": "RadRed.Species.teddiursa",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/216.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/216-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/216.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/216-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/216.1.png"
   },
+  "gameId": 1278,
+  "form": 1,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 55,
     "atk": 80,
@@ -16,18 +16,17 @@
     "spDef": 50,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.quick_feet",
     "RadRed.Abilities.iron_fist"
   ],
-  "types": [
-    "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.ghost"
+  ]
 }

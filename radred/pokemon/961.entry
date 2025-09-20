@@ -1,11 +1,11 @@
 {
-  "gameId": 933,
   "name": "RadRed.Species.wugtrio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/961.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/961.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/961.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/961.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/961.png"
   },
+  "gameId": 933,
   "baseStats": {
     "hp": 35,
     "atk": 115,
@@ -14,18 +14,17 @@
     "spDef": 70,
     "spd": 120
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gooey",
     "RadRed.Abilities.arena_trap",
     "RadRed.Abilities.sand_veil"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 50,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.water"
+  ]
 }

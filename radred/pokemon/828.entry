@@ -1,11 +1,11 @@
 {
-  "gameId": 1120,
   "name": "RadRed.Species.thievul",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/828.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/828.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/828.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/828.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/828.png"
   },
+  "gameId": 1120,
   "baseStats": {
     "hp": 70,
     "atk": 58,
@@ -14,18 +14,18 @@
     "spDef": 92,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.unburden",
     "RadRed.Abilities.stakeout"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 127,
   "types": [
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 4,
-  "catchRate": 127,
-  "genderRatio": 127
+  "growthRate": 4
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 354,
   "name": "RadRed.Species.minun",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/312.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/312.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/312.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/312.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/312.png"
   },
+  "gameId": 354,
   "baseStats": {
     "hp": 60,
     "atk": 85,
@@ -14,18 +14,17 @@
     "spDef": 40,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.minus",
     "RadRed.Abilities.volt_absorb",
     "RadRed.Abilities.galvanize"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 200,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

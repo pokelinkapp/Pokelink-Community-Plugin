@@ -1,11 +1,11 @@
 {
-  "gameId": 340,
   "name": "RadRed.Species.camerupt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/323.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/323.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/323.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/323.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/323.png"
   },
+  "gameId": 340,
   "baseStats": {
     "hp": 90,
     "atk": 100,
@@ -14,19 +14,18 @@
     "spDef": 75,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.magma_armor",
     "RadRed.Abilities.solid_rock",
     "RadRed.Abilities.anger_point"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 150,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 150,
-  "genderRatio": 127
+  ]
 }

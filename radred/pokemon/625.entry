@@ -1,11 +1,11 @@
 {
-  "gameId": 678,
   "name": "RadRed.Species.bisharp",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/625.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/625.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/625.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/625.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/625.png"
   },
+  "gameId": 678,
   "baseStats": {
     "hp": 65,
     "atk": 125,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 70
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.defiant",
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.pressure"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 35,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 864,
   "name": "RadRed.Species.palafin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/964.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/964.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/964.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/964.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/964.png"
   },
+  "gameId": 864,
   "baseStats": {
     "hp": 100,
     "atk": 70,
@@ -14,18 +14,18 @@
     "spDef": 62,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.zero_to_hero",
     "RadRed.Abilities.zero_to_hero",
     "RadRed.Abilities.zero_to_hero"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

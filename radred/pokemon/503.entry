@@ -1,11 +1,11 @@
 {
-  "gameId": 556,
   "name": "RadRed.Species.samurott",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/503.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/503.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/503.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/503.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/503.png"
   },
+  "gameId": 556,
   "baseStats": {
     "hp": 95,
     "atk": 108,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

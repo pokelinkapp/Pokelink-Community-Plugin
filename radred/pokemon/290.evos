@@ -3,15 +3,23 @@
     {
       "to": 291,
       "conditions": {
-        "pokemon.evolve.level": 20
+        "pokemon.evolve.level": {
+          "number": 20
+        }
       }
     },
     {
       "to": 292,
       "conditions": {
-        "pokemon.evolve.level": 20,
+        "pokemon.evolve.level": {
+          "number": 20
+        },
         "pokemon.evolve.emptySlot": {
-          "pokemon.evolve.hasItem": "pokemon.ball.poke_ball"
+          "nested": {
+            "pokemon.evolve.hasItem": {
+              "string": "pokemon.ball.poke_ball"
+            }
+          }
         }
       }
     }

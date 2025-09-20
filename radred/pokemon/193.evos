@@ -4,7 +4,11 @@
       "to": 469,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.knowMove": "pokemon.move.ancient_power"
+          "nested": {
+            "pokemon.evolve.knowMove": {
+              "string": "pokemon.move.ancient_power"
+            }
+          }
         }
       }
     }

@@ -1,11 +1,11 @@
 {
-  "gameId": 85,
   "name": "RadRed.Species.dodrio",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/85.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/85.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/85.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/85.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/85.png"
   },
+  "gameId": 85,
   "baseStats": {
     "hp": 60,
     "atk": 110,
@@ -14,19 +14,18 @@
     "spDef": 60,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.early_bird",
     "RadRed.Abilities.rock_head"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

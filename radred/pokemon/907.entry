@@ -1,11 +1,11 @@
 {
-  "gameId": 922,
   "name": "RadRed.Species.floragato",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/907.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/907.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/907.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/907.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/907.png"
   },
+  "gameId": 922,
   "baseStats": {
     "hp": 61,
     "atk": 80,
@@ -14,18 +14,18 @@
     "spDef": 63,
     "spd": 83
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.protean"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1356,
   "name": "RadRed.Species.ursaluna",
-  "formName": "RadRed.Forms.bloodmoon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/901.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/901-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/901.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/901-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/901.1.png"
   },
+  "gameId": 1356,
+  "form": 1,
+  "formName": "RadRed.Forms.bloodmoon",
   "baseStats": {
     "hp": 113,
     "atk": 70,
@@ -16,19 +16,18 @@
     "spDef": 65,
     "spd": 52
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.scrappy",
     "RadRed.Abilities.scrappy",
     "RadRed.Abilities.scrappy"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 5,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 5,
-  "genderRatio": 0
+  ]
 }

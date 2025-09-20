@@ -1,11 +1,11 @@
 {
-  "gameId": 679,
   "name": "RadRed.Species.bouffalant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/626.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/626.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/626.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/626.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/626.png"
   },
+  "gameId": 679,
   "baseStats": {
     "hp": 100,
     "atk": 110,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.reckless",
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.bull_rush"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 45,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

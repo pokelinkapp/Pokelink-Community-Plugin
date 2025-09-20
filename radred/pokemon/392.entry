@@ -1,11 +1,11 @@
 {
-  "gameId": 445,
   "name": "RadRed.Species.infernape",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/392.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/392.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/392.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/392.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/392.png"
   },
+  "gameId": 445,
   "baseStats": {
     "hp": 76,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 71,
     "spd": 113
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.iron_fist"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

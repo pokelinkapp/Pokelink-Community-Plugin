@@ -3,16 +3,20 @@
     {
       "to": 555,
       "conditions": {
-        "pokemon.evolve.level": 35
+        "pokemon.evolve.level": {
+          "number": 35
+        }
       }
     },
     {
       "to": 555,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.ice_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.ice_stone"
+        }
       },
-      "toForm": 1,
-      "fromForm": 1
+      "fromForm": 1,
+      "toForm": 1
     }
   ]
 }

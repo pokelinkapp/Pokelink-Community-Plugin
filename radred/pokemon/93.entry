@@ -1,11 +1,11 @@
 {
-  "gameId": 93,
   "name": "RadRed.Species.haunter",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/93.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/93.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/93.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/93.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/93.png"
   },
+  "gameId": 93,
   "baseStats": {
     "hp": 45,
     "atk": 50,
@@ -14,19 +14,19 @@
     "spDef": 55,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 90,
-  "genderRatio": 127
+  "growthRate": 3
 }

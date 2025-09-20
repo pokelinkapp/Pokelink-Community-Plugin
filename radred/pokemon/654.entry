@@ -1,11 +1,11 @@
 {
-  "gameId": 762,
   "name": "RadRed.Species.braixen",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/654.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/654.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/654.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/654.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/654.png"
   },
+  "gameId": 762,
   "baseStats": {
     "hp": 59,
     "atk": 59,
@@ -14,18 +14,18 @@
     "spDef": 70,
     "spd": 73
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.magic_guard"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 458,
   "name": "RadRed.Species.luxray",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/405.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/405.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/405.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/405.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/405.png"
   },
+  "gameId": 458,
   "baseStats": {
     "hp": 80,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 79,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rivalry",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.guts"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

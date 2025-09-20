@@ -1,11 +1,11 @@
 {
-  "gameId": 796,
   "name": "RadRed.Species.binacle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/688.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/688.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/688.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/688.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/688.png"
   },
+  "gameId": 796,
   "baseStats": {
     "hp": 42,
     "atk": 52,
@@ -14,19 +14,18 @@
     "spDef": 56,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.tough_claws",
     "RadRed.Abilities.sniper",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 127
+  ]
 }

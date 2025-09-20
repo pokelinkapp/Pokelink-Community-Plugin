@@ -1,11 +1,11 @@
 {
-  "gameId": 786,
   "name": "RadRed.Species.meowstic",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/678.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/678.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/678.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/678.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/678.png"
   },
+  "gameId": 786,
   "baseStats": {
     "hp": 74,
     "atk": 48,
@@ -14,18 +14,17 @@
     "spDef": 81,
     "spd": 104
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.prankster",
     "RadRed.Abilities.feline_prowess",
     "RadRed.Abilities.infiltrator"
   ],
-  "types": [
-    "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 0,
   "catchRate": 75,
-  "genderRatio": 0
+  "types": [
+    "pokemon.type.psychic"
+  ]
 }

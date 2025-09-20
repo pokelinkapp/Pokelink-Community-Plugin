@@ -1,11 +1,11 @@
 {
-  "gameId": 407,
   "name": "RadRed.Species.latias",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/380.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/380.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/380.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/380.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/380.png"
   },
+  "gameId": 407,
   "baseStats": {
     "hp": 80,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 130,
     "spd": 110
   },
+  "baseFriendship": 90,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 254,
+  "catchRate": 3,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 90,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 254
+  "growthRate": 5
 }

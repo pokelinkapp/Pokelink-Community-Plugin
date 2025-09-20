@@ -1,11 +1,11 @@
 {
-  "gameId": 212,
   "name": "RadRed.Species.scizor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/212.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/212.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/212.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/212.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/212.png"
   },
+  "gameId": 212,
   "baseStats": {
     "hp": 70,
     "atk": 130,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.red",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 25,
-  "expGroup": 0,
-  "catchRate": 25,
-  "genderRatio": 127
+  ]
 }

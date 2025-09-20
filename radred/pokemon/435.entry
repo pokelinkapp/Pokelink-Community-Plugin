@@ -1,11 +1,11 @@
 {
-  "gameId": 488,
   "name": "RadRed.Species.skuntank",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/435.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/435.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/435.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/435.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/435.png"
   },
+  "gameId": 488,
   "baseStats": {
     "hp": 103,
     "atk": 93,
@@ -14,19 +14,18 @@
     "spDef": 61,
     "spd": 84
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.stench",
     "RadRed.Abilities.aftermath",
     "RadRed.Abilities.frisk"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 60,
-  "genderRatio": 127
+  ]
 }

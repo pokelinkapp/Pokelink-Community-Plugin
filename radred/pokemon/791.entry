@@ -1,11 +1,11 @@
 {
-  "gameId": 1008,
   "name": "RadRed.Species.solgaleo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/791.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/791.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/791.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/791.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/791.png"
   },
+  "gameId": 1008,
   "baseStats": {
     "hp": 137,
     "atk": 137,
@@ -14,19 +14,19 @@
     "spDef": 89,
     "spd": 97
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.full_metal_body",
     "RadRed.Abilities.full_metal_body",
     "RadRed.Abilities.full_metal_body"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

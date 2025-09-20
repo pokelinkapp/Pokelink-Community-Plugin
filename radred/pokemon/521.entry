@@ -1,11 +1,11 @@
 {
-  "gameId": 574,
   "name": "RadRed.Species.unfezant",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/521.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/521.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/521.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/521.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/521.png"
   },
+  "gameId": 574,
   "baseStats": {
     "hp": 80,
     "atk": 115,
@@ -14,19 +14,19 @@
     "spDef": 55,
     "spd": 108
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.super_luck",
     "RadRed.Abilities.rivalry"
   ],
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

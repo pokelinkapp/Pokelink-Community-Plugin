@@ -1,11 +1,11 @@
 {
-  "gameId": 1117,
   "name": "RadRed.Species.dottler",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/825.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/825.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/825.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/825.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/825.png"
   },
+  "gameId": 1117,
   "baseStats": {
     "hp": 50,
     "atk": 35,
@@ -14,19 +14,18 @@
     "spDef": 90,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.compound_eyes",
     "RadRed.Abilities.telepathy"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 127
+  ]
 }

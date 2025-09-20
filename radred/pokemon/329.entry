@@ -1,11 +1,11 @@
 {
-  "gameId": 333,
   "name": "RadRed.Species.vibrava",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/329.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/329.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/329.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/329.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/329.png"
   },
+  "gameId": 333,
   "baseStats": {
     "hp": 50,
     "atk": 70,
@@ -14,19 +14,19 @@
     "spDef": 50,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.compound_eyes",
     "RadRed.Abilities.tinted_lens"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

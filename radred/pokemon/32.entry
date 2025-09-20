@@ -1,11 +1,11 @@
 {
-  "gameId": 32,
   "name": "RadRed.Species.nidoran_m",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/32.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/32.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/32.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/32.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/32.png"
   },
+  "gameId": 32,
   "baseStats": {
     "hp": 46,
     "atk": 57,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.rivalry",
     "RadRed.Abilities.hustle"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 235,
   "types": [
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 235,
-  "genderRatio": 0
+  "growthRate": 3
 }

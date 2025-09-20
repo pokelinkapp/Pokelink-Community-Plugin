@@ -1,11 +1,11 @@
 {
-  "gameId": 462,
   "name": "RadRed.Species.rampardos",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/409.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/409.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/409.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/409.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/409.png"
   },
+  "gameId": 462,
   "baseStats": {
     "hp": 97,
     "atk": 165,
@@ -14,18 +14,18 @@
     "spDef": 50,
     "spd": 58
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.sheer_force"
   ],
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 30,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 1
 }

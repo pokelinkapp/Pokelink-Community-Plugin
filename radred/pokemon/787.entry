@@ -1,11 +1,11 @@
 {
-  "gameId": 1004,
   "name": "RadRed.Species.tapu_bulu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/787.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/787.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/787.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/787.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/787.png"
   },
+  "gameId": 1004,
   "baseStats": {
     "hp": 70,
     "atk": 130,
@@ -14,19 +14,19 @@
     "spDef": 95,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.grassy_surge",
     "RadRed.Abilities.grassy_surge",
     "RadRed.Abilities.telepathy"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

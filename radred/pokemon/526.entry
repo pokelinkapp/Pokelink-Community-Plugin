@@ -1,11 +1,11 @@
 {
-  "gameId": 579,
   "name": "RadRed.Species.gigalith",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/526.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/526.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/526.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/526.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/526.png"
   },
+  "gameId": 579,
   "baseStats": {
     "hp": 85,
     "atk": 135,
@@ -14,18 +14,18 @@
     "spDef": 80,
     "spd": 25
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sand_stream",
     "RadRed.Abilities.sand_force"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

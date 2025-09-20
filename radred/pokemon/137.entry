@@ -1,11 +1,11 @@
 {
-  "gameId": 137,
   "name": "RadRed.Species.porygon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/137.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/137.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/137.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/137.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/137.png"
   },
+  "gameId": 137,
   "baseStats": {
     "hp": 65,
     "atk": 60,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.trace",
     "RadRed.Abilities.download",
     "RadRed.Abilities.analytic"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.pink",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 255,
   "catchRate": 45,
-  "genderRatio": 255
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

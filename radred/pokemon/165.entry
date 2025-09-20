@@ -1,11 +1,11 @@
 {
-  "gameId": 165,
   "name": "RadRed.Species.ledyba",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/165.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/165.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/165.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/165.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/165.png"
   },
+  "gameId": 165,
   "baseStats": {
     "hp": 40,
     "atk": 20,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.early_bird",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 4,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 4
 }

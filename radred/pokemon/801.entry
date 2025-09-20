@@ -1,11 +1,11 @@
 {
-  "gameId": 1018,
   "name": "RadRed.Species.magearna",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/801.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/801.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/801.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/801.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/801.png"
   },
+  "gameId": 1018,
   "baseStats": {
     "hp": 80,
     "atk": 95,
@@ -14,19 +14,19 @@
     "spDef": 115,
     "spd": 65
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.soul_heart",
     "RadRed.Abilities.soul_heart",
     "RadRed.Abilities.soul_heart"
   ],
+  "color": "color.gray",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

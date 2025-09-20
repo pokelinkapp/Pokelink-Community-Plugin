@@ -1,11 +1,11 @@
 {
-  "gameId": 564,
   "name": "RadRed.Species.pansage",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/511.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/511.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/511.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/511.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/511.png"
   },
+  "gameId": 564,
   "baseStats": {
     "hp": 50,
     "atk": 53,
@@ -14,18 +14,17 @@
     "spDef": 48,
     "spd": 64
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.overgrow"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 31,
   "catchRate": 190,
-  "genderRatio": 31
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

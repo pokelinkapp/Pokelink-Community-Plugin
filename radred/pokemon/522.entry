@@ -1,11 +1,11 @@
 {
-  "gameId": 575,
   "name": "RadRed.Species.blitzle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/522.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/522.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/522.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/522.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/522.png"
   },
+  "gameId": 575,
   "baseStats": {
     "hp": 45,
     "atk": 60,
@@ -14,18 +14,17 @@
     "spDef": 32,
     "spd": 76
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.lightning_rod",
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.flare_boost"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.black",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

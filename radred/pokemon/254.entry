@@ -1,11 +1,11 @@
 {
-  "gameId": 279,
   "name": "RadRed.Species.sceptile",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/254.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/254.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/254.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/254.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/254.png"
   },
+  "gameId": 279,
   "baseStats": {
     "hp": 70,
     "atk": 105,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 120
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.unburden"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 463,
   "name": "RadRed.Species.shieldon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/410.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/410.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/410.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/410.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/410.png"
   },
+  "gameId": 463,
   "baseStats": {
     "hp": 30,
     "atk": 42,
@@ -14,19 +14,19 @@
     "spDef": 88,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.soundproof"
   ],
+  "color": "color.gray",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 30,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 1
 }

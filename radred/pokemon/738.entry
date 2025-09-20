@@ -1,11 +1,11 @@
 {
-  "gameId": 955,
   "name": "RadRed.Species.vikavolt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/738.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/738.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/738.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/738.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/738.png"
   },
+  "gameId": 955,
   "baseStats": {
     "hp": 77,
     "atk": 70,
@@ -14,19 +14,18 @@
     "spDef": 75,
     "spd": 43
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

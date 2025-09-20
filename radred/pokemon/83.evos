@@ -3,7 +3,9 @@
     {
       "to": 865,
       "conditions": {
-        "pokemon.evolve.critsInOneBattle": 3
+        "pokemon.evolve.critsInOneBattle": {
+          "number": 3
+        }
       },
       "fromForm": 1
     }

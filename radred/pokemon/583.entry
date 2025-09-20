@@ -1,11 +1,11 @@
 {
-  "gameId": 636,
   "name": "RadRed.Species.vanillish",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/583.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/583.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/583.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/583.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/583.png"
   },
+  "gameId": 636,
   "baseStats": {
     "hp": 51,
     "atk": 65,
@@ -14,18 +14,18 @@
     "spDef": 75,
     "spd": 59
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.slush_rush",
     "RadRed.Abilities.weak_armor"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1112,
   "name": "RadRed.Species.greedent",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/820.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/820.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/820.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/820.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/820.png"
   },
+  "gameId": 1112,
   "baseStats": {
     "hp": 120,
     "atk": 95,
@@ -14,18 +14,17 @@
     "spDef": 75,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.cheek_pouch",
     "RadRed.Abilities.cheek_pouch",
     "RadRed.Abilities.gluttony"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

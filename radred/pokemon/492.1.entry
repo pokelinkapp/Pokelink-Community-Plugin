@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 719,
   "name": "RadRed.Species.shaymin",
-  "formName": "RadRed.Forms.sky",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/492.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/492-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/492.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/492-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/492.1.png"
   },
+  "gameId": 719,
+  "form": 1,
+  "formName": "RadRed.Forms.sky",
   "baseStats": {
     "hp": 100,
     "atk": 103,
@@ -16,19 +16,19 @@
     "spDef": 75,
     "spd": 127
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.serene_grace"
   ],
+  "color": "color.green",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 100,
-  "color": "color.green",
-  "hatchCycles": 120,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 3
 }

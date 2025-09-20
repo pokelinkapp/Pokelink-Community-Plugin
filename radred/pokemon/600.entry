@@ -1,11 +1,11 @@
 {
-  "gameId": 653,
   "name": "RadRed.Species.klang",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/600.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/600.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/600.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/600.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/600.png"
   },
+  "gameId": 653,
   "baseStats": {
     "hp": 60,
     "atk": 80,
@@ -14,18 +14,18 @@
     "spDef": 85,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.plus",
     "RadRed.Abilities.minus",
     "RadRed.Abilities.clear_body"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 60,
   "types": [
     "pokemon.type.steel"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 60,
-  "genderRatio": 255
+  "growthRate": 3
 }

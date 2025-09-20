@@ -1,11 +1,11 @@
 {
-  "gameId": 923,
   "name": "RadRed.Species.meowscarada",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/908.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/908.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/908.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/908.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/908.png"
   },
+  "gameId": 923,
   "baseStats": {
     "hp": 76,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 123
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.protean"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

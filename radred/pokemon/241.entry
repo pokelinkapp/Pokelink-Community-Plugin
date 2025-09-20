@@ -1,11 +1,11 @@
 {
-  "gameId": 241,
   "name": "RadRed.Species.miltank",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/241.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/241.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/241.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/241.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/241.png"
   },
+  "gameId": 241,
   "baseStats": {
     "hp": 95,
     "atk": 85,
@@ -14,18 +14,18 @@
     "spDef": 70,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.scrappy",
     "RadRed.Abilities.sap_sipper"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 45,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 254
+  "growthRate": 5
 }

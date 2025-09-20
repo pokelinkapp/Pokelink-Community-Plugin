@@ -1,11 +1,11 @@
 {
-  "gameId": 995,
   "name": "RadRed.Species.mimikyu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/778.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/778.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/778.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/778.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/778.png"
   },
+  "gameId": 995,
   "baseStats": {
     "hp": 55,
     "atk": 90,
@@ -14,19 +14,18 @@
     "spDef": 105,
     "spd": 96
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.disguise",
     "RadRed.Abilities.disguise",
     "RadRed.Abilities.disguise"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

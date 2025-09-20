@@ -1,12 +1,12 @@
 {
-  "gameId": 789,
   "name": "RadRed.Species.aegislash",
-  "formName": "RadRed.Forms.shield",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/681.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/681.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/681.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/681.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/681.png"
   },
+  "gameId": 789,
+  "formName": "RadRed.Forms.shield",
   "baseStats": {
     "hp": 60,
     "atk": 50,
@@ -15,19 +15,18 @@
     "spDef": 140,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.stance_change",
     "RadRed.Abilities.stance_change",
     "RadRed.Abilities.stance_change"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

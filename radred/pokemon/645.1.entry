@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 756,
   "name": "RadRed.Species.landorus",
-  "formName": "RadRed.Forms.therian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/645.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/645-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/645.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/645-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/645.1.png"
   },
+  "gameId": 756,
+  "form": 1,
+  "formName": "RadRed.Forms.therian",
   "baseStats": {
     "hp": 89,
     "atk": 145,
@@ -16,19 +16,19 @@
     "spDef": 80,
     "spd": 91
   },
+  "baseFriendship": 90,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate"
   ],
+  "color": "color.brown",
+  "hatchCycles": 120,
+  "genderRatio": 0,
+  "catchRate": 3,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 90,
-  "color": "color.brown",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 0
+  "growthRate": 5
 }

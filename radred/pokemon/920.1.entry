@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1186,
   "name": "RadRed.Species.lokix",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/920.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/920-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/920.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/920-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/920.1.png"
   },
+  "gameId": 1186,
+  "form": 1,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 71,
     "atk": 102,
@@ -16,19 +16,18 @@
     "spDef": 55,
     "spd": 92
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.swarm",
     "RadRed.Abilities.tinted_lens",
     "RadRed.Abilities.swarm"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 30,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.dragon"
-  ],
-  "baseFriendship": 0,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 30,
-  "genderRatio": 127
+  ]
 }

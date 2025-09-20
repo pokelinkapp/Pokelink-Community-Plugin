@@ -1,11 +1,11 @@
 {
-  "gameId": 925,
   "name": "RadRed.Species.crocalor",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/910.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/910.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/910.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/910.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/910.png"
   },
+  "gameId": 925,
   "baseStats": {
     "hp": 81,
     "atk": 55,
@@ -14,18 +14,18 @@
     "spDef": 58,
     "spd": 49
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.unaware"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

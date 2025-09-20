@@ -1,11 +1,11 @@
 {
-  "gameId": 609,
   "name": "RadRed.Species.maractus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/556.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/556.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/556.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/556.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/556.png"
   },
+  "gameId": 609,
   "baseStats": {
     "hp": 75,
     "atk": 106,
@@ -14,18 +14,17 @@
     "spDef": 67,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.grassy_surge"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 255,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 384,
   "name": "RadRed.Species.aggron",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/306.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/306.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/306.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/306.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/306.png"
   },
+  "gameId": 384,
   "baseStats": {
     "hp": 70,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 50
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.heavy_metal"
   ],
+  "color": "color.gray",
+  "hatchCycles": 35,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

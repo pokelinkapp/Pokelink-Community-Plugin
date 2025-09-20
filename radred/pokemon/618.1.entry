@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1229,
   "name": "RadRed.Species.stunfisk",
-  "formName": "RadRed.Forms.galar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/618.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/618-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/618.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/618-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/618.1.png"
   },
+  "gameId": 1229,
+  "form": 1,
+  "formName": "RadRed.Forms.galar",
   "baseStats": {
     "hp": 109,
     "atk": 81,
@@ -16,19 +16,18 @@
     "spDef": 84,
     "spd": 32
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.filter",
     "RadRed.Abilities.filter",
     "RadRed.Abilities.iron_barbs"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

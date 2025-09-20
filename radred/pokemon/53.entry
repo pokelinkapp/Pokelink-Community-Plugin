@@ -1,11 +1,11 @@
 {
-  "gameId": 53,
   "name": "RadRed.Species.persian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/53.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/53.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/53.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/53.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/53.png"
   },
+  "gameId": 53,
   "baseStats": {
     "hp": 65,
     "atk": 80,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 115
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.limber",
     "RadRed.Abilities.technician",
     "RadRed.Abilities.feline_prowess"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

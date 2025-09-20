@@ -3,7 +3,9 @@
     {
       "to": 923,
       "conditions": {
-        "pokemon.evolve.walkXStepsInLetsGoMode": 1000
+        "pokemon.evolve.walkXStepsInLetsGoMode": {
+          "number": 1000
+        }
       }
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "gameId": 1367,
   "name": "RadRed.Species.raging_bolt",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1021.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1021.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1021.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1021.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1021.png"
   },
+  "gameId": 1367,
   "baseStats": {
     "hp": 125,
     "atk": 73,
@@ -14,19 +14,19 @@
     "spDef": 89,
     "spd": 75
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.protosynthesis",
     "RadRed.Abilities.protosynthesis",
     "RadRed.Abilities.protosynthesis"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 0,
-  "color": "color.yellow",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

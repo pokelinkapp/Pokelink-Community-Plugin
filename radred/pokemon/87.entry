@@ -1,11 +1,11 @@
 {
-  "gameId": 87,
   "name": "RadRed.Species.dewgong",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/87.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/87.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/87.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/87.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/87.png"
   },
+  "gameId": 87,
   "baseStats": {
     "hp": 95,
     "atk": 50,
@@ -14,19 +14,18 @@
     "spDef": 95,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.ice_scales",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

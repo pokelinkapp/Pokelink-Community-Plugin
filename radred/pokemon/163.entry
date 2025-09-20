@@ -1,11 +1,11 @@
 {
-  "gameId": 163,
   "name": "RadRed.Species.hoothoot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/163.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/163.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/163.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/163.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/163.png"
   },
+  "gameId": 163,
   "baseStats": {
     "hp": 60,
     "atk": 30,
@@ -14,19 +14,18 @@
     "spDef": 56,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.tinted_lens",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.insomnia"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 127
+  ]
 }

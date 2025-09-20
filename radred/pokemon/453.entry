@@ -1,11 +1,11 @@
 {
-  "gameId": 506,
   "name": "RadRed.Species.croagunk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/453.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/453.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/453.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/453.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/453.png"
   },
+  "gameId": 506,
   "baseStats": {
     "hp": 48,
     "atk": 61,
@@ -14,19 +14,18 @@
     "spDef": 40,
     "spd": 50
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.dry_skin",
     "RadRed.Abilities.poison_touch"
   ],
+  "color": "color.blue",
+  "hatchCycles": 10,
+  "genderRatio": 127,
+  "catchRate": 140,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.fighting"
-  ],
-  "baseFriendship": 100,
-  "color": "color.blue",
-  "hatchCycles": 10,
-  "expGroup": 0,
-  "catchRate": 140,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 692,
   "name": "RadRed.Species.terrakion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/639.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/639.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/639.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/639.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/639.png"
   },
+  "gameId": 692,
   "baseStats": {
     "hp": 91,
     "atk": 129,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 108
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.justified",
     "RadRed.Abilities.justified",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.gray",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

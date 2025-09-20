@@ -1,11 +1,11 @@
 {
-  "gameId": 1196,
   "name": "RadRed.Species.arctibax",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/997.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/997.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/997.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/997.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/997.png"
   },
+  "gameId": 1196,
   "baseStats": {
     "hp": 90,
     "atk": 95,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 62
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thermalexchange",
     "RadRed.Abilities.thermalexchange",
     "RadRed.Abilities.ice_body"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.ice"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 25,
-  "genderRatio": 127
+  "growthRate": 5
 }

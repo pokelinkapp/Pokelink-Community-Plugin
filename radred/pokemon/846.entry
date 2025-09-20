@@ -1,11 +1,11 @@
 {
-  "gameId": 1138,
   "name": "RadRed.Species.arrokuda",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/846.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/846.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/846.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/846.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/846.png"
   },
+  "gameId": 1138,
   "baseStats": {
     "hp": 41,
     "atk": 63,
@@ -14,18 +14,18 @@
     "spDef": 30,
     "spd": 66
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.swift_swim"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 983,
   "name": "RadRed.Species.passimian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/766.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/766.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/766.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/766.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/766.png"
   },
+  "gameId": 983,
   "baseStats": {
     "hp": 100,
     "atk": 120,
@@ -14,18 +14,18 @@
     "spDef": 75,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.receiver",
     "RadRed.Abilities.receiver",
     "RadRed.Abilities.defiant"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

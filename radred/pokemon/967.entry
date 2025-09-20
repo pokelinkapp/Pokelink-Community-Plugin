@@ -1,11 +1,11 @@
 {
-  "gameId": 1101,
   "name": "RadRed.Species.cyclizar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/967.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/967.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/967.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/967.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/967.png"
   },
+  "gameId": 1101,
   "baseStats": {
     "hp": 70,
     "atk": 95,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 121
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.regenerator"
   ],
+  "color": "color.green",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 30,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

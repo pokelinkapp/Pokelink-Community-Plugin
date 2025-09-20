@@ -4,7 +4,11 @@
       "to": 474,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.dubious_disc"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.dubious_disc"
+            }
+          }
         }
       }
     }

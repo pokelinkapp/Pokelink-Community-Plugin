@@ -1,11 +1,11 @@
 {
-  "gameId": 216,
   "name": "RadRed.Species.teddiursa",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/216.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/216.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/216.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/216.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/216.png"
   },
+  "gameId": 216,
   "baseStats": {
     "hp": 60,
     "atk": 80,
@@ -14,18 +14,17 @@
     "spDef": 50,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.quick_feet",
     "RadRed.Abilities.unnerve"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 120,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

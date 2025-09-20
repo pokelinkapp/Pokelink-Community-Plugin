@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1040,
   "name": "RadRed.Species.deoxys",
-  "formName": "RadRed.Forms.attack",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/386.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/386-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/386.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/386-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/386.1.png"
   },
+  "gameId": 1040,
+  "form": 1,
+  "formName": "RadRed.Forms.attack",
   "baseStats": {
     "hp": 50,
     "atk": 180,
@@ -16,18 +16,18 @@
     "spDef": 20,
     "spd": 150
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

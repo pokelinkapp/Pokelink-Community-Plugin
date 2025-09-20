@@ -1,11 +1,11 @@
 {
-  "gameId": 524,
   "name": "RadRed.Species.glaceon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/471.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/471.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/471.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/471.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/471.png"
   },
+  "gameId": 524,
   "baseStats": {
     "hp": 80,
     "atk": 45,
@@ -14,18 +14,17 @@
     "spDef": 95,
     "spd": 75
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.ice_body",
     "RadRed.Abilities.slush_rush"
   ],
-  "types": [
-    "pokemon.type.ice"
-  ],
-  "baseFriendship": 35,
   "color": "color.blue",
   "hatchCycles": 35,
-  "expGroup": 0,
+  "genderRatio": 31,
   "catchRate": 45,
-  "genderRatio": 31
+  "types": [
+    "pokemon.type.ice"
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1327,
   "name": "RadRed.Species.capsakid",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/951.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/951.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/951.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/951.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/951.png"
   },
+  "gameId": 1327,
   "baseStats": {
     "hp": 52,
     "atk": 62,
@@ -14,18 +14,17 @@
     "spDef": 40,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.insomnia",
     "RadRed.Abilities.chlorophyll"
   ],
-  "types": [
-    "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
   "color": "color.green",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.grass"
+  ]
 }

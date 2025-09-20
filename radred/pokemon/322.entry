@@ -1,11 +1,11 @@
 {
-  "gameId": 339,
   "name": "RadRed.Species.numel",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/322.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/322.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/322.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/322.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/322.png"
   },
+  "gameId": 339,
   "baseStats": {
     "hp": 60,
     "atk": 60,
@@ -14,19 +14,18 @@
     "spDef": 45,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.oblivious",
     "RadRed.Abilities.simple",
     "RadRed.Abilities.own_tempo"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 255,
-  "genderRatio": 127
+  ]
 }

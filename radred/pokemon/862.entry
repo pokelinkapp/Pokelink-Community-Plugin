@@ -1,11 +1,11 @@
 {
-  "gameId": 1154,
   "name": "RadRed.Species.obstagoon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/862.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/862.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/862.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/862.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/862.png"
   },
+  "gameId": 1154,
   "baseStats": {
     "hp": 93,
     "atk": 90,
@@ -14,19 +14,18 @@
     "spDef": 81,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.reckless",
     "RadRed.Abilities.guts",
     "RadRed.Abilities.defiant"
   ],
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 127
+  ]
 }

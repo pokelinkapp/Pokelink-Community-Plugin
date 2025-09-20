@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1269,
   "name": "RadRed.Species.braviary",
-  "formName": "RadRed.Forms.hisui",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/628.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/628-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/628.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/628-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/628.1.png"
   },
+  "gameId": 1269,
+  "form": 1,
+  "formName": "RadRed.Forms.hisui",
   "baseStats": {
     "hp": 115,
     "atk": 58,
@@ -16,19 +16,19 @@
     "spDef": 80,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.tinted_lens"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 60,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 0
+  "growthRate": 5
 }

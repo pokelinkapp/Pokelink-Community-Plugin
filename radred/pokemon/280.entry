@@ -1,11 +1,11 @@
 {
-  "gameId": 392,
   "name": "RadRed.Species.ralts",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/280.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/280.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/280.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/280.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/280.png"
   },
+  "gameId": 392,
   "baseStats": {
     "hp": 28,
     "atk": 25,
@@ -14,19 +14,19 @@
     "spDef": 35,
     "spd": 40
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.synchronize",
     "RadRed.Abilities.trace",
     "RadRed.Abilities.telepathy"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 235,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 35,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 235,
-  "genderRatio": 127
+  "growthRate": 5
 }

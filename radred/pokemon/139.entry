@@ -1,11 +1,11 @@
 {
-  "gameId": 139,
   "name": "RadRed.Species.omastar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/139.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/139.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/139.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/139.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/139.png"
   },
+  "gameId": 139,
   "baseStats": {
     "hp": 70,
     "atk": 60,
@@ -14,19 +14,18 @@
     "spDef": 70,
     "spd": 55
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.weak_armor"
   ],
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 30,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 31
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1314,
   "name": "RadRed.Species.tarountula",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/917.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/917.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/917.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/917.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/917.png"
   },
+  "gameId": 1314,
   "baseStats": {
     "hp": 35,
     "atk": 41,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.insomnia",
     "RadRed.Abilities.stakeout",
     "RadRed.Abilities.insomnia"
   ],
+  "color": "color.white",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.bug"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 15,
-  "expGroup": 1,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 1
 }

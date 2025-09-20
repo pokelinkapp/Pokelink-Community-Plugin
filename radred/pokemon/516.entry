@@ -1,11 +1,11 @@
 {
-  "gameId": 569,
   "name": "RadRed.Species.simipour",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/516.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/516.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/516.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/516.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/516.png"
   },
+  "gameId": 569,
   "baseStats": {
     "hp": 75,
     "atk": 98,
@@ -14,18 +14,17 @@
     "spDef": 63,
     "spd": 101
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.sage_power"
   ],
-  "types": [
-    "pokemon.type.water"
-  ],
-  "baseFriendship": 50,
   "color": "color.blue",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 31,
   "catchRate": 75,
-  "genderRatio": 31
+  "types": [
+    "pokemon.type.water"
+  ]
 }

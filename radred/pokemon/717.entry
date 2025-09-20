@@ -1,11 +1,11 @@
 {
-  "gameId": 825,
   "name": "RadRed.Species.yveltal",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/717.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/717.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/717.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/717.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/717.png"
   },
+  "gameId": 825,
   "baseStats": {
     "hp": 126,
     "atk": 131,
@@ -14,19 +14,19 @@
     "spDef": 98,
     "spd": 99
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.dark_aura",
     "RadRed.Abilities.dark_aura",
     "RadRed.Abilities.dark_aura"
   ],
+  "color": "color.red",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 0,
-  "color": "color.red",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

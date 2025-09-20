@@ -1,11 +1,11 @@
 {
-  "gameId": 1001,
   "name": "RadRed.Species.kommo_o",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/784.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/784.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/784.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/784.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/784.png"
   },
+  "gameId": 1001,
   "baseStats": {
     "hp": 75,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 105,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.bulletproof",
     "RadRed.Abilities.soundproof",
     "RadRed.Abilities.overcoat"
   ],
+  "color": "color.gray",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon",
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

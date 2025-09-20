@@ -1,11 +1,11 @@
 {
-  "gameId": 480,
   "name": "RadRed.Species.buneary",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/427.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/427.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/427.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/427.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/427.png"
   },
+  "gameId": 480,
   "baseStats": {
     "hp": 55,
     "atk": 66,
@@ -14,18 +14,17 @@
     "spDef": 56,
     "spd": 85
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.limber"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 0,
   "color": "color.brown",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 190,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

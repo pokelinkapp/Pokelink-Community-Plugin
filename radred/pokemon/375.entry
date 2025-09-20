@@ -1,11 +1,11 @@
 {
-  "gameId": 399,
   "name": "RadRed.Species.metang",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/375.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/375.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/375.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/375.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/375.png"
   },
+  "gameId": 399,
   "baseStats": {
     "hp": 60,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 50
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.tough_claws"
   ],
+  "color": "color.blue",
+  "hatchCycles": 40,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

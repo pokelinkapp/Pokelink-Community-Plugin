@@ -1,11 +1,11 @@
 {
-  "gameId": 144,
   "name": "RadRed.Species.articuno",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/144.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/144.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/144.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/144.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/144.png"
   },
+  "gameId": 144,
   "baseStats": {
     "hp": 90,
     "atk": 70,
@@ -14,19 +14,19 @@
     "spDef": 125,
     "spd": 100
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.pressure",
     "RadRed.Abilities.frozen_mist"
   ],
+  "color": "color.blue",
+  "hatchCycles": 80,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.ice",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 35,
-  "color": "color.blue",
-  "hatchCycles": 80,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

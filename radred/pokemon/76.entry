@@ -1,11 +1,11 @@
 {
-  "gameId": 76,
   "name": "RadRed.Species.golem",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/76.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/76.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/76.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/76.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/76.png"
   },
+  "gameId": 76,
   "baseStats": {
     "hp": 80,
     "atk": 120,
@@ -14,19 +14,19 @@
     "spDef": 65,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.sand_veil"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

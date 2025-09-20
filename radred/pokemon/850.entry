@@ -1,11 +1,11 @@
 {
-  "gameId": 1142,
   "name": "RadRed.Species.sizzlipede",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/850.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/850.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/850.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/850.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/850.png"
   },
+  "gameId": 1142,
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -14,19 +14,18 @@
     "spDef": 50,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.white_smoke",
     "RadRed.Abilities.flame_body"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 127
+  ]
 }

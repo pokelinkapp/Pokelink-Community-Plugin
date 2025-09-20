@@ -1,11 +1,11 @@
 {
-  "gameId": 500,
   "name": "RadRed.Species.riolu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/447.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/447.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/447.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/447.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/447.png"
   },
+  "gameId": 500,
   "baseStats": {
     "hp": 40,
     "atk": 70,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.steadfast",
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.prankster"
   ],
+  "color": "color.blue",
+  "hatchCycles": 25,
+  "genderRatio": 31,
+  "catchRate": 75,
   "types": [
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 25,
-  "expGroup": 3,
-  "catchRate": 75,
-  "genderRatio": 31
+  "growthRate": 3
 }

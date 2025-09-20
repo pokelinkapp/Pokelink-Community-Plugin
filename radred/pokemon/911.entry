@@ -1,11 +1,11 @@
 {
-  "gameId": 926,
   "name": "RadRed.Species.skeledirge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/911.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/911.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/911.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/911.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/911.png"
   },
+  "gameId": 926,
   "baseStats": {
     "hp": 104,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 66
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.unaware"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

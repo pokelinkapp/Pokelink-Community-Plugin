@@ -1,11 +1,11 @@
 {
-  "gameId": 200,
   "name": "RadRed.Species.misdreavus",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/200.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/200.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/200.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/200.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/200.png"
   },
+  "gameId": 200,
   "baseStats": {
     "hp": 60,
     "atk": 60,
@@ -14,18 +14,18 @@
     "spDef": 85,
     "spd": 85
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.gray",
+  "hatchCycles": 25,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 25,
-  "expGroup": 4,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 4
 }

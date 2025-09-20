@@ -1,11 +1,11 @@
 {
-  "gameId": 213,
   "name": "RadRed.Species.shuckle",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/213.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/213.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/213.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/213.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/213.png"
   },
+  "gameId": 213,
   "baseStats": {
     "hp": 20,
     "atk": 10,
@@ -14,19 +14,19 @@
     "spDef": 230,
     "spd": 5
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.solid_rock",
     "RadRed.Abilities.contrary"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

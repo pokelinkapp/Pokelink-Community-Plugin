@@ -1,11 +1,11 @@
 {
-  "gameId": 94,
   "name": "RadRed.Species.gengar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/94.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/94.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/94.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/94.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/94.png"
   },
+  "gameId": 94,
   "baseStats": {
     "hp": 60,
     "atk": 65,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

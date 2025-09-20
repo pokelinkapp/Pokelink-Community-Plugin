@@ -1,11 +1,11 @@
 {
-  "gameId": 390,
   "name": "RadRed.Species.anorith",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/347.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/347.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/347.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/347.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/347.png"
   },
+  "gameId": 390,
   "baseStats": {
     "hp": 45,
     "atk": 95,
@@ -14,19 +14,19 @@
     "spDef": 50,
     "spd": 75
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.battle_armor",
     "RadRed.Abilities.skill_link",
     "RadRed.Abilities.swift_swim"
   ],
+  "color": "color.gray",
+  "hatchCycles": 30,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.bug"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 30,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 1
 }

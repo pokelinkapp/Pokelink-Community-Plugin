@@ -1,11 +1,11 @@
 {
-  "gameId": 1133,
   "name": "RadRed.Species.flapple",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/841.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/841.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/841.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/841.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/841.png"
   },
+  "gameId": 1133,
   "baseStats": {
     "hp": 70,
     "atk": 110,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.ripen",
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.hustle"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 1
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 344,
   "name": "RadRed.Species.cacnea",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/331.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/331.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/331.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/331.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/331.png"
   },
+  "gameId": 344,
   "baseStats": {
     "hp": 50,
     "atk": 85,
@@ -14,18 +14,18 @@
     "spDef": 40,
     "spd": 35
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sand_veil",
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.sand_rush"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 35,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

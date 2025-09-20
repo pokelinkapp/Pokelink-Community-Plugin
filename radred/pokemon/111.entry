@@ -1,11 +1,11 @@
 {
-  "gameId": 111,
   "name": "RadRed.Species.rhyhorn",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/111.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/111.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/111.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/111.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/111.png"
   },
+  "gameId": 111,
   "baseStats": {
     "hp": 80,
     "atk": 85,
@@ -14,19 +14,19 @@
     "spDef": 30,
     "spd": 25
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.lightning_rod",
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.reckless"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 5
 }

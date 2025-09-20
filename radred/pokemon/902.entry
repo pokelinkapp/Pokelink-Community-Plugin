@@ -1,11 +1,11 @@
 {
-  "gameId": 1268,
   "name": "RadRed.Species.basculegion",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/902.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/902.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/902.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/902.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/902.png"
   },
+  "gameId": 1268,
   "baseStats": {
     "hp": 120,
     "atk": 112,
@@ -14,19 +14,18 @@
     "spDef": 75,
     "spd": 78
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.swift_swim",
     "RadRed.Abilities.adaptability",
     "RadRed.Abilities.mold_breaker"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 0,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water",
     "pokemon.type.ghost"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 0
+  ]
 }

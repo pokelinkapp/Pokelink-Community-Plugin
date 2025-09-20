@@ -3,14 +3,20 @@
     {
       "to": 62,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.water_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.water_stone"
+        }
       }
     },
     {
       "to": 186,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.kings_rock"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.kings_rock"
+            }
+          }
         }
       }
     }

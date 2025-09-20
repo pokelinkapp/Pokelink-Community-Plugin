@@ -4,8 +4,14 @@
       "to": 472,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.razor_fang",
-          "pokemon.evolve.time": "timeOfDay.night"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.razor_fang"
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.night"
+            }
+          }
         }
       }
     }

@@ -1,11 +1,11 @@
 {
-  "gameId": 190,
   "name": "RadRed.Species.aipom",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/190.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/190.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/190.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/190.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/190.png"
   },
+  "gameId": 190,
   "baseStats": {
     "hp": 55,
     "atk": 70,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.run_away",
     "RadRed.Abilities.pickup",
     "RadRed.Abilities.skill_link"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 4
 }

@@ -1,12 +1,12 @@
 {
-  "form": 1,
-  "gameId": 745,
   "name": "RadRed.Species.hippowdon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/450.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/450-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/450.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/450-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/450.1.png"
   },
+  "gameId": 745,
+  "form": 1,
   "baseStats": {
     "hp": 108,
     "atk": 112,
@@ -15,18 +15,18 @@
     "spDef": 72,
     "spd": 47
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sand_stream",
     "RadRed.Abilities.sand_stream",
     "RadRed.Abilities.sand_force"
   ],
+  "color": "color.brown",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ground"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 30,
-  "expGroup": 5,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 5
 }

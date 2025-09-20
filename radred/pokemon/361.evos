@@ -3,14 +3,20 @@
     {
       "to": 362,
       "conditions": {
-        "pokemon.evolve.level": 42
+        "pokemon.evolve.level": {
+          "number": 42
+        }
       }
     },
     {
       "to": 478,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.dawn_stone",
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.dawn_stone"
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       }
     }
   ]

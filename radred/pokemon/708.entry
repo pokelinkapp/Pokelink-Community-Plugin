@@ -1,11 +1,11 @@
 {
-  "gameId": 816,
   "name": "RadRed.Species.phantump",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/708.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/708.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/708.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/708.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/708.png"
   },
+  "gameId": 816,
   "baseStats": {
     "hp": 43,
     "atk": 70,
@@ -14,19 +14,18 @@
     "spDef": 60,
     "spd": 38
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.frisk",
     "RadRed.Abilities.harvest"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.grass"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 120,
-  "genderRatio": 127
+  ]
 }

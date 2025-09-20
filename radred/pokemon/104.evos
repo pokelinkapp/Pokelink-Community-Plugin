@@ -3,15 +3,21 @@
     {
       "to": 105,
       "conditions": {
-        "pokemon.evolve.level": 28,
-        "pokemon.evolve.time": "timeOfDay.night"
+        "pokemon.evolve.level": {
+          "number": 28
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.night"
+        }
       },
       "toForm": 1
     },
     {
       "to": 105,
       "conditions": {
-        "pokemon.evolve.level": 28
+        "pokemon.evolve.level": {
+          "number": 28
+        }
       }
     }
   ]

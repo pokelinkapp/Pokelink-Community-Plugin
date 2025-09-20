@@ -1,11 +1,11 @@
 {
-  "gameId": 962,
   "name": "RadRed.Species.lycanroc",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/745.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/745.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/745.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/745.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/745.png"
   },
+  "gameId": 962,
   "baseStats": {
     "hp": 75,
     "atk": 115,
@@ -14,18 +14,17 @@
     "spDef": 65,
     "spd": 112
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.inner_focus",
     "RadRed.Abilities.sand_rush",
     "RadRed.Abilities.steadfast"
   ],
-  "types": [
-    "pokemon.type.rock"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.rock"
+  ]
 }

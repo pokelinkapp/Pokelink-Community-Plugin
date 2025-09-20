@@ -1,11 +1,11 @@
 {
-  "gameId": 1343,
   "name": "RadRed.Species.glimmet",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/969.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/969.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/969.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/969.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/969.png"
   },
+  "gameId": 1343,
   "baseStats": {
     "hp": 48,
     "atk": 35,
@@ -14,19 +14,19 @@
     "spDef": 60,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.toxic_debris",
     "RadRed.Abilities.toxic_debris",
     "RadRed.Abilities.corrosion"
   ],
+  "color": "color.blue",
+  "hatchCycles": 30,
+  "genderRatio": 127,
+  "catchRate": 70,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.rock"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 30,
-  "expGroup": 3,
-  "catchRate": 70,
-  "genderRatio": 127
+  "growthRate": 3
 }

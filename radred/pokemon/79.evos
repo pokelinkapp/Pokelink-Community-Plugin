@@ -3,7 +3,9 @@
     {
       "to": 80,
       "conditions": {
-        "pokemon.evolve.level": 37
+        "pokemon.evolve.level": {
+          "number": 37
+        }
       },
       "fromForm": 0
     },
@@ -11,7 +13,11 @@
       "to": 199,
       "conditions": {
         "pokemon.evolve.trade": {
-          "pokemon.evolve.holdItem": "pokemon.item.gen9.kings_rock"
+          "nested": {
+            "pokemon.evolve.holdItem": {
+              "string": "pokemon.item.gen9.kings_rock"
+            }
+          }
         }
       },
       "fromForm": 0
@@ -19,18 +25,22 @@
     {
       "to": 80,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.galarica_cuff"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.galarica_cuff"
+        }
       },
-      "toForm": 2,
-      "fromForm": 1
+      "fromForm": 1,
+      "toForm": 2
     },
     {
       "to": 199,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.galarica_wreath"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.galarica_wreath"
+        }
       },
-      "toForm": 1,
-      "fromForm": 1
+      "fromForm": 1,
+      "toForm": 1
     }
   ]
 }

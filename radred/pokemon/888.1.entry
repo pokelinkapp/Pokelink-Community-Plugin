@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1204,
   "name": "RadRed.Species.zacian",
-  "formName": "RadRed.Forms.crowned",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/888.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/888-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/888.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/888-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/888.1.png"
   },
+  "gameId": 1204,
+  "form": 1,
+  "formName": "RadRed.Forms.crowned",
   "baseStats": {
     "hp": 92,
     "atk": 150,
@@ -16,19 +16,19 @@
     "spDef": 115,
     "spd": 148
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.intrepid_sword",
     "RadRed.Abilities.intrepid_sword",
     "RadRed.Abilities.intrepid_sword"
   ],
+  "color": "color.blue",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.blue",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

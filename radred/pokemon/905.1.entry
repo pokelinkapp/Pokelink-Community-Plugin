@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1313,
   "name": "RadRed.Species.enamorus",
-  "formName": "RadRed.Forms.therian",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/905.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/905-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/905.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/905-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/905.1.png"
   },
+  "gameId": 1313,
+  "form": 1,
+  "formName": "RadRed.Forms.therian",
   "baseStats": {
     "hp": 74,
     "atk": 115,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 46
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overcoat",
     "RadRed.Abilities.overcoat",
     "RadRed.Abilities.overcoat"
   ],
+  "color": "color.pink",
+  "hatchCycles": 20,
+  "genderRatio": 254,
+  "catchRate": 3,
   "types": [
     "pokemon.type.fairy",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.pink",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 254
+  "growthRate": 5
 }

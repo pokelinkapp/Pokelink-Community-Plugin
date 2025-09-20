@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1292,
   "name": "RadRed.Species.wishiwashi",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/746.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/746-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/746.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/746-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/746.2.png"
   },
+  "gameId": 1292,
+  "form": 2,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 60,
     "atk": 20,
@@ -16,18 +16,18 @@
     "spDef": 15,
     "spd": 35
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.schooling",
     "RadRed.Abilities.schooling",
     "RadRed.Abilities.schooling"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 4,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 4
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 674,
   "name": "RadRed.Species.druddigon",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/621.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/621.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/621.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/621.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/621.png"
   },
+  "gameId": 674,
   "baseStats": {
     "hp": 90,
     "atk": 120,
@@ -14,18 +14,17 @@
     "spDef": 90,
     "spd": 41
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rough_skin",
     "RadRed.Abilities.sheer_force",
     "RadRed.Abilities.mold_breaker"
   ],
-  "types": [
-    "pokemon.type.dragon"
-  ],
-  "baseFriendship": 50,
   "color": "color.red",
   "hatchCycles": 30,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 45,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.dragon"
+  ]
 }

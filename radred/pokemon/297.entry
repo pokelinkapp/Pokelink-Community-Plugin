@@ -1,11 +1,11 @@
 {
-  "gameId": 336,
   "name": "RadRed.Species.hariyama",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/297.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/297.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/297.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/297.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/297.png"
   },
+  "gameId": 336,
   "baseStats": {
     "hp": 144,
     "atk": 120,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 50
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.guts",
     "RadRed.Abilities.sheer_force"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 63,
+  "catchRate": 200,
   "types": [
     "pokemon.type.fighting"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 2,
-  "catchRate": 200,
-  "genderRatio": 63
+  "growthRate": 2
 }

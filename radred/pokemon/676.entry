@@ -1,11 +1,11 @@
 {
-  "gameId": 784,
   "name": "RadRed.Species.furfrou",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/676.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/676.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/676.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/676.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/676.png"
   },
+  "gameId": 784,
   "baseStats": {
     "hp": 75,
     "atk": 90,
@@ -14,18 +14,17 @@
     "spDef": 90,
     "spd": 102
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.fur_coat",
     "RadRed.Abilities.fur_coat",
     "RadRed.Abilities.fur_coat"
   ],
-  "types": [
-    "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 160,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.normal"
+  ]
 }

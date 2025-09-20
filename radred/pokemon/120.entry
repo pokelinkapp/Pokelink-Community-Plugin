@@ -1,11 +1,11 @@
 {
-  "gameId": 120,
   "name": "RadRed.Species.staryu",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/120.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/120.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/120.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/120.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/120.png"
   },
+  "gameId": 120,
   "baseStats": {
     "hp": 30,
     "atk": 45,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 85
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.illuminate",
     "RadRed.Abilities.analytic"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 225,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 225,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1031,
   "name": "RadRed.Species.geodude",
-  "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/74.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/74-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/74.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/74-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/74.1.png"
   },
+  "gameId": 1031,
+  "form": 1,
+  "formName": "RadRed.Forms.alola",
   "baseStats": {
     "hp": 40,
     "atk": 80,
@@ -16,19 +16,19 @@
     "spDef": 30,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rock_head",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.galvanize"
   ],
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

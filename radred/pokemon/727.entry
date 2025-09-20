@@ -1,11 +1,11 @@
 {
-  "gameId": 944,
   "name": "RadRed.Species.incineroar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/727.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/727.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/727.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/727.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/727.png"
   },
+  "gameId": 944,
   "baseStats": {
     "hp": 95,
     "atk": 115,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.blaze",
     "RadRed.Abilities.intimidate"
   ],
+  "color": "color.red",
+  "hatchCycles": 15,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

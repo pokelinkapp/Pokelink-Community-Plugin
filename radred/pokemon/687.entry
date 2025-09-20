@@ -1,11 +1,11 @@
 {
-  "gameId": 795,
   "name": "RadRed.Species.malamar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/687.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/687.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/687.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/687.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/687.png"
   },
+  "gameId": 795,
   "baseStats": {
     "hp": 86,
     "atk": 92,
@@ -14,19 +14,18 @@
     "spDef": 75,
     "spd": 73
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.contrary",
     "RadRed.Abilities.suction_cups",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 80,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.psychic"
-  ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 80,
-  "genderRatio": 127
+  ]
 }

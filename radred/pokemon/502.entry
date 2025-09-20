@@ -1,11 +1,11 @@
 {
-  "gameId": 555,
   "name": "RadRed.Species.dewott",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/502.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/502.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/502.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/502.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/502.png"
   },
+  "gameId": 555,
   "baseStats": {
     "hp": 75,
     "atk": 75,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.torrent"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

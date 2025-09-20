@@ -1,11 +1,11 @@
 {
-  "gameId": 1015,
   "name": "RadRed.Species.kartana",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/798.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/798.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/798.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/798.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/798.png"
   },
+  "gameId": 1015,
   "baseStats": {
     "hp": 59,
     "atk": 181,
@@ -14,19 +14,19 @@
     "spDef": 31,
     "spd": 109
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost",
     "RadRed.Abilities.beast_boost"
   ],
+  "color": "color.white",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.steel"
   ],
-  "baseFriendship": 0,
-  "color": "color.white",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 255
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 365,
   "name": "RadRed.Species.vigoroth",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/288.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/288.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/288.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/288.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/288.png"
   },
+  "gameId": 365,
   "baseStats": {
     "hp": 80,
     "atk": 80,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 90
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.vital_spirit"
   ],
+  "color": "color.white",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.white",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 5
 }

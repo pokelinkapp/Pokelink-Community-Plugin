@@ -1,11 +1,11 @@
 {
-  "gameId": 968,
   "name": "RadRed.Species.dewpider",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/751.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/751.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/751.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/751.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/751.png"
   },
+  "gameId": 968,
   "baseStats": {
     "hp": 38,
     "atk": 40,
@@ -14,19 +14,18 @@
     "spDef": 72,
     "spd": 27
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.water_bubble",
     "RadRed.Abilities.water_bubble",
     "RadRed.Abilities.water_absorb"
   ],
+  "color": "color.green",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 200,
   "types": [
     "pokemon.type.water",
     "pokemon.type.bug"
-  ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 200,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1160,
   "name": "RadRed.Species.milcery",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/868.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/868.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/868.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/868.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/868.png"
   },
+  "gameId": 1160,
   "baseStats": {
     "hp": 45,
     "atk": 40,
@@ -14,18 +14,17 @@
     "spDef": 61,
     "spd": 34
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sweet_veil",
     "RadRed.Abilities.sweet_veil",
     "RadRed.Abilities.aroma_veil"
   ],
-  "types": [
-    "pokemon.type.fairy"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 254,
   "catchRate": 200,
-  "genderRatio": 254
+  "types": [
+    "pokemon.type.fairy"
+  ]
 }

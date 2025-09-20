@@ -3,7 +3,9 @@
     {
       "to": 516,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.water_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.water_stone"
+        }
       }
     }
   ]

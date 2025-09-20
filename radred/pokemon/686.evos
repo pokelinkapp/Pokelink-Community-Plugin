@@ -4,7 +4,11 @@
       "to": 687,
       "conditions": {
         "pokemon.evolve.holdConsoleUpsideDown": {
-          "pokemon.evolve.level": 30
+          "nested": {
+            "pokemon.evolve.level": {
+              "number": 30
+            }
+          }
         }
       }
     }

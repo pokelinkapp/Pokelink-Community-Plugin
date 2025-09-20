@@ -1,11 +1,11 @@
 {
-  "gameId": 386,
   "name": "RadRed.Species.volbeat",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/313.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/313.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/313.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/313.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/313.png"
   },
+  "gameId": 386,
   "baseStats": {
     "hp": 85,
     "atk": 47,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.prankster",
     "RadRed.Abilities.illuminate",
     "RadRed.Abilities.prankster"
   ],
+  "color": "color.gray",
+  "hatchCycles": 15,
+  "genderRatio": 0,
+  "catchRate": 150,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 15,
-  "expGroup": 1,
-  "catchRate": 150,
-  "genderRatio": 0
+  "growthRate": 1
 }

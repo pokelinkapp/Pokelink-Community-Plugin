@@ -1,13 +1,13 @@
 {
-  "form": 3,
-  "gameId": 715,
   "name": "RadRed.Species.rotom",
-  "formName": "RadRed.Forms.frost",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.3.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/479-3.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/479.3.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/479-3.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/479.3.png"
   },
+  "gameId": 715,
+  "form": 3,
+  "formName": "RadRed.Forms.frost",
   "baseStats": {
     "hp": 50,
     "atk": 65,
@@ -16,19 +16,18 @@
     "spDef": 107,
     "spd": 86
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate",
     "RadRed.Abilities.levitate"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.ice"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 45,
-  "genderRatio": 255
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1198,
   "name": "RadRed.Species.toedscool",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/948.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/948.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/948.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/948.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/948.png"
   },
+  "gameId": 1198,
   "baseStats": {
     "hp": 40,
     "atk": 40,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.clear_body",
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.clear_body"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 190,
   "types": [
     "pokemon.type.ground",
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 190,
-  "genderRatio": 127
+  "growthRate": 3
 }

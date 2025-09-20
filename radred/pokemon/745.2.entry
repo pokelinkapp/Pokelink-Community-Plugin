@@ -1,13 +1,13 @@
 {
-  "form": 2,
-  "gameId": 1082,
   "name": "RadRed.Species.lycanroc",
-  "formName": "RadRed.Forms.dusk",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/745.2.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/745-2.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/745.2.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/745-2.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/745.2.png"
   },
+  "gameId": 1082,
+  "form": 2,
+  "formName": "RadRed.Forms.dusk",
   "baseStats": {
     "hp": 75,
     "atk": 117,
@@ -16,18 +16,17 @@
     "spDef": 65,
     "spd": 110
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.tough_claws",
     "RadRed.Abilities.tough_claws",
     "RadRed.Abilities.tough_claws"
   ],
-  "types": [
-    "pokemon.type.rock"
-  ],
-  "baseFriendship": 50,
   "color": "color.brown",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 90,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.rock"
+  ]
 }

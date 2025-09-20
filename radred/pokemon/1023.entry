@@ -1,11 +1,11 @@
 {
-  "gameId": 1368,
   "name": "RadRed.Species.iron_crown",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1023.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1023.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1023.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1023.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1023.png"
   },
+  "gameId": 1368,
   "baseStats": {
     "hp": 90,
     "atk": 72,
@@ -14,19 +14,19 @@
     "spDef": 108,
     "spd": 98
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.blue",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 10,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.blue",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 10,
-  "genderRatio": 255
+  "growthRate": 5
 }

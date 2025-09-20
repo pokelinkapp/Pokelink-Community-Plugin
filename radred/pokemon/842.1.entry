@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1252,
   "name": "RadRed.Species.appletun",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/842.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/842-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/842.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/842-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/842.1.png"
   },
+  "gameId": 1252,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 110,
     "atk": 105,
@@ -16,19 +16,19 @@
     "spDef": 100,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.contrary",
     "RadRed.Abilities.contrary",
     "RadRed.Abilities.contrary"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 1,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 1
 }

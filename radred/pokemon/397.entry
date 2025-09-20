@@ -1,11 +1,11 @@
 {
-  "gameId": 450,
   "name": "RadRed.Species.staravia",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/397.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/397.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/397.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/397.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/397.png"
   },
+  "gameId": 450,
   "baseStats": {
     "hp": 55,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 40,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.reckless"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 120,
   "types": [
     "pokemon.type.normal",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 120,
-  "genderRatio": 127
+  "growthRate": 3
 }

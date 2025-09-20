@@ -5,32 +5,32 @@
       "conditions": {
         "pokemon.evolve.trade": {}
       },
-      "toForm": 0,
-      "fromForm": 0
+      "fromForm": 0,
+      "toForm": 0
     },
     {
       "to": 711,
       "conditions": {
         "pokemon.evolve.trade": {}
       },
-      "toForm": 1,
-      "fromForm": 1
+      "fromForm": 1,
+      "toForm": 1
     },
     {
       "to": 711,
       "conditions": {
         "pokemon.evolve.trade": {}
       },
-      "toForm": 2,
-      "fromForm": 2
+      "fromForm": 2,
+      "toForm": 2
     },
     {
       "to": 711,
       "conditions": {
         "pokemon.evolve.trade": {}
       },
-      "toForm": 3,
-      "fromForm": 3
+      "fromForm": 3,
+      "toForm": 3
     }
   ]
 }

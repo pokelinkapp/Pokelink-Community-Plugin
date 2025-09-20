@@ -1,11 +1,11 @@
 {
-  "gameId": 1263,
   "name": "RadRed.Species.iron_jugulis",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/993.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/993.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/993.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/993.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/993.png"
   },
+  "gameId": 1263,
   "baseStats": {
     "hp": 94,
     "atk": 80,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 108
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive",
     "RadRed.Abilities.quark_drive"
   ],
+  "color": "color.blue",
+  "hatchCycles": 50,
+  "genderRatio": 255,
+  "catchRate": 30,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.flying"
   ],
-  "baseFriendship": 0,
-  "color": "color.blue",
-  "hatchCycles": 50,
-  "expGroup": 5,
-  "catchRate": 30,
-  "genderRatio": 255
+  "growthRate": 5
 }

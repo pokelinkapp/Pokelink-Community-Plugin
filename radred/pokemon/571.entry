@@ -1,11 +1,11 @@
 {
-  "gameId": 624,
   "name": "RadRed.Species.zoroark",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/571.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/571.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/571.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/571.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/571.png"
   },
+  "gameId": 624,
   "baseStats": {
     "hp": 60,
     "atk": 105,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 105
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.illusion",
     "RadRed.Abilities.illusion",
     "RadRed.Abilities.illusion"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

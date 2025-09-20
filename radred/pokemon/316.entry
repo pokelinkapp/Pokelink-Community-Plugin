@@ -1,11 +1,11 @@
 {
-  "gameId": 367,
   "name": "RadRed.Species.gulpin",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/316.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/316.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/316.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/316.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/316.png"
   },
+  "gameId": 367,
   "baseStats": {
     "hp": 70,
     "atk": 43,
@@ -14,18 +14,18 @@
     "spDef": 53,
     "spd": 40
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.liquid_ooze",
     "RadRed.Abilities.sticky_hold",
     "RadRed.Abilities.gluttony"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 225,
   "types": [
     "pokemon.type.poison"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 2,
-  "catchRate": 225,
-  "genderRatio": 127
+  "growthRate": 2
 }

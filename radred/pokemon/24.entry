@@ -1,11 +1,11 @@
 {
-  "gameId": 24,
   "name": "RadRed.Species.arbok",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/24.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/24.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/24.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/24.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/24.png"
   },
+  "gameId": 24,
   "baseStats": {
     "hp": 75,
     "atk": 95,
@@ -14,19 +14,18 @@
     "spDef": 79,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.strong_jaw"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 90,
-  "genderRatio": 127
+  ]
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 662,
   "name": "RadRed.Species.chandelure",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/609.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/609.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/609.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/609.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/609.png"
   },
+  "gameId": 662,
   "baseStats": {
     "hp": 60,
     "atk": 55,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.flame_body",
     "RadRed.Abilities.shadow_tag"
   ],
+  "color": "color.black",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.ghost",
     "pokemon.type.fire"
   ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 3
 }

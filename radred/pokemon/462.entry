@@ -1,11 +1,11 @@
 {
-  "gameId": 515,
   "name": "RadRed.Species.magnezone",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/462.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/462.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/462.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/462.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/462.png"
   },
+  "gameId": 515,
   "baseStats": {
     "hp": 70,
     "atk": 70,
@@ -14,19 +14,18 @@
     "spDef": 90,
     "spd": 60
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.magnet_pull",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.analytic"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 30,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 30,
-  "genderRatio": 255
+  ]
 }

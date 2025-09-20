@@ -3,8 +3,12 @@
     {
       "to": 735,
       "conditions": {
-        "pokemon.evolve.level": 20,
-        "pokemon.evolve.time": "timeOfDay.day"
+        "pokemon.evolve.level": {
+          "number": 20
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.day"
+        }
       }
     }
   ]

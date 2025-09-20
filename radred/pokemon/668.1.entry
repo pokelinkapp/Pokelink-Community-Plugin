@@ -1,12 +1,12 @@
 {
-  "form": 1,
-  "gameId": 831,
   "name": "RadRed.Species.pyroar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/668.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/668-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/668.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/668-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/668.1.png"
   },
+  "gameId": 831,
+  "form": 1,
   "baseStats": {
     "hp": 86,
     "atk": 68,
@@ -15,19 +15,19 @@
     "spDef": 66,
     "spd": 106
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.rivalry",
     "RadRed.Abilities.moxie",
     "RadRed.Abilities.adaptability"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 225,
+  "catchRate": 65,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.normal"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 65,
-  "genderRatio": 225
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 352,
   "name": "RadRed.Species.grumpig",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/326.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/326.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/326.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/326.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/326.png"
   },
+  "gameId": 352,
   "baseStats": {
     "hp": 90,
     "atk": 45,
@@ -14,18 +14,18 @@
     "spDef": 110,
     "spd": 80
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.thick_fat",
     "RadRed.Abilities.own_tempo",
     "RadRed.Abilities.gluttony"
   ],
+  "color": "color.purple",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 60,
   "types": [
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.purple",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 60,
-  "genderRatio": 127
+  "growthRate": 4
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 554,
   "name": "RadRed.Species.oshawott",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/501.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/501.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/501.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/501.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/501.png"
   },
+  "gameId": 554,
   "baseStats": {
     "hp": 55,
     "atk": 55,
@@ -14,18 +14,18 @@
     "spDef": 45,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.shell_armor",
     "RadRed.Abilities.torrent"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

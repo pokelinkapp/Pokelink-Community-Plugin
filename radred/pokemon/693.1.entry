@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1288,
   "name": "RadRed.Species.clawitzer",
-  "formName": "RadRed.Forms.sevii",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/693.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/693-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/693.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/693-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/693.1.png"
   },
+  "gameId": 1288,
+  "form": 1,
+  "formName": "RadRed.Forms.sevii",
   "baseStats": {
     "hp": 81,
     "atk": 63,
@@ -16,19 +16,19 @@
     "spDef": 79,
     "spd": 97
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher",
     "RadRed.Abilities.mega_launcher"
   ],
+  "color": "color.blue",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 55,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.dark"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 15,
-  "expGroup": 5,
-  "catchRate": 55,
-  "genderRatio": 127
+  "growthRate": 5
 }

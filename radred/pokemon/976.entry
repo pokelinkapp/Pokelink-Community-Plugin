@@ -1,11 +1,11 @@
 {
-  "gameId": 1323,
   "name": "RadRed.Species.veluza",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/976.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/976.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/976.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/976.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/976.png"
   },
+  "gameId": 1323,
   "baseStats": {
     "hp": 95,
     "atk": 102,
@@ -14,19 +14,19 @@
     "spDef": 75,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.mold_breaker",
     "RadRed.Abilities.sharpness"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 100,
   "types": [
     "pokemon.type.water",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 100,
-  "genderRatio": 127
+  "growthRate": 4
 }

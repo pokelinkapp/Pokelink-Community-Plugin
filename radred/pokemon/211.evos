@@ -4,9 +4,17 @@
       "to": 904,
       "conditions": {
         "pokemon.evolve.useMoveHisui": {
-          "move": "pokemon.move.barb_barrage",
-          "count": 20,
-          "style": "moveStyle.strong"
+          "nested": {
+            "move": {
+              "string": "pokemon.move.barb_barrage"
+            },
+            "count": {
+              "number": 20
+            },
+            "style": {
+              "string": "moveStyle.strong"
+            }
+          }
         }
       },
       "fromForm": 1

@@ -1,11 +1,11 @@
 {
-  "gameId": 813,
   "name": "RadRed.Species.sliggoo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/705.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/705.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/705.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/705.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/705.png"
   },
+  "gameId": 813,
   "baseStats": {
     "hp": 68,
     "atk": 75,
@@ -14,18 +14,18 @@
     "spDef": 113,
     "spd": 60
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.sap_sipper",
     "RadRed.Abilities.hydration",
     "RadRed.Abilities.gooey"
   ],
+  "color": "color.purple",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.dragon"
   ],
-  "baseFriendship": 35,
-  "color": "color.purple",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

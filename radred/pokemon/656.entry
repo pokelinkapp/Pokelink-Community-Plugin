@@ -1,11 +1,11 @@
 {
-  "gameId": 764,
   "name": "RadRed.Species.froakie",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/656.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/656.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/656.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/656.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/656.png"
   },
+  "gameId": 764,
   "baseStats": {
     "hp": 41,
     "atk": 56,
@@ -14,18 +14,18 @@
     "spDef": 44,
     "spd": 71
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.torrent",
     "RadRed.Abilities.protean"
   ],
+  "color": "color.blue",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.water"
   ],
-  "baseFriendship": 50,
-  "color": "color.blue",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

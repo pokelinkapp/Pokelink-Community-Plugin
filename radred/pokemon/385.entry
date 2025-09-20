@@ -1,11 +1,11 @@
 {
-  "gameId": 409,
   "name": "RadRed.Species.jirachi",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/385.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/385.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/385.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/385.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/385.png"
   },
+  "gameId": 409,
   "baseStats": {
     "hp": 100,
     "atk": 100,
@@ -14,19 +14,19 @@
     "spDef": 100,
     "spd": 100
   },
+  "baseFriendship": 100,
   "abilities": [
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.serene_grace"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 120,
+  "genderRatio": 255,
+  "catchRate": 3,
   "types": [
     "pokemon.type.steel",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 100,
-  "color": "color.yellow",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 255
+  "growthRate": 5
 }

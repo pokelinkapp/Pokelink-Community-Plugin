@@ -1,11 +1,11 @@
 {
-  "gameId": 277,
   "name": "RadRed.Species.treecko",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/252.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/252.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/252.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/252.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/252.png"
   },
+  "gameId": 277,
   "baseStats": {
     "hp": 40,
     "atk": 45,
@@ -14,18 +14,18 @@
     "spDef": 55,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.unburden"
   ],
+  "color": "color.green",
+  "hatchCycles": 20,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.green",
-  "hatchCycles": 20,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

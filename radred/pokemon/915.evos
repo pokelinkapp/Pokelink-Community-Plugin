@@ -3,15 +3,23 @@
     {
       "to": 916,
       "conditions": {
-        "pokemon.evolve.level": 18,
-        "pokemon.evolve.gender": "Gender.male"
+        "pokemon.evolve.level": {
+          "number": 18
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.male"
+        }
       }
     },
     {
       "to": 916,
       "conditions": {
-        "pokemon.evolve.level": 18,
-        "pokemon.evolve.gender": "Gender.female"
+        "pokemon.evolve.level": {
+          "number": 18
+        },
+        "pokemon.evolve.gender": {
+          "string": "Gender.female"
+        }
       },
       "toForm": 1
     }

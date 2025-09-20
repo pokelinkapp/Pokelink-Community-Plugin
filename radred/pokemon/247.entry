@@ -1,11 +1,11 @@
 {
-  "gameId": 247,
   "name": "RadRed.Species.pupitar",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/247.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/247.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/247.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/247.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/247.png"
   },
+  "gameId": 247,
   "baseStats": {
     "hp": 70,
     "atk": 84,
@@ -14,19 +14,19 @@
     "spDef": 70,
     "spd": 51
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.shed_skin",
     "RadRed.Abilities.shed_skin"
   ],
+  "color": "color.gray",
+  "hatchCycles": 40,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.rock",
     "pokemon.type.ground"
   ],
-  "baseFriendship": 35,
-  "color": "color.gray",
-  "hatchCycles": 40,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

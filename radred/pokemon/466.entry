@@ -1,11 +1,11 @@
 {
-  "gameId": 519,
   "name": "RadRed.Species.electivire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/466.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/466.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/466.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/466.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/466.png"
   },
+  "gameId": 519,
   "baseStats": {
     "hp": 75,
     "atk": 123,
@@ -14,18 +14,17 @@
     "spDef": 85,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.motor_drive",
     "RadRed.Abilities.vital_spirit",
     "RadRed.Abilities.iron_fist"
   ],
-  "types": [
-    "pokemon.type.electric"
-  ],
-  "baseFriendship": 50,
   "color": "color.yellow",
   "hatchCycles": 25,
-  "expGroup": 0,
+  "genderRatio": 63,
   "catchRate": 30,
-  "genderRatio": 63
+  "types": [
+    "pokemon.type.electric"
+  ]
 }

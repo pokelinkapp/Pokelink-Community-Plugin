@@ -3,7 +3,9 @@
     {
       "to": 36,
       "conditions": {
-        "pokemon.evolve.useItem": "pokemon.item.gen9.moon_stone"
+        "pokemon.evolve.useItem": {
+          "string": "pokemon.item.gen9.moon_stone"
+        }
       }
     }
   ]

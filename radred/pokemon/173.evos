@@ -4,7 +4,11 @@
       "to": 35,
       "conditions": {
         "pokemon.evolve.levelUp": {
-          "pokemon.evolve.friendship": "friendship.high"
+          "nested": {
+            "pokemon.evolve.friendship": {
+              "string": "friendship.high"
+            }
+          }
         }
       }
     }

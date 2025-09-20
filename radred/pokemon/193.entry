@@ -1,11 +1,11 @@
 {
-  "gameId": 193,
   "name": "RadRed.Species.yanma",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/193.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/193.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/193.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/193.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/193.png"
   },
+  "gameId": 193,
   "baseStats": {
     "hp": 65,
     "atk": 65,
@@ -14,19 +14,18 @@
     "spDef": 45,
     "spd": 95
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.speed_boost",
     "RadRed.Abilities.compound_eyes",
     "RadRed.Abilities.frisk"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.bug",
     "pokemon.type.flying"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

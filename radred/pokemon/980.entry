@@ -1,11 +1,11 @@
 {
-  "gameId": 931,
   "name": "RadRed.Species.clodsire",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/980.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/980.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/980.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/980.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/980.png"
   },
+  "gameId": 931,
   "baseStats": {
     "hp": 130,
     "atk": 75,
@@ -14,19 +14,18 @@
     "spDef": 100,
     "spd": 20
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.poison_touch",
     "RadRed.Abilities.water_absorb",
     "RadRed.Abilities.unaware"
   ],
+  "color": "color.brown",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 90,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.ground"
-  ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 90,
-  "genderRatio": 127
+  ]
 }

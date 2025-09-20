@@ -1,11 +1,11 @@
 {
-  "gameId": 219,
   "name": "RadRed.Species.magcargo",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/219.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/219.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/219.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/219.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/219.png"
   },
+  "gameId": 219,
   "baseStats": {
     "hp": 60,
     "atk": 50,
@@ -14,19 +14,18 @@
     "spDef": 80,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.simple",
     "RadRed.Abilities.flame_body",
     "RadRed.Abilities.weak_armor"
   ],
+  "color": "color.red",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 75,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.rock"
-  ],
-  "baseFriendship": 50,
-  "color": "color.red",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 75,
-  "genderRatio": 127
+  ]
 }

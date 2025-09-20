@@ -1,11 +1,11 @@
 {
-  "gameId": 935,
   "name": "RadRed.Species.armarouge",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/936.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/936.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/936.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/936.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/936.png"
   },
+  "gameId": 935,
   "baseStats": {
     "hp": 85,
     "atk": 60,
@@ -14,19 +14,19 @@
     "spDef": 80,
     "spd": 75
   },
+  "baseFriendship": 20,
   "abilities": [
     "RadRed.Abilities.flash_fire",
     "RadRed.Abilities.weak_armor",
     "RadRed.Abilities.mega_launcher"
   ],
+  "color": "color.red",
+  "hatchCycles": 35,
+  "genderRatio": 127,
+  "catchRate": 25,
   "types": [
     "pokemon.type.fire",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 20,
-  "color": "color.red",
-  "hatchCycles": 35,
-  "expGroup": 5,
-  "catchRate": 25,
-  "genderRatio": 127
+  "growthRate": 5
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 1365,
   "name": "RadRed.Species.munkidori",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/1015.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/1015.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/1015.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/1015.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/1015.png"
   },
+  "gameId": 1365,
   "baseStats": {
     "hp": 88,
     "atk": 75,
@@ -14,19 +14,19 @@
     "spDef": 90,
     "spd": 106
   },
+  "baseFriendship": 0,
   "abilities": [
     "RadRed.Abilities.toxic_chain",
     "RadRed.Abilities.toxic_chain",
     "RadRed.Abilities.frisk"
   ],
+  "color": "color.black",
+  "hatchCycles": 120,
+  "genderRatio": 0,
+  "catchRate": 3,
   "types": [
     "pokemon.type.poison",
     "pokemon.type.psychic"
   ],
-  "baseFriendship": 0,
-  "color": "color.black",
-  "hatchCycles": 120,
-  "expGroup": 5,
-  "catchRate": 3,
-  "genderRatio": 0
+  "growthRate": 5
 }

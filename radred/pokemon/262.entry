@@ -1,11 +1,11 @@
 {
-  "gameId": 287,
   "name": "RadRed.Species.mightyena",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/262.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/262.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/262.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/262.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/262.png"
   },
+  "gameId": 287,
   "baseStats": {
     "hp": 70,
     "atk": 95,
@@ -14,18 +14,17 @@
     "spDef": 60,
     "spd": 70
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.moxie"
   ],
-  "types": [
-    "pokemon.type.dark"
-  ],
-  "baseFriendship": 50,
   "color": "color.gray",
   "hatchCycles": 15,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 127,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.dark"
+  ]
 }

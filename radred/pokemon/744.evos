@@ -3,24 +3,38 @@
     {
       "to": 745,
       "conditions": {
-        "pokemon.evolve.level": 25,
-        "pokemon.evolve.time": "timeOfDay.day"
+        "pokemon.evolve.level": {
+          "number": 25
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.day"
+        }
       }
     },
     {
       "to": 745,
       "conditions": {
-        "pokemon.evolve.level": 25,
-        "pokemon.evolve.time": "timeOfDay.night"
+        "pokemon.evolve.level": {
+          "number": 25
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.night"
+        }
       },
       "toForm": 1
     },
     {
       "to": 745,
       "conditions": {
-        "pokemon.evolve.level": 25,
-        "pokemon.evolve.time": "timeOfDay.dusk",
-        "pokemon.evolve.ability": "pokemon.ability.own_tempo"
+        "pokemon.evolve.level": {
+          "number": 25
+        },
+        "pokemon.evolve.time": {
+          "string": "timeOfDay.dusk"
+        },
+        "pokemon.evolve.ability": {
+          "string": "pokemon.ability.own_tempo"
+        }
       },
       "toForm": 2
     }

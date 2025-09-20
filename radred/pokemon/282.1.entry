@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 893,
   "name": "RadRed.Species.gardevoir",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/282.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/282-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/282.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/282-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/282.1.png"
   },
+  "gameId": 893,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 68,
     "atk": 85,
@@ -16,19 +16,19 @@
     "spDef": 135,
     "spd": 100
   },
+  "baseFriendship": 35,
   "abilities": [
     "RadRed.Abilities.pixilate",
     "RadRed.Abilities.pixilate",
     "RadRed.Abilities.pixilate"
   ],
+  "color": "color.white",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.psychic",
     "pokemon.type.fairy"
   ],
-  "baseFriendship": 35,
-  "color": "color.white",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

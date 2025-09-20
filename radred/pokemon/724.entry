@@ -1,11 +1,11 @@
 {
-  "gameId": 941,
   "name": "RadRed.Species.decidueye",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/724.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/724.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/724.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/724.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/724.png"
   },
+  "gameId": 941,
   "baseStats": {
     "hp": 78,
     "atk": 107,
@@ -14,19 +14,19 @@
     "spDef": 85,
     "spd": 100
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.overgrow",
     "RadRed.Abilities.tinted_lens"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 31,
+  "catchRate": 45,
   "types": [
     "pokemon.type.grass",
     "pokemon.type.ghost"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 45,
-  "genderRatio": 31
+  "growthRate": 3
 }

@@ -1,11 +1,11 @@
 {
-  "gameId": 493,
   "name": "RadRed.Species.happiny",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/440.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/440.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/440.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/440.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/440.png"
   },
+  "gameId": 493,
   "baseStats": {
     "hp": 100,
     "atk": 5,
@@ -14,18 +14,18 @@
     "spDef": 65,
     "spd": 30
   },
+  "baseFriendship": 140,
   "abilities": [
     "RadRed.Abilities.natural_cure",
     "RadRed.Abilities.serene_grace",
     "RadRed.Abilities.friend_guard"
   ],
+  "color": "color.pink",
+  "hatchCycles": 40,
+  "genderRatio": 254,
+  "catchRate": 130,
   "types": [
     "pokemon.type.normal"
   ],
-  "baseFriendship": 140,
-  "color": "color.pink",
-  "hatchCycles": 40,
-  "expGroup": 4,
-  "catchRate": 130,
-  "genderRatio": 254
+  "growthRate": 4
 }

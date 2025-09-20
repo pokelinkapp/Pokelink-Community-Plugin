@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 898,
   "name": "RadRed.Species.manectric",
-  "formName": "RadRed.Forms.mega",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/310.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/310-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/310.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/310-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/310.1.png"
   },
+  "gameId": 898,
+  "form": 1,
+  "formName": "RadRed.Forms.mega",
   "baseStats": {
     "hp": 70,
     "atk": 75,
@@ -16,18 +16,18 @@
     "spDef": 80,
     "spd": 135
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate",
     "RadRed.Abilities.intimidate"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 5,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 5
 }

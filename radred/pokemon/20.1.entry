@@ -1,13 +1,13 @@
 {
-  "form": 1,
-  "gameId": 1021,
   "name": "RadRed.Species.raticate",
-  "formName": "RadRed.Forms.alola",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/20.1.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/20-1.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/20.1.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/20-1.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/20.1.png"
   },
+  "gameId": 1021,
+  "form": 1,
+  "formName": "RadRed.Forms.alola",
   "baseStats": {
     "hp": 75,
     "atk": 86,
@@ -16,19 +16,18 @@
     "spDef": 80,
     "spd": 77
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.gluttony",
     "RadRed.Abilities.hustle",
     "RadRed.Abilities.thick_fat"
   ],
+  "color": "color.black",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 127,
   "types": [
     "pokemon.type.dark",
     "pokemon.type.normal"
-  ],
-  "baseFriendship": 50,
-  "color": "color.black",
-  "hatchCycles": 15,
-  "expGroup": 0,
-  "catchRate": 127,
-  "genderRatio": 127
+  ]
 }

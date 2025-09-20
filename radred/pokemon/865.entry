@@ -1,11 +1,11 @@
 {
-  "gameId": 1157,
   "name": "RadRed.Species.sirfetchd",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/865.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/865.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/865.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/865.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/865.png"
   },
+  "gameId": 1157,
   "baseStats": {
     "hp": 82,
     "atk": 135,
@@ -14,18 +14,17 @@
     "spDef": 82,
     "spd": 65
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.sharpness",
     "RadRed.Abilities.sharpness",
     "RadRed.Abilities.scrappy"
   ],
-  "types": [
-    "pokemon.type.fighting"
-  ],
-  "baseFriendship": 50,
   "color": "color.white",
   "hatchCycles": 20,
-  "expGroup": 0,
+  "genderRatio": 127,
   "catchRate": 45,
-  "genderRatio": 127
+  "types": [
+    "pokemon.type.fighting"
+  ]
 }

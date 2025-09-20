@@ -1,11 +1,11 @@
 {
-  "gameId": 298,
   "name": "RadRed.Species.seedot",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/273.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/273.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/273.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/273.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/273.png"
   },
+  "gameId": 298,
   "baseStats": {
     "hp": 40,
     "atk": 40,
@@ -14,18 +14,18 @@
     "spDef": 30,
     "spd": 30
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.chlorophyll",
     "RadRed.Abilities.early_bird",
     "RadRed.Abilities.infiltrator"
   ],
+  "color": "color.brown",
+  "hatchCycles": 15,
+  "genderRatio": 127,
+  "catchRate": 255,
   "types": [
     "pokemon.type.grass"
   ],
-  "baseFriendship": 50,
-  "color": "color.brown",
-  "hatchCycles": 15,
-  "expGroup": 3,
-  "catchRate": 255,
-  "genderRatio": 127
+  "growthRate": 3
 }

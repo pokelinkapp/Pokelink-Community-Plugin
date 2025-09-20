@@ -1,11 +1,11 @@
 {
-  "gameId": 81,
   "name": "RadRed.Species.magnemite",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/81.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/81.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/81.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/81.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/81.png"
   },
+  "gameId": 81,
   "baseStats": {
     "hp": 25,
     "atk": 35,
@@ -14,19 +14,18 @@
     "spDef": 55,
     "spd": 45
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.magnet_pull",
     "RadRed.Abilities.sturdy",
     "RadRed.Abilities.analytic"
   ],
+  "color": "color.gray",
+  "hatchCycles": 20,
+  "genderRatio": 255,
+  "catchRate": 190,
   "types": [
     "pokemon.type.electric",
     "pokemon.type.steel"
-  ],
-  "baseFriendship": 50,
-  "color": "color.gray",
-  "hatchCycles": 20,
-  "expGroup": 0,
-  "catchRate": 190,
-  "genderRatio": 255
+  ]
 }

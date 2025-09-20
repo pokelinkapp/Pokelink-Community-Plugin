@@ -1,11 +1,11 @@
 {
-  "gameId": 1128,
   "name": "RadRed.Species.boltund",
   "sprites": {
-    "shiny": "pokelink-community:/radred/assets/sprites/normal/836.png",
+    "party": "pokelink-community:/radred/assets/sprites/party/836.gif",
     "normal": "pokelink-community:/radred/assets/sprites/normal/836.png",
-    "party": "pokelink-community:/radred/assets/sprites/party/836.gif"
+    "shiny": "pokelink-community:/radred/assets/sprites/normal/836.png"
   },
+  "gameId": 1128,
   "baseStats": {
     "hp": 69,
     "atk": 100,
@@ -14,18 +14,18 @@
     "spDef": 60,
     "spd": 121
   },
+  "baseFriendship": 50,
   "abilities": [
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.strong_jaw",
     "RadRed.Abilities.competitive"
   ],
+  "color": "color.yellow",
+  "hatchCycles": 20,
+  "genderRatio": 127,
+  "catchRate": 45,
   "types": [
     "pokemon.type.electric"
   ],
-  "baseFriendship": 50,
-  "color": "color.yellow",
-  "hatchCycles": 20,
-  "expGroup": 4,
-  "catchRate": 45,
-  "genderRatio": 127
+  "growthRate": 4
 }
