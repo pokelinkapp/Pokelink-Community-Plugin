@@ -1,0 +1,16 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Category": {
+                "supportedRomhacks": "Supported Romhacks"
+            },
+            "Name": {
+                "radicalRed": "Radical Red"
+            },
+            "Subtitle": {
+                "v4.1": "v4.1"
+            }
+        }
+    }
+}

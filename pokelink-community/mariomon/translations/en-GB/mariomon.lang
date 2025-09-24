@@ -1,0 +1,20 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Name": {
+                "mariomon": "Super Mariomon"
+            }
+        },
+        "PowerStars": {
+            "power_star_1": "World 1 Power Star",
+            "power_star_2": "World 2 Power Star",
+            "power_star_3": "World 3 Power Star",
+            "power_star_4": "World 4 Power Star",
+            "power_star_5": "World 5 Power Star",
+            "power_star_6": "World 6 Power Star",
+            "power_star_7": "World 7 Power Star",
+            "power_star_8": "World 8 Power Star"
+        }
+    }
+}

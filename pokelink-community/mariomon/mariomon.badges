@@ -1,0 +1,13 @@
+{
+    "badges": {
+        "power_star_1": "pokelink-community:/mariomon/sprites/badges/powerStar-1.png",
+        "power_star_2": "pokelink-community:/mariomon/sprites/badges/powerStar-2.png",
+        "power_star_3": "pokelink-community:/mariomon/sprites/badges/powerStar-3.png",
+        "power_star_4": "pokelink-community:/mariomon/sprites/badges/powerStar-4.png",
+        "power_star_5": "pokelink-community:/mariomon/sprites/badges/powerStar-5.png",
+        "power_star_6": "pokelink-community:/mariomon/sprites/badges/powerStar-6.png",
+        "power_star_7": "pokelink-community:/mariomon/sprites/badges/powerStar-7.png",
+        "power_star_8": "pokelink-community:/mariomon/sprites/badges/powerStar-8.png"
+    },
+    "badgeTranslationPrefix": "PowerStars"
+}
