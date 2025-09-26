@@ -4,6 +4,9 @@
         "Game": {
             "Name": {
                 "runandbun": "Pokémon Run & Bun"
+            },
+            "Subtitle": {
+                "v1.07": "v1.07"
             }
         }
     }

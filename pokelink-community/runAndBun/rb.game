@@ -30,5 +30,12 @@
     "typeChart": "pokelink:/typeCharts/gen6.typeChart",
     "hatchMultiplier": 256,
     "gameId": "EMERALD",
-    "console": "gba"
+    "console": "gba",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/runAndBun/rb.nav": null
+            }
+        }
+    ]
 }
