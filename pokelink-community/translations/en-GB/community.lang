@@ -1,0 +1,10 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Category": {
+                "supportedRomhacks": "Supported Romhacks"
+            }
+        }
+    }
+}

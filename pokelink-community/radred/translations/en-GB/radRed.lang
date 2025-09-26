@@ -2,11 +2,8 @@
     "code": "en-GB",
     "translations": {
         "Game": {
-            "Category": {
-                "supportedRomhacks": "Supported Romhacks"
-            },
             "Name": {
-                "radicalRed": "Radical Red"
+                "radicalRed": "Pokémon Radical Red"
             },
             "Subtitle": {
                 "v4.1": "v4.1"
