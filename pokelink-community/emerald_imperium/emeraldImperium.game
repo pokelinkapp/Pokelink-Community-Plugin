@@ -1,0 +1,41 @@
+{
+    "__import": {
+        "pokelink-community:/emerald_imperium/items.json": null,
+        "pokelink:/locations/gen3.locations": null,
+        "pokelink:/locations/e.nuzloc": null,
+        "pokelink:/badges/hoenn.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink-community:/emerald_imperium/abilities.json": null,
+        "pokelink:/keybinds/rse.keybinds": null,
+        "pokelink-community:/emerald_imperium/expCurves.json": null
+    },
+    "name": "Game.Name.emeraldImperium",
+    "generation": 9,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/emerald_imperium/logo.png",
+    "lightTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "darkTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "priority": 2,
+    "pokedex": {
+        "auto": "pokelink-community:/emerald_imperium/dex.json",
+        "manual": "pokelink-community:/emerald_imperium/dex.json"
+    },
+    "delayEggHatch": true,
+    "typeChart": "pokelink:/typeCharts/gen6.typeChart",
+    "hatchMultiplier": 256,
+    "gameId": "EMERALD",
+    "console": "gba",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/emerald_imperium/emeraldImperium.nav": null
+            }
+        }
+    ]
+}
