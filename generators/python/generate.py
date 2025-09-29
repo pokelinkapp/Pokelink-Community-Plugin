@@ -1,5 +1,6 @@
 import runAndBun
-import emeraldImperium
+import emerald_imperium
 
 runAndBun.generate()
-emeraldImperium.generate()
+print()
+emerald_imperium.generate()

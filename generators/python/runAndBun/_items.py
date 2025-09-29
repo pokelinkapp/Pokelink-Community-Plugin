@@ -2,7 +2,8 @@ import pokelink.translations as translations
 import pokelink.game_strings as game_strings
 import pokelink.directories as directories
 import os
-import json
+
+from pokelink.json_output import write_file
 
 _items = [
     None, "Poké Ball", "Great Ball", "Ultra Ball",
@@ -215,6 +216,4 @@ def generate_items():
         translations.add_translation(items_prefix + game_strings.clean_up(item), item)
         it.append(items_prefix + game_strings.clean_up(item))
 
-
-    with open(os.path.join(directories.get_output_dir("runAndBun"), "rb.items"), "w") as write:
-        json.dump(i, write, indent="  ")
+    write_file(os.path.join(directories.get_output_dir("runAndBun"), "rb.items"), i)

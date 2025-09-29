@@ -3,7 +3,8 @@ import pokelink.translations as translations
 import pokelink.core_plugin as core_plugin
 import pokelink.directories as directories
 import os
-import json
+
+from pokelink.json_output import write_file
 
 _pokemon = [
     "Bulbasaur", "Ivysaur", "Venusaur", "Charmander",
@@ -1555,8 +1556,7 @@ def generate_abilities():
             translations.add_translation(ability_prefix + game_strings.clean_up(ability), ability)
             ab.append(ability_prefix + game_strings.clean_up(ability))
 
-    with open(os.path.join(directories.get_output_dir("runAndBun"), "rb.abilities"), "w") as write:
-        json.dump(a, write, indent="  ", ensure_ascii=False)
+    write_file(os.path.join(directories.get_output_dir("runAndBun"), "rb.abilities"), a)
 
 def generate_dex():
     print("Generating Pokedex")
@@ -1646,5 +1646,4 @@ def generate_dex():
 
     dex["entries"] = entries
 
-    with open(os.path.join(directories.get_output_dir("runAndBun"), "rb.dex"), "w") as write:
-        json.dump(dex, write, indent="  ")
+    write_file(os.path.join(directories.get_output_dir("runAndBun"), "rb.dex"), dex)

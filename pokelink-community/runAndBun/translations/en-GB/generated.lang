@@ -3,7 +3,7 @@
   "translations": {
     "Run&Bun": {
       "Item": {
-        "poke_ball": "Poké Ball",
+        "poke_ball": "Pok\u00e9 Ball",
         "great_ball": "Great Ball",
         "ultra_ball": "Ultra Ball",
         "master_ball": "Master Ball",
@@ -127,9 +127,9 @@
         "x_special_attack": "X Special Attack",
         "x_special_defend": "X Special Defend",
         "x_accuracy": "X Accuracy",
-        "poke_doll": "Poké Doll",
+        "poke_doll": "Pok\u00e9 Doll",
         "fluffy_tail": "Fluffy Tail",
-        "poke_toy": "Poké Toy",
+        "poke_toy": "Pok\u00e9 Toy",
         "max_mushrooms": "Max Mushrooms",
         "unknown": "Unknown",
         "bottle_cap": "Bottle Cap",
@@ -978,7 +978,7 @@
         "ocean": "Ocean",
         "jungle": "Jungle",
         "fancy": "Fancy",
-        "poke_ball": "Poké Ball",
+        "poke_ball": "Pok\u00e9 Ball",
         "yellow": "Yellow",
         "orange": "Orange",
         "eternal": "Eternal",
