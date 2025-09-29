@@ -1,0 +1,9 @@
+[submodule "external/pokelink-protobufs"]
+	path = external/pokelink-protobufs
+	url = git@github.com:pokelinkapp/pokelink-protobufs.git
+[submodule "external/emerald-imperium"]
+	path = external/emerald-imperium
+	url = https://github.com/iriv24/pokeemerald-expansion.git
+[submodule "external/PKHeX"]
+	path = external/PKHeX
+	url = https://github.com/kwsch/PKHeX.git

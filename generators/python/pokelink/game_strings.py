@@ -1,0 +1,115 @@
+import os.path
+
+import pokelink.directories as directories
+
+_valid_languages = [
+    "de",
+    "en",
+    "es",
+    "fr",
+    "it",
+    "ja",
+    "ko",
+    "zh",
+    "zh2"
+]
+
+_game_strings = {}
+
+
+def _load_strings():
+    global _game_strings
+
+    if _game_strings.__len__() != 0:
+        return
+
+    items_dir = directories.get_external_dir(
+        "PKHeX/PKHeX.Core/Resources/text/items/")
+
+    for lang in _valid_languages:
+        gs = {}
+        lang_file = (lang if lang not in ("zh",
+                              "zh2") else "zh-Hans" if lang == "zh" else "zh-Hant")
+        lang_dir = lang if lang not in ("zh",
+                              "zh2") else "zh"
+
+        other = directories.get_external_dir(
+            "PKHeX/PKHeX.Core/Resources/text/other/" + lang_dir)
+
+        with open(os.path.join(other, "text_Species_" + lang_file + ".txt"),
+                  "r") as species:
+            s = []
+            for line in species:
+                s.append(line.strip())
+            gs["species"] = s
+
+        with open(os.path.join(other, "text_Forms_" + lang_file + ".txt"),
+                  "r") as forms:
+            f = []
+            for line in forms:
+                if line != "":
+                    f.append(line.strip())
+            gs["forms"] = f
+
+        with open(os.path.join(items_dir, "text_Items_" + lang_file + ".txt"),
+                  "r") as items:
+            i = []
+            for line in items:
+                if line != "" and not line.startswith('?'):
+                    i.append(line.strip())
+            gs["items"] = i
+
+        _game_strings[lang] = gs
+
+
+def has_species(species: str, lang: str = "en") -> bool:
+    global _game_strings
+
+    if not _game_strings.__contains__(lang):
+        return False
+
+    if not _game_strings[lang].__contains__("species"):
+        return False
+
+    return _game_strings[lang]["species"].__contains__(species)
+
+
+def has_form(form: str, lang: str = "en") -> bool:
+    global _game_strings
+
+    if not _game_strings.__contains__(lang):
+        return False
+
+    if not _game_strings[lang].__contains__("forms"):
+        return False
+
+    return _game_strings[lang]["forms"].__contains__(form)
+
+
+def has_item(item: str, lang: str = "en") -> bool:
+    global _game_strings
+
+    if not _game_strings.__contains__(lang):
+        return False
+
+    if not _game_strings[lang].__contains__("items"):
+        return False
+
+    return _game_strings[lang]["items"].__contains__(item)
+
+
+def clean_up(input: str) -> str:
+    output = input.lower()
+
+    while output.__contains__("  "):
+        output = output.replace("  ", " ")
+
+    output = output.replace("’", "").replace("'", "").replace("é", "e").replace(
+        ".", "").replace(" ", "_").replace("-", "_").replace('\u2640',
+                                                             'F').replace(
+        '\u2642', 'M').replace("[", "").replace("]", "")
+
+    while output.__contains__("__"):
+        output = output.replace("__", "_")
+
+    return output
