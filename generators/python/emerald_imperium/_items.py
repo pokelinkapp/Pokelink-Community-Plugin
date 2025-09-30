@@ -58,10 +58,12 @@ def process():
 
                 item += " " + i[0] + i[1:].lower()
 
+            if not game_strings.has_item(item):
+                translations.add_translation(_items_prefix + game_strings.clean_up(item), item)
 
-            translations.add_translation(_items_prefix + game_strings.clean_up(item), item)
-
-            _items.append(_items_prefix + game_strings.clean_up(item))
+                _items.append(_items_prefix + game_strings.clean_up(item))
+            else:
+                _items.append("pokemon.item." + game_strings.clean_up(item))
 
 def generate():
     print("Generating Items")

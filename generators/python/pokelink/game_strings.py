@@ -29,9 +29,9 @@ def _load_strings():
     for lang in _valid_languages:
         gs = {}
         lang_file = (lang if lang not in ("zh",
-                              "zh2") else "zh-Hans" if lang == "zh" else "zh-Hant")
+                                          "zh2") else "zh-Hans" if lang == "zh" else "zh-Hant")
         lang_dir = lang if lang not in ("zh",
-                              "zh2") else "zh"
+                                        "zh2") else "zh"
 
         other = directories.get_external_dir(
             "PKHeX/PKHeX.Core/Resources/text/other/" + lang_dir)
@@ -52,6 +52,15 @@ def _load_strings():
                     f.append(line.strip())
             gs["forms"] = f
             gs["clean_forms"] = [clean_up(clean) for clean in f]
+
+        with open(os.path.join(other, "text_Abilities_" + lang_file + ".txt"),
+                  "r") as abilities:
+            ab = []
+            for line in abilities:
+                if line != "":
+                    ab.append(line.strip())
+            gs["abilities"] = ab
+            gs["clean_abilities"] = [clean_up(clean) for clean in ab]
 
         with open(os.path.join(items_dir, "text_Items_" + lang_file + ".txt"),
                   "r") as items:
@@ -74,7 +83,8 @@ def has_species(species: str, lang: str = "en") -> bool:
     if not _game_strings[lang].__contains__("species"):
         return False
 
-    return _game_strings[lang]["species"].__contains__(species) or _game_strings[lang]["clean_species"].__contains__(clean_up(species))
+    return _game_strings[lang]["species"].__contains__(species) or \
+        _game_strings[lang]["clean_species"].__contains__(clean_up(species))
 
 
 def has_form(form: str, lang: str = "en") -> bool:
@@ -86,7 +96,8 @@ def has_form(form: str, lang: str = "en") -> bool:
     if not _game_strings[lang].__contains__("forms"):
         return False
 
-    return _game_strings[lang]["forms"].__contains__(form) or _game_strings[lang]["clean_forms"].__contains__(clean_up(form))
+    return _game_strings[lang]["forms"].__contains__(form) or \
+        _game_strings[lang]["clean_forms"].__contains__(clean_up(form))
 
 
 def has_item(item: str, lang: str = "en") -> bool:
@@ -98,7 +109,20 @@ def has_item(item: str, lang: str = "en") -> bool:
     if not _game_strings[lang].__contains__("items"):
         return False
 
-    return _game_strings[lang]["items"].__contains__(item) or _game_strings[lang]["clean_items"].__contains__(clean_up(item))
+    return _game_strings[lang]["items"].__contains__(item) or \
+        _game_strings[lang]["clean_items"].__contains__(clean_up(item))
+
+def has_ability(ability: str, lang: str = "en") -> bool:
+    global _game_strings
+
+    if not _game_strings.__contains__(lang):
+        return False
+
+    if not _game_strings[lang].__contains__("abilities"):
+        return False
+
+    return _game_strings[lang]["abilities"].__contains__(ability) or \
+        _game_strings[lang]["clean_abilities"].__contains__(clean_up(ability))
 
 
 def clean_up(input: str) -> str:

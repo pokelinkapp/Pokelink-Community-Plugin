@@ -51,9 +51,12 @@ def process():
 
                 ability += " " + item[0] + item[1:].lower()
 
-            translations.add_translation(_ability_prefix + game_strings.clean_up(ability), ability)
+            if not game_strings.has_ability(ability):
+                translations.add_translation(_ability_prefix + game_strings.clean_up(ability), ability)
 
-            _abilities.append(_ability_prefix + game_strings.clean_up(ability))
+                _abilities.append(_ability_prefix + game_strings.clean_up(ability))
+            else:
+                _abilities.append("pokemon.ability." + game_strings.clean_up(ability))
 
 
 def generate():

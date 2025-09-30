@@ -5,12 +5,13 @@ import emerald_imperium._exp_data as exp_data
 import emerald_imperium._abilities as abilities
 import emerald_imperium._items as items
 import emerald_imperium._pokedex as pokedex
+import emerald_imperium._sprites as sprites
 
 def _process():
+    sprites.process()
     abilities.process()
     items.process()
     pokedex.process()
-
 
 def generate():
     translations.clear()
