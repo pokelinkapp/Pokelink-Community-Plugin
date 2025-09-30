@@ -42,6 +42,7 @@ def _load_strings():
             for line in species:
                 s.append(line.strip())
             gs["species"] = s
+            gs["clean_species"] = [clean_up(clean) for clean in s]
 
         with open(os.path.join(other, "text_Forms_" + lang_file + ".txt"),
                   "r") as forms:
@@ -50,14 +51,16 @@ def _load_strings():
                 if line != "":
                     f.append(line.strip())
             gs["forms"] = f
+            gs["clean_forms"] = [clean_up(clean) for clean in f]
 
         with open(os.path.join(items_dir, "text_Items_" + lang_file + ".txt"),
                   "r") as items:
             i = []
             for line in items:
-                if line != "" and not line.startswith('?'):
+                if line != "" and not line.startswith("?"):
                     i.append(line.strip())
             gs["items"] = i
+            gs["clean_items"] = [clean_up(clean) for clean in i]
 
         _game_strings[lang] = gs
 
@@ -71,7 +74,7 @@ def has_species(species: str, lang: str = "en") -> bool:
     if not _game_strings[lang].__contains__("species"):
         return False
 
-    return _game_strings[lang]["species"].__contains__(species)
+    return _game_strings[lang]["species"].__contains__(species) or _game_strings[lang]["clean_species"].__contains__(clean_up(species))
 
 
 def has_form(form: str, lang: str = "en") -> bool:
@@ -83,7 +86,7 @@ def has_form(form: str, lang: str = "en") -> bool:
     if not _game_strings[lang].__contains__("forms"):
         return False
 
-    return _game_strings[lang]["forms"].__contains__(form)
+    return _game_strings[lang]["forms"].__contains__(form) or _game_strings[lang]["clean_forms"].__contains__(clean_up(form))
 
 
 def has_item(item: str, lang: str = "en") -> bool:
@@ -95,7 +98,7 @@ def has_item(item: str, lang: str = "en") -> bool:
     if not _game_strings[lang].__contains__("items"):
         return False
 
-    return _game_strings[lang]["items"].__contains__(item)
+    return _game_strings[lang]["items"].__contains__(item) or _game_strings[lang]["clean_items"].__contains__(clean_up(item))
 
 
 def clean_up(input: str) -> str:
@@ -105,9 +108,9 @@ def clean_up(input: str) -> str:
         output = output.replace("  ", " ")
 
     output = output.replace("’", "").replace("'", "").replace("é", "e").replace(
-        ".", "").replace(" ", "_").replace("-", "_").replace('\u2640',
-                                                             'F').replace(
-        '\u2642', 'M').replace("[", "").replace("]", "")
+        ".", "").replace(" ", "_").replace("-", "_").replace("\u2640",
+                                                             "F").replace(
+        "\u2642", "M").replace("[", "").replace("]", "")
 
     while output.__contains__("__"):
         output = output.replace("__", "_")

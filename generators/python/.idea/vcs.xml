@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../external/PKHeX" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../external/emerald-imperium" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../external/pokelink-protobufs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
   </component>

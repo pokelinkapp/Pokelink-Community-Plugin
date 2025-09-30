@@ -9,45 +9,9 @@
                 "v1.3.1": "v1.3.1"
             }
         },
-        "pokemon": {
-            "form": {
-                "gmax": "Gigantamax",
-                "surfing": "Surfing",
-                "alola_totem": "Alola Totem",
-                "exclamation": "!",
-                "question": "?",
-                "mega_o": "Mega O",
-                "mega_d": "Mega D",
-                "spiky_eared": "Spiky Eared",
-                "red_striped": "Red Striped",
-                "blue_striped": "Blue Striped",
-                "white_striped": "White Striped",
-                "galar_standard": "Galar",
-                "galar_zen_mode_two": "Galar Zen Mode",
-                "douse": "Douse",
-                "shock": "Shock",
-                "burn": "Burn",
-                "chill": "Chill",
-                "battle_bond": "Battle Bond",
-                "pokeball": "Pokeball",
-                "heart_trim": "Heart Trim",
-                "star_trim": "Star Trim",
-                "diamond_trim": "Diamond Trim",
-                "debutante_trim": "Debutante Trim",
-                "matron_trim": "Matron Trim",
-                "dandy_trim": "Dandy Trim",
-                "la_reine_trim": "La Reine Trim",
-                "kabuki_trim": "Kabuki Trim",
-                "pharaoh_trim": "Pharaoh Trim",
-                "neutral": "Neutral",
-                "10_aura_break": "10% Aura Break",
-                "10_power_construct": "10% Power Construct",
-                "50_power_construct": "50% Power Construct",
-                "totem": "Totem",
-                "own_tempo": "Own Tempo",
-                "totem_disguised": "Totem Disguise",
-                "totem_busted": "Totem Busted",
-                "meteor": "Meteor"
+        "EmeraldImperium": {
+            "Type": {
+                "mystery": "Mystery"
             }
         }
     }

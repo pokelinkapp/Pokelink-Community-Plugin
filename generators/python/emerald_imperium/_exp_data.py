@@ -93,4 +93,4 @@ def generate():
 
     output = {"expGrowth": tables}
 
-    write_file(os.path.join(directories.get_output_dir("emerald_imperium", True), "expCurves.py.json"), output)
+    write_file(os.path.join(directories.get_output_dir("emerald_imperium", True), "emeraldImperium.exp"), output)

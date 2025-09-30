@@ -21,7 +21,7 @@ def _load_plugin():
 
     zip_f = zipfile.ZipFile(plugin_path)
 
-    _core_plugin_files = ['/' + name for name in zip_f.namelist()]
+    _core_plugin_files = ["/" + name for name in zip_f.namelist()]
 
     zip_f.close()
 

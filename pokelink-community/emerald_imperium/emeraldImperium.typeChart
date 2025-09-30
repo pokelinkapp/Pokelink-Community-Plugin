@@ -1,0 +1,156 @@
+{
+  "pokemon.type.normal": {
+    "pokemon.type.rock": -1,
+    "pokemon.type.ghost": 0,
+    "pokemon.type.steel": -1
+  },
+  "pokemon.type.fighting": {
+    "pokemon.type.normal": 2,
+    "pokemon.type.flying": -1,
+    "pokemon.type.poison": -1,
+    "pokemon.type.rock": 2,
+    "pokemon.type.bug": -1,
+    "pokemon.type.ghost": 0,
+    "pokemon.type.steel": 2,
+    "pokemon.type.psychic": -1,
+    "pokemon.type.ice": 2,
+    "pokemon.type.dark": 2,
+    "pokemon.type.fairy": -1
+  },
+  "pokemon.type.flying": {
+    "pokemon.type.fighting": 2,
+    "pokemon.type.rock": -1,
+    "pokemon.type.bug": 2,
+    "pokemon.type.steel": -1,
+    "pokemon.type.grass": 2,
+    "pokemon.type.electric": -1
+  },
+  "pokemon.type.poison": {
+    "pokemon.type.poison": -1,
+    "pokemon.type.ground": -1,
+    "pokemon.type.rock": -1,
+    "pokemon.type.ghost": -1,
+    "pokemon.type.steel": 0,
+    "pokemon.type.grass": 2,
+    "pokemon.type.fairy": 2
+  },
+  "pokemon.type.ground": {
+    "pokemon.type.flying": 0,
+    "pokemon.type.poison": 2,
+    "pokemon.type.rock": 2,
+    "pokemon.type.bug": -1,
+    "pokemon.type.steel": 2,
+    "pokemon.type.fire": 2,
+    "pokemon.type.grass": -1,
+    "pokemon.type.electric": 2
+  },
+  "pokemon.type.rock": {
+    "pokemon.type.fighting": -1,
+    "pokemon.type.flying": 2,
+    "pokemon.type.ground": -1,
+    "pokemon.type.bug": 2,
+    "pokemon.type.steel": -1,
+    "pokemon.type.fire": 2,
+    "pokemon.type.ice": 2
+  },
+  "pokemon.type.bug": {
+    "pokemon.type.flying": -1,
+    "pokemon.type.poison": -1,
+    "pokemon.type.ghost": -1,
+    "pokemon.type.steel": -1,
+    "pokemon.type.fire": -1,
+    "pokemon.type.grass": 2,
+    "pokemon.type.psychic": 2,
+    "pokemon.type.dark": 2,
+    "pokemon.type.fairy": -1
+  },
+  "pokemon.type.ghost": {
+    "pokemon.type.normal": 0,
+    "pokemon.type.ghost": 2,
+    "pokemon.type.psychic": 2,
+    "pokemon.type.dark": -1
+  },
+  "pokemon.type.steel": {
+    "pokemon.type.rock": 2,
+    "pokemon.type.steel": -1,
+    "pokemon.type.fire": -1,
+    "pokemon.type.water": -1,
+    "pokemon.type.electric": -1,
+    "pokemon.type.ice": 2,
+    "pokemon.type.fairy": 2
+  },
+  "pokemon.type.fire": {
+    "pokemon.type.rock": -1,
+    "pokemon.type.bug": 2,
+    "pokemon.type.steel": 2,
+    "pokemon.type.fire": -1,
+    "pokemon.type.water": -1,
+    "pokemon.type.grass": 2,
+    "pokemon.type.ice": 2,
+    "pokemon.type.dragon": -1
+  },
+  "pokemon.type.water": {
+    "pokemon.type.ground": 2,
+    "pokemon.type.rock": 2,
+    "pokemon.type.fire": 2,
+    "pokemon.type.water": -1,
+    "pokemon.type.grass": -1,
+    "pokemon.type.dragon": -1
+  },
+  "pokemon.type.grass": {
+    "pokemon.type.flying": -1,
+    "pokemon.type.poison": -1,
+    "pokemon.type.ground": 2,
+    "pokemon.type.rock": 2,
+    "pokemon.type.bug": -1,
+    "pokemon.type.fire": -1,
+    "pokemon.type.water": 2,
+    "pokemon.type.grass": -1,
+    "pokemon.type.dragon": -1
+  },
+  "pokemon.type.electric": {
+    "pokemon.type.flying": 2,
+    "pokemon.type.ground": 0,
+    "pokemon.type.water": 2,
+    "pokemon.type.grass": -1,
+    "pokemon.type.electric": -1,
+    "pokemon.type.dragon": -1
+  },
+  "pokemon.type.psychic": {
+    "pokemon.type.fighting": 2,
+    "pokemon.type.poison": 2,
+    "pokemon.type.steel": -1,
+    "pokemon.type.psychic": -1,
+    "pokemon.type.dark": 0
+  },
+  "pokemon.type.ice": {
+    "pokemon.type.flying": 2,
+    "pokemon.type.ground": 2,
+    "pokemon.type.fire": -1,
+    "pokemon.type.water": -1,
+    "pokemon.type.grass": 2,
+    "pokemon.type.ice": -1,
+    "pokemon.type.dragon": 2
+  },
+  "pokemon.type.dragon": {
+    "pokemon.type.steel": -1,
+    "pokemon.type.dragon": 2,
+    "pokemon.type.fairy": 0
+  },
+  "pokemon.type.dark": {
+    "pokemon.type.fighting": -1,
+    "pokemon.type.ghost": 2,
+    "pokemon.type.psychic": 2,
+    "pokemon.type.dark": -1,
+    "pokemon.type.fairy": -1
+  },
+  "pokemon.type.fairy": {
+    "pokemon.type.fighting": 2,
+    "pokemon.type.poison": -1,
+    "pokemon.type.steel": -1,
+    "pokemon.type.fire": -1,
+    "pokemon.type.dragon": 2,
+    "pokemon.type.dark": 2
+  },
+  "pokemon.type.stellar": {}
+}

@@ -68,4 +68,4 @@ def generate():
 
     write_file(
         os.path.join(directories.get_output_dir("emerald_imperium", True),
-                     "items.py.json"), {"items": _items})
+                     "emeraldImperium.items"), {"items": _items})

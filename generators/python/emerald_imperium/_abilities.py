@@ -61,7 +61,7 @@ def generate():
 
     write_file(
         os.path.join(directories.get_output_dir("emerald_imperium", True),
-                     "abilities.py.json"), {"abilities": _abilities})
+                     "emeraldImperium.abilities"), {"abilities": _abilities})
 
 
 def get_ability(index: int) -> str:

@@ -1580,11 +1580,11 @@ def generate_dex():
         entry["gameId"] = i + 1
         form = None
 
-        if mon.__contains__('-'):
+        if mon.__contains__("-"):
             if not game_strings.has_species(mon):
-                split = mon.split('-')
+                split = mon.split("-")
                 mon = split[0]
-                form = str.join('-', split[1:])
+                form = str.join("-", split[1:])
 
         if not species_ids.__contains__(mon):
             id = i + 1
@@ -1612,16 +1612,16 @@ def generate_dex():
         if form_ids[id] == 0:
             import_blb = dict()
             imports[
-                "pokelink:/pokemon/national/" + str(id) + ".entry"] = import_blb
+                f"pokelink:/pokemon/national/{id}.entry"] = import_blb
             import_blb["mergeArrays"] = False
 
             if id not in (57, 203, 206, 625, 840,
                           884) and core_plugin.file_exists(
-                    "/pokemon/national/" + str(id) + ".evos"):
+                    f"/pokemon/national/{id}.evos"):
                 imports[
-                    "pokelink:/pokemon/national/" + str(id) + ".evos"] = None
+                    f"pokelink:/pokemon/national/{id}.evos"] = None
             elif id == 840:
-                imports["pokelink:/pokemon/swsh/" + str(id) + ".evos"] = None
+                imports[f"pokelink:/pokemon/swsh/{id}.evos"] = None
 
             entry["id"] = entries.__len__() + 1
             entries.append(entry)
@@ -1629,11 +1629,8 @@ def generate_dex():
             import_blb = dict()
             import_blb["mergeArrays"] = False
             imports[(
-                    "pokelink:/pokemon/national/" + str(
-                id) + ".entry") if id in (172, 716, 744) else (
-                    "pokelink:/pokemon/national/" + str(id) + "." + str(
-                form_ids[
-                    id]) + ".entry")] = import_blb
+                    f"pokelink:/pokemon/national/{id}.entry") if id in (172, 716, 744) else (
+                    f"pokelink:/pokemon/national/{id}.{form_ids[id]}.entry")] = import_blb
 
             entry["form"] = form_ids[id]
 
