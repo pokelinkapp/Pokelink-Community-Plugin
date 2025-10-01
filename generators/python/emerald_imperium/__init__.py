@@ -22,4 +22,4 @@ def generate():
     items.generate()
     pokedex.generate()
 
-    translations.write_translations(directories.get_output_dir("emerald_imperium/translations/py", True))
+    translations.write_translations(directories.get_output_dir("emerald_imperium/translations", True))

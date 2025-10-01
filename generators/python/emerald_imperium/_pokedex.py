@@ -1,4 +1,4 @@
-import proto.v0_7_1.pokedex_pb2 as pb_pokedex
+import pokelink.proto.v0_7_1.pokedex_pb2 as pb_pokedex
 import pokelink.directories as directories
 from google.protobuf import json_format
 
