@@ -45,7 +45,12 @@ def _process_item_sprites(item_dir: str):
 
 def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                                    output_dir: str):
-    if output_name == "egg" or output_name == "question_mark" or output_name == "icon_palettes":
+    if (output_name == "egg"
+            or output_name == "question_mark"
+            or output_name == "icon_palettes"
+            or output_name == "basculin-hisui"
+            or output_name == "spinda-spots"
+            or output_name == "rotom-normal"):
         return
 
     global _sprite_count
@@ -58,14 +63,43 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
         is_female_sprite = _valid_names.index(sprite) > 2
         is_icon = sprite.startswith("icon")
 
+        if not is_icon and not is_female_sprite:
+            if output_name == "dusknoir-mega":
+                target_sprite = "megadusknoir.png"
+            elif output_name == "roserade-mega":
+                target_sprite = "megaroserade.png"
+            elif output_name == "empoleon-mega_d":
+                target_sprite = "megaempoleond.png"
+            elif output_name == "empoleon-mega_o":
+                target_sprite = "megaempoleono.png"
+            elif output_name == "torterra-mega":
+                target_sprite = "megatorterra.png"
+            elif output_name == "infernape-mega":
+                target_sprite = "megainfernape.png"
+            elif output_name == "luxray-mega":
+                target_sprite = "megaluxray.png"
+            elif output_name == "slaking-mega":
+                target_sprite = "megaslaking.png"
+
         if not os.path.isfile(os.path.join(sprite_dir.path, target_sprite)):
-            if os.path.isfile(os.path.join(sprite_dir.path, "..", target_sprite)):
+            if os.path.isfile(
+                    os.path.join(sprite_dir.path, "..", target_sprite)):
                 if is_icon:
                     party_sprite_made = True
                     continue
                 else:
-                    if output_name.__contains__("-"):
-                        if is_female_sprite and not os.path.isfile(os.path.join(sprite_dir.path, target_sprite)):
+                    if (output_name.startswith("silvally-")
+                            or output_name.startswith("arceus-")
+                            or output_name.startswith("florges-")
+                            or output_name.startswith("floette-")
+                            or output_name.startswith("flabebe-")
+                            or output_name.startswith("squawkabilly-")
+                            or output_name.startswith("genesect-")
+                            or output_name.startswith("deerling-")
+                            or output_name.startswith("pikachu-")
+                            or output_name.startswith("eevee-")):
+                        if is_female_sprite and not os.path.isfile(
+                                os.path.join(sprite_dir.path, target_sprite)):
                             continue
                         target_sprite = "../" + sprite
                     else:
@@ -75,6 +109,24 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
 
         target_palette = os.path.join(sprite_dir.path, "normal.pal")
 
+        if not is_icon and not is_female_sprite:
+            if output_name == "dusknoir-mega":
+                target_palette = os.path.join(sprite_dir.path, "megadusknoir.pal")
+            elif output_name == "roserade-mega":
+                target_palette = os.path.join(sprite_dir.path, "megaroserade.pal")
+            elif output_name == "empoleon-mega_d":
+                target_palette = os.path.join(sprite_dir.path, "megadnormal.pal")
+            elif output_name == "empoleon-mega_o":
+                target_palette = os.path.join(sprite_dir.path, "megaonormal.pal")
+            elif output_name == "torterra-mega":
+                target_palette = os.path.join(sprite_dir.path, "megatorterra.pal")
+            elif output_name == "infernape-mega":
+                target_palette = os.path.join(sprite_dir.path, "megainfernape.pal")
+            elif output_name == "luxray-mega":
+                target_palette = os.path.join(sprite_dir.path, "megaluxray.pal")
+            elif output_name == "slaking-mega":
+                target_palette = os.path.join(sprite_dir.path, "megaslaking.pal")
+
         if not os.path.isfile(target_palette):
             target_palette = os.path.join(sprite_dir.path, "..", "normal.pal")
 
@@ -82,7 +134,8 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
             continue
 
         if is_icon:
-            new_sprite = gba_image.remove_icon_background(os.path.join(sprite_dir.path, sprite))
+            new_sprite = gba_image.remove_icon_background(
+                os.path.join(sprite_dir.path, sprite))
         else:
             new_sprite = gba_image.swap_palette(
                 os.path.join(sprite_dir.path, target_sprite),
@@ -97,7 +150,8 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 new_sprite = new_sprite.resize((64, 128))
                 new_sprite.crop(
                     (0, 0, new_sprite.width, new_sprite.width)).save(
-                    os.path.join(output_dir, "party", f"{output_name}{"-f" if is_female_sprite else ""}.gif"),
+                    os.path.join(output_dir, "party",
+                                 f"{output_name}{"-f" if is_female_sprite else ""}.gif"),
                     "GIF", transparency=0, disposal=2,
                     save_all=True, optimize=False, loop=0, duration=100,
                     append_images=[
@@ -108,11 +162,30 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 _sprite_count += 1
                 continue
 
-        new_sprite.save(os.path.join(output_dir, "normal", f"{output_name}{"-f" if is_female_sprite else ""}.png"))
+        new_sprite.save(os.path.join(output_dir, "normal",
+                                     f"{output_name}{"-f" if is_female_sprite else ""}.png"))
         sprite_made = True
         _sprite_count += 1
 
         target_palette = os.path.join(sprite_dir.path, "shiny.pal")
+
+        if not is_icon and not is_female_sprite:
+            if output_name == "dusknoir-mega":
+                target_palette = os.path.join(sprite_dir.path, "megadusknoir.pal")
+            elif output_name == "roserade-mega":
+                target_palette = os.path.join(sprite_dir.path, "megaroserade.pal")
+            elif output_name == "empoleon-mega_d":
+                target_palette = os.path.join(sprite_dir.path, "megadshiny.pal")
+            elif output_name == "empoleon-mega_o":
+                target_palette = os.path.join(sprite_dir.path, "megashiny.pal")
+            elif output_name == "torterra-mega":
+                target_palette = os.path.join(sprite_dir.path, "megatorterra.pal")
+            elif output_name == "infernape-mega":
+                target_palette = os.path.join(sprite_dir.path, "megainfernape.pal")
+            elif output_name == "luxray-mega":
+                target_palette = os.path.join(sprite_dir.path, "megaluxray.pal")
+            elif output_name == "slaking-mega":
+                target_palette = os.path.join(sprite_dir.path, "megaslaking.pal")
 
         if not os.path.isfile(target_palette):
             target_palette = os.path.join(sprite_dir.path, "..", "shiny.pal")
@@ -130,8 +203,8 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
             new_sprite = new_sprite.crop(
                 (0, 0, new_sprite.width, new_sprite.width))
 
-
-        new_sprite.save(os.path.join(output_dir, "shiny", f"{output_name}{"-f" if is_female_sprite else ""}.png"))
+        new_sprite.save(os.path.join(output_dir, "shiny",
+                                     f"{output_name}{"-f" if is_female_sprite else ""}.png"))
         _sprite_count += 1
         shiny_sprite_made = True
 
@@ -143,8 +216,6 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
 
     if not shiny_sprite_made:
         print(f"\t\tWARNING: No shiny palette found for {output_name}")
-
-
 
 
 def _process_pokemon_sprites(pokemon_dir: str):
@@ -168,6 +239,7 @@ def _process_pokemon_sprites(pokemon_dir: str):
                                                output)
 
     print(f"\t\t{_sprite_count:n} pokemon sprites generated")
+
 
 def process():
     print("Processing Sprites")

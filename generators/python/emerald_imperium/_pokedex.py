@@ -1,5 +1,8 @@
+import collections
+
 import pokelink.proto.v0_7_1.pokedex_pb2 as pb_pokedex
 import pokelink.directories as directories
+import pokelink.translations as translations
 from google.protobuf import json_format
 
 from pokelink import strip_comments, game_strings
@@ -12,9 +15,10 @@ _dex = pb_pokedex.Pokedex()
 
 _dex.version = "0.7.1"
 
-_species_form_name = {}
-_dex_ids = {}
-_stats = {}
+_species_form_id = dict()
+_species_forms = dict()
+_dex_ids = dict()
+_stats = dict()
 
 _growth_indexes = {
     "GROWTH_MEDIUM_FAST": 0,
@@ -27,7 +31,7 @@ _growth_indexes = {
 
 
 def process_species_forms():
-    global _species_form_name
+    global _species_form_id
     print("\tProcessing Species and Forms")
     with open(os.path.join(directories.get_external_dir("emerald-imperium"),
                            "include", "constants", "species.h"), "r") as file:
@@ -54,10 +58,28 @@ def process_species_forms():
 
             internal_id = int(items[-1])
 
-            _species_form_name[internal_id] = species
+            _species_form_id[species] = internal_id
+
+            if not game_strings.has_species(
+                    species) and species != "NIDORAN_F" and species != "NIDORAN_M":
+                split = species.split("_")
+                mon = split[0]
+                form = str.join("_", split[1:])
+
+                if not _species_forms.__contains__(mon):
+                    _species_forms[mon] = dict()
+                    _species_forms[mon][form] = 0
+                else:
+                    _species_forms[mon][form] = len(_species_forms[mon])
+            else:
+                if not _species_forms.__contains__(species):
+                    _species_forms[species] = dict()
+                    _species_forms[species]["_"] = 0
+                else:
+                    _species_forms[species]["_"] = len(_species_forms[species])
 
         print(
-            f"\t\tFound {_species_form_name.__len__():n} species/form entries")
+            f"\t\tFound {_species_form_id.__len__():n} species/form entries")
 
 
 def process_national_dex_ids():
@@ -80,9 +102,9 @@ def process_national_dex_ids():
             if line.startswith("NATIONAL_DEX_NONE"):
                 continue
 
-            species = line.removeprefix("NATIONAL_DEX").removesuffix(",")
+            species = line.removeprefix("NATIONAL_DEX_").removesuffix(",")
 
-            _dex_ids[species] = dex_id
+            _dex_ids[dex_id] = species
             dex_id += 1
 
         print(f"\t\tFound {_dex_ids.__len__():n} dex ids")
@@ -178,33 +200,502 @@ def process_species_stats():
                 current_pokemon.genderRatio = poke_math.PERCENT_FEMALE(float(
                     value.removeprefix("PERCENT_FEMALE(").removesuffix(")")))
             elif line.startswith(".eggCycles"):
-                current_pokemon.hatchCycles = int(line.split(" ")[-1].removesuffix(","))
+                current_pokemon.hatchCycles = int(
+                    line.split(" ")[-1].removesuffix(","))
+            elif line.startswith(".friendship"):
+                value = line.split(" ")[-1].removesuffix(",")
+
+                if value == "STANDARD_FRIENDSHIP":
+                    current_pokemon.baseFriendship = 70
+                else:
+                    current_pokemon.baseFriendship = int(value)
             elif line.startswith(".growthRate"):
                 key = line.split(" ")[-1].removesuffix(",")
                 if not _growth_indexes.__contains__(key):
-                    print(f"ERROR Unable to read {current_name}'s growth rate. Recieved value: {key}")
+                    print(
+                        f"ERROR Unable to read {current_name}'s growth rate. Recieved value: {key}")
                     exit(2)
 
                 current_pokemon.growthRate = _growth_indexes[key]
             elif line.startswith(".abilities"):
-                abilities = line.removeprefix(".abilities = {").removesuffix("},").split(", ")
+                abilities = line.removeprefix(".abilities = {").removesuffix(
+                    "},").split(", ")
 
                 for ability in abilities:
                     ability = ability.strip()
                     if ability == "ABILITY_NONE":
                         current_pokemon.abilities.append("")
                         continue
-                    if not game_strings.has_ability(ability.removeprefix("ABILITY_")):
-                        current_pokemon.abilities.append(f"EmeraldImperium.Ability.{game_strings.clean_up(ability.removeprefix("ABILITY_"))}")
+                    if not game_strings.has_ability(
+                            ability.removeprefix("ABILITY_")):
+                        current_pokemon.abilities.append(
+                            f"EmeraldImperium.Ability.{game_strings.clean_up(ability.removeprefix("ABILITY_"))}")
                     else:
-                        current_pokemon.abilities.append(f"pokemon.ability.{game_strings.clean_up(ability.removeprefix("ABILITY_"))}")
+                        current_pokemon.abilities.append(
+                            f"pokemon.ability.{game_strings.clean_up(ability.removeprefix("ABILITY_"))}")
         else:
-            if line.endswith("] ="):
+            if line.endswith("] =") or line.endswith("]   ="):
                 current_name = line.removeprefix("[SPECIES_").removesuffix(
-                    "] =")
+                    "] =").removesuffix("]   =")
                 current_pokemon = pb_pokedex.Species()
                 reading = True
             continue
+
+    unown_stat = pb_pokedex.Species()
+    unown_stat.baseStats.hp = 48
+    unown_stat.baseStats.attack = 48
+    unown_stat.baseStats.defense = 48
+    unown_stat.baseStats.speed = 96
+    unown_stat.baseStats.specialAttack = 96
+    unown_stat.baseStats.specialDefense = 48
+    unown_stat.types.append("pokemon.type.psychic")
+    unown_stat.catchRate = 255
+    unown_stat.evYield.attack = 1
+    unown_stat.evYield.specialAttack = 1
+    unown_stat.genderRatio = 255
+    unown_stat.hatchCycles = 40
+    unown_stat.baseFriendship = 70
+    unown_stat.growthRate = 0
+    unown_stat.abilities.append("pokemon.ability.levitate")
+    unown_stat.abilities.append("")
+    unown_stat.abilities.append("pokemon.ability.simple")
+
+    _stats["UNOWN"] = unown_stat
+
+    for form in "B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z".split(
+            "|") + [
+                    "EXCLAMATION", "QUESTION"
+                ]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(unown_stat)
+        _stats[f"UNOWN_{form}"] = form_stat
+
+    mothim_stat = pb_pokedex.Species()
+    mothim_stat.baseStats.hp = 70
+    mothim_stat.baseStats.attack = 84
+    mothim_stat.baseStats.defense = 50
+    mothim_stat.baseStats.speed = 80
+    mothim_stat.baseStats.specialAttack = 94
+    mothim_stat.baseStats.specialDefense = 50
+    mothim_stat.types.append("pokemon.type.bug")
+    mothim_stat.types.append("pokemon.type.flying")
+    mothim_stat.catchRate = 45
+    mothim_stat.evYield.attack = 1
+    mothim_stat.evYield.specialAttack = 1
+    mothim_stat.genderRatio = 0
+    mothim_stat.hatchCycles = 15
+    mothim_stat.baseFriendship = 70
+    mothim_stat.growthRate = 0
+    mothim_stat.abilities.append("pokemon.ability.swarm")
+    mothim_stat.abilities.append("")
+    mothim_stat.abilities.append("pokemon.ability.tinted_lens")
+
+    for form in ["PLANT", "SANDY", "TRASH"]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(mothim_stat)
+        _stats["MOTHIM_" + form] = form_stat
+
+    arceus_stat = pb_pokedex.Species()
+    arceus_stat.baseStats.hp = 120
+    arceus_stat.baseStats.attack = 120
+    arceus_stat.baseStats.defense = 120
+    arceus_stat.baseStats.speed = 120
+    arceus_stat.baseStats.specialAttack = 120
+    arceus_stat.baseStats.specialDefense = 120
+    arceus_stat.catchRate = 43
+    arceus_stat.evYield.hp = 3
+    arceus_stat.genderRatio = 255
+    arceus_stat.hatchCycles = 120
+    arceus_stat.baseFriendship = 0
+    arceus_stat.growthRate = 5
+    arceus_stat.abilities.append("pokemon.ability.multitype")
+    arceus_stat.abilities.append("")
+    arceus_stat.abilities.append("")
+
+    for p_type in [
+        "NORMAL", "FIGHTING", "FLYING", "POISON", "GROUND", "ROCK", "BUG",
+        "GHOST", "STEEL", "FIRE", "WATER", "GRASS", "ELECTRIC", "PSYCHIC",
+        "ICE", "DRAGON", "DARK", "FAIRY"
+    ]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(arceus_stat)
+        form_stat.types.append("pokemon.type." + p_type.lower())
+        _stats["ARCEUS_" + p_type] = form_stat
+
+    genesect_stat = pb_pokedex.Species()
+    genesect_stat.baseStats.hp = 71
+    genesect_stat.baseStats.attack = 120
+    genesect_stat.baseStats.defense = 95
+    genesect_stat.baseStats.speed = 99
+    genesect_stat.baseStats.specialAttack = 120
+    genesect_stat.baseStats.specialDefense = 95
+    genesect_stat.types.append("pokemon.type.bug")
+    genesect_stat.types.append("pokemon.type.steel")
+    genesect_stat.catchRate = 3
+    genesect_stat.evYield.attack = 1
+    genesect_stat.evYield.speed = 1
+    genesect_stat.evYield.specialAttack = 1
+    genesect_stat.genderRatio = 255
+    genesect_stat.hatchCycles = 120
+    genesect_stat.baseFriendship = 0
+    genesect_stat.growthRate = 5
+    genesect_stat.abilities.append("pokemon.ability.download")
+    genesect_stat.abilities.append("")
+    genesect_stat.abilities.append("")
+
+    _stats["GENESECT"] = genesect_stat
+
+    for form in ["DOUSE", "SHOCK", "BURN", "CHILL"]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(genesect_stat)
+        _stats["GENESECT_" + form] = form_stat
+
+    scatterbug_stat = pb_pokedex.Species()
+    scatterbug_stat.baseStats.hp = 38
+    scatterbug_stat.baseStats.attack = 35
+    scatterbug_stat.baseStats.defense = 40
+    scatterbug_stat.baseStats.speed = 35
+    scatterbug_stat.baseStats.specialAttack = 27
+    scatterbug_stat.baseStats.specialDefense = 25
+    scatterbug_stat.types.append("pokemon.type.bug")
+    scatterbug_stat.catchRate = 255
+    scatterbug_stat.evYield.defense = 1
+    scatterbug_stat.genderRatio = poke_math.PERCENT_FEMALE(50)
+    scatterbug_stat.hatchCycles = 15
+    scatterbug_stat.baseFriendship = 70
+    scatterbug_stat.growthRate = 0
+    scatterbug_stat.abilities.append("pokemon.ability.shield_dust")
+    scatterbug_stat.abilities.append("pokemon.ability.compound_eyes")
+    scatterbug_stat.abilities.append("pokemon.ability.friend_guard")
+
+    spewpa_stat = pb_pokedex.Species()
+    spewpa_stat.baseStats.hp = 45
+    spewpa_stat.baseStats.attack = 22
+    spewpa_stat.baseStats.defense = 60
+    spewpa_stat.baseStats.speed = 29
+    spewpa_stat.baseStats.specialAttack = 27
+    spewpa_stat.baseStats.specialDefense = 30
+    spewpa_stat.types.append("pokemon.type.bug")
+    spewpa_stat.catchRate = 120
+    spewpa_stat.evYield.defense = 2
+    spewpa_stat.genderRatio = poke_math.PERCENT_FEMALE(50)
+    spewpa_stat.hatchCycles = 15
+    spewpa_stat.baseFriendship = 70
+    spewpa_stat.growthRate = 0
+    spewpa_stat.abilities.append("pokemon.ability.shed_skin")
+    spewpa_stat.abilities.append("")
+    spewpa_stat.abilities.append("pokemon.ability.friend_guard")
+
+    vivillon_stat = pb_pokedex.Species()
+    vivillon_stat.baseStats.hp = 80
+    vivillon_stat.baseStats.attack = 52
+    vivillon_stat.baseStats.defense = 50
+    vivillon_stat.baseStats.speed = 89
+    vivillon_stat.baseStats.specialAttack = 90
+    vivillon_stat.baseStats.specialDefense = 50
+    vivillon_stat.types.append("pokemon.type.bug")
+    vivillon_stat.types.append("pokemon.type.flying")
+    vivillon_stat.catchRate = 45
+    vivillon_stat.evYield.hp = 1
+    vivillon_stat.evYield.speed = 1
+    vivillon_stat.evYield.specialAttack = 1
+    vivillon_stat.genderRatio = poke_math.PERCENT_FEMALE(50)
+    vivillon_stat.hatchCycles = 15
+    vivillon_stat.baseFriendship = 70
+    vivillon_stat.growthRate = 0
+    vivillon_stat.abilities.append("pokemon.ability.shield_dust")
+    vivillon_stat.abilities.append("pokemon.ability.compound_eyes")
+    vivillon_stat.abilities.append("pokemon.ability.friend_guard")
+
+    for form in [
+        "ICY_SNOW", "POLAR", "TUNDRA", "CONTINENTAL", "GARDEN", "ELEGANT",
+        "MEADOW", "MODERN", "MARINE", "ARCHIPELAGO", "HIGH_PLAINS",
+        "SANDSTORM", "RIVER", "MONSOON", "SAVANNA", "SUN", "OCEAN",
+        "JUNGLE", "FANCY", "POKEBALL"
+    ]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(scatterbug_stat)
+        _stats["SCATTERBUG_" + form] = form_stat
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(spewpa_stat)
+        _stats["SPEWPA_" + form] = form_stat
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(vivillon_stat)
+        _stats["VIVILLON_" + form] = form_stat
+
+    flabebe_stat = pb_pokedex.Species()
+    flabebe_stat.baseStats.hp = 44
+    flabebe_stat.baseStats.attack = 38
+    flabebe_stat.baseStats.defense = 39
+    flabebe_stat.baseStats.speed = 42
+    flabebe_stat.baseStats.specialAttack = 61
+    flabebe_stat.baseStats.specialDefense = 79
+    flabebe_stat.types.append("pokemon.type.fairy")
+    flabebe_stat.catchRate = 255
+    flabebe_stat.evYield.specialDefense = 1
+    flabebe_stat.genderRatio = 254
+    flabebe_stat.hatchCycles = 20
+    flabebe_stat.baseFriendship = 70
+    flabebe_stat.growthRate = 0
+    flabebe_stat.abilities.append("pokemon.ability.natural_cure")
+    flabebe_stat.abilities.append("")
+    flabebe_stat.abilities.append("")
+
+    floette_stat = pb_pokedex.Species()
+    floette_stat.baseStats.hp = 54
+    floette_stat.baseStats.attack = 45
+    floette_stat.baseStats.defense = 47
+    floette_stat.baseStats.speed = 52
+    floette_stat.baseStats.specialAttack = 75
+    floette_stat.baseStats.specialDefense = 98
+    floette_stat.types.append("pokemon.type.fairy")
+    floette_stat.catchRate = 120
+    floette_stat.evYield.specialDefense = 2
+    floette_stat.genderRatio = 254
+    floette_stat.hatchCycles = 20
+    floette_stat.baseFriendship = 70
+    floette_stat.growthRate = 0
+    floette_stat.abilities.append("pokemon.ability.natural_cure")
+    floette_stat.abilities.append("")
+    floette_stat.abilities.append("")
+
+    florges_stat = pb_pokedex.Species()
+    florges_stat.baseStats.hp = 78
+    florges_stat.baseStats.attack = 65
+    florges_stat.baseStats.defense = 68
+    florges_stat.baseStats.speed = 75
+    florges_stat.baseStats.specialAttack = 112
+    florges_stat.baseStats.specialDefense = 154
+    florges_stat.types.append("pokemon.type.fairy")
+    florges_stat.catchRate = 45
+    florges_stat.evYield.specialDefense = 3
+    florges_stat.genderRatio = 254
+    florges_stat.hatchCycles = 20
+    florges_stat.baseFriendship = 70
+    florges_stat.growthRate = 0
+    florges_stat.abilities.append("pokemon.ability.natural_cure")
+    florges_stat.abilities.append("")
+    florges_stat.abilities.append("")
+
+    for form in ["RED", "YELLOW", "ORANGE", "BLUE", "WHITE"]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(flabebe_stat)
+        _stats["FLABEBE_" + form] = form_stat
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(floette_stat)
+        _stats["FLOETTE_" + form] = form_stat
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(florges_stat)
+        _stats["FLORGES_" + form] = form_stat
+
+    floette_eternal_stat = pb_pokedex.Species()
+    floette_eternal_stat.baseStats.hp = 74
+    floette_eternal_stat.baseStats.attack = 65
+    floette_eternal_stat.baseStats.defense = 67
+    floette_eternal_stat.baseStats.speed = 92
+    floette_eternal_stat.baseStats.specialAttack = 125
+    floette_eternal_stat.baseStats.specialDefense = 128
+    floette_eternal_stat.types.append("pokemon.type.fairy")
+    floette_eternal_stat.catchRate = 120
+    floette_eternal_stat.evYield.specialDefense = 2
+    floette_eternal_stat.genderRatio = 254
+    floette_eternal_stat.hatchCycles = 20
+    floette_eternal_stat.baseFriendship = 70
+    floette_eternal_stat.growthRate = 0
+    floette_eternal_stat.abilities.append("pokemon.ability.natural_cure")
+    floette_eternal_stat.abilities.append("")
+    floette_eternal_stat.abilities.append("")
+
+    _stats["FLOETTE_ETERNAL"] = floette_eternal_stat
+
+    furfrou_stat = pb_pokedex.Species()
+    furfrou_stat.baseStats.hp = 75
+    furfrou_stat.baseStats.attack = 90
+    furfrou_stat.baseStats.defense = 60
+    furfrou_stat.baseStats.speed = 102
+    furfrou_stat.baseStats.specialAttack = 65
+    furfrou_stat.baseStats.specialDefense = 90
+    furfrou_stat.types.append("pokemon.type.normal")
+    furfrou_stat.catchRate = 160
+    furfrou_stat.evYield.speed = 1
+    furfrou_stat.genderRatio = poke_math.PERCENT_FEMALE(50)
+    furfrou_stat.hatchCycles = 20
+    furfrou_stat.baseFriendship = 70
+    furfrou_stat.growthRate = 0
+    furfrou_stat.abilities.append("pokemon.ability.fur_coat")
+    furfrou_stat.abilities.append("")
+    furfrou_stat.abilities.append("")
+
+    for form in [
+        "NATURAL", "HEART", "STAR", "DIAMOND", "DEBUTANTE", "MATRON",
+        "DANDY", "LA_REINE", "KABUKI", "PHARAOH"
+    ]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(furfrou_stat)
+        _stats["FURFROU_" + form + (
+            "" if form == "NATURAL" else "_TRIM")] = form_stat
+
+    silvally_stat = pb_pokedex.Species()
+    silvally_stat.baseStats.hp = 100
+    silvally_stat.baseStats.attack = 100
+    silvally_stat.baseStats.defense = 100
+    silvally_stat.baseStats.speed = 100
+    silvally_stat.baseStats.specialAttack = 100
+    silvally_stat.baseStats.specialDefense = 100
+    silvally_stat.catchRate = 3
+    silvally_stat.evYield.hp = 3
+    silvally_stat.genderRatio = 255
+    silvally_stat.hatchCycles = 120
+    silvally_stat.baseFriendship = 0
+    silvally_stat.growthRate = 5
+    silvally_stat.abilities.append("pokemon.ability.rks_system")
+    silvally_stat.abilities.append("")
+    silvally_stat.abilities.append("")
+
+    for p_type in [
+        "NORMAL", "FIGHTING", "FLYING", "POISON", "GROUND", "ROCK", "BUG",
+        "GHOST", "STEEL", "FIRE", "WATER", "GRASS", "ELECTRIC", "PSYCHIC",
+        "ICE", "DRAGON", "DARK", "FAIRY"
+    ]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(silvally_stat)
+        form_stat.types.append("pokemon.type." + p_type.lower())
+        _stats["SILVALLY_" + p_type] = form_stat
+
+    minior_m_stat = pb_pokedex.Species()
+    minior_m_stat.baseStats.hp = 60
+    minior_m_stat.baseStats.attack = 60
+    minior_m_stat.baseStats.defense = 100
+    minior_m_stat.baseStats.speed = 60
+    minior_m_stat.baseStats.specialAttack = 60
+    minior_m_stat.baseStats.specialDefense = 100
+    minior_m_stat.types.append("pokemon.type.rock")
+    minior_m_stat.types.append("pokemon.type.flying")
+    minior_m_stat.catchRate = 30
+    minior_m_stat.evYield.defense = 1
+    minior_m_stat.evYield.specialDefense = 1
+    minior_m_stat.genderRatio = 255
+    minior_m_stat.hatchCycles = 25
+    minior_m_stat.baseFriendship = 70
+    minior_m_stat.growthRate = 3
+    minior_m_stat.abilities.append("pokemon.ability.shields_down")
+    minior_m_stat.abilities.append("")
+    minior_m_stat.abilities.append("")
+
+    minior_c_stat = pb_pokedex.Species()
+    minior_c_stat.baseStats.hp = 60
+    minior_c_stat.baseStats.attack = 100
+    minior_c_stat.baseStats.defense = 60
+    minior_c_stat.baseStats.speed = 120
+    minior_c_stat.baseStats.specialAttack = 100
+    minior_c_stat.baseStats.specialDefense = 60
+    minior_c_stat.types.append("pokemon.type.rock")
+    minior_c_stat.types.append("pokemon.type.flying")
+    minior_c_stat.catchRate = 30
+    minior_c_stat.evYield.defense = 1
+    minior_c_stat.evYield.specialDefense = 1
+    minior_c_stat.genderRatio = 255
+    minior_c_stat.hatchCycles = 25
+    minior_c_stat.baseFriendship = 70
+    minior_c_stat.growthRate = 3
+    minior_c_stat.abilities.append("pokemon.ability.shields_down")
+    minior_c_stat.abilities.append("")
+    minior_c_stat.abilities.append("")
+
+    for form in [
+        "RED", "ORANGE", "YELLOW", "GREEN", "BLUE", "INDIGO", "VIOLET"
+    ]:
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(minior_m_stat)
+        _stats["MINIOR_METEOR_" + form] = form_stat
+
+        form_stat = pb_pokedex.Species()
+        form_stat.CopyFrom(minior_c_stat)
+        _stats["SILVALLY_CORE_" + form] = form_stat
+
+    alcremie_stat = pb_pokedex.Species()
+    alcremie_stat.baseStats.hp = 65
+    alcremie_stat.baseStats.attack = 60
+    alcremie_stat.baseStats.defense = 75
+    alcremie_stat.baseStats.speed = 164
+    alcremie_stat.baseStats.specialAttack = 110
+    alcremie_stat.baseStats.specialDefense = 121
+    alcremie_stat.types.append("pokemon.type.fairy")
+    alcremie_stat.catchRate = 100
+    alcremie_stat.evYield.specialDefense = 1
+    alcremie_stat.genderRatio = 254
+    alcremie_stat.hatchCycles = 20
+    alcremie_stat.baseFriendship = 70
+    alcremie_stat.growthRate = 0
+    alcremie_stat.abilities.append("pokemon.ability.sweet_veil")
+    alcremie_stat.abilities.append("")
+    alcremie_stat.abilities.append("pokemon.ability.aroma_veil")
+
+    for form_sweet in [
+        "STRAWBERRY", "BERRY", "LOVE", "STAR", "CLOVER", "FLOWER", "RIBBON"
+    ]:
+        for form_cream in [
+            "VANILLA_CREAM", "RUBY_CREAM", "MATCHA_CREAM", "MINT_CREAM",
+            "LEMON_CREAM", "SALTED_CREAM", "RUBY_SWIRL", "CARAMEL_SWIRL",
+            "RAINBOW_SWIRL"
+        ]:
+            form_stat = pb_pokedex.Species()
+            form_stat.CopyFrom(alcremie_stat)
+            _stats[f"ALCREMIE_{form_sweet}_{form_cream}"] = form_stat
+
+    form_stat = pb_pokedex.Species()
+    form_stat.CopyFrom(alcremie_stat)
+    _stats[f"ALCREMIE_GMAX"] = form_stat
+
+    ogerpon_stat = pb_pokedex.Species()
+    ogerpon_stat.baseStats.hp = 80
+    ogerpon_stat.baseStats.attack = 120
+    ogerpon_stat.baseStats.defense = 84
+    ogerpon_stat.baseStats.speed = 110
+    ogerpon_stat.baseStats.specialAttack = 60
+    ogerpon_stat.baseStats.specialDefense = 96
+    ogerpon_stat.types.append("pokemon.type.grass")
+    ogerpon_stat.catchRate = 5
+    ogerpon_stat.evYield.attack = 3
+    ogerpon_stat.genderRatio = 254
+    ogerpon_stat.hatchCycles = 10
+    ogerpon_stat.baseFriendship = 70
+    ogerpon_stat.growthRate = 5
+
+    for tera in ["", "_TERA"]:
+        for form in ["TEAL", "WELLSPRING", "HEARTHFLAME", "CORNERSTONE"]:
+            form_stat = pb_pokedex.Species()
+            form_stat.CopyFrom(ogerpon_stat)
+
+            if form == "TEAL":
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_teal_mask" if tera == "_TERA" else "defiant"}")
+                form_stat.abilities.append("")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_teal_mask" if tera == "_TERA" else "defiant"}")
+            elif form == "WELLSPRING":
+                form_stat.types.append("pokemon.type.water")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_wellspring_mask" if tera == "_TERA" else "water_absorb"}")
+                form_stat.abilities.append("")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_wellspring_mask" if tera == "_TERA" else "water_absorb"}")
+            elif form == "HEARTHFLAME":
+                form_stat.types.append("pokemon.type.fire")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_hearthflame_mask" if tera == "_TERA" else "mold_breaker"}")
+                form_stat.abilities.append("")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_hearthflame_mask" if tera == "_TERA" else "mold_breaker"}")
+            elif form == "CORNERSTONE":
+                form_stat.types.append("pokemon.type.rock")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_cornerstone_mask" if tera == "_TERA" else "sturdy"}")
+                form_stat.abilities.append("")
+                form_stat.abilities.append(
+                    f"pokemon.ability.{"embody_aspect_cornerstone_mask" if tera == "_TERA" else "sturdy"}")
+
+            _stats[f"OGERPON_{form}{tera}"] = form_stat
 
 
 def process():
@@ -216,6 +707,150 @@ def process():
 
 def generate():
     print("Generating Pokedex")
+
+    sprite_dir = directories.get_output_dir("emerald_imperium/assets/pokemon")
+
+    for dexId in collections.OrderedDict(sorted(_dex_ids.items())):
+        game_id = _dex_ids[dexId]
+        species = game_id
+        species_id = game_id
+
+        forms = _species_forms[species]
+        first_form_key = next(iter(_species_forms[species]))
+        first_form: pb_pokedex.Species = _stats[
+            f"{species_id}{("" if first_form_key == "_" else f"_{first_form_key}")}"]
+        first_form_key = None if first_form_key == "_" else first_form_key
+
+        for form in forms:
+            form = None if form == "_" else form
+            form_id = form
+
+            stat_id = f"{species_id}{("" if form is None else f"_{form}")}"
+
+            if not _stats.__contains__(stat_id):
+                continue
+
+            stats: pb_pokedex.Species = _stats[stat_id]
+
+            if form is not None:
+                if form == "NORMAL":
+                    form = None
+                elif form == "M" and stats.genderRatio != 254 and stats.genderRatio != 255:
+                    form = "MALE"
+                elif form == "F" and stats.genderRatio != 0 and stats.genderRatio != 255:
+                    form = "FEMALE"
+                elif form == "RED_STRIPED":
+                    form = "RED"
+                elif form == "BLUE_STRIPED":
+                    form = "BLUE"
+                elif form == "WHITE_STRIPED":
+                    form = "WHITE"
+                elif form == "THREE" or form == "FOUR":
+                    form = "FAMILY_OF_" + form
+                elif form == "AMPED":
+                    form = "AMPED_FORM"
+                elif form == "50":
+                    form = "50%"
+                elif form.startswith("METEOR"):
+                    form = form.replace("METEOR", "M")
+                elif form.startswith("CORE"):
+                    form = form.replace("CORE", "C")
+                elif form.endswith("TRIM"):
+                    form = form.replace("_TRIM", "")
+                elif form == "TOTEM":
+                    form = "LARGE"
+                elif form == "ALOLA_TOTEM":
+                    form = "LARGE"
+                elif form == "TOTEM_DISGUISED":
+                    form = "LARGE"
+                elif form == "BUSTED_TOTEM":
+                    form = "LARGE_BUSTED"
+                elif form == "10_AURA_BREAK" or form == "10_POWER_CONSTRUCT" or form == "50_POWER_CONSTRUCT":
+                    form = form[:2] + "%"
+                elif form == "NOICE":
+                    form = "NOICE_FACE"
+                elif form == "GALAR_STANDARD":
+                    form = "GALAR"
+                elif species == "TAUROS":
+                    form = form.removeprefix("PALDEA_")
+                elif form == "SPIKY_EARED":
+                    form = "SPIKY"
+                elif form == "GMAX":
+                    form = "GIGANTAMAX"
+                elif form == "STARTER":
+                    form = "PARTNER"
+                elif form == "POKEBALL":
+                    form = "POKé_BALL".upper()
+                elif form == "DUSK_MANE":
+                    form = "DUSK"
+                elif form == "DAWN_WINGS":
+                    form = "DAWN"
+            else:
+                if species == "UNOWN":
+                    form = "A"
+
+            stats.id = dexId
+
+            file_form_id = f"{game_strings.clean_up(species_id)}{"" if form_id is None else f"-{game_strings.clean_up(form_id)}"}"
+            file_id = f"{game_strings.clean_up(species_id)}"
+
+            if os.path.isfile(os.path.join(sprite_dir, "party", f"{file_form_id}.gif")):
+                stats.sprites.party = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_form_id}.gif"
+            elif os.path.isfile(os.path.join(sprite_dir, "party", f"{file_id}.gif")):
+                stats.sprites.party = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_id}.gif"
+            else:
+                print(f"\tWARNING: Not able to find a party sprite for {file_form_id}")
+
+            if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}.png")):
+                stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}.png"
+            elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}.png")):
+                stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}.png"
+            else:
+                print(f"\tWARNING: Not able to find a normal sprite for {file_form_id}")
+
+            if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}.png")):
+                stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}.png"
+            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}.png")):
+                stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}.png"
+            else:
+                print(f"\tWARNING: Not able to find a shiny sprite for {file_form_id}")
+
+            if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}-f.png")):
+                stats.sprites.female = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}-f.png"
+
+            if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}-f.png")):
+                stats.sprites.femaleShiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}-f.png"
+
+            stats.name = f"pokemon.species.{game_strings.clean_up(species)}"
+
+            stats.gameId = _species_form_id[stat_id]
+
+            if form is not None:
+                if game_strings.has_form(form):
+                    stats.formName = "pokemon.form." + game_strings.clean_up(
+                        form)
+                else:
+                    split = form.split("_")
+                    first = True
+                    form_translation = ""
+                    for f in split:
+                        if first:
+                            first = False
+                            form_translation = f[0] + f[1:].lower()
+                            continue
+
+                        form_translation += " " + f[0] + f[1:].lower()
+
+                    translations.add_translation(
+                        f"EmeraldImperium.Form.{game_strings.clean_up(form_translation)}",
+                        form_translation)
+                    stats.formName = f"EmeraldImperium.Form.{game_strings.clean_up(form_translation)}"
+
+            if first_form_key != form_id:
+                stats.form = forms[form_id]
+                stats.ClearField("id")
+                first_form.forms.append(stats)
+        _dex.entries.append(first_form)
 
     write_file(
         os.path.join(directories.get_output_dir("emerald_imperium", True),
