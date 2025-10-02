@@ -70,7 +70,7 @@ def process():
 
                 _items.append(_items_prefix + game_strings.clean_up(item))
             else:
-                _items.append("pokemon.item.gen9." + game_strings.clean_up(item))
+                _items.append("pokemon.item." + game_strings.clean_up(item))
 
 def generate():
     print("Generating Items")

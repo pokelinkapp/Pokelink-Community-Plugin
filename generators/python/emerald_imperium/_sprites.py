@@ -85,8 +85,11 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
             if os.path.isfile(
                     os.path.join(sprite_dir.path, "..", target_sprite)):
                 if is_icon:
-                    party_sprite_made = True
-                    continue
+                    if output_name == "alcremie-strawberry_vanilla_cream":
+                        target_sprite = "../" + sprite
+                    else:
+                        party_sprite_made = True
+                        continue
                 else:
                     if (output_name.startswith("silvally-")
                             or output_name.startswith("arceus-")
@@ -112,23 +115,36 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
 
         if not is_icon and not is_female_sprite:
             if output_name == "dusknoir-mega":
-                target_palette = os.path.join(sprite_dir.path, "megadusknoir.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megadusknoir.pal")
             elif output_name == "roserade-mega":
-                target_palette = os.path.join(sprite_dir.path, "megaroserade.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megaroserade.pal")
             elif output_name == "empoleon-mega_d":
-                target_palette = os.path.join(sprite_dir.path, "megadnormal.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megadnormal.pal")
             elif output_name == "empoleon-mega_o":
-                target_palette = os.path.join(sprite_dir.path, "megaonormal.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megaonormal.pal")
             elif output_name == "torterra-mega":
-                target_palette = os.path.join(sprite_dir.path, "megatorterra.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megatorterra.pal")
             elif output_name == "infernape-mega":
-                target_palette = os.path.join(sprite_dir.path, "megainfernape.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megainfernapenormal.pal")
             elif output_name == "luxray-mega":
                 target_palette = os.path.join(sprite_dir.path, "megaluxray.pal")
             elif output_name == "slaking-mega":
-                target_palette = os.path.join(sprite_dir.path, "megaslaking.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megaslaking.pal")
             elif output_name == "dialga-primal":
-                target_palette = os.path.join(sprite_dir.path, "dialgaprimal.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "dialgaprimal.pal")
+            elif output_name == "palkia-primal":
+                target_palette = os.path.join(sprite_dir.path,
+                                              "palkiaprimal.pal")
+            elif output_name.startswith("alcremie-") and not output_name.endswith("gmax"):
+                target_palette = os.path.join(sprite_dir.path, (output_name.removeprefix("alcremie-") if not output_name.endswith("vanilla_cream") else f"{sprite_dir.name}_default") + ".pal")
 
         if not os.path.isfile(target_palette):
             target_palette = os.path.join(sprite_dir.path, "..", "normal.pal")
@@ -138,7 +154,7 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
 
         if is_icon:
             new_sprite = gba_image.remove_icon_background(
-                os.path.join(sprite_dir.path, sprite))
+                os.path.join(sprite_dir.path, target_sprite))
         else:
             new_sprite = gba_image.swap_palette(
                 os.path.join(sprite_dir.path, target_sprite),
@@ -154,7 +170,7 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 new_sprite.crop(
                     (0, 0, new_sprite.width, new_sprite.width)).save(
                     os.path.join(output_dir, "party",
-                                 f"{output_name}{"-f" if is_female_sprite else ""}.gif"),
+                                 f"{output_name if output_name != "alcremie-strawberry_vanilla_cream" else "alcremie"}{"-f" if is_female_sprite else ""}.gif"),
                     "GIF", transparency=0, disposal=2,
                     save_all=True, optimize=False, loop=0, duration=100,
                     append_images=[
@@ -174,23 +190,34 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
 
         if not is_icon and not is_female_sprite:
             if output_name == "dusknoir-mega":
-                target_palette = os.path.join(sprite_dir.path, "megadusknoir.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megadusknoir.pal")
             elif output_name == "roserade-mega":
-                target_palette = os.path.join(sprite_dir.path, "megaroserade.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megaroserade.pal")
             elif output_name == "empoleon-mega_d":
                 target_palette = os.path.join(sprite_dir.path, "megadshiny.pal")
             elif output_name == "empoleon-mega_o":
-                target_palette = os.path.join(sprite_dir.path, "megashiny.pal")
+                target_palette = os.path.join(sprite_dir.path, "megaoshiny.pal")
             elif output_name == "torterra-mega":
-                target_palette = os.path.join(sprite_dir.path, "megatorterra.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megatorterra.pal")
             elif output_name == "infernape-mega":
-                target_palette = os.path.join(sprite_dir.path, "megainfernape.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megainfernapeshiny.pal")
             elif output_name == "luxray-mega":
                 target_palette = os.path.join(sprite_dir.path, "megaluxray.pal")
             elif output_name == "slaking-mega":
-                target_palette = os.path.join(sprite_dir.path, "megaslaking.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "megaslaking.pal")
             elif output_name == "dialga-primal":
-                target_palette = os.path.join(sprite_dir.path, "dialgaprimal.pal")
+                target_palette = os.path.join(sprite_dir.path,
+                                              "dialgaprimal.pal")
+            elif output_name == "palkia-primal":
+                target_palette = os.path.join(sprite_dir.path,
+                                              "palkiaprimal.pal")
+            elif output_name.startswith("alcremie-") and not output_name.endswith("gmax"):
+                target_palette = os.path.join(sprite_dir.path, f"{sprite_dir.name}_shiny.pal")
 
         if not os.path.isfile(target_palette):
             target_palette = os.path.join(sprite_dir.path, "..", "shiny.pal")
@@ -236,19 +263,37 @@ def _process_pokemon_sprites(pokemon_dir: str):
         if not p_dir.is_dir():
             continue
 
-        _process_pokemon_sprite_images(p_dir, p_dir.name, output)
+        if p_dir.name != "alcremie":
+            _process_pokemon_sprite_images(p_dir, p_dir.name, output)
 
         for f in os.scandir(p_dir.path):
             if f.is_dir():
                 if p_dir.name == "minior" and f.name == "core":
                     for c in os.scandir(f.path):
                         if c.is_dir():
-                            _process_pokemon_sprite_images(c, f"{p_dir.name}-{f.name}_{c.name}",
+                            _process_pokemon_sprite_images(c,
+                                                           f"{p_dir.name}-{f.name}_{c.name}",
+                                                           output)
+                if p_dir.name == "alcremie":
+                    if f.name in [
+                        "berry", "clover", "flower", "love", "ribbon", "star",
+                        "strawberry"
+                    ]:
+                        for cream in [
+                            "vanilla_cream", "caramel_swirl", "lemon_cream",
+                            "matcha_cream", "mint_cream", "rainbow_swirl",
+                            "ruby_cream", "ruby_swirl", "salted_cream"
+                        ]:
+                            _process_pokemon_sprite_images(f,
+                                                           f"{p_dir.name}-{f.name}_{cream}",
+                                                           output)
+                    elif f.name == "gmax":
+                        _process_pokemon_sprite_images(f,
+                                                       f"{p_dir.name}-{f.name}",
                                                        output)
                 else:
                     _process_pokemon_sprite_images(f, f"{p_dir.name}-{f.name}",
                                                    output)
-
 
     print(f"\t\t{_sprite_count:n} pokemon sprites generated")
 

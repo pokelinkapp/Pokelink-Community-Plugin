@@ -786,6 +786,15 @@ def generate():
                     form = "DUSK"
                 elif form == "DAWN_WINGS":
                     form = "DAWN"
+                elif species == "KELDEO" and form == "ORDINARY":
+                    form = None
+                elif species == "DARMANITAN":
+                    if form == "STANDARD":
+                        form = None
+                elif species == "EISCUE" and form == "ICE":
+                    form = None
+                elif form == "HERO":
+                    form = None
             else:
                 if species == "UNOWN":
                     form = "A"
@@ -797,6 +806,8 @@ def generate():
 
             if os.path.isfile(os.path.join(sprite_dir, "party", f"{file_form_id}.gif")):
                 stats.sprites.party = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_form_id}.gif"
+            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}-gmax.gif")) and species != "EEVEE":
+                stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_id}-gmax.gif"
             elif os.path.isfile(os.path.join(sprite_dir, "party", f"{file_id}.gif")):
                 stats.sprites.party = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_id}.gif"
             else:
@@ -804,7 +815,7 @@ def generate():
 
             if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}.png")):
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}.png"
-            elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}-gmax.png")):
+            elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}-gmax.png")) and species != "EEVEE":
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}-gmax.png"
             elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}.png")):
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}.png"
@@ -813,7 +824,7 @@ def generate():
 
             if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}.png"
-            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}-gmax.png")):
+            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}-gmax.png")) and species != "EEVEE":
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}-gmax.png"
             elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}.png"
