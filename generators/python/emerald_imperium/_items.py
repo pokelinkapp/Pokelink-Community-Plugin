@@ -20,6 +20,8 @@ def process():
                            "include", "constants", "items.h"), "r") as file:
         item_lines = [strip_comments(line) for line in file]
 
+        max_value = 0
+
         for line in item_lines:
             if not line:
                 continue
@@ -27,24 +29,29 @@ def process():
             if line.startswith("#define ITEMS_COUNT"):
                 break
 
-            if not line.startswith("#define ITEM_") or line.endswith("0xFFFF"):
+            if not line.startswith("#define ITEM_") or line.startswith("#define ITEM_NONE") or line.endswith("0xFFFF"):
                 continue
 
 
             items = line.replace("ITEM_", "", 1).split(" ")
 
             if items[2].startswith("ITEM_"):
-                item_strings[items[1]] = item_strings[items[2]]
                 continue
 
             index = int(items[2])
 
-            item_strings[items[1]] = index
+            item_strings[index] = items[1]
+
+            if index > max_value:
+                max_value = index
 
         ordered_index = collections.OrderedDict(sorted(item_strings.items()))
 
-        for index in ordered_index:
-            item = index
+        for index in range(max_value):
+            if not ordered_index.__contains__(index):
+                _items.append(None)
+                continue
+            item = ordered_index[index]
 
             split = item.split("_")
 
@@ -63,7 +70,7 @@ def process():
 
                 _items.append(_items_prefix + game_strings.clean_up(item))
             else:
-                _items.append("pokemon.item." + game_strings.clean_up(item))
+                _items.append("pokemon.item.gen9." + game_strings.clean_up(item))
 
 def generate():
     print("Generating Items")

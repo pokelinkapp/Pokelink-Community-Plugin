@@ -26,6 +26,7 @@
         "auto": "pokelink-community:/emerald_imperium/emeraldImperium.dex",
         "manual": "pokelink-community:/emerald_imperium/emeraldImperium.dex"
     },
+    "moves": "pokelink-community:/emerald_imperium/emeraldImperium.moves",
     "delayEggHatch": true,
     "typeChart": "pokelink-community:/emerald_imperium/emeraldImperium.typeChart",
     "hatchMultiplier": 256,

@@ -62,6 +62,15 @@ def _load_strings():
             gs["abilities"] = ab
             gs["clean_abilities"] = [clean_up(clean) for clean in ab]
 
+        with open(os.path.join(other, "text_Moves_" + lang_file + ".txt"),
+                  "r") as abilities:
+            ab = []
+            for line in abilities:
+                if line != "":
+                    ab.append(line.strip())
+            gs["moves"] = ab
+            gs["clean_moves"] = [clean_up(clean) for clean in ab]
+
         with open(os.path.join(items_dir, "text_Items_" + lang_file + ".txt"),
                   "r") as items:
             i = []
@@ -124,6 +133,18 @@ def has_ability(ability: str, lang: str = "en") -> bool:
     return _game_strings[lang]["abilities"].__contains__(ability) or \
         _game_strings[lang]["clean_abilities"].__contains__(clean_up(ability))
 
+def has_move(move: str, lang: str = "en") -> bool:
+    global _game_strings
+
+    if not _game_strings.__contains__(lang):
+        return False
+
+    if not _game_strings[lang].__contains__("moves"):
+        return False
+
+    return _game_strings[lang]["moves"].__contains__(move) or \
+        _game_strings[lang]["clean_moves"].__contains__(clean_up(move))
+
 
 def clean_up(input: str) -> str:
     output = input.lower()
@@ -134,7 +155,7 @@ def clean_up(input: str) -> str:
     output = output.replace("’", "").replace("'", "").replace("é", "e").replace(
         ".", "").replace(" ", "_").replace("-", "_").replace("\u2640",
                                                              "F").replace(
-        "\u2642", "M").replace("[", "").replace("]", "").replace(":", "_")
+        "\u2642", "M").replace("[", "").replace("]", "")
 
     while output.__contains__("__"):
         output = output.replace("__", "_")

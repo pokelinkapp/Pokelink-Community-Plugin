@@ -6,11 +6,13 @@ import emerald_imperium._abilities as abilities
 import emerald_imperium._items as items
 import emerald_imperium._pokedex as pokedex
 import emerald_imperium._sprites as sprites
+import emerald_imperium._moves as moves
 
 def _process():
     sprites.process()
     abilities.process()
     items.process()
+    moves.process()
     pokedex.process()
 
 def generate():
@@ -20,6 +22,7 @@ def generate():
     exp_data.generate()
     abilities.generate()
     items.generate()
+    moves.generate()
     pokedex.generate()
 
     translations.write_translations(directories.get_output_dir("emerald_imperium/translations", True))

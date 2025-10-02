@@ -682,8 +682,8 @@
           "name": "pokemon.species.butterfree",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/butterfree.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/butterfree.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/butterfree.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/butterfree-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/butterfree-gmax.png"
           },
           "gameId": 1497,
           "form": 1,
@@ -3960,8 +3960,8 @@
           "name": "pokemon.species.machamp",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/machamp.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/machamp.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/machamp.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/machamp-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/machamp-gmax.png"
           },
           "gameId": 1500,
           "form": 1,
@@ -5542,8 +5542,8 @@
           "name": "pokemon.species.kingler",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/kingler.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/kingler.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/kingler.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/kingler-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/kingler-gmax.png"
           },
           "gameId": 1502,
           "form": 1,
@@ -7115,8 +7115,8 @@
           "name": "pokemon.species.lapras",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/lapras.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/lapras.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/lapras.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/lapras-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/lapras-gmax.png"
           },
           "gameId": 1503,
           "form": 1,
@@ -7221,8 +7221,8 @@
           "name": "pokemon.species.eevee",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/eevee.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/eevee.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/eevee.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/eevee-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/eevee-gmax.png"
           },
           "gameId": 1488,
           "form": 1,
@@ -7666,8 +7666,8 @@
           "name": "pokemon.species.snorlax",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/snorlax.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/snorlax.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/snorlax.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/snorlax-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/snorlax-gmax.png"
           },
           "gameId": 1505,
           "form": 1,
@@ -10057,9 +10057,7 @@
       "sprites": {
         "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/unown.gif",
         "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/unown.png",
-        "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/unown.png",
-        "female": "pokelink-community:/emerald_imperium/assets/pokemon/normal/unown-f.png",
-        "femaleShiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/unown-f.png"
+        "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/unown.png"
       },
       "gameId": 201,
       "formName": "EmeraldImperium.Form.a",
@@ -27408,8 +27406,8 @@
           "name": "pokemon.species.garbodor",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/garbodor.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/garbodor.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/garbodor.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/garbodor-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/garbodor-gmax.png"
           },
           "gameId": 1506,
           "form": 1,
@@ -40029,6 +40027,265 @@
             "pokemon.type.flying"
           ],
           "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_red.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_red.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_red.png"
+          },
+          "gameId": 1199,
+          "form": 7,
+          "formName": "pokemon.form.c_red",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_orange.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_orange.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_orange.png"
+          },
+          "gameId": 1200,
+          "form": 8,
+          "formName": "pokemon.form.c_orange",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_yellow.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_yellow.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_yellow.png"
+          },
+          "gameId": 1201,
+          "form": 9,
+          "formName": "pokemon.form.c_yellow",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_green.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_green.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_green.png"
+          },
+          "gameId": 1202,
+          "form": 10,
+          "formName": "pokemon.form.c_green",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_blue.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_blue.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_blue.png"
+          },
+          "gameId": 1203,
+          "form": 11,
+          "formName": "pokemon.form.c_blue",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_indigo.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_indigo.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_indigo.png"
+          },
+          "gameId": 1204,
+          "form": 12,
+          "formName": "pokemon.form.c_indigo",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
+        },
+        {
+          "name": "pokemon.species.minior",
+          "sprites": {
+            "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/minior-core_violet.gif",
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/minior-core_violet.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/minior-core_violet.png"
+          },
+          "gameId": 1205,
+          "form": 13,
+          "formName": "pokemon.form.c_violet",
+          "baseStats": {
+            "hp": 60,
+            "atk": 100,
+            "def": 60,
+            "spAtk": 100,
+            "spDef": 60,
+            "spd": 120
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1,
+            "spDef": 1
+          },
+          "abilities": [
+            "pokemon.ability.shields_down",
+            "",
+            ""
+          ],
+          "hatchCycles": 25,
+          "genderRatio": 255,
+          "catchRate": 30,
+          "types": [
+            "pokemon.type.rock",
+            "pokemon.type.flying"
+          ],
+          "growthRate": 3
         }
       ]
     },
@@ -42309,8 +42566,8 @@
           "name": "pokemon.species.orbeetle",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/orbeetle.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/orbeetle.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/orbeetle.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/orbeetle-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/orbeetle-gmax.png"
           },
           "gameId": 1512,
           "form": 1,
@@ -42613,8 +42870,8 @@
           "name": "pokemon.species.drednaw",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/drednaw.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/drednaw.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/drednaw.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/drednaw-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/drednaw-gmax.png"
           },
           "gameId": 1513,
           "form": 1,
@@ -42822,8 +43079,8 @@
           "name": "pokemon.species.coalossal",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/coalossal.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/coalossal.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/coalossal.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/coalossal-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/coalossal-gmax.png"
           },
           "gameId": 1514,
           "form": 1,
@@ -42930,8 +43187,8 @@
           "name": "pokemon.species.flapple",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/flapple.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/flapple.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/flapple.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/flapple-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/flapple-gmax.png"
           },
           "gameId": 1515,
           "form": 1,
@@ -43003,8 +43260,8 @@
           "name": "pokemon.species.appletun",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/appletun.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/appletun.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/appletun.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/appletun-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/appletun-gmax.png"
           },
           "gameId": 1516,
           "form": 1,
@@ -43107,8 +43364,8 @@
           "name": "pokemon.species.sandaconda",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/sandaconda.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/sandaconda.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/sandaconda.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/sandaconda-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/sandaconda-gmax.png"
           },
           "gameId": 1517,
           "form": 1,
@@ -43354,8 +43611,8 @@
       "name": "pokemon.species.toxtricity",
       "sprites": {
         "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/toxtricity.gif",
-        "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/toxtricity.png",
-        "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/toxtricity.png"
+        "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/toxtricity-gmax.png",
+        "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/toxtricity-gmax.png"
       },
       "gameId": 849,
       "formName": "pokemon.form.amped_form",
@@ -43425,8 +43682,8 @@
           "name": "pokemon.species.toxtricity",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/toxtricity.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/toxtricity.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/toxtricity.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/toxtricity-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/toxtricity-gmax.png"
           },
           "gameId": 1518,
           "form": 2,
@@ -43531,8 +43788,8 @@
           "name": "pokemon.species.centiskorch",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/centiskorch.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/centiskorch.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/centiskorch.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/centiskorch-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/centiskorch-gmax.png"
           },
           "gameId": 1519,
           "form": 1,
@@ -44021,8 +44278,8 @@
           "name": "pokemon.species.grimmsnarl",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/grimmsnarl.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/grimmsnarl.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/grimmsnarl.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/grimmsnarl-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/grimmsnarl-gmax.png"
           },
           "gameId": 1521,
           "form": 1,
@@ -44294,8 +44551,8 @@
       "name": "pokemon.species.alcremie",
       "sprites": {
         "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-        "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-        "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+        "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+        "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
       },
       "gameId": 869,
       "formName": "EmeraldImperium.Form.strawberry_vanilla_cream",
@@ -44327,8 +44584,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1216,
           "form": 1,
@@ -44361,8 +44618,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1217,
           "form": 2,
@@ -44395,8 +44652,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1218,
           "form": 3,
@@ -44429,8 +44686,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1219,
           "form": 4,
@@ -44463,8 +44720,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1220,
           "form": 5,
@@ -44497,8 +44754,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1221,
           "form": 6,
@@ -44531,8 +44788,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1222,
           "form": 7,
@@ -44565,8 +44822,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1223,
           "form": 8,
@@ -44599,8 +44856,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1235,
           "form": 9,
@@ -44633,8 +44890,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1236,
           "form": 10,
@@ -44667,8 +44924,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1237,
           "form": 11,
@@ -44701,8 +44958,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1238,
           "form": 12,
@@ -44735,8 +44992,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1239,
           "form": 13,
@@ -44769,8 +45026,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1240,
           "form": 14,
@@ -44803,8 +45060,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1241,
           "form": 15,
@@ -44837,8 +45094,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1242,
           "form": 16,
@@ -44871,8 +45128,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1243,
           "form": 17,
@@ -44905,8 +45162,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1244,
           "form": 18,
@@ -44939,8 +45196,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1245,
           "form": 19,
@@ -44973,8 +45230,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1246,
           "form": 20,
@@ -45007,8 +45264,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1247,
           "form": 21,
@@ -45041,8 +45298,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1248,
           "form": 22,
@@ -45075,8 +45332,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1249,
           "form": 23,
@@ -45109,8 +45366,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1250,
           "form": 24,
@@ -45143,8 +45400,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1251,
           "form": 25,
@@ -45177,8 +45434,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1252,
           "form": 26,
@@ -45211,8 +45468,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1253,
           "form": 27,
@@ -45245,8 +45502,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1254,
           "form": 28,
@@ -45279,8 +45536,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1255,
           "form": 29,
@@ -45313,8 +45570,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1256,
           "form": 30,
@@ -45347,8 +45604,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1257,
           "form": 31,
@@ -45381,8 +45638,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1258,
           "form": 32,
@@ -45415,8 +45672,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1259,
           "form": 33,
@@ -45449,8 +45706,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1260,
           "form": 34,
@@ -45483,8 +45740,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1261,
           "form": 35,
@@ -45517,8 +45774,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1262,
           "form": 36,
@@ -45551,8 +45808,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1263,
           "form": 37,
@@ -45585,8 +45842,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1264,
           "form": 38,
@@ -45619,8 +45876,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1265,
           "form": 39,
@@ -45653,8 +45910,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1266,
           "form": 40,
@@ -45687,8 +45944,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1267,
           "form": 41,
@@ -45721,8 +45978,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1268,
           "form": 42,
@@ -45755,8 +46012,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1269,
           "form": 43,
@@ -45789,8 +46046,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1270,
           "form": 44,
@@ -45823,8 +46080,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1271,
           "form": 45,
@@ -45857,8 +46114,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1272,
           "form": 46,
@@ -45891,8 +46148,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1273,
           "form": 47,
@@ -45925,8 +46182,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1274,
           "form": 48,
@@ -45959,8 +46216,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1275,
           "form": 49,
@@ -45993,8 +46250,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1276,
           "form": 50,
@@ -46027,8 +46284,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1277,
           "form": 51,
@@ -46061,8 +46318,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1278,
           "form": 52,
@@ -46095,8 +46352,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1279,
           "form": 53,
@@ -46129,8 +46386,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1280,
           "form": 54,
@@ -46163,8 +46420,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1281,
           "form": 55,
@@ -46197,8 +46454,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1282,
           "form": 56,
@@ -46231,8 +46488,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1283,
           "form": 57,
@@ -46265,8 +46522,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1284,
           "form": 58,
@@ -46299,8 +46556,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1285,
           "form": 59,
@@ -46333,8 +46590,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1286,
           "form": 60,
@@ -46367,8 +46624,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1287,
           "form": 61,
@@ -46401,8 +46658,8 @@
           "name": "pokemon.species.alcremie",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/alcremie.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/alcremie-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/alcremie-gmax.png"
           },
           "gameId": 1288,
           "form": 62,
@@ -46926,8 +47183,8 @@
           "name": "pokemon.species.copperajah",
           "sprites": {
             "party": "pokelink-community:/emerald_imperium/assets/pokemon/party/copperajah.gif",
-            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/copperajah.png",
-            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/copperajah.png"
+            "normal": "pokelink-community:/emerald_imperium/assets/pokemon/normal/copperajah-gmax.png",
+            "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/copperajah-gmax.png"
           },
           "gameId": 1523,
           "form": 1,

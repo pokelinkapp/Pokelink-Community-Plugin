@@ -61,7 +61,7 @@ def process_species_forms():
             _species_form_id[species] = internal_id
 
             if not game_strings.has_species(
-                    species) and species != "NIDORAN_F" and species != "NIDORAN_M":
+                    species) and species != "NIDORAN_F" and species != "NIDORAN_M" and species != "TYPE_NULL":
                 split = species.split("_")
                 mon = split[0]
                 form = str.join("_", split[1:])
@@ -611,7 +611,7 @@ def process_species_stats():
 
         form_stat = pb_pokedex.Species()
         form_stat.CopyFrom(minior_c_stat)
-        _stats["SILVALLY_CORE_" + form] = form_stat
+        _stats["MINIOR_CORE_" + form] = form_stat
 
     alcremie_stat = pb_pokedex.Species()
     alcremie_stat.baseStats.hp = 65
@@ -728,6 +728,7 @@ def generate():
             stat_id = f"{species_id}{("" if form is None else f"_{form}")}"
 
             if not _stats.__contains__(stat_id):
+                print(f"\tWARNING: Missing stats for {stat_id}")
                 continue
 
             stats: pb_pokedex.Species = _stats[stat_id]
@@ -803,6 +804,8 @@ def generate():
 
             if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}.png")):
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}.png"
+            elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}-gmax.png")):
+                stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}-gmax.png"
             elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}.png")):
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}.png"
             else:
@@ -810,15 +813,17 @@ def generate():
 
             if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}.png"
+            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}-gmax.png")):
+                stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}-gmax.png"
             elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}.png"
             else:
                 print(f"\tWARNING: Not able to find a shiny sprite for {file_form_id}")
 
-            if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}-f.png")):
+            if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}-f.png")) and stats.genderRatio != 0 and stats.genderRatio != 255:
                 stats.sprites.female = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}-f.png"
 
-            if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}-f.png")):
+            if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}-f.png")) and stats.genderRatio != 0 and stats.genderRatio != 255:
                 stats.sprites.femaleShiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}-f.png"
 
             stats.name = f"pokemon.species.{game_strings.clean_up(species)}"

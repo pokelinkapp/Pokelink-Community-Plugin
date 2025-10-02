@@ -97,7 +97,8 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                             or output_name.startswith("genesect-")
                             or output_name.startswith("deerling-")
                             or output_name.startswith("pikachu-")
-                            or output_name.startswith("eevee-")):
+                            or output_name.startswith("eevee-")
+                            or output_name.startswith("minior-core_")):
                         if is_female_sprite and not os.path.isfile(
                                 os.path.join(sprite_dir.path, target_sprite)):
                             continue
@@ -126,6 +127,8 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 target_palette = os.path.join(sprite_dir.path, "megaluxray.pal")
             elif output_name == "slaking-mega":
                 target_palette = os.path.join(sprite_dir.path, "megaslaking.pal")
+            elif output_name == "dialga-primal":
+                target_palette = os.path.join(sprite_dir.path, "dialgaprimal.pal")
 
         if not os.path.isfile(target_palette):
             target_palette = os.path.join(sprite_dir.path, "..", "normal.pal")
@@ -186,6 +189,8 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 target_palette = os.path.join(sprite_dir.path, "megaluxray.pal")
             elif output_name == "slaking-mega":
                 target_palette = os.path.join(sprite_dir.path, "megaslaking.pal")
+            elif output_name == "dialga-primal":
+                target_palette = os.path.join(sprite_dir.path, "dialgaprimal.pal")
 
         if not os.path.isfile(target_palette):
             target_palette = os.path.join(sprite_dir.path, "..", "shiny.pal")
@@ -235,8 +240,15 @@ def _process_pokemon_sprites(pokemon_dir: str):
 
         for f in os.scandir(p_dir.path):
             if f.is_dir():
-                _process_pokemon_sprite_images(f, f"{p_dir.name}-{f.name}",
-                                               output)
+                if p_dir.name == "minior" and f.name == "core":
+                    for c in os.scandir(f.path):
+                        if c.is_dir():
+                            _process_pokemon_sprite_images(c, f"{p_dir.name}-{f.name}_{c.name}",
+                                                       output)
+                else:
+                    _process_pokemon_sprite_images(f, f"{p_dir.name}-{f.name}",
+                                                   output)
+
 
     print(f"\t\t{_sprite_count:n} pokemon sprites generated")
 
