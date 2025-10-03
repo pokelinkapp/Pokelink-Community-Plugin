@@ -7,3 +7,6 @@
 [submodule "external/PKHeX"]
 	path = external/PKHeX
 	url = https://github.com/kwsch/PKHeX.git
+[submodule "external/Radical-Red-Pokedex"]
+	path = external/rad-red-json/source
+	url = https://github.com/JwowSquared/Radical-Red-Pokedex.git

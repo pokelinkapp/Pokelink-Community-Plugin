@@ -71,6 +71,15 @@ def _load_strings():
             gs["moves"] = ab
             gs["clean_moves"] = [clean_up(clean) for clean in ab]
 
+        with open(os.path.join(other, "text_Types_" + lang_file + ".txt"),
+                  "r") as abilities:
+            ab = []
+            for line in abilities:
+                if line != "":
+                    ab.append(line.strip())
+            gs["types"] = ab
+            gs["clean_types"] = [clean_up(clean) for clean in ab]
+
         with open(os.path.join(items_dir, "text_Items_" + lang_file + ".txt"),
                   "r") as items:
             i = []
@@ -144,6 +153,26 @@ def has_move(move: str, lang: str = "en") -> bool:
 
     return _game_strings[lang]["moves"].__contains__(move) or \
         _game_strings[lang]["clean_moves"].__contains__(clean_up(move))
+
+def has_type(type: str, lang: str = "en") -> bool:
+    global _game_strings
+
+    if not _game_strings.__contains__(lang):
+        return False
+
+    if not _game_strings[lang].__contains__("types"):
+        return False
+
+    return _game_strings[lang]["types"].__contains__(type) or \
+        _game_strings[lang]["clean_types"].__contains__(clean_up(type))
+
+def get_type_from_index(index: int, lang: str = "en", return_clean: bool = True) -> str | None:
+    types = _game_strings[lang]["clean_types" if return_clean else "types"]
+
+    if types.__len__() <= index:
+        return None
+
+    return types[index]
 
 
 def clean_up(input: str) -> str:
