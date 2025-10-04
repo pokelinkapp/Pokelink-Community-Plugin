@@ -184,7 +184,7 @@ def clean_up(input: str) -> str:
     output = output.replace("’", "").replace("'", "").replace("é", "e").replace(
         ".", "").replace(" ", "_").replace("-", "_").replace("\u2640",
                                                              "F").replace(
-        "\u2642", "M").replace("[", "").replace("]", "")
+        "\u2642", "M").replace("[", "").replace("]", "").replace(":", "_")
 
     while output.__contains__("__"):
         output = output.replace("__", "_")

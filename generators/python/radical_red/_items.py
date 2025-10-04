@@ -7,6 +7,7 @@ from pokelink import game_strings, translations
 from pokelink.json_output import write_file
 
 items = []
+_item_id = {}
 
 def generate():
     print("Generating Items")

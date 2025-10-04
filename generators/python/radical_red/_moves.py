@@ -8,10 +8,10 @@ from pokelink import game_strings, translations
 from radical_red._types import types
 from pokelink.json_output import write_file
 
+moves = []
+
 def generate():
     print("Generating Abilities")
-
-    moves = []
 
     with open(os.path.join(directories.get_external_dir("rad-red-json"),
                            "moves.json")) as data:

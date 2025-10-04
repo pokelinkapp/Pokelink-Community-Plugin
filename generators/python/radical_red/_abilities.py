@@ -8,6 +8,7 @@ from pokelink import game_strings, translations
 from pokelink.json_output import write_file
 
 abilities = []
+ability_ids = []
 
 def generate():
     print("Generating Abilities")
@@ -21,7 +22,7 @@ def generate():
 
             name = ability["names"][0]
 
-            if not game_strings.has_ability(name):
+            if not game_strings.has_ability(name) or name == "As One":
                 print(f"\tWARNING: Missing Pokelink translation for {name}")
 
                 translations.add_translation(
@@ -32,6 +33,7 @@ def generate():
                 name = "pokemon.ability." + game_strings.clean_up(name)
 
             abilities.insert(int(key), name)
+            ability_ids.insert(int(key), ability["names"][0])
 
     write_file(os.path.join(
         directories.get_output_dir("radred/v4.1/", True), "radred.abilities"),

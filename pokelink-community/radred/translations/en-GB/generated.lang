@@ -4,10 +4,10 @@
     "RadicalRed": {
       "Ability": {
         "bad_company": "Bad Company",
+        "as_one": "As One",
         "fatal_precision": "Fatal Precision",
         "bull_rush": "Bull Rush",
         "feline_prowess": "Feline Prowess",
-        "wandering_soul": "Wandering Soul",
         "oraoraoraora!": "ORAORAORAORA!",
         "parasitic_waste": "Parasitic Waste",
         "primal_armor": "Primal Armor",
@@ -193,6 +193,15 @@
         "max_depletion": "Max Depletion",
         "max_one_blow": "Max One Blow",
         "max_rapid_flow": "Max Rapid Flow"
+      },
+      "Form": {
+        "surfing": "Surfing",
+        "sevii": "Sevii",
+        "sevii_school": "Sevii School",
+        "sevii_mega": "Sevii mega"
+      },
+      "Species": {
+        "chillet": "Chillet"
       }
     }
   }

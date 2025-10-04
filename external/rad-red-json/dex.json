@@ -892,7 +892,7 @@
             {
                 "gameId": 1020,
                 "name": "RATTATA_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 30,
@@ -964,7 +964,7 @@
             {
                 "gameId": 1021,
                 "name": "RATICATE_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 75,
@@ -1462,7 +1462,7 @@
             {
                 "gameId": 1093,
                 "name": "PIKACHU_CAP_ORIGINAL",
-                "formName": "CAP_ORIGINAL",
+                "formName": "ORIGINAL",
                 "form": 9,
                 "baseStats": {
                     "hp": 35,
@@ -1497,7 +1497,7 @@
             {
                 "gameId": 1094,
                 "name": "PIKACHU_CAP_HOENN",
-                "formName": "CAP_HOENN",
+                "formName": "HOENN",
                 "form": 10,
                 "baseStats": {
                     "hp": 35,
@@ -1532,7 +1532,7 @@
             {
                 "gameId": 1095,
                 "name": "PIKACHU_CAP_SINNOH",
-                "formName": "CAP_SINNOH",
+                "formName": "SINNOH",
                 "form": 11,
                 "baseStats": {
                     "hp": 35,
@@ -1567,7 +1567,7 @@
             {
                 "gameId": 1096,
                 "name": "PIKACHU_CAP_UNOVA",
-                "formName": "CAP_UNOVA",
+                "formName": "UNOVA",
                 "form": 12,
                 "baseStats": {
                     "hp": 35,
@@ -1602,7 +1602,7 @@
             {
                 "gameId": 1097,
                 "name": "PIKACHU_CAP_KALOS",
-                "formName": "CAP_KALOS",
+                "formName": "KALOS",
                 "form": 13,
                 "baseStats": {
                     "hp": 35,
@@ -1637,7 +1637,7 @@
             {
                 "gameId": 1098,
                 "name": "PIKACHU_CAP_ALOLA",
-                "formName": "CAP_ALOLA",
+                "formName": "ALOLA",
                 "form": 14,
                 "baseStats": {
                     "hp": 35,
@@ -1672,7 +1672,7 @@
             {
                 "gameId": 1099,
                 "name": "PIKACHU_CAP_PARTNER",
-                "formName": "CAP_PARTNER",
+                "formName": "PARTNER",
                 "form": 15,
                 "baseStats": {
                     "hp": 35,
@@ -1743,7 +1743,7 @@
             {
                 "gameId": 1022,
                 "name": "RAICHU_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -1816,7 +1816,7 @@
             {
                 "gameId": 1023,
                 "name": "SANDSHREW_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 50,
@@ -1888,7 +1888,7 @@
             {
                 "gameId": 1024,
                 "name": "SANDSLASH_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 75,
@@ -2234,7 +2234,7 @@
             {
                 "gameId": 1025,
                 "name": "VULPIX_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 38,
@@ -2305,7 +2305,7 @@
             {
                 "gameId": 1026,
                 "name": "NINETALES_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 73,
@@ -2762,7 +2762,7 @@
             {
                 "gameId": 1027,
                 "name": "DIGLETT_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 10,
@@ -2834,7 +2834,7 @@
             {
                 "gameId": 1028,
                 "name": "DUGTRIO_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 35,
@@ -2906,7 +2906,7 @@
             {
                 "gameId": 1029,
                 "name": "MEOWTH_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 40,
@@ -2927,7 +2927,7 @@
                 "abilities": [
                     "PICKUP",
                     "TECHNICIAN",
-                    "FELINEPOWER"
+                    "FELINE_PROWESS"
                 ],
                 "types": [
                     "DARK"
@@ -2941,7 +2941,7 @@
             {
                 "gameId": 1208,
                 "name": "MEOWTH_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 2,
                 "baseStats": {
                     "hp": 50,
@@ -2993,7 +2993,7 @@
         "abilities": [
             "PICKUP",
             "TECHNICIAN",
-            "FELINEPOWER"
+            "FELINE_PROWESS"
         ],
         "types": [
             "NORMAL"
@@ -3012,7 +3012,7 @@
             {
                 "gameId": 1030,
                 "name": "PERSIAN_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 65,
@@ -3033,7 +3033,7 @@
                 "abilities": [
                     "FURCOAT",
                     "TECHNICIAN",
-                    "FELINEPOWER"
+                    "FELINE_PROWESS"
                 ],
                 "types": [
                     "DARK"
@@ -3064,7 +3064,7 @@
         "abilities": [
             "LIMBER",
             "TECHNICIAN",
-            "FELINEPOWER"
+            "FELINE_PROWESS"
         ],
         "types": [
             "NORMAL"
@@ -3220,7 +3220,7 @@
             {
                 "gameId": 1271,
                 "name": "GROWLITHE_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -3292,7 +3292,7 @@
             {
                 "gameId": 1272,
                 "name": "ARCANINE_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 95,
@@ -3693,8 +3693,8 @@
                     "spd": 0
                 },
                 "abilities": [
-                    "RAGINGBOXER",
-                    "RAGINGBOXER",
+                    "ORAORAORAORA!",
+                    "ORAORAORAORA!",
                     ""
                 ],
                 "types": [
@@ -3920,7 +3920,7 @@
             {
                 "gameId": 1031,
                 "name": "GEODUDE_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 40,
@@ -3993,7 +3993,7 @@
             {
                 "gameId": 1032,
                 "name": "GRAVELER_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 55,
@@ -4066,7 +4066,7 @@
             {
                 "gameId": 1033,
                 "name": "GOLEM_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 80,
@@ -4139,7 +4139,7 @@
             {
                 "gameId": 1209,
                 "name": "PONYTA_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 50,
@@ -4211,7 +4211,7 @@
             {
                 "gameId": 1210,
                 "name": "RAPIDASH_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 65,
@@ -4264,7 +4264,7 @@
         "abilities": [
             "RECKLESS",
             "FLASHFIRE",
-            "FLAMINGSOUL"
+            "BLAZING_SOUL"
         ],
         "types": [
             "FIRE"
@@ -4283,7 +4283,7 @@
             {
                 "gameId": 1211,
                 "name": "SLOWPOKE_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 90,
@@ -4391,7 +4391,7 @@
             {
                 "gameId": 1212,
                 "name": "SLOWBRO_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 2,
                 "baseStats": {
                     "hp": 95,
@@ -4534,7 +4534,7 @@
             {
                 "gameId": 1213,
                 "name": "FARFETCHD_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 52,
@@ -4606,7 +4606,7 @@
             {
                 "gameId": 1276,
                 "name": "DODUO_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 40,
@@ -4679,7 +4679,7 @@
             {
                 "gameId": 1277,
                 "name": "DODRIO_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 65,
@@ -4821,7 +4821,7 @@
             {
                 "gameId": 1034,
                 "name": "GRIMER_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 80,
@@ -4893,7 +4893,7 @@
             {
                 "gameId": 1035,
                 "name": "MUK_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 105,
@@ -5386,7 +5386,7 @@
             {
                 "gameId": 1295,
                 "name": "VOLTORB_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 40,
@@ -5458,7 +5458,7 @@
             {
                 "gameId": 1296,
                 "name": "ELECTRODE_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -5530,7 +5530,7 @@
             {
                 "gameId": 1036,
                 "name": "EXEGGCUTE_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -5603,7 +5603,7 @@
             {
                 "gameId": 1037,
                 "name": "EXEGGUTOR_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 95,
@@ -5676,7 +5676,7 @@
             {
                 "gameId": 1038,
                 "name": "CUBONE_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 50,
@@ -5747,7 +5747,7 @@
             {
                 "gameId": 1039,
                 "name": "MAROWAK_A",
-                "formName": "ALOLAN",
+                "formName": "ALOLA",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -5921,7 +5921,7 @@
             {
                 "gameId": 1214,
                 "name": "KOFFING_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 40,
@@ -5992,7 +5992,7 @@
             {
                 "gameId": 1215,
                 "name": "WEEZING_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 65,
@@ -6478,7 +6478,7 @@
             {
                 "gameId": 1216,
                 "name": "MR_MIME_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 50,
@@ -6761,7 +6761,7 @@
             {
                 "gameId": 1234,
                 "name": "TAUROS_P",
-                "formName": "PALDEAN",
+                "formName": "PALDEA_COMBAT",
                 "form": 1,
                 "baseStats": {
                     "hp": 75,
@@ -6796,7 +6796,7 @@
             {
                 "gameId": 1240,
                 "name": "TAUROS_P_FIRE",
-                "formName": "PALDEAN FIRE",
+                "formName": "PALDEA_BLAZE",
                 "form": 2,
                 "baseStats": {
                     "hp": 75,
@@ -6832,7 +6832,7 @@
             {
                 "gameId": 1235,
                 "name": "TAUROS_P_WATER",
-                "formName": "PALDEAN WATER",
+                "formName": "PALDEA_AQUA",
                 "form": 3,
                 "baseStats": {
                     "hp": 75,
@@ -7573,7 +7573,7 @@
             {
                 "gameId": 1217,
                 "name": "ARTICUNO_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 90,
@@ -7646,7 +7646,7 @@
             {
                 "gameId": 1218,
                 "name": "ZAPDOS_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 90,
@@ -7719,7 +7719,7 @@
             {
                 "gameId": 1219,
                 "name": "MOLTRES_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 90,
@@ -8207,7 +8207,7 @@
             {
                 "gameId": 1299,
                 "name": "TYPHLOSION_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 73,
@@ -8260,7 +8260,7 @@
         "abilities": [
             "FLASHFIRE",
             "",
-            "FLAMINGSOUL"
+            "BLAZING_SOUL"
         ],
         "types": [
             "FIRE"
@@ -9561,7 +9561,7 @@
             {
                 "gameId": 930,
                 "name": "WOOPER_P",
-                "formName": "PALDEAN",
+                "formName": "PALDEA",
                 "form": 1,
                 "baseStats": {
                     "hp": 55,
@@ -9772,7 +9772,7 @@
             {
                 "gameId": 1220,
                 "name": "SLOWKING_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 95,
@@ -10754,7 +10754,7 @@
             {
                 "gameId": 438,
                 "name": "UNOWN_EXCLAMATION",
-                "formName": "EXCLAMATION",
+                "formName": "!",
                 "form": 26,
                 "baseStats": {
                     "hp": 48,
@@ -10789,7 +10789,7 @@
             {
                 "gameId": 439,
                 "name": "UNOWN_QUESTION",
-                "formName": "QUESTION",
+                "formName": "?",
                 "form": 27,
                 "baseStats": {
                     "hp": 48,
@@ -11210,7 +11210,7 @@
             {
                 "gameId": 1307,
                 "name": "QWILFISH_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 65,
@@ -11464,7 +11464,7 @@
             {
                 "gameId": 1304,
                 "name": "SNEASEL_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 55,
@@ -11537,7 +11537,7 @@
             {
                 "gameId": 1278,
                 "name": "TEDDIURSA_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 55,
@@ -11608,7 +11608,7 @@
             {
                 "gameId": 1279,
                 "name": "URSARING_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 100,
@@ -11819,7 +11819,7 @@
             {
                 "gameId": 1221,
                 "name": "CORSOLA_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -11994,7 +11994,7 @@
             {
                 "gameId": 1284,
                 "name": "MANTINE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 80,
@@ -13497,7 +13497,7 @@
             {
                 "gameId": 1222,
                 "name": "ZIGZAGOON_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 38,
@@ -13569,7 +13569,7 @@
             {
                 "gameId": 1223,
                 "name": "LINOONE_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 78,
@@ -14905,7 +14905,7 @@
         "abilities": [
             "CUTECHARM",
             "WONDERSKIN",
-            "FELINEPOWER"
+            "FELINE_PROWESS"
         ],
         "types": [
             "NORMAL"
@@ -14939,7 +14939,7 @@
         "abilities": [
             "CUTECHARM",
             "WONDERSKIN",
-            "FELINEPOWER"
+            "FELINE_PROWESS"
         ],
         "types": [
             "NORMAL"
@@ -16450,7 +16450,7 @@
         "abilities": [
             "MERCILESS",
             "SHEDSKIN",
-            "LETHALPRECISION"
+            "FATAL_PRECISION"
         ],
         "types": [
             "POISON"
@@ -16888,7 +16888,7 @@
             {
                 "gameId": 1285,
                 "name": "FEEBAS_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 20,
@@ -16960,7 +16960,7 @@
             {
                 "gameId": 1286,
                 "name": "MILOTIC_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 95,
@@ -19599,7 +19599,7 @@
             "spd": 0
         },
         "abilities": [
-            "DAUNTLESSSHIELD",
+            "VALIANT_SHIELD",
             "",
             "SOUNDPROOF"
         ],
@@ -20077,7 +20077,7 @@
             {
                 "gameId": 751,
                 "name": "CHERRIM_SUN",
-                "formName": "SUN",
+                "formName": "SUNSHINE",
                 "form": 1,
                 "baseStats": {
                     "hp": 70,
@@ -20849,7 +20849,7 @@
             {
                 "gameId": 1224,
                 "name": "MIME_JR_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 20,
@@ -21592,7 +21592,7 @@
             {
                 "gameId": 1282,
                 "name": "CARNIVINE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 94,
@@ -21732,7 +21732,7 @@
             {
                 "gameId": 1283,
                 "name": "MANTYKE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 45,
@@ -23424,7 +23424,7 @@
             {
                 "gameId": 720,
                 "name": "ARCEUS_FIGHT",
-                "formName": "FIGHT",
+                "formName": "FIGHTING",
                 "form": 1,
                 "baseStats": {
                     "hp": 120,
@@ -24364,7 +24364,7 @@
             {
                 "gameId": 1300,
                 "name": "SAMUROTT_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 95,
@@ -25090,7 +25090,7 @@
             {
                 "gameId": 1274,
                 "name": "BLITZLE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 45,
@@ -25162,7 +25162,7 @@
             {
                 "gameId": 1275,
                 "name": "ZEBSTRIKA_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 75,
@@ -26135,7 +26135,7 @@
             {
                 "gameId": 1303,
                 "name": "LILLIGANT_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 70,
@@ -26202,11 +26202,11 @@
     },
     {
         "gameId": 603,
-        "name": "BASCULIN_RED",
+        "name": "BASCULIN",
         "forms": [
             {
                 "gameId": 736,
-                "name": "BASCULIN_BLUE",
+                "name": "BASCULIN",
                 "formName": "BLUE",
                 "form": 1,
                 "baseStats": {
@@ -26384,7 +26384,7 @@
             {
                 "gameId": 1225,
                 "name": "DARUMAKA_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 70,
@@ -26455,7 +26455,7 @@
             {
                 "gameId": 737,
                 "name": "DARMANITANZEN",
-                "formName": "DARMANITANZEN",
+                "formName": "ZEN",
                 "form": 1,
                 "baseStats": {
                     "hp": 105,
@@ -26491,7 +26491,7 @@
             {
                 "gameId": 1226,
                 "name": "DARMANITAN_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 2,
                 "baseStats": {
                     "hp": 105,
@@ -26526,7 +26526,7 @@
             {
                 "gameId": 1227,
                 "name": "DARMANITAN_G_ZEN",
-                "formName": "GALARIAN_ZEN",
+                "formName": "GALAR_ZEN",
                 "form": 3,
                 "baseStats": {
                     "hp": 105,
@@ -26807,7 +26807,7 @@
             {
                 "gameId": 1228,
                 "name": "YAMASK_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 38,
@@ -27106,8 +27106,8 @@
                     "spd": 0
                 },
                 "abilities": [
-                    "PARASITICGOO",
-                    "PARASITICGOO",
+                    "PARASITIC_WASTE",
+                    "PARASITIC_WASTE",
                     ""
                 ],
                 "types": [
@@ -27158,7 +27158,7 @@
             {
                 "gameId": 1280,
                 "name": "ZORUA_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 35,
@@ -27230,7 +27230,7 @@
             {
                 "gameId": 1281,
                 "name": "ZOROARK_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 55,
@@ -28715,7 +28715,7 @@
         "abilities": [
             "LEVITATE",
             "",
-            "LETHALPRECISION"
+            "FATAL_PRECISION"
         ],
         "types": [
             "ELECTRIC"
@@ -29180,7 +29180,7 @@
             {
                 "gameId": 1229,
                 "name": "STUNFISK_G",
-                "formName": "GALARIAN",
+                "formName": "GALAR",
                 "form": 1,
                 "baseStats": {
                     "hp": 109,
@@ -29564,7 +29564,7 @@
             {
                 "gameId": 1269,
                 "name": "BRAVIARY_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 115,
@@ -29722,7 +29722,7 @@
         "abilities": [
             "GLUTTONY",
             "FLASHFIRE",
-            "LETHALPRECISION"
+            "FATAL_PRECISION"
         ],
         "types": [
             "FIRE"
@@ -31729,7 +31729,7 @@
                 },
                 "abilities": [
                     "COMPETITIVE",
-                    "FELINEPOWER",
+                    "FELINE_PROWESS",
                     "INFILTRATOR"
                 ],
                 "types": [
@@ -31760,7 +31760,7 @@
         },
         "abilities": [
             "PRANKSTER",
-            "FELINEPOWER",
+            "FELINE_PROWESS",
             "INFILTRATOR"
         ],
         "types": [
@@ -32269,7 +32269,7 @@
             {
                 "gameId": 1287,
                 "name": "CLAUNCHER_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 50,
@@ -32341,7 +32341,7 @@
             {
                 "gameId": 1288,
                 "name": "CLAWITZER_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 81,
@@ -32796,7 +32796,7 @@
             {
                 "gameId": 1297,
                 "name": "SLIGGOO_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 58,
@@ -32868,7 +32868,7 @@
             {
                 "gameId": 1298,
                 "name": "GOODRA_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 80,
@@ -33045,7 +33045,7 @@
             {
                 "gameId": 853,
                 "name": "PUMPKABOO_XL",
-                "formName": "XL",
+                "formName": "SUPER",
                 "form": 1,
                 "baseStats": {
                     "hp": 59,
@@ -33081,7 +33081,7 @@
             {
                 "gameId": 854,
                 "name": "PUMPKABOO_L",
-                "formName": "L",
+                "formName": "LARGE",
                 "form": 2,
                 "baseStats": {
                     "hp": 54,
@@ -33117,7 +33117,7 @@
             {
                 "gameId": 855,
                 "name": "PUMPKABOO_M",
-                "formName": "M",
+                "formName": "AVERAGE",
                 "form": 3,
                 "baseStats": {
                     "hp": 49,
@@ -33190,7 +33190,7 @@
             {
                 "gameId": 856,
                 "name": "GOURGEIST_XL",
-                "formName": "XL",
+                "formName": "SUPER",
                 "form": 1,
                 "baseStats": {
                     "hp": 85,
@@ -33226,7 +33226,7 @@
             {
                 "gameId": 857,
                 "name": "GOURGEIST_L",
-                "formName": "L",
+                "formName": "LARGE",
                 "form": 2,
                 "baseStats": {
                     "hp": 75,
@@ -33262,7 +33262,7 @@
             {
                 "gameId": 858,
                 "name": "GOURGEIST_M",
-                "formName": "M",
+                "formName": "AVERAGE",
                 "form": 3,
                 "baseStats": {
                     "hp": 65,
@@ -33369,7 +33369,7 @@
             {
                 "gameId": 1309,
                 "name": "AVALUGG_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 100,
@@ -33441,7 +33441,7 @@
             {
                 "gameId": 866,
                 "name": "NOIBAT_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 40,
@@ -33514,7 +33514,7 @@
             {
                 "gameId": 867,
                 "name": "NOIVERN_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 85,
@@ -33656,7 +33656,7 @@
             {
                 "gameId": 837,
                 "name": "ZYGARDE_10",
-                "formName": "10",
+                "formName": "10%",
                 "form": 1,
                 "baseStats": {
                     "hp": 54,
@@ -34016,7 +34016,7 @@
             {
                 "gameId": 1301,
                 "name": "DECIDUEYE_H",
-                "formName": "HISUIAN",
+                "formName": "HISUI",
                 "form": 1,
                 "baseStats": {
                     "hp": 98,
@@ -34959,7 +34959,6 @@
                 "growthRate": 0
             }
         ],
-        "formName": "DAWN",
         "baseStats": {
             "hp": 75,
             "atk": 115,
@@ -35033,7 +35032,7 @@
             {
                 "gameId": 1292,
                 "name": "WISHIWASHI_SEVI",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 2,
                 "baseStats": {
                     "hp": 60,
@@ -35068,7 +35067,7 @@
             {
                 "gameId": 1293,
                 "name": "WISHIWASHI_SEVI_S",
-                "formName": "SEVIIAN_SCHOOL",
+                "formName": "SEVII_SCHOOL",
                 "form": 3,
                 "baseStats": {
                     "hp": 60,
@@ -36040,7 +36039,7 @@
             {
                 "gameId": 1048,
                 "name": "SILVALLY_FIGHT",
-                "formName": "FIGHT",
+                "formName": "FIGHTING",
                 "form": 1,
                 "baseStats": {
                     "hp": 100,
@@ -36666,12 +36665,12 @@
     },
     {
         "gameId": 991,
-        "name": "MINIOR_SHIELD",
+        "name": "MINIOR",
         "forms": [
             {
                 "gameId": 1065,
                 "name": "MINIOR_RED",
-                "formName": "RED",
+                "formName": "C_RED",
                 "form": 1,
                 "baseStats": {
                     "hp": 60,
@@ -36707,7 +36706,7 @@
             {
                 "gameId": 1066,
                 "name": "MINIOR_BLUE",
-                "formName": "BLUE",
+                "formName": "C_BLUE",
                 "form": 2,
                 "baseStats": {
                     "hp": 60,
@@ -36743,7 +36742,7 @@
             {
                 "gameId": 1067,
                 "name": "MINIOR_ORANGE",
-                "formName": "ORANGE",
+                "formName": "C_ORANGE",
                 "form": 3,
                 "baseStats": {
                     "hp": 60,
@@ -36779,7 +36778,7 @@
             {
                 "gameId": 1068,
                 "name": "MINIOR_YELLOW",
-                "formName": "YELLOW",
+                "formName": "C_YELLOW",
                 "form": 4,
                 "baseStats": {
                     "hp": 60,
@@ -36815,7 +36814,7 @@
             {
                 "gameId": 1069,
                 "name": "MINIOR_INDIGO",
-                "formName": "INDIGO",
+                "formName": "C_INDIGO",
                 "form": 5,
                 "baseStats": {
                     "hp": 60,
@@ -36851,7 +36850,7 @@
             {
                 "gameId": 1070,
                 "name": "MINIOR_GREEN",
-                "formName": "GREEN",
+                "formName": "C_GREEN",
                 "form": 6,
                 "baseStats": {
                     "hp": 60,
@@ -36887,7 +36886,7 @@
             {
                 "gameId": 1071,
                 "name": "MINIOR_VIOLET",
-                "formName": "VIOLET",
+                "formName": "C_VIOLET",
                 "form": 7,
                 "baseStats": {
                     "hp": 60,
@@ -36921,7 +36920,6 @@
                 "growthRate": 3
             }
         ],
-        "formName": "SHIELD",
         "baseStats": {
             "hp": 60,
             "atk": 60,
@@ -37010,7 +37008,7 @@
         "abilities": [
             "BATTLEARMOR",
             "MAGMAARMOR",
-            "DAUNTLESSSHIELD"
+            "VALIANT_SHIELD"
         ],
         "types": [
             "FIRE",
@@ -37188,7 +37186,7 @@
         "abilities": [
             "BERSERK",
             "SAPSIPPER",
-            "LETHALPRECISION"
+            "FATAL_PRECISION"
         ],
         "types": [
             "NORMAL",
@@ -37208,7 +37206,7 @@
             {
                 "gameId": 1294,
                 "name": "DHELMISE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 90,
@@ -37907,7 +37905,7 @@
             {
                 "gameId": 1079,
                 "name": "NECROZMA_DUSK_MANE",
-                "formName": "DUSK_MANE",
+                "formName": "DUSK",
                 "form": 1,
                 "baseStats": {
                     "hp": 97,
@@ -37943,7 +37941,7 @@
             {
                 "gameId": 1080,
                 "name": "NECROZMA_DAWN_WINGS",
-                "formName": "DAWN_WINGS",
+                "formName": "DAWN",
                 "form": 2,
                 "baseStats": {
                     "hp": 97,
@@ -38047,7 +38045,6 @@
     {
         "gameId": 1073,
         "name": "MAGEARNA_P",
-        "formName": "POKEBALL",
         "baseStats": {
             "hp": 80,
             "atk": 95,
@@ -40038,7 +40035,7 @@
             {
                 "gameId": 1254,
                 "name": "TOXTRICITY_GIGA",
-                "formName": "GIGA",
+                "formName": "GIGANTAMAX",
                 "form": 2,
                 "baseStats": {
                     "hp": 75,
@@ -40111,7 +40108,7 @@
             {
                 "gameId": 1289,
                 "name": "SIZZLIPEDE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 50,
@@ -40220,7 +40217,7 @@
             {
                 "gameId": 1290,
                 "name": "CENTISKORCH_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 2,
                 "baseStats": {
                     "hp": 100,
@@ -40256,7 +40253,7 @@
             {
                 "gameId": 1291,
                 "name": "CENTISKORCH_S_MEGA",
-                "formName": "SEVIIAN MEGA",
+                "formName": "SEVII MEGA",
                 "form": 3,
                 "baseStats": {
                     "hp": 100,
@@ -40916,7 +40913,7 @@
             {
                 "gameId": 1259,
                 "name": "ALCREMIE_GIGA",
-                "formName": "GIGA",
+                "formName": "GIGANTAMAX",
                 "form": 1,
                 "baseStats": {
                     "hp": 65,
@@ -40949,7 +40946,7 @@
                 "growthRate": 0
             }
         ],
-        "formName": "STRAWBERRY",
+        "formName": "RUBY_CREAM",
         "baseStats": {
             "hp": 65,
             "atk": 60,
@@ -41162,7 +41159,7 @@
             {
                 "gameId": 1201,
                 "name": "EISCUE_NOICE",
-                "formName": "NOICE",
+                "formName": "NOICE_FACE",
                 "form": 1,
                 "baseStats": {
                     "hp": 75,
@@ -41894,7 +41891,7 @@
                     "spd": 3
                 },
                 "abilities": [
-                    "DAUNTLESSSHIELD",
+                    "VALIANT_SHIELD",
                     "",
                     ""
                 ],
@@ -41926,7 +41923,7 @@
             "spd": 3
         },
         "abilities": [
-            "DAUNTLESSSHIELD",
+            "VALIANT_SHIELD",
             "",
             ""
         ],
@@ -42299,7 +42296,7 @@
             {
                 "gameId": 1264,
                 "name": "CALYREX_ICE",
-                "formName": "ICE_RIDER",
+                "formName": "ICE",
                 "form": 1,
                 "baseStats": {
                     "hp": 100,
@@ -42318,7 +42315,7 @@
                     "spd": 0
                 },
                 "abilities": [
-                    "ASONEICE",
+                    "ASONE",
                     "",
                     ""
                 ],
@@ -42335,7 +42332,7 @@
             {
                 "gameId": 1265,
                 "name": "CALYREX_SHADOW",
-                "formName": "SHADOW_RIDER",
+                "formName": "SHADOW",
                 "form": 2,
                 "baseStats": {
                     "hp": 100,
@@ -42354,7 +42351,7 @@
                     "spd": 0
                 },
                 "abilities": [
-                    "ASONESHADOW",
+                    "ASONE",
                     "",
                     ""
                 ],
@@ -42513,7 +42510,7 @@
             {
                 "gameId": 1356,
                 "name": "URSALUNA_BLOOD",
-                "formName": "BLOOD",
+                "formName": "BLOODMOON",
                 "form": 1,
                 "baseStats": {
                     "hp": 113,
@@ -43249,7 +43246,7 @@
             {
                 "gameId": 1200,
                 "name": "NYMBLE_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 33,
@@ -43321,7 +43318,7 @@
             {
                 "gameId": 1186,
                 "name": "LOKIX_S",
-                "formName": "SEVIIAN",
+                "formName": "SEVII",
                 "form": 1,
                 "baseStats": {
                     "hp": 71,
@@ -43735,11 +43732,12 @@
     {
         "gameId": 1338,
         "name": "SQUAWKABILLY",
+        "formName": "WHITE",
         "forms": [
             {
                 "gameId": 1355,
                 "name": "SQUAWKABILLY_2",
-                "formName": "2",
+                "formName": "GREEN",
                 "form": 1,
                 "baseStats": {
                     "hp": 82,
@@ -45640,7 +45638,7 @@
     },
     {
         "gameId": 1237,
-        "name": "GREATTUSK",
+        "name": "GREAT_TUSK",
         "baseStats": {
             "hp": 115,
             "atk": 131,
@@ -45675,7 +45673,7 @@
     },
     {
         "gameId": 1245,
-        "name": "SCREAMTAIL",
+        "name": "SCREAM_TAIL",
         "baseStats": {
             "hp": 115,
             "atk": 65,
@@ -45710,7 +45708,7 @@
     },
     {
         "gameId": 1243,
-        "name": "BRUTEBONNET",
+        "name": "BRUTE_BONNET",
         "baseStats": {
             "hp": 111,
             "atk": 127,
@@ -45745,7 +45743,7 @@
     },
     {
         "gameId": 1246,
-        "name": "FLUTTERMANE",
+        "name": "FLUTTER_MANE",
         "baseStats": {
             "hp": 55,
             "atk": 55,
@@ -45780,7 +45778,7 @@
     },
     {
         "gameId": 1255,
-        "name": "SLITHERWING",
+        "name": "SLITHER_WING",
         "baseStats": {
             "hp": 85,
             "atk": 135,
@@ -45815,7 +45813,7 @@
     },
     {
         "gameId": 1244,
-        "name": "SANDYSHOCKS",
+        "name": "SANDY_SHOCKS",
         "baseStats": {
             "hp": 85,
             "atk": 81,
@@ -45850,7 +45848,7 @@
     },
     {
         "gameId": 1258,
-        "name": "IRONTREADS",
+        "name": "IRON_TREADS",
         "baseStats": {
             "hp": 90,
             "atk": 112,
@@ -45885,7 +45883,7 @@
     },
     {
         "gameId": 1231,
-        "name": "IRONBUNDLE",
+        "name": "IRON_BUNDLE",
         "baseStats": {
             "hp": 56,
             "atk": 80,
@@ -45920,7 +45918,7 @@
     },
     {
         "gameId": 1262,
-        "name": "IRONHANDS",
+        "name": "IRON_HANDS",
         "baseStats": {
             "hp": 154,
             "atk": 140,
@@ -45955,7 +45953,7 @@
     },
     {
         "gameId": 1263,
-        "name": "IRONJUGULIS",
+        "name": "IRON_JUGULIS",
         "baseStats": {
             "hp": 94,
             "atk": 80,
@@ -45990,7 +45988,7 @@
     },
     {
         "gameId": 1247,
-        "name": "IRONMOTH",
+        "name": "IRON_MOTH",
         "baseStats": {
             "hp": 80,
             "atk": 70,
@@ -46025,7 +46023,7 @@
     },
     {
         "gameId": 1230,
-        "name": "IRONTHORNS",
+        "name": "IRON_THORNS",
         "baseStats": {
             "hp": 100,
             "atk": 134,
@@ -46170,7 +46168,7 @@
             {
                 "gameId": 851,
                 "name": "GIMMIGHOUL_ROAM",
-                "formName": "ROAM",
+                "formName": "ROAMING",
                 "form": 1,
                 "baseStats": {
                     "hp": 45,
@@ -46412,7 +46410,7 @@
     },
     {
         "gameId": 1257,
-        "name": "ROARINGMOON",
+        "name": "ROARING_MOON",
         "baseStats": {
             "hp": 105,
             "atk": 139,
@@ -46447,7 +46445,7 @@
     },
     {
         "gameId": 1232,
-        "name": "IRONVALIANT",
+        "name": "IRON_VALIANT",
         "baseStats": {
             "hp": 74,
             "atk": 130,
@@ -46552,7 +46550,7 @@
     },
     {
         "gameId": 1354,
-        "name": "WALKINGWAKE",
+        "name": "WALKING_WAKE",
         "baseStats": {
             "hp": 99,
             "atk": 83,
@@ -46587,7 +46585,7 @@
     },
     {
         "gameId": 1353,
-        "name": "IRONLEAVES",
+        "name": "IRON_LEAVES",
         "baseStats": {
             "hp": 90,
             "atk": 130,
@@ -46837,7 +46835,7 @@
             {
                 "gameId": 1360,
                 "name": "OGERPON_ROCK",
-                "formName": "ROCK",
+                "formName": "CORNERSTONE",
                 "form": 1,
                 "baseStats": {
                     "hp": 80,
@@ -46873,7 +46871,7 @@
             {
                 "gameId": 1359,
                 "name": "OGERPON_FIRE",
-                "formName": "FIRE",
+                "formName": "HEARTHFLAME",
                 "form": 2,
                 "baseStats": {
                     "hp": 80,
@@ -46909,7 +46907,7 @@
             {
                 "gameId": 1358,
                 "name": "OGERPON_WATER",
-                "formName": "WATER",
+                "formName": "WELLSPRING",
                 "form": 3,
                 "baseStats": {
                     "hp": 80,
@@ -47046,7 +47044,7 @@
     },
     {
         "gameId": 1374,
-        "name": "GOUGINGFIRE",
+        "name": "GOUGING_FIRE",
         "baseStats": {
             "hp": 105,
             "atk": 115,
@@ -47081,7 +47079,7 @@
     },
     {
         "gameId": 1367,
-        "name": "RAGINGBOLT",
+        "name": "RAGING_BOLT",
         "baseStats": {
             "hp": 125,
             "atk": 73,
@@ -47116,7 +47114,7 @@
     },
     {
         "gameId": 1373,
-        "name": "IRONBOULDER",
+        "name": "IRON_BOULDER",
         "baseStats": {
             "hp": 90,
             "atk": 120,
@@ -47151,7 +47149,7 @@
     },
     {
         "gameId": 1368,
-        "name": "IRONCROWN",
+        "name": "IRON_CROWN",
         "baseStats": {
             "hp": 90,
             "atk": 72,
