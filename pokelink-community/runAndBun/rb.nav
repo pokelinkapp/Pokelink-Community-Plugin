@@ -9,7 +9,7 @@
 
         ]
     },
-    "partyReader": "pokelink.eex.partyReader",
+    "partyReader": "pokelink.r&b.partyReader",
     "ramComponents": [
         {
             "component": "pokelink.porygon.gen3.battle",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "component": "pokelink.porygon.gen3.emeraldExpansion.party",
+            "component": "pokelink.porygon.gen3.r&b.party",
             "config": {
                 "playerPartyAddress": "0x02023A98",
                 "maxSpeciesID": 1233,
