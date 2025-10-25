@@ -617,7 +617,7 @@ def process_species_stats():
     alcremie_stat.baseStats.hp = 65
     alcremie_stat.baseStats.attack = 60
     alcremie_stat.baseStats.defense = 75
-    alcremie_stat.baseStats.speed = 164
+    alcremie_stat.baseStats.speed = 64
     alcremie_stat.baseStats.specialAttack = 110
     alcremie_stat.baseStats.specialDefense = 121
     alcremie_stat.types.append("pokemon.type.fairy")

@@ -11,7 +11,7 @@ from pokelink.json_output import write_file
 moves = []
 
 def generate():
-    print("Generating Abilities")
+    print("Generating Moves")
 
     with open(os.path.join(directories.get_external_dir("rad-red-json"),
                            "moves.json")) as data:

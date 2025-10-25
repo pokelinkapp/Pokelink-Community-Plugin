@@ -1,0 +1,31 @@
+{
+    "__import": {
+        "pokelink-community:/emerald_rogue/vanilla/emeraldRogue.items": null,
+        "pokelink:/base.natures": null,
+        "pokelink-community:/emerald_rogue/vanilla/emeraldRogue.abilities": null,
+        "pokelink-community:/emerald_rogue/vanilla/emeraldRogue.exp": null
+    },
+    "name": "Game.Name.emeraldRogue.vanilla",
+    "generation": 3,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/emerald_rogue/assets/logo.png",
+    "lightTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "darkTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "priority": 2,
+    "pokedex": {
+        "auto": "pokelink-community:/emerald_rogue/vanilla/emeraldRogue.dex",
+        "manual": "pokelink-community:/emerald_rogue/vanilla/emeraldRogue.dex"
+    },
+    "moves": "pokelink-community:/emerald_rogue/vanilla/emeraldRogue.moves",
+    "delayEggHatch": true,
+    "typeChart": "pokelink:/typeCharts/gen6.typeChart",
+    "hatchMultiplier": 256,
+    "gameId": "EMERALD",
+    "console": "gba"
+}

@@ -130,7 +130,7 @@ def process():
 
 
 def generate():
-    print("Generating Items")
+    print("Generating Moves")
 
     with open(os.path.join(directories.get_external_dir("emerald-imperium"),
                            "src", "data", "moves_info.h")) as file:

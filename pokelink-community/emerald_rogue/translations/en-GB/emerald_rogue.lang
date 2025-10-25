@@ -1,0 +1,16 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Name": {
+                "emeraldRogue": {
+                    "vanilla": "Emerald Rogue Vanilla",
+                    "expansion": "Emerald Rogue Expansion"
+                }
+            },
+            "Subtitle": {
+                "v2.0.1": "v2.0.1"
+            }
+        }
+    }
+}

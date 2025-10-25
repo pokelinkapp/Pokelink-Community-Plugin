@@ -10,3 +10,9 @@
 [submodule "external/Radical-Red-Pokedex"]
 	path = external/rad-red-json/source
 	url = https://github.com/JwowSquared/Radical-Red-Pokedex.git
+[submodule "external/emerald-rogue/expansion"]
+	path = external/emerald-rogue/expansion
+	url = https://github.com/Pokabbie/pokeemerald-rogue.git
+[submodule "external/emerald-rogue/vanilla"]
+	path = external/emerald-rogue/vanilla
+	url = https://github.com/Pokabbie/pokeemerald-rogue.git

@@ -1,3 +1,4 @@
+import emerald_rogue
 import runAndBun
 import emerald_imperium
 import radical_red
@@ -10,3 +11,5 @@ print()
 emerald_imperium.generate()
 print()
 radical_red.generate()
+print()
+emerald_rogue.generate()
