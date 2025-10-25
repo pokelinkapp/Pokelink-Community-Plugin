@@ -22,7 +22,8 @@
             "config": {
                 "playerPartyAddress": "0x020375F8",
                 "maxSpeciesID": 1535,
-                "pokemonDataSize": 100
+                "pokemonDataSize": 100,
+                "useMoveData": true
             }
         }
     ]
