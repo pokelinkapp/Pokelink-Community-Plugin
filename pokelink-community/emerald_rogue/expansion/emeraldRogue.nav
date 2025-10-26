@@ -1,0 +1,29 @@
+{
+    "version": "Game.Subtitle.v2.0.1",
+    "romHeader": "POKEMON EMERBPEE",
+    "features": {
+        "unsupported": [
+            "Features.Pokelink.badgeTracking"
+        ],
+        "knownIssues": [
+
+        ]
+    },
+    "partyReader": "pokelink.emeraldImperium.partyReader",
+    "ramComponents": [
+        {
+            "component": "pokelink.porygon.gen3.battle",
+            "config": {
+                "battleFlag": "0x030037C9"
+            }
+        },
+        {
+            "component": "pokelink.porygon.gen3.emeraldImperium.party",
+            "config": {
+                "playerPartyAddress": "0x02037780",
+                "maxSpeciesID": 1434,
+                "pokemonDataSize": 100
+            }
+        }
+    ]
+}

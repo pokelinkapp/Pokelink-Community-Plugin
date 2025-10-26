@@ -209,3 +209,13 @@ def generate():
     write_file(
         os.path.join(directories.get_output_dir("emerald_imperium", True),
                      "emeraldImperium.moves"), _moves)
+
+
+def get_move_string(input: str) -> str | None:
+    for move in _moves:
+        if move is None:
+            continue
+        if move["name"].lower().endswith(input.lower()):
+            return move["name"]
+
+    return None

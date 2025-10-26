@@ -138,6 +138,9 @@
         "max_one_blow": "Max One Blow",
         "max_rapid_flow": "Max Rapid Flow"
       },
+      "Weather": {
+        "fog": "Fog"
+      },
       "Form": {
         "surfing": "Surfing",
         "a": "A",

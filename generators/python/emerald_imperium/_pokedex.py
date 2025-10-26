@@ -5,6 +5,8 @@ import pokelink.directories as directories
 import pokelink.translations as translations
 from google.protobuf import json_format
 
+from emerald_imperium._items import get_item_string
+from emerald_imperium._moves import get_move_string
 from pokelink import strip_comments, game_strings
 from pokelink.gen3 import poke_math
 from pokelink.json_output import write_file
@@ -17,6 +19,7 @@ _dex.version = "0.7.1"
 
 _species_form_id = dict()
 _species_forms = dict()
+_evolutions = dict()
 _dex_ids = dict()
 _stats = dict()
 
@@ -33,8 +36,8 @@ _growth_indexes = {
 def process_species_forms():
     global _species_form_id
     print("\tProcessing Species and Forms")
-    with open(os.path.join(directories.get_external_dir("emerald-imperium"),
-                           "include", "constants", "species.h"), "r") as file:
+    with (open(os.path.join(directories.get_external_dir("emerald-imperium"),
+                            "include", "constants", "species.h"), "r") as file):
 
         internal_lines = [strip_comments(line) for line in file]
 
@@ -61,7 +64,7 @@ def process_species_forms():
             _species_form_id[species] = internal_id
 
             if not game_strings.has_species(
-                    species) and species != "NIDORAN_F" and species != "NIDORAN_M" and species != "TYPE_NULL":
+                    species) and species != "NIDORAN_F" and species != "NIDORAN_M" and species != "TYPE_NULL" and species != "MR_MIME_GALAR" and species != "MIME_JR":
                 split = species.split("_")
                 mon = split[0]
                 form = str.join("_", split[1:])
@@ -69,6 +72,16 @@ def process_species_forms():
                 if not _species_forms.__contains__(mon):
                     _species_forms[mon] = dict()
                     _species_forms[mon][form] = 0
+                else:
+                    _species_forms[mon][form] = len(_species_forms[mon])
+            elif species == "MR_MIME_GALAR":
+                split = species.split("_")
+                mon = str.join("_", split[:2])
+                form = str.join("_", split[2:])
+
+                if not _species_forms.__contains__(mon):
+                    _species_forms[mon] = dict()
+                    _species_forms[mon]["_"] = 0
                 else:
                     _species_forms[mon][form] = len(_species_forms[mon])
             else:
@@ -132,11 +145,34 @@ def process_species_stats():
             lines += [strip_comments(line) for line in file]
 
     reading = False
+    reading_evolutions = False
+    current_evos = []
     current_pokemon: pb_pokedex.Species | None = None
     current_name: str | None = None
 
     for line in lines:
+        line = line.strip()
         if line.startswith("{"):
+            if reading_evolutions:
+                evos = line.split(",")
+
+                for i in range(evos.__len__()):
+                    evos[i] = evos[i].removeprefix("{").removesuffix(
+                        ")").removesuffix("}").strip().removeprefix("SPECIES_")
+
+                if evos[-1] == "":
+                    evos.pop(-1)
+
+                current_evos.append(evos)
+
+                if line.endswith("),"):
+                    reading_evolutions = False
+
+                    if not _evolutions.__contains__(current_name):
+                        _evolutions[current_name] = []
+                    _evolutions[current_name].extend(current_evos)
+
+                    current_evos = []
             continue
 
         if line.startswith("}"):
@@ -233,6 +269,29 @@ def process_species_stats():
                     else:
                         current_pokemon.abilities.append(
                             f"pokemon.ability.{game_strings.clean_up(ability.removeprefix("ABILITY_"))}")
+            elif line.startswith(".evolutions = EVOLUTION({"):
+                if not line.endswith("),"):
+                    reading_evolutions = True
+
+                evoSpecs = line.removeprefix(".evolutions = EVOLUTION({").split(
+                    ",")
+
+                for i in range(evoSpecs.__len__()):
+                    evoSpecs[i] = evoSpecs[i].removesuffix(")").removesuffix(
+                        "}").strip().removeprefix("SPECIES_")
+
+                if evoSpecs[-1] == "":
+                    evoSpecs.pop(-1)
+
+                current_evos.append(evoSpecs)
+
+                if not reading_evolutions:
+                    if not _evolutions.__contains__(current_name):
+                        _evolutions[current_name] = []
+                    _evolutions[current_name].extend(current_evos)
+
+                    current_evos = []
+
         else:
             if line.endswith("] =") or line.endswith("]   ="):
                 current_name = line.removeprefix("[SPECIES_").removesuffix(
@@ -294,6 +353,8 @@ def process_species_stats():
         form_stat = pb_pokedex.Species()
         form_stat.CopyFrom(mothim_stat)
         _stats["MOTHIM_" + form] = form_stat
+        if form == "PLANT":
+            _stats["MOTHIM"] = form_stat
 
     arceus_stat = pb_pokedex.Species()
     arceus_stat.baseStats.hp = 120
@@ -705,7 +766,238 @@ def process():
     process_species_stats()
 
 
+def handle_evos(base_entry: pb_pokedex.Species, entry: pb_pokedex.Species,
+                evos: list[list[str]]):
+    for evo in evos:
+        target: pb_pokedex.Species = _stats[evo[2]]
+        evo_data = pb_pokedex.Evolution()
+        evo_data.to = target.id
+        evo_data.fromForm = 0 if not entry.HasField("form") else entry.form
+        evo_data.toForm = 0 if not target.HasField("form") else target.form
+        append = False
+
+        conditions = evo_data.conditions
+
+        for evo_entry in base_entry.evolutions:
+            if evo_entry.to == target.id and evo_entry.toForm == target.form and evo_entry.fromForm == evo_data.fromForm:
+                append = True
+                conditions = evo_entry.conditions["pokemon.evolve.or"].nested
+                break
+
+        if evo[0] == "EVO_NONE":
+            continue
+        elif evo[0] == "EVO_LEVEL":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+        elif evo[0] == "EVO_LEVEL_DAY":
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.time"].string = "timeOfDay.day"
+        elif evo[0] == "EVO_LEVEL_NIGHT":
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.time"].string = "timeOfDay.night"
+        elif evo[0] == "EVO_ITEM":
+            item = get_item_string(evo[1].removeprefix("ITEM_"))
+            if item is None:
+                print(f"\tERROR: Missing item string \"{evo[1]}\"")
+                exit(-1)
+            conditions["pokemon.evolve.useItem"].string = item
+        elif evo[0] == "EVO_FRIENDSHIP":
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.friendship"].string = "friendship.high"
+        elif evo[0] == "EVO_MOVE":
+            move = get_move_string(evo[1].removeprefix("MOVE_"))
+            if move is None:
+                print(f"\tERROR: Missing move string \"{evo[1]}\"")
+                exit(-1)
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.knowMove"].string = move
+        elif evo[0] == "EVO_TRADE_ITEM":
+            item = get_item_string(evo[1].removeprefix("ITEM_"))
+            if item is None:
+                print(f"\tERROR: Missing item string \"{evo[1]}\"")
+                exit(-1)
+            trade = conditions["pokemon.evolve.trade"].nested
+            trade["pokemon.evolve.holdItem"].string = item
+        elif evo[0] == "EVO_TRADE":
+            _ = conditions["pokemon.evolve.trade"].nested
+        elif evo[0] == "EVO_MAPSEC":
+            location = evo[1].removeprefix("MAPSEC_")
+
+            if location == "NEW_MAUVILLE":
+                location = "pokemon.location.gen3.new_mauville"
+            else:
+                print(f"\tERROR: Unknown location \"{location}\"")
+                exit(-1)
+
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.location"].string = location
+        elif evo[0] == "EVO_FRIENDSHIP_DAY":
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.time"].string = "timeOfDay.day"
+            level_up["pokemon.evolve.friendship"].string = "friendship.high"
+        elif evo[0] == "EVO_FRIENDSHIP_NIGHT":
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.time"].string = "timeOfDay.night"
+            level_up["pokemon.evolve.friendship"].string = "friendship.high"
+        elif evo[0] == "EVO_FRIENDSHIP_MOVE_TYPE":
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up[
+                "pokemon.evolve.knowMoveType"].string = f"pokemon.type.{evo[1].removeprefix("TYPE_").lower()}"
+            level_up["pokemon.evolve.friendship"].string = "friendship.high"
+        elif evo[0] == "EVO_MOVE_TWO_SEGMENT":
+            move = get_move_string(evo[1].removeprefix("MOVE_"))
+            if move is None:
+                print(f"\tERROR: Missing move string \"{evo[1]}\"")
+                exit(-1)
+            level_up = conditions["pokemon.evolve.levelUp"].nested
+            level_up["pokemon.evolve.knowMove"].string = move
+            level_up[
+                "pokemon.evolve.rarity"].string = "rarity.randomPersonality"
+        elif evo[0] == "EVO_LEVEL_ATK_LT_DEF" or evo[
+            0] == "EVO_LEVEL_ATK_GT_DEF" or evo[0] == "EVO_LEVEL_ATK_EQ_DEF":
+            evo_type = "stat.attack" + (
+                "<" if evo[0] == "EVO_LEVEL_ATK_LT_DEF" else ">" if evo[
+                                                                        0] == "EVO_LEVEL_ATK_GT_DEF" else "=") + "defense"
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.stat"].string = evo_type
+        elif evo[0] == "EVO_LEVEL_SILCOON" or evo[0] == "EVO_LEVEL_CASCOON":
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions[
+                "pokemon.evolve.rarity"].string = "rarity.randomPersonality"
+        elif evo[0] == "EVO_ITEM_MALE":
+            item = get_item_string(evo[1].removeprefix("ITEM_"))
+            if item is None:
+                print(f"\tERROR: Missing item string \"{evo[1]}\"")
+                exit(-1)
+            conditions["pokemon.evolve.useItem"].string = item
+            conditions["pokemon.evolve.gender"].string = "Gender.male"
+        elif evo[0] == "EVO_ITEM_FEMALE":
+            item = get_item_string(evo[1].removeprefix("ITEM_"))
+            if item is None:
+                print(f"\tERROR: Missing item string \"{evo[1]}\"")
+                exit(-1)
+            conditions["pokemon.evolve.useItem"].string = item
+            conditions["pokemon.evolve.gender"].string = "Gender.female"
+        elif evo[0] == "EVO_LEVEL_NINJASK":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            shedinja = pb_pokedex.Evolution()
+            shedinja.to = target.id + 1
+            shedinja.fromForm = 0
+            shedinja.toForm = 0
+
+            shedinja.conditions["pokemon.evolve.level"].number = int(evo[1])
+            shedinja.conditions["pokemon.evolve.emptySlot"].nested[
+                "pokemon.evolve.hasItem"].string = "pokemon.ball.poke_ball"
+            base_entry.evolutions.append(shedinja)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+        elif evo[0] == "EVO_BEAUTY":
+            conditions["pokemon.evolve.levelUp"].nested[
+                "pokemon.evolve.maxTrait"].string = "trait.beauty"
+        elif evo[0] == "EVO_LEVEL_FEMALE":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.gender"].string = "Gender.female"
+        elif evo[0] == "EVO_LEVEL_MALE":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.gender"].string = "Gender.male"
+        elif evo[0] == "EVO_TRADE_SPECIFIC_MON":
+            target_mon = _stats[evo[1].removeprefix("SPECIES_")]
+
+            conditions["pokemon.evolve.trade"].nested[
+                "pokemon.evolve.tradeWith"].string = target_mon.name
+        elif evo[0] == "EVO_LEVEL_DARK_TYPE_MON_IN_PARTY":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions[
+                "pokemon.evolve.typedPokemonPresentInParty"].string = "pokemon.type.dark"
+        elif evo[0] == "EVO_LEVEL_RAIN":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.weather"].string = "weather.raining"
+        elif evo[0] == "EVO_LEVEL_FOG":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions[
+                "pokemon.evolve.weather"].string = "EmeraldImperium.Weather.fog"
+        elif evo[0] == "EVO_LEVEL_DUSK":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.time"].string = "timeOfDay.dusk"
+        elif evo[0] == "EVO_LEVEL_NATURE_AMPED":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.nature"].stringArray.extend([
+                "pokemon.nature.brave",
+                "pokemon.nature.adamant",
+                "pokemon.nature.naughty",
+                "pokemon.nature.docile",
+                "pokemon.nature.impish",
+                "pokemon.nature.lax",
+                "pokemon.nature.hasty",
+                "pokemon.nature.jolly",
+                "pokemon.nature.naive",
+                "pokemon.nature.rash",
+                "pokemon.nature.sassy",
+                "pokemon.nature.quirky"
+            ])
+        elif evo[0] == "EVO_LEVEL_NATURE_LOW_KEY":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            conditions["pokemon.evolve.nature"].stringArray.extend([
+                "pokemon.nature.lonely",
+                "pokemon.nature.bold",
+                "pokemon.nature.relaxed",
+                "pokemon.nature.timid",
+                "pokemon.nature.serious",
+                "pokemon.nature.modest",
+                "pokemon.nature.mild",
+                "pokemon.nature.quiet",
+                "pokemon.nature.bashful",
+                "pokemon.nature.calm",
+                "pokemon.nature.gentle",
+                "pokemon.nature.careful"
+            ])
+        elif evo[0] == "EVO_LEVEL_FAMILY_OF_FOUR" or evo[
+            0] == "EVO_LEVEL_FAMILY_OF_THREE":
+            if not evo[1].isdigit():
+                print(f"\tERROR: Level is not a number. Value: {evo[1]}")
+                exit(-1)
+            conditions["pokemon.evolve.level"].number = int(evo[1])
+            if evo[0] == "EVO_LEVEL_FAMILY_OF_FOUR":
+                conditions["pokemon.evolve.rarity"].string = "rarity.rare"
+        else:
+            print(f"\tERROR: Missing evo type \"{evo[0]}\"")
+            exit(-1)
+
+        if not append:
+            base_entry.evolutions.append(evo_data)
+
+
 def generate():
+    translations.add_translation("EmeraldImperium.Weather.fog", "Fog")
     print("Generating Pokedex")
 
     sprite_dir = directories.get_output_dir("emerald_imperium/assets/pokemon")
@@ -804,37 +1096,51 @@ def generate():
             file_form_id = f"{game_strings.clean_up(species_id)}{"" if form_id is None else f"-{game_strings.clean_up(form_id)}"}"
             file_id = f"{game_strings.clean_up(species_id)}"
 
-            if os.path.isfile(os.path.join(sprite_dir, "party", f"{file_form_id}.gif")):
+            if os.path.isfile(
+                    os.path.join(sprite_dir, "party", f"{file_form_id}.gif")):
                 stats.sprites.party = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_form_id}.gif"
-            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}-gmax.gif")) and species != "EEVEE":
+            elif os.path.isfile(os.path.join(sprite_dir, "shiny",
+                                             f"{file_id}-gmax.gif")) and species != "EEVEE":
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_id}-gmax.gif"
-            elif os.path.isfile(os.path.join(sprite_dir, "party", f"{file_id}.gif")):
+            elif os.path.isfile(
+                    os.path.join(sprite_dir, "party", f"{file_id}.gif")):
                 stats.sprites.party = f"pokelink-community:/emerald_imperium/assets/pokemon/party/{file_id}.gif"
             else:
-                print(f"\tWARNING: Not able to find a party sprite for {file_form_id}")
+                print(
+                    f"\tWARNING: Not able to find a party sprite for {file_form_id}")
 
-            if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}.png")):
+            if os.path.isfile(
+                    os.path.join(sprite_dir, "normal", f"{file_form_id}.png")):
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}.png"
-            elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}-gmax.png")) and species != "EEVEE":
+            elif os.path.isfile(os.path.join(sprite_dir, "normal",
+                                             f"{file_id}-gmax.png")) and species != "EEVEE":
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}-gmax.png"
-            elif os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_id}.png")):
+            elif os.path.isfile(
+                    os.path.join(sprite_dir, "normal", f"{file_id}.png")):
                 stats.sprites.normal = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_id}.png"
             else:
-                print(f"\tWARNING: Not able to find a normal sprite for {file_form_id}")
+                print(
+                    f"\tWARNING: Not able to find a normal sprite for {file_form_id}")
 
-            if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}.png")):
+            if os.path.isfile(
+                    os.path.join(sprite_dir, "shiny", f"{file_form_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}.png"
-            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}-gmax.png")) and species != "EEVEE":
+            elif os.path.isfile(os.path.join(sprite_dir, "shiny",
+                                             f"{file_id}-gmax.png")) and species != "EEVEE":
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}-gmax.png"
-            elif os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_id}.png")):
+            elif os.path.isfile(
+                    os.path.join(sprite_dir, "shiny", f"{file_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_id}.png"
             else:
-                print(f"\tWARNING: Not able to find a shiny sprite for {file_form_id}")
+                print(
+                    f"\tWARNING: Not able to find a shiny sprite for {file_form_id}")
 
-            if os.path.isfile(os.path.join(sprite_dir, "normal", f"{file_form_id}-f.png")) and stats.genderRatio != 0 and stats.genderRatio != 255:
+            if os.path.isfile(os.path.join(sprite_dir, "normal",
+                                           f"{file_form_id}-f.png")) and stats.genderRatio != 0 and stats.genderRatio != 255:
                 stats.sprites.female = f"pokelink-community:/emerald_imperium/assets/pokemon/normal/{file_form_id}-f.png"
 
-            if os.path.isfile(os.path.join(sprite_dir, "shiny", f"{file_form_id}-f.png")) and stats.genderRatio != 0 and stats.genderRatio != 255:
+            if os.path.isfile(os.path.join(sprite_dir, "shiny",
+                                           f"{file_form_id}-f.png")) and stats.genderRatio != 0 and stats.genderRatio != 255:
                 stats.sprites.femaleShiny = f"pokelink-community:/emerald_imperium/assets/pokemon/shiny/{file_form_id}-f.png"
 
             stats.name = f"pokemon.species.{game_strings.clean_up(species)}"
@@ -864,8 +1170,43 @@ def generate():
 
             if first_form_key != form_id:
                 stats.form = forms[form_id]
-                stats.ClearField("id")
                 first_form.forms.append(stats)
+
+    for dexId in collections.OrderedDict(sorted(_dex_ids.items())):
+        game_id = _dex_ids[dexId]
+        species = game_id
+        species_id = game_id
+
+        forms = _species_forms[species]
+        first_form_key = next(iter(_species_forms[species]))
+        first_form: pb_pokedex.Species = _stats[
+            f"{species_id}{("" if first_form_key == "_" else f"_{first_form_key}")}"]
+
+        for form in forms:
+            form = None if form == "_" else form
+
+            stat_id = f"{species_id}{("" if form is None else f"_{form}")}"
+
+            if not _stats.__contains__(stat_id):
+                continue
+
+            stats: pb_pokedex.Species = _stats[stat_id]
+
+            if _evolutions.__contains__(stat_id):
+                handle_evos(first_form, stats, _evolutions[stat_id])
+
+    for dexId in collections.OrderedDict(sorted(_dex_ids.items())):
+        game_id = _dex_ids[dexId]
+        species = game_id
+        species_id = game_id
+
+        first_form_key = next(iter(_species_forms[species]))
+        first_form: pb_pokedex.Species = _stats[
+            f"{species_id}{("" if first_form_key == "_" else f"_{first_form_key}")}"]
+
+        for form in first_form.forms:
+            form.ClearField("id")
+
         _dex.entries.append(first_form)
 
     write_file(

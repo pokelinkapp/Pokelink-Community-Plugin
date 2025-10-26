@@ -7,7 +7,7 @@ from pokelink.json_output import write_file
 import os
 import collections
 
-_items = []
+_items: list[str] = []
 
 _items_prefix = "EmeraldImperium.Item."
 
@@ -78,3 +78,12 @@ def generate():
     write_file(
         os.path.join(directories.get_output_dir("emerald_imperium", True),
                      "emeraldImperium.items"), {"items": _items})
+
+def get_item_string(input: str) -> str | None:
+    for item in _items:
+        if item is None:
+            continue
+        if item.lower().endswith(input.lower()):
+            return item
+
+    return None
