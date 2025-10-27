@@ -218,3 +218,12 @@ def generate(version: RogueVersion):
                 "vanilla" if version == RogueVersion.VANILLA else "expansion"),
             True),
             "emeraldRogue.moves"), _moves)
+
+def get_move_string(input: str) -> str | None:
+    for move in _moves:
+        if move is None:
+            continue
+        if move["name"].lower().endswith(input.lower()):
+            return move["name"]
+
+    return None

@@ -111,7 +111,7 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
             else:
                 continue
 
-        target_palette = os.path.join(sprite_dir.path, "normal.pal")
+        target_palette = os.path.join(sprite_dir.path, f"normal{"f" if is_female_sprite else ""}.pal")
 
         if not is_icon and not is_female_sprite:
             if output_name == "dusknoir-mega":
@@ -147,7 +147,14 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 target_palette = os.path.join(sprite_dir.path, (output_name.removeprefix("alcremie-") if not output_name.endswith("vanilla_cream") else f"{sprite_dir.name}_default") + ".pal")
 
         if not os.path.isfile(target_palette):
-            target_palette = os.path.join(sprite_dir.path, "..", "normal.pal")
+            target_palette = os.path.join(sprite_dir.path,
+                                          f"normal.pal")
+
+        if not os.path.isfile(target_palette):
+            target_palette = os.path.join(sprite_dir.path, "..", f"normal{"f" if is_female_sprite else ""}.pal")
+
+        if not os.path.isfile(target_palette):
+            target_palette = os.path.join(sprite_dir.path, "..", f"normal.pal")
 
         if not os.path.isfile(target_palette):
             continue
@@ -186,7 +193,7 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
         sprite_made = True
         _sprite_count += 1
 
-        target_palette = os.path.join(sprite_dir.path, "shiny.pal")
+        target_palette = os.path.join(sprite_dir.path, f"shiny{"f" if is_female_sprite else ""}.pal")
 
         if not is_icon and not is_female_sprite:
             if output_name == "dusknoir-mega":
@@ -220,7 +227,13 @@ def _process_pokemon_sprite_images(sprite_dir: os.DirEntry, output_name: str,
                 target_palette = os.path.join(sprite_dir.path, f"{sprite_dir.name}_shiny.pal")
 
         if not os.path.isfile(target_palette):
-            target_palette = os.path.join(sprite_dir.path, "..", "shiny.pal")
+            target_palette = os.path.join(sprite_dir.path, f"shiny.pal")
+
+        if not os.path.isfile(target_palette):
+            target_palette = os.path.join(sprite_dir.path, "..", f"shiny{"f" if is_female_sprite else ""}.pal")
+
+        if not os.path.isfile(target_palette):
+            target_palette = os.path.join(sprite_dir.path, "..", f"shiny.pal")
 
         if not os.path.isfile(target_palette):
             continue

@@ -53,6 +53,88 @@ def process(version: RogueVersion):
             if index == (376 if version == RogueVersion.VANILLA else 826):
                 break
 
+        if version == RogueVersion.EXPANSION:
+            max_value = 827
+            item_strings[max_value] = "LINK_CABLE"
+            max_value += 1
+            item_strings[max_value] = "QUEST_LOG"
+            max_value += 1
+            item_strings[max_value] = "HEALING_FLASK"
+            max_value += 1
+            item_strings[max_value] = "BASIC_RIDING_WHISTLE"
+            max_value += 1
+            item_strings[max_value] = "GOLD_RIDING_WHISTLE"
+            max_value += 1
+            item_strings[max_value] = "C_GEAR"
+            max_value += 1
+            item_strings[max_value] = "DAYCARE_PHONE"
+            max_value += 1
+            item_strings[max_value] = "BUILDING_SUPPLIES"
+            max_value += 1
+            item_strings[max_value] = "ALOLA_STONE"
+            max_value += 1
+            item_strings[max_value] = "GALAR_STONE"
+            max_value += 1
+            item_strings[max_value] = "HISUI_STONE"
+            max_value += 1
+            item_strings[max_value] = "SMALL_COIN_CASE"
+            max_value += 1
+            item_strings[max_value] = "LARGE_COIN_CASE"
+            max_value += 1
+            item_strings[max_value] = "GOLDEN_SEED"
+            max_value = 839
+
+            item_strings[max_value] = "POKEBLOCK_NORMAL"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_FIGTHING"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_FLYING"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_POISON"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_GROUND"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_ROCK"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_BUG"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_GHOST"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_STEEL"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_FIRE"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_WATER"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_GRASS"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_ELECTRIC"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_PSYCHIC"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_ICE"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_DRAGON"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_DARK"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_FAIRY"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_SHINY"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_HP"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_ATTACK"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_DEFENCE"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_SPEED"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_SPECIAL_ATTACK"
+            max_value += 1
+            item_strings[max_value] = "POKEBLOCK_SPECIAL_DEFENCE"
+            max_value += 1
+
         ordered_index = collections.OrderedDict(sorted(item_strings.items()))
 
         for index in range(max_value):
@@ -63,7 +145,7 @@ def process(version: RogueVersion):
 
             split = item.split("_")
 
-            if split[-1].__len__() < 4:
+            if split[-1].__len__() < 4 and split[-1] != "POT":
                 _items.append(None)
                 continue
 
@@ -94,3 +176,12 @@ def generate(version: RogueVersion):
             "vanilla" if version == RogueVersion.VANILLA else "expansion"),
                                                 True),
                      "emeraldRogue.items"), {"items": _items})
+
+def get_item_string(input: str) -> str | None:
+    for item in _items:
+        if item is None:
+            continue
+        if item.lower().endswith(input.lower()):
+            return item
+
+    return None
