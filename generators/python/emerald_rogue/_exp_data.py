@@ -15,7 +15,7 @@ def generate(version: RogueVersion):
     for i in range(101):
         exp_table.append(i * 300)
 
-    for i in range(5):
+    for i in range(6):
         tables.append(exp_table)
 
     output = {"expGrowth": tables}

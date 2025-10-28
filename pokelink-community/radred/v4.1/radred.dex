@@ -18494,11 +18494,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -22666,11 +22666,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
