@@ -730,31 +730,31 @@ def process_species_stats():
 
             if form == "TEAL":
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_teal_mask" if tera == "_TERA" else "defiant"}")
+                    f"pokemon.ability.{"embody_aspect_(teal)" if tera == "_TERA" else "defiant"}")
                 form_stat.abilities.append("")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_teal_mask" if tera == "_TERA" else "defiant"}")
+                    f"pokemon.ability.{"embody_aspect_(teal)" if tera == "_TERA" else "defiant"}")
             elif form == "WELLSPRING":
                 form_stat.types.append("pokemon.type.water")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_wellspring_mask" if tera == "_TERA" else "water_absorb"}")
+                    f"pokemon.ability.{"embody_aspect_(wellspring)" if tera == "_TERA" else "water_absorb"}")
                 form_stat.abilities.append("")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_wellspring_mask" if tera == "_TERA" else "water_absorb"}")
+                    f"pokemon.ability.{"embody_aspect_(wellspring)" if tera == "_TERA" else "water_absorb"}")
             elif form == "HEARTHFLAME":
                 form_stat.types.append("pokemon.type.fire")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_hearthflame_mask" if tera == "_TERA" else "mold_breaker"}")
+                    f"pokemon.ability.{"embody_aspect_(hearthflame)" if tera == "_TERA" else "mold_breaker"}")
                 form_stat.abilities.append("")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_hearthflame_mask" if tera == "_TERA" else "mold_breaker"}")
+                    f"pokemon.ability.{"embody_aspect_(hearthflame)" if tera == "_TERA" else "mold_breaker"}")
             elif form == "CORNERSTONE":
                 form_stat.types.append("pokemon.type.rock")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_cornerstone_mask" if tera == "_TERA" else "sturdy"}")
+                    f"pokemon.ability.{"embody_aspect_(cornerstone)" if tera == "_TERA" else "sturdy"}")
                 form_stat.abilities.append("")
                 form_stat.abilities.append(
-                    f"pokemon.ability.{"embody_aspect_cornerstone_mask" if tera == "_TERA" else "sturdy"}")
+                    f"pokemon.ability.{"embody_aspect_(cornerstone)" if tera == "_TERA" else "sturdy"}")
 
             _stats[f"OGERPON_{form}{tera}"] = form_stat
 

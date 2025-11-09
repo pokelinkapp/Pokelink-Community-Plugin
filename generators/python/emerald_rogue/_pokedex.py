@@ -526,31 +526,31 @@ def process_species_stats(version: RogueVersion):
 
                 if form == "TEAL":
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_teal_mask" if tera == "_TERA" else "defiant"}")
+                        f"pokemon.ability.{"embody_aspect_(teal)" if tera == "_TERA" else "defiant"}")
                     form_stat.abilities.append("")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_teal_mask" if tera == "_TERA" else "defiant"}")
+                        f"pokemon.ability.{"embody_aspect_(teal)" if tera == "_TERA" else "defiant"}")
                 elif form == "WELLSPRING":
                     form_stat.types.append("pokemon.type.water")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_wellspring_mask" if tera == "_TERA" else "water_absorb"}")
+                        f"pokemon.ability.{"embody_aspect_(wellspring)" if tera == "_TERA" else "water_absorb"}")
                     form_stat.abilities.append("")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_wellspring_mask" if tera == "_TERA" else "water_absorb"}")
+                        f"pokemon.ability.{"embody_aspect_(wellspring)" if tera == "_TERA" else "water_absorb"}")
                 elif form == "HEARTHFLAME":
                     form_stat.types.append("pokemon.type.fire")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_hearthflame_mask" if tera == "_TERA" else "mold_breaker"}")
+                        f"pokemon.ability.{"embody_aspect_(hearthflame)" if tera == "_TERA" else "mold_breaker"}")
                     form_stat.abilities.append("")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_hearthflame_mask" if tera == "_TERA" else "mold_breaker"}")
+                        f"pokemon.ability.{"embody_aspect_(hearthflame)" if tera == "_TERA" else "mold_breaker"}")
                 elif form == "CORNERSTONE":
                     form_stat.types.append("pokemon.type.rock")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_cornerstone_mask" if tera == "_TERA" else "sturdy"}")
+                        f"pokemon.ability.{"embody_aspect_(cornerstone)" if tera == "_TERA" else "sturdy"}")
                     form_stat.abilities.append("")
                     form_stat.abilities.append(
-                        f"pokemon.ability.{"embody_aspect_cornerstone_mask" if tera == "_TERA" else "sturdy"}")
+                        f"pokemon.ability.{"embody_aspect_(cornerstone)" if tera == "_TERA" else "sturdy"}")
 
                 _stats[f"OGERPON_{form}_MASK{tera}"] = form_stat
 
@@ -566,6 +566,17 @@ def process_species_stats(version: RogueVersion):
         _evolutions["BRAMBLIN"] = [["EVO_LEVEL", "20", "BRAMBLEGHAST"]]
         _evolutions["RELLOR"] = [["EVO_LEVEL", "20", "RABSCA"]]
         _evolutions["GIMMIGHOUL"] = [["EVO_ITEM", "ITEM_GIMMIGHOUL_COIN", "GHOLDENGO"]]
+
+        _stats["ZYGARDE_50_AURA_BREAK"].abilities.clear()
+        _stats["ZYGARDE_50_AURA_BREAK"].abilities.extend(["pokemon.ability.aura_break"])
+        _stats["ZYGARDE_10_AURA_BREAK"].abilities.clear()
+        _stats["ZYGARDE_10_AURA_BREAK"].abilities.extend(["pokemon.ability.aura_break"])
+        _stats["ZYGARDE_50_POWER_CONSTRUCT"].abilities.clear()
+        _stats["ZYGARDE_50_POWER_CONSTRUCT"].abilities.extend(["pokemon.ability.power_construct"])
+        _stats["ZYGARDE_10_POWER_CONSTRUCT"].abilities.clear()
+        _stats["ZYGARDE_10_POWER_CONSTRUCT"].abilities.extend(["pokemon.ability.power_construct"])
+        _stats["ZYGARDE_COMPLETE"].abilities.clear()
+        _stats["ZYGARDE_COMPLETE"].abilities.extend(["pokemon.ability.power_construct"])
 
 
 def process(version: RogueVersion):

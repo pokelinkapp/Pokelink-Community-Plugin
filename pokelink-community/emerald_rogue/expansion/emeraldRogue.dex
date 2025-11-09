@@ -16749,11 +16749,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.useItem": {
               "string": "pokemon.item.dawn_stone"
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 0,
@@ -17171,15 +17171,15 @@
         {
           "to": 292,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.emptySlot": {
               "nested": {
                 "pokemon.evolve.hasItem": {
                   "string": "pokemon.ball.poke_ball"
                 }
               }
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -20552,11 +20552,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.useItem": {
               "string": "pokemon.item.dawn_stone"
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,
@@ -40227,8 +40227,7 @@
         "hp": 3
       },
       "abilities": [
-        "EmeraldRogue.Ability.ability",
-        ""
+        "pokemon.ability.aura_break"
       ],
       "hatchCycles": 120,
       "genderRatio": 255,
@@ -40262,8 +40261,7 @@
             "hp": 3
           },
           "abilities": [
-            "EmeraldRogue.Ability.ability",
-            ""
+            "pokemon.ability.aura_break"
           ],
           "hatchCycles": 120,
           "genderRatio": 255,
@@ -40297,8 +40295,7 @@
             "hp": 3
           },
           "abilities": [
-            "EmeraldRogue.Ability.ability",
-            ""
+            "pokemon.ability.power_construct"
           ],
           "hatchCycles": 120,
           "genderRatio": 255,
@@ -40332,8 +40329,7 @@
             "hp": 3
           },
           "abilities": [
-            "EmeraldRogue.Ability.ability",
-            ""
+            "pokemon.ability.power_construct"
           ],
           "hatchCycles": 120,
           "genderRatio": 255,
@@ -40367,8 +40363,7 @@
             "hp": 3
           },
           "abilities": [
-            "EmeraldRogue.Ability.ability",
-            ""
+            "pokemon.ability.power_construct"
           ],
           "hatchCycles": 120,
           "genderRatio": 255,
@@ -41688,11 +41683,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.dusk"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 1,
@@ -47659,9 +47654,6 @@
         {
           "to": 849,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 30
-            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.brave",
@@ -47677,6 +47669,9 @@
                 "pokemon.nature.sassy",
                 "pokemon.nature.quirky"
               ]
+            },
+            "pokemon.evolve.level": {
+              "number": 30
             }
           },
           "fromForm": 0,
@@ -47685,9 +47680,6 @@
         {
           "to": 849,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 30
-            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.lonely",
@@ -47703,6 +47695,9 @@
                 "pokemon.nature.gentle",
                 "pokemon.nature.careful"
               ]
+            },
+            "pokemon.evolve.level": {
+              "number": 30
             }
           },
           "fromForm": 0,
@@ -57982,9 +57977,9 @@
             "atk": 3
           },
           "abilities": [
-            "pokemon.ability.embody_aspect_teal_mask",
+            "pokemon.ability.embody_aspect_(teal)",
             "",
-            "pokemon.ability.embody_aspect_teal_mask"
+            "pokemon.ability.embody_aspect_(teal)"
           ],
           "hatchCycles": 10,
           "genderRatio": 254,
@@ -58017,9 +58012,9 @@
             "atk": 3
           },
           "abilities": [
-            "pokemon.ability.embody_aspect_wellspring_mask",
+            "pokemon.ability.embody_aspect_(wellspring)",
             "",
-            "pokemon.ability.embody_aspect_wellspring_mask"
+            "pokemon.ability.embody_aspect_(wellspring)"
           ],
           "hatchCycles": 10,
           "genderRatio": 254,
@@ -58053,9 +58048,9 @@
             "atk": 3
           },
           "abilities": [
-            "pokemon.ability.embody_aspect_hearthflame_mask",
+            "pokemon.ability.embody_aspect_(hearthflame)",
             "",
-            "pokemon.ability.embody_aspect_hearthflame_mask"
+            "pokemon.ability.embody_aspect_(hearthflame)"
           ],
           "hatchCycles": 10,
           "genderRatio": 254,
@@ -58089,9 +58084,9 @@
             "atk": 3
           },
           "abilities": [
-            "pokemon.ability.embody_aspect_cornerstone_mask",
+            "pokemon.ability.embody_aspect_(cornerstone)",
             "",
-            "pokemon.ability.embody_aspect_cornerstone_mask"
+            "pokemon.ability.embody_aspect_(cornerstone)"
           ],
           "hatchCycles": 10,
           "genderRatio": 254,

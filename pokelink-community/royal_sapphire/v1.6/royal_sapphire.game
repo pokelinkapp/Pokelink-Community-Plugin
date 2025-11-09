@@ -1,0 +1,41 @@
+{
+    "__import": {
+        "pokelink:/items/gen3.items": null,
+        "pokelink:/locations/gen3.locations": null,
+        "pokelink:/locations/rs.nuzloc": null,
+        "pokelink:/badges/hoenn.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink:/abilities/gen3.abilities": null,
+        "pokelink:/keybinds/rse.keybinds": null
+    },
+    "name": "Game.Name.royalSapphire",
+    "generation": 3,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/royal_sapphire/logo.png",
+    "lightTheme": {
+        "color": "#34bbec",
+        "darkText": true
+    },
+    "darkTheme": {
+        "color": "#34bbec",
+        "darkText": true
+    },
+    "priority": 0,
+    "pokedex": {
+        "auto": "pokelink-community:/royal_sapphire/v1.6/royal_sapphire.dex",
+        "manual": "pokelink-community:/royal_sapphire/v1.6/royal_sapphire.dex"
+    },
+    "delayEggHatch": true,
+    "moves": "pokelink:/moves/rs.moves",
+    "typeChart": "pokelink:/typeCharts/gen2.typeChart",
+    "hatchMultiplier": 256,
+    "gameId": "SAPPHIRE",
+    "console": "gba",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/royal_sapphire/v1.6/royal_sapphire.nav": null
+            }
+        }
+    ]
+}
