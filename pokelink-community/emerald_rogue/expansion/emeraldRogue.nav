@@ -9,7 +9,7 @@
 
         ]
     },
-    "partyReader": "pokelink.emeraldImperium.partyReader",
+    "partyReader": "pokelink.eex.partyReader",
     "ramComponents": [
         {
             "component": "pokelink.porygon.gen3.battle",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "component": "pokelink.porygon.gen3.emeraldImperium.party",
+            "component": "pokelink.porygon.gen3.emeraldRogue.party",
             "config": {
                 "playerPartyAddress": "0x02037780",
                 "maxSpeciesID": 1434,
