@@ -6,12 +6,13 @@ _valid_languages = [
     "de",
     "en",
     "es",
+    "es-419",
     "fr",
     "it",
     "ja",
     "ko",
-    "zh",
-    "zh2"
+    "zh-Hans",
+    "zh-Hant"
 ]
 
 _game_strings = {}

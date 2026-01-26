@@ -3,24 +3,31 @@
 isort:skip_file
 """
 
-import builtins
-import google.protobuf.descriptor
-import google.protobuf.message
-import typing
+from google.protobuf import descriptor as _descriptor
+from google.protobuf import message as _message
+import builtins as _builtins
+import sys
+import typing as _typing
 
-DESCRIPTOR: google.protobuf.descriptor.FileDescriptor
+if sys.version_info >= (3, 10):
+    from typing import TypeAlias as _TypeAlias
+else:
+    from typing_extensions import TypeAlias as _TypeAlias
 
-@typing.final
-class GlobalCommon(google.protobuf.message.Message):
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+DESCRIPTOR: _descriptor.FileDescriptor
 
-    VERSION_FIELD_NUMBER: builtins.int
-    version: builtins.str
+@_typing.final
+class GlobalCommon(_message.Message):
+    DESCRIPTOR: _descriptor.Descriptor
+
+    VERSION_FIELD_NUMBER: _builtins.int
+    version: _builtins.str
     def __init__(
         self,
         *,
-        version: builtins.str = ...,
+        version: _builtins.str = ...,
     ) -> None: ...
-    def ClearField(self, field_name: typing.Literal["version", b"version"]) -> None: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["version", b"version"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
 
-global___GlobalCommon = GlobalCommon
+Global___GlobalCommon: _TypeAlias = GlobalCommon  # noqa: Y015

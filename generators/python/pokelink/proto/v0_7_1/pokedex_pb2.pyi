@@ -3,319 +3,395 @@
 isort:skip_file
 """
 
-import builtins
-import collections.abc
-import google.protobuf.descriptor
-import google.protobuf.internal.containers
-import google.protobuf.message
-import typing
+from collections import abc as _abc
+from google.protobuf import descriptor as _descriptor
+from google.protobuf import message as _message
+from google.protobuf.internal import containers as _containers
+import builtins as _builtins
+import sys
+import typing as _typing
 
-DESCRIPTOR: google.protobuf.descriptor.FileDescriptor
+if sys.version_info >= (3, 10):
+    from typing import TypeAlias as _TypeAlias
+else:
+    from typing_extensions import TypeAlias as _TypeAlias
 
-@typing.final
-class EvolutionCondition(google.protobuf.message.Message):
+DESCRIPTOR: _descriptor.FileDescriptor
+
+@_typing.final
+class EvolutionCondition(_message.Message):
     """Only one of these fields will be used. We check in the order shown below"""
 
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+    DESCRIPTOR: _descriptor.Descriptor
 
-    @typing.final
-    class NestedEntry(google.protobuf.message.Message):
-        DESCRIPTOR: google.protobuf.descriptor.Descriptor
+    @_typing.final
+    class NestedEntry(_message.Message):
+        DESCRIPTOR: _descriptor.Descriptor
 
-        KEY_FIELD_NUMBER: builtins.int
-        VALUE_FIELD_NUMBER: builtins.int
-        key: builtins.str
-        @property
-        def value(self) -> global___EvolutionCondition: ...
+        KEY_FIELD_NUMBER: _builtins.int
+        VALUE_FIELD_NUMBER: _builtins.int
+        key: _builtins.str
+        @_builtins.property
+        def value(self) -> Global___EvolutionCondition: ...
         def __init__(
             self,
             *,
-            key: builtins.str = ...,
-            value: global___EvolutionCondition | None = ...,
+            key: _builtins.str = ...,
+            value: Global___EvolutionCondition | None = ...,
         ) -> None: ...
-        def HasField(self, field_name: typing.Literal["value", b"value"]) -> builtins.bool: ...
-        def ClearField(self, field_name: typing.Literal["key", b"key", "value", b"value"]) -> None: ...
+        _HasFieldArgType: _TypeAlias = _typing.Literal["value", b"value"]  # noqa: Y015
+        def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+        _ClearFieldArgType: _TypeAlias = _typing.Literal["key", b"key", "value", b"value"]  # noqa: Y015
+        def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
 
-    NUMBER_FIELD_NUMBER: builtins.int
-    FLOAT_FIELD_NUMBER: builtins.int
-    STRING_FIELD_NUMBER: builtins.int
-    NUMBERARRAY_FIELD_NUMBER: builtins.int
-    FLOATARRAY_FIELD_NUMBER: builtins.int
-    STRINGARRAY_FIELD_NUMBER: builtins.int
-    NESTED_FIELD_NUMBER: builtins.int
-    number: builtins.int
-    float: builtins.float
-    string: builtins.str
-    @property
-    def numberArray(self) -> google.protobuf.internal.containers.RepeatedScalarFieldContainer[builtins.int]: ...
-    @property
-    def floatArray(self) -> google.protobuf.internal.containers.RepeatedScalarFieldContainer[builtins.float]: ...
-    @property
-    def stringArray(self) -> google.protobuf.internal.containers.RepeatedScalarFieldContainer[builtins.str]: ...
-    @property
-    def nested(self) -> google.protobuf.internal.containers.MessageMap[builtins.str, global___EvolutionCondition]: ...
+    NUMBER_FIELD_NUMBER: _builtins.int
+    FLOAT_FIELD_NUMBER: _builtins.int
+    STRING_FIELD_NUMBER: _builtins.int
+    NUMBERARRAY_FIELD_NUMBER: _builtins.int
+    FLOATARRAY_FIELD_NUMBER: _builtins.int
+    STRINGARRAY_FIELD_NUMBER: _builtins.int
+    NESTED_FIELD_NUMBER: _builtins.int
+    number: _builtins.int
+    float: _builtins.float
+    string: _builtins.str
+    @_builtins.property
+    def numberArray(self) -> _containers.RepeatedScalarFieldContainer[_builtins.int]: ...
+    @_builtins.property
+    def floatArray(self) -> _containers.RepeatedScalarFieldContainer[_builtins.float]: ...
+    @_builtins.property
+    def stringArray(self) -> _containers.RepeatedScalarFieldContainer[_builtins.str]: ...
+    @_builtins.property
+    def nested(self) -> _containers.MessageMap[_builtins.str, Global___EvolutionCondition]: ...
     def __init__(
         self,
         *,
-        number: builtins.int | None = ...,
-        float: builtins.float | None = ...,
-        string: builtins.str | None = ...,
-        numberArray: collections.abc.Iterable[builtins.int] | None = ...,
-        floatArray: collections.abc.Iterable[builtins.float] | None = ...,
-        stringArray: collections.abc.Iterable[builtins.str] | None = ...,
-        nested: collections.abc.Mapping[builtins.str, global___EvolutionCondition] | None = ...,
+        number: _builtins.int | None = ...,
+        float: _builtins.float | None = ...,
+        string: _builtins.str | None = ...,
+        numberArray: _abc.Iterable[_builtins.int] | None = ...,
+        floatArray: _abc.Iterable[_builtins.float] | None = ...,
+        stringArray: _abc.Iterable[_builtins.str] | None = ...,
+        nested: _abc.Mapping[_builtins.str, Global___EvolutionCondition] | None = ...,
     ) -> None: ...
-    def HasField(self, field_name: typing.Literal["_float", b"_float", "_number", b"_number", "_string", b"_string", "float", b"float", "number", b"number", "string", b"string"]) -> builtins.bool: ...
-    def ClearField(self, field_name: typing.Literal["_float", b"_float", "_number", b"_number", "_string", b"_string", "float", b"float", "floatArray", b"floatArray", "nested", b"nested", "number", b"number", "numberArray", b"numberArray", "string", b"string", "stringArray", b"stringArray"]) -> None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_float", b"_float"]) -> typing.Literal["float"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_number", b"_number"]) -> typing.Literal["number"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_string", b"_string"]) -> typing.Literal["string"] | None: ...
+    _HasFieldArgType: _TypeAlias = _typing.Literal["_float", b"_float", "_number", b"_number", "_string", b"_string", "float", b"float", "number", b"number", "string", b"string"]  # noqa: Y015
+    def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["_float", b"_float", "_number", b"_number", "_string", b"_string", "float", b"float", "floatArray", b"floatArray", "nested", b"nested", "number", b"number", "numberArray", b"numberArray", "string", b"string", "stringArray", b"stringArray"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+    _WhichOneofReturnType__float: _TypeAlias = _typing.Literal["float"]  # noqa: Y015
+    _WhichOneofArgType__float: _TypeAlias = _typing.Literal["_float", b"_float"]  # noqa: Y015
+    _WhichOneofReturnType__number: _TypeAlias = _typing.Literal["number"]  # noqa: Y015
+    _WhichOneofArgType__number: _TypeAlias = _typing.Literal["_number", b"_number"]  # noqa: Y015
+    _WhichOneofReturnType__string: _TypeAlias = _typing.Literal["string"]  # noqa: Y015
+    _WhichOneofArgType__string: _TypeAlias = _typing.Literal["_string", b"_string"]  # noqa: Y015
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__float) -> _WhichOneofReturnType__float | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__number) -> _WhichOneofReturnType__number | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__string) -> _WhichOneofReturnType__string | None: ...
 
-global___EvolutionCondition = EvolutionCondition
+Global___EvolutionCondition: _TypeAlias = EvolutionCondition  # noqa: Y015
 
-@typing.final
-class Evolution(google.protobuf.message.Message):
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+@_typing.final
+class Evolution(_message.Message):
+    DESCRIPTOR: _descriptor.Descriptor
 
-    @typing.final
-    class ConditionsEntry(google.protobuf.message.Message):
-        DESCRIPTOR: google.protobuf.descriptor.Descriptor
+    @_typing.final
+    class ConditionsEntry(_message.Message):
+        DESCRIPTOR: _descriptor.Descriptor
 
-        KEY_FIELD_NUMBER: builtins.int
-        VALUE_FIELD_NUMBER: builtins.int
-        key: builtins.str
-        @property
-        def value(self) -> global___EvolutionCondition: ...
+        KEY_FIELD_NUMBER: _builtins.int
+        VALUE_FIELD_NUMBER: _builtins.int
+        key: _builtins.str
+        @_builtins.property
+        def value(self) -> Global___EvolutionCondition: ...
         def __init__(
             self,
             *,
-            key: builtins.str = ...,
-            value: global___EvolutionCondition | None = ...,
+            key: _builtins.str = ...,
+            value: Global___EvolutionCondition | None = ...,
         ) -> None: ...
-        def HasField(self, field_name: typing.Literal["value", b"value"]) -> builtins.bool: ...
-        def ClearField(self, field_name: typing.Literal["key", b"key", "value", b"value"]) -> None: ...
+        _HasFieldArgType: _TypeAlias = _typing.Literal["value", b"value"]  # noqa: Y015
+        def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+        _ClearFieldArgType: _TypeAlias = _typing.Literal["key", b"key", "value", b"value"]  # noqa: Y015
+        def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
 
-    TO_FIELD_NUMBER: builtins.int
-    CONDITIONS_FIELD_NUMBER: builtins.int
-    FROMFORM_FIELD_NUMBER: builtins.int
-    TOFORM_FIELD_NUMBER: builtins.int
-    to: builtins.int
-    fromForm: builtins.int
-    toForm: builtins.int
-    @property
-    def conditions(self) -> google.protobuf.internal.containers.MessageMap[builtins.str, global___EvolutionCondition]: ...
+    TO_FIELD_NUMBER: _builtins.int
+    CONDITIONS_FIELD_NUMBER: _builtins.int
+    FROMFORM_FIELD_NUMBER: _builtins.int
+    TOFORM_FIELD_NUMBER: _builtins.int
+    to: _builtins.int
+    fromForm: _builtins.int
+    toForm: _builtins.int
+    @_builtins.property
+    def conditions(self) -> _containers.MessageMap[_builtins.str, Global___EvolutionCondition]: ...
     def __init__(
         self,
         *,
-        to: builtins.int = ...,
-        conditions: collections.abc.Mapping[builtins.str, global___EvolutionCondition] | None = ...,
-        fromForm: builtins.int | None = ...,
-        toForm: builtins.int | None = ...,
+        to: _builtins.int = ...,
+        conditions: _abc.Mapping[_builtins.str, Global___EvolutionCondition] | None = ...,
+        fromForm: _builtins.int | None = ...,
+        toForm: _builtins.int | None = ...,
     ) -> None: ...
-    def HasField(self, field_name: typing.Literal["_fromForm", b"_fromForm", "_toForm", b"_toForm", "fromForm", b"fromForm", "toForm", b"toForm"]) -> builtins.bool: ...
-    def ClearField(self, field_name: typing.Literal["_fromForm", b"_fromForm", "_toForm", b"_toForm", "conditions", b"conditions", "fromForm", b"fromForm", "to", b"to", "toForm", b"toForm"]) -> None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_fromForm", b"_fromForm"]) -> typing.Literal["fromForm"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_toForm", b"_toForm"]) -> typing.Literal["toForm"] | None: ...
+    _HasFieldArgType: _TypeAlias = _typing.Literal["_fromForm", b"_fromForm", "_toForm", b"_toForm", "fromForm", b"fromForm", "toForm", b"toForm"]  # noqa: Y015
+    def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["_fromForm", b"_fromForm", "_toForm", b"_toForm", "conditions", b"conditions", "fromForm", b"fromForm", "to", b"to", "toForm", b"toForm"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+    _WhichOneofReturnType__fromForm: _TypeAlias = _typing.Literal["fromForm"]  # noqa: Y015
+    _WhichOneofArgType__fromForm: _TypeAlias = _typing.Literal["_fromForm", b"_fromForm"]  # noqa: Y015
+    _WhichOneofReturnType__toForm: _TypeAlias = _typing.Literal["toForm"]  # noqa: Y015
+    _WhichOneofArgType__toForm: _TypeAlias = _typing.Literal["_toForm", b"_toForm"]  # noqa: Y015
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__fromForm) -> _WhichOneofReturnType__fromForm | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__toForm) -> _WhichOneofReturnType__toForm | None: ...
 
-global___Evolution = Evolution
+Global___Evolution: _TypeAlias = Evolution  # noqa: Y015
 
-@typing.final
-class Stats(google.protobuf.message.Message):
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+@_typing.final
+class Stats(_message.Message):
+    DESCRIPTOR: _descriptor.Descriptor
 
-    HP_FIELD_NUMBER: builtins.int
-    ATTACK_FIELD_NUMBER: builtins.int
-    DEFENSE_FIELD_NUMBER: builtins.int
-    SPECIALATTACK_FIELD_NUMBER: builtins.int
-    SPECIALDEFENSE_FIELD_NUMBER: builtins.int
-    SPEED_FIELD_NUMBER: builtins.int
-    hp: builtins.int
-    attack: builtins.int
-    defense: builtins.int
-    specialAttack: builtins.int
-    specialDefense: builtins.int
-    speed: builtins.int
+    HP_FIELD_NUMBER: _builtins.int
+    ATTACK_FIELD_NUMBER: _builtins.int
+    DEFENSE_FIELD_NUMBER: _builtins.int
+    SPECIALATTACK_FIELD_NUMBER: _builtins.int
+    SPECIALDEFENSE_FIELD_NUMBER: _builtins.int
+    SPEED_FIELD_NUMBER: _builtins.int
+    hp: _builtins.int
+    attack: _builtins.int
+    defense: _builtins.int
+    specialAttack: _builtins.int
+    specialDefense: _builtins.int
+    speed: _builtins.int
     def __init__(
         self,
         *,
-        hp: builtins.int | None = ...,
-        attack: builtins.int | None = ...,
-        defense: builtins.int | None = ...,
-        specialAttack: builtins.int | None = ...,
-        specialDefense: builtins.int | None = ...,
-        speed: builtins.int | None = ...,
+        hp: _builtins.int | None = ...,
+        attack: _builtins.int | None = ...,
+        defense: _builtins.int | None = ...,
+        specialAttack: _builtins.int | None = ...,
+        specialDefense: _builtins.int | None = ...,
+        speed: _builtins.int | None = ...,
     ) -> None: ...
-    def HasField(self, field_name: typing.Literal["_attack", b"_attack", "_defense", b"_defense", "_hp", b"_hp", "_specialAttack", b"_specialAttack", "_specialDefense", b"_specialDefense", "_speed", b"_speed", "attack", b"attack", "defense", b"defense", "hp", b"hp", "specialAttack", b"specialAttack", "specialDefense", b"specialDefense", "speed", b"speed"]) -> builtins.bool: ...
-    def ClearField(self, field_name: typing.Literal["_attack", b"_attack", "_defense", b"_defense", "_hp", b"_hp", "_specialAttack", b"_specialAttack", "_specialDefense", b"_specialDefense", "_speed", b"_speed", "attack", b"attack", "defense", b"defense", "hp", b"hp", "specialAttack", b"specialAttack", "specialDefense", b"specialDefense", "speed", b"speed"]) -> None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_attack", b"_attack"]) -> typing.Literal["attack"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_defense", b"_defense"]) -> typing.Literal["defense"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_hp", b"_hp"]) -> typing.Literal["hp"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_specialAttack", b"_specialAttack"]) -> typing.Literal["specialAttack"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_specialDefense", b"_specialDefense"]) -> typing.Literal["specialDefense"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_speed", b"_speed"]) -> typing.Literal["speed"] | None: ...
+    _HasFieldArgType: _TypeAlias = _typing.Literal["_attack", b"_attack", "_defense", b"_defense", "_hp", b"_hp", "_specialAttack", b"_specialAttack", "_specialDefense", b"_specialDefense", "_speed", b"_speed", "attack", b"attack", "defense", b"defense", "hp", b"hp", "specialAttack", b"specialAttack", "specialDefense", b"specialDefense", "speed", b"speed"]  # noqa: Y015
+    def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["_attack", b"_attack", "_defense", b"_defense", "_hp", b"_hp", "_specialAttack", b"_specialAttack", "_specialDefense", b"_specialDefense", "_speed", b"_speed", "attack", b"attack", "defense", b"defense", "hp", b"hp", "specialAttack", b"specialAttack", "specialDefense", b"specialDefense", "speed", b"speed"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+    _WhichOneofReturnType__attack: _TypeAlias = _typing.Literal["attack"]  # noqa: Y015
+    _WhichOneofArgType__attack: _TypeAlias = _typing.Literal["_attack", b"_attack"]  # noqa: Y015
+    _WhichOneofReturnType__defense: _TypeAlias = _typing.Literal["defense"]  # noqa: Y015
+    _WhichOneofArgType__defense: _TypeAlias = _typing.Literal["_defense", b"_defense"]  # noqa: Y015
+    _WhichOneofReturnType__hp: _TypeAlias = _typing.Literal["hp"]  # noqa: Y015
+    _WhichOneofArgType__hp: _TypeAlias = _typing.Literal["_hp", b"_hp"]  # noqa: Y015
+    _WhichOneofReturnType__specialAttack: _TypeAlias = _typing.Literal["specialAttack"]  # noqa: Y015
+    _WhichOneofArgType__specialAttack: _TypeAlias = _typing.Literal["_specialAttack", b"_specialAttack"]  # noqa: Y015
+    _WhichOneofReturnType__specialDefense: _TypeAlias = _typing.Literal["specialDefense"]  # noqa: Y015
+    _WhichOneofArgType__specialDefense: _TypeAlias = _typing.Literal["_specialDefense", b"_specialDefense"]  # noqa: Y015
+    _WhichOneofReturnType__speed: _TypeAlias = _typing.Literal["speed"]  # noqa: Y015
+    _WhichOneofArgType__speed: _TypeAlias = _typing.Literal["_speed", b"_speed"]  # noqa: Y015
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__attack) -> _WhichOneofReturnType__attack | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__defense) -> _WhichOneofReturnType__defense | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__hp) -> _WhichOneofReturnType__hp | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__specialAttack) -> _WhichOneofReturnType__specialAttack | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__specialDefense) -> _WhichOneofReturnType__specialDefense | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__speed) -> _WhichOneofReturnType__speed | None: ...
 
-global___Stats = Stats
+Global___Stats: _TypeAlias = Stats  # noqa: Y015
 
-@typing.final
-class Sprites(google.protobuf.message.Message):
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+@_typing.final
+class Sprites(_message.Message):
+    DESCRIPTOR: _descriptor.Descriptor
 
-    PARTY_FIELD_NUMBER: builtins.int
-    NORMAL_FIELD_NUMBER: builtins.int
-    SHINY_FIELD_NUMBER: builtins.int
-    FEMALE_FIELD_NUMBER: builtins.int
-    FEMALESHINY_FIELD_NUMBER: builtins.int
-    party: builtins.str
-    normal: builtins.str
-    shiny: builtins.str
-    female: builtins.str
-    femaleShiny: builtins.str
+    PARTY_FIELD_NUMBER: _builtins.int
+    NORMAL_FIELD_NUMBER: _builtins.int
+    SHINY_FIELD_NUMBER: _builtins.int
+    FEMALE_FIELD_NUMBER: _builtins.int
+    FEMALESHINY_FIELD_NUMBER: _builtins.int
+    party: _builtins.str
+    normal: _builtins.str
+    shiny: _builtins.str
+    female: _builtins.str
+    femaleShiny: _builtins.str
     def __init__(
         self,
         *,
-        party: builtins.str = ...,
-        normal: builtins.str = ...,
-        shiny: builtins.str = ...,
-        female: builtins.str | None = ...,
-        femaleShiny: builtins.str | None = ...,
+        party: _builtins.str = ...,
+        normal: _builtins.str = ...,
+        shiny: _builtins.str = ...,
+        female: _builtins.str | None = ...,
+        femaleShiny: _builtins.str | None = ...,
     ) -> None: ...
-    def HasField(self, field_name: typing.Literal["_female", b"_female", "_femaleShiny", b"_femaleShiny", "female", b"female", "femaleShiny", b"femaleShiny"]) -> builtins.bool: ...
-    def ClearField(self, field_name: typing.Literal["_female", b"_female", "_femaleShiny", b"_femaleShiny", "female", b"female", "femaleShiny", b"femaleShiny", "normal", b"normal", "party", b"party", "shiny", b"shiny"]) -> None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_female", b"_female"]) -> typing.Literal["female"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_femaleShiny", b"_femaleShiny"]) -> typing.Literal["femaleShiny"] | None: ...
+    _HasFieldArgType: _TypeAlias = _typing.Literal["_female", b"_female", "_femaleShiny", b"_femaleShiny", "female", b"female", "femaleShiny", b"femaleShiny"]  # noqa: Y015
+    def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["_female", b"_female", "_femaleShiny", b"_femaleShiny", "female", b"female", "femaleShiny", b"femaleShiny", "normal", b"normal", "party", b"party", "shiny", b"shiny"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+    _WhichOneofReturnType__female: _TypeAlias = _typing.Literal["female"]  # noqa: Y015
+    _WhichOneofArgType__female: _TypeAlias = _typing.Literal["_female", b"_female"]  # noqa: Y015
+    _WhichOneofReturnType__femaleShiny: _TypeAlias = _typing.Literal["femaleShiny"]  # noqa: Y015
+    _WhichOneofArgType__femaleShiny: _TypeAlias = _typing.Literal["_femaleShiny", b"_femaleShiny"]  # noqa: Y015
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__female) -> _WhichOneofReturnType__female | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__femaleShiny) -> _WhichOneofReturnType__femaleShiny | None: ...
 
-global___Sprites = Sprites
+Global___Sprites: _TypeAlias = Sprites  # noqa: Y015
 
-@typing.final
-class Species(google.protobuf.message.Message):
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+@_typing.final
+class Species(_message.Message):
+    DESCRIPTOR: _descriptor.Descriptor
 
-    ID_FIELD_NUMBER: builtins.int
-    NAME_FIELD_NUMBER: builtins.int
-    SPRITES_FIELD_NUMBER: builtins.int
-    GAMEID_FIELD_NUMBER: builtins.int
-    FORM_FIELD_NUMBER: builtins.int
-    FORMNAME_FIELD_NUMBER: builtins.int
-    BASESTATS_FIELD_NUMBER: builtins.int
-    BASEFRIENDSHIP_FIELD_NUMBER: builtins.int
-    EVYIELD_FIELD_NUMBER: builtins.int
-    ABILITIES_FIELD_NUMBER: builtins.int
-    COLOR_FIELD_NUMBER: builtins.int
-    HEIGHT_FIELD_NUMBER: builtins.int
-    WEIGHT_FIELD_NUMBER: builtins.int
-    HATCHCYCLES_FIELD_NUMBER: builtins.int
-    GENDERRATIO_FIELD_NUMBER: builtins.int
-    CATCHRATE_FIELD_NUMBER: builtins.int
-    TYPES_FIELD_NUMBER: builtins.int
-    GROWTHRATE_FIELD_NUMBER: builtins.int
-    EVOLUTIONS_FIELD_NUMBER: builtins.int
-    FORMS_FIELD_NUMBER: builtins.int
-    id: builtins.int
-    name: builtins.str
-    gameId: builtins.int
-    form: builtins.int
-    formName: builtins.str
-    baseFriendship: builtins.int
-    color: builtins.str
-    height: builtins.int
-    weight: builtins.int
-    hatchCycles: builtins.int
-    genderRatio: builtins.int
-    catchRate: builtins.int
-    growthRate: builtins.int
-    @property
-    def sprites(self) -> global___Sprites: ...
-    @property
-    def baseStats(self) -> global___Stats: ...
-    @property
-    def evYield(self) -> global___Stats: ...
-    @property
-    def abilities(self) -> google.protobuf.internal.containers.RepeatedScalarFieldContainer[builtins.str]: ...
-    @property
-    def types(self) -> google.protobuf.internal.containers.RepeatedScalarFieldContainer[builtins.str]: ...
-    @property
-    def evolutions(self) -> google.protobuf.internal.containers.RepeatedCompositeFieldContainer[global___Evolution]: ...
-    @property
-    def forms(self) -> google.protobuf.internal.containers.RepeatedCompositeFieldContainer[global___Species]: ...
+    ID_FIELD_NUMBER: _builtins.int
+    NAME_FIELD_NUMBER: _builtins.int
+    SPRITES_FIELD_NUMBER: _builtins.int
+    GAMEID_FIELD_NUMBER: _builtins.int
+    FORM_FIELD_NUMBER: _builtins.int
+    FORMNAME_FIELD_NUMBER: _builtins.int
+    BASESTATS_FIELD_NUMBER: _builtins.int
+    BASEFRIENDSHIP_FIELD_NUMBER: _builtins.int
+    EVYIELD_FIELD_NUMBER: _builtins.int
+    ABILITIES_FIELD_NUMBER: _builtins.int
+    COLOR_FIELD_NUMBER: _builtins.int
+    HEIGHT_FIELD_NUMBER: _builtins.int
+    WEIGHT_FIELD_NUMBER: _builtins.int
+    HATCHCYCLES_FIELD_NUMBER: _builtins.int
+    GENDERRATIO_FIELD_NUMBER: _builtins.int
+    CATCHRATE_FIELD_NUMBER: _builtins.int
+    TYPES_FIELD_NUMBER: _builtins.int
+    GROWTHRATE_FIELD_NUMBER: _builtins.int
+    EVOLUTIONS_FIELD_NUMBER: _builtins.int
+    FORMS_FIELD_NUMBER: _builtins.int
+    MAXHEARTGAUGE_FIELD_NUMBER: _builtins.int
+    id: _builtins.int
+    name: _builtins.str
+    gameId: _builtins.int
+    form: _builtins.int
+    formName: _builtins.str
+    baseFriendship: _builtins.int
+    color: _builtins.str
+    height: _builtins.int
+    weight: _builtins.int
+    hatchCycles: _builtins.int
+    genderRatio: _builtins.int
+    catchRate: _builtins.int
+    growthRate: _builtins.int
+    maxHeartGauge: _builtins.int
+    @_builtins.property
+    def sprites(self) -> Global___Sprites: ...
+    @_builtins.property
+    def baseStats(self) -> Global___Stats: ...
+    @_builtins.property
+    def evYield(self) -> Global___Stats: ...
+    @_builtins.property
+    def abilities(self) -> _containers.RepeatedScalarFieldContainer[_builtins.str]: ...
+    @_builtins.property
+    def types(self) -> _containers.RepeatedScalarFieldContainer[_builtins.str]: ...
+    @_builtins.property
+    def evolutions(self) -> _containers.RepeatedCompositeFieldContainer[Global___Evolution]: ...
+    @_builtins.property
+    def forms(self) -> _containers.RepeatedCompositeFieldContainer[Global___Species]: ...
     def __init__(
         self,
         *,
-        id: builtins.int | None = ...,
-        name: builtins.str = ...,
-        sprites: global___Sprites | None = ...,
-        gameId: builtins.int | None = ...,
-        form: builtins.int | None = ...,
-        formName: builtins.str | None = ...,
-        baseStats: global___Stats | None = ...,
-        baseFriendship: builtins.int | None = ...,
-        evYield: global___Stats | None = ...,
-        abilities: collections.abc.Iterable[builtins.str] | None = ...,
-        color: builtins.str | None = ...,
-        height: builtins.int | None = ...,
-        weight: builtins.int | None = ...,
-        hatchCycles: builtins.int | None = ...,
-        genderRatio: builtins.int | None = ...,
-        catchRate: builtins.int = ...,
-        types: collections.abc.Iterable[builtins.str] | None = ...,
-        growthRate: builtins.int = ...,
-        evolutions: collections.abc.Iterable[global___Evolution] | None = ...,
-        forms: collections.abc.Iterable[global___Species] | None = ...,
+        id: _builtins.int | None = ...,
+        name: _builtins.str = ...,
+        sprites: Global___Sprites | None = ...,
+        gameId: _builtins.int | None = ...,
+        form: _builtins.int | None = ...,
+        formName: _builtins.str | None = ...,
+        baseStats: Global___Stats | None = ...,
+        baseFriendship: _builtins.int | None = ...,
+        evYield: Global___Stats | None = ...,
+        abilities: _abc.Iterable[_builtins.str] | None = ...,
+        color: _builtins.str | None = ...,
+        height: _builtins.int | None = ...,
+        weight: _builtins.int | None = ...,
+        hatchCycles: _builtins.int | None = ...,
+        genderRatio: _builtins.int | None = ...,
+        catchRate: _builtins.int = ...,
+        types: _abc.Iterable[_builtins.str] | None = ...,
+        growthRate: _builtins.int = ...,
+        evolutions: _abc.Iterable[Global___Evolution] | None = ...,
+        forms: _abc.Iterable[Global___Species] | None = ...,
+        maxHeartGauge: _builtins.int | None = ...,
     ) -> None: ...
-    def HasField(self, field_name: typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_weight", b"_weight", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "color", b"color", "evYield", b"evYield", "form", b"form", "formName", b"formName", "gameId", b"gameId", "genderRatio", b"genderRatio", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "sprites", b"sprites", "weight", b"weight"]) -> builtins.bool: ...
-    def ClearField(self, field_name: typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_weight", b"_weight", "abilities", b"abilities", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "catchRate", b"catchRate", "color", b"color", "evYield", b"evYield", "evolutions", b"evolutions", "form", b"form", "formName", b"formName", "forms", b"forms", "gameId", b"gameId", "genderRatio", b"genderRatio", "growthRate", b"growthRate", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "name", b"name", "sprites", b"sprites", "types", b"types", "weight", b"weight"]) -> None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_baseFriendship", b"_baseFriendship"]) -> typing.Literal["baseFriendship"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_color", b"_color"]) -> typing.Literal["color"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_evYield", b"_evYield"]) -> typing.Literal["evYield"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_form", b"_form"]) -> typing.Literal["form"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_formName", b"_formName"]) -> typing.Literal["formName"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_gameId", b"_gameId"]) -> typing.Literal["gameId"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_genderRatio", b"_genderRatio"]) -> typing.Literal["genderRatio"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_hatchCycles", b"_hatchCycles"]) -> typing.Literal["hatchCycles"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_height", b"_height"]) -> typing.Literal["height"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_id", b"_id"]) -> typing.Literal["id"] | None: ...
-    @typing.overload
-    def WhichOneof(self, oneof_group: typing.Literal["_weight", b"_weight"]) -> typing.Literal["weight"] | None: ...
+    _HasFieldArgType: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_maxHeartGauge", b"_maxHeartGauge", "_weight", b"_weight", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "color", b"color", "evYield", b"evYield", "form", b"form", "formName", b"formName", "gameId", b"gameId", "genderRatio", b"genderRatio", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "maxHeartGauge", b"maxHeartGauge", "sprites", b"sprites", "weight", b"weight"]  # noqa: Y015
+    def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_maxHeartGauge", b"_maxHeartGauge", "_weight", b"_weight", "abilities", b"abilities", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "catchRate", b"catchRate", "color", b"color", "evYield", b"evYield", "evolutions", b"evolutions", "form", b"form", "formName", b"formName", "forms", b"forms", "gameId", b"gameId", "genderRatio", b"genderRatio", "growthRate", b"growthRate", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "maxHeartGauge", b"maxHeartGauge", "name", b"name", "sprites", b"sprites", "types", b"types", "weight", b"weight"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+    _WhichOneofReturnType__baseFriendship: _TypeAlias = _typing.Literal["baseFriendship"]  # noqa: Y015
+    _WhichOneofArgType__baseFriendship: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship"]  # noqa: Y015
+    _WhichOneofReturnType__color: _TypeAlias = _typing.Literal["color"]  # noqa: Y015
+    _WhichOneofArgType__color: _TypeAlias = _typing.Literal["_color", b"_color"]  # noqa: Y015
+    _WhichOneofReturnType__evYield: _TypeAlias = _typing.Literal["evYield"]  # noqa: Y015
+    _WhichOneofArgType__evYield: _TypeAlias = _typing.Literal["_evYield", b"_evYield"]  # noqa: Y015
+    _WhichOneofReturnType__form: _TypeAlias = _typing.Literal["form"]  # noqa: Y015
+    _WhichOneofArgType__form: _TypeAlias = _typing.Literal["_form", b"_form"]  # noqa: Y015
+    _WhichOneofReturnType__formName: _TypeAlias = _typing.Literal["formName"]  # noqa: Y015
+    _WhichOneofArgType__formName: _TypeAlias = _typing.Literal["_formName", b"_formName"]  # noqa: Y015
+    _WhichOneofReturnType__gameId: _TypeAlias = _typing.Literal["gameId"]  # noqa: Y015
+    _WhichOneofArgType__gameId: _TypeAlias = _typing.Literal["_gameId", b"_gameId"]  # noqa: Y015
+    _WhichOneofReturnType__genderRatio: _TypeAlias = _typing.Literal["genderRatio"]  # noqa: Y015
+    _WhichOneofArgType__genderRatio: _TypeAlias = _typing.Literal["_genderRatio", b"_genderRatio"]  # noqa: Y015
+    _WhichOneofReturnType__hatchCycles: _TypeAlias = _typing.Literal["hatchCycles"]  # noqa: Y015
+    _WhichOneofArgType__hatchCycles: _TypeAlias = _typing.Literal["_hatchCycles", b"_hatchCycles"]  # noqa: Y015
+    _WhichOneofReturnType__height: _TypeAlias = _typing.Literal["height"]  # noqa: Y015
+    _WhichOneofArgType__height: _TypeAlias = _typing.Literal["_height", b"_height"]  # noqa: Y015
+    _WhichOneofReturnType__id: _TypeAlias = _typing.Literal["id"]  # noqa: Y015
+    _WhichOneofArgType__id: _TypeAlias = _typing.Literal["_id", b"_id"]  # noqa: Y015
+    _WhichOneofReturnType__maxHeartGauge: _TypeAlias = _typing.Literal["maxHeartGauge"]  # noqa: Y015
+    _WhichOneofArgType__maxHeartGauge: _TypeAlias = _typing.Literal["_maxHeartGauge", b"_maxHeartGauge"]  # noqa: Y015
+    _WhichOneofReturnType__weight: _TypeAlias = _typing.Literal["weight"]  # noqa: Y015
+    _WhichOneofArgType__weight: _TypeAlias = _typing.Literal["_weight", b"_weight"]  # noqa: Y015
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__baseFriendship) -> _WhichOneofReturnType__baseFriendship | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__color) -> _WhichOneofReturnType__color | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__evYield) -> _WhichOneofReturnType__evYield | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__form) -> _WhichOneofReturnType__form | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__formName) -> _WhichOneofReturnType__formName | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__gameId) -> _WhichOneofReturnType__gameId | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__genderRatio) -> _WhichOneofReturnType__genderRatio | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__hatchCycles) -> _WhichOneofReturnType__hatchCycles | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__height) -> _WhichOneofReturnType__height | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__id) -> _WhichOneofReturnType__id | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__maxHeartGauge) -> _WhichOneofReturnType__maxHeartGauge | None: ...
+    @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__weight) -> _WhichOneofReturnType__weight | None: ...
 
-global___Species = Species
+Global___Species: _TypeAlias = Species  # noqa: Y015
 
-@typing.final
-class Pokedex(google.protobuf.message.Message):
-    DESCRIPTOR: google.protobuf.descriptor.Descriptor
+@_typing.final
+class Pokedex(_message.Message):
+    DESCRIPTOR: _descriptor.Descriptor
 
-    VERSION_FIELD_NUMBER: builtins.int
-    ENTRIES_FIELD_NUMBER: builtins.int
-    version: builtins.str
-    @property
-    def entries(self) -> google.protobuf.internal.containers.RepeatedCompositeFieldContainer[global___Species]: ...
+    VERSION_FIELD_NUMBER: _builtins.int
+    ENTRIES_FIELD_NUMBER: _builtins.int
+    version: _builtins.str
+    @_builtins.property
+    def entries(self) -> _containers.RepeatedCompositeFieldContainer[Global___Species]: ...
     def __init__(
         self,
         *,
-        version: builtins.str = ...,
-        entries: collections.abc.Iterable[global___Species] | None = ...,
+        version: _builtins.str = ...,
+        entries: _abc.Iterable[Global___Species] | None = ...,
     ) -> None: ...
-    def ClearField(self, field_name: typing.Literal["entries", b"entries", "version", b"version"]) -> None: ...
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["entries", b"entries", "version", b"version"]  # noqa: Y015
+    def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
 
-global___Pokedex = Pokedex
+Global___Pokedex: _TypeAlias = Pokedex  # noqa: Y015

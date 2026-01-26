@@ -13005,11 +13005,11 @@
         {
           "to": 982,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 24
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.randomPersonality"
+            },
+            "pokemon.evolve.level": {
+              "number": 24
             }
           },
           "fromForm": 0,
@@ -13018,11 +13018,11 @@
         {
           "to": 982,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 24
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.randomPersonality"
+            },
+            "pokemon.evolve.level": {
+              "number": 24
             }
           },
           "fromForm": 0,
@@ -16038,11 +16038,11 @@
         {
           "to": 266,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 7
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.randomPersonality"
+            },
+            "pokemon.evolve.level": {
+              "number": 7
             }
           },
           "fromForm": 0,
@@ -16051,11 +16051,11 @@
         {
           "to": 268,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 7
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.randomPersonality"
+            },
+            "pokemon.evolve.level": {
+              "number": 7
             }
           },
           "fromForm": 0,
@@ -47654,6 +47654,9 @@
         {
           "to": 849,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 30
+            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.brave",
@@ -47669,9 +47672,6 @@
                 "pokemon.nature.sassy",
                 "pokemon.nature.quirky"
               ]
-            },
-            "pokemon.evolve.level": {
-              "number": 30
             }
           },
           "fromForm": 0,
@@ -47680,6 +47680,9 @@
         {
           "to": 849,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 30
+            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.lonely",
@@ -47695,9 +47698,6 @@
                 "pokemon.nature.gentle",
                 "pokemon.nature.careful"
               ]
-            },
-            "pokemon.evolve.level": {
-              "number": 30
             }
           },
           "fromForm": 0,
@@ -53849,11 +53849,11 @@
         {
           "to": 925,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.rare"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 0,
