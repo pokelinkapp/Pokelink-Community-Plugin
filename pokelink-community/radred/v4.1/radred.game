@@ -1,0 +1,41 @@
+{
+    "__import": {
+        "pokelink-community:/radred/v4.1/radred.items": null,
+        "pokelink:/locations/gen3.locations": null,
+        "pokelink:/locations/frlg.nuzloc": null,
+        "pokelink:/badges/kanto.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink-community:/radred/v4.1/radred.abilities": null,
+        "pokelink:/keybinds/frlg.keybinds": null,
+        "pokelink-community:/radred/v4.1/radred.exp": null
+    },
+    "name": "Game.Name.radicalRed",
+    "generation": 9,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/radred/logo.png",
+    "lightTheme": {
+        "color": "#ef4444",
+        "darkText": true
+    },
+    "darkTheme": {
+        "color": "#ef4444",
+        "darkText": true
+    },
+    "priority": 2,
+    "pokedex": {
+        "auto": "pokelink-community:/radred/v4.1/radred.dex",
+        "manual": "pokelink-community:/radred/v4.1/radred.dex"
+    },
+    "delayEggHatch": true,
+    "typeChart": "pokelink:/typeCharts/gen6.typeChart",
+    "hatchMultiplier": 256,
+    "gameId": "FIRE_RED",
+    "console": "gba",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/radred/v4.1/radred.nav": null
+            }
+        }
+    ]
+}

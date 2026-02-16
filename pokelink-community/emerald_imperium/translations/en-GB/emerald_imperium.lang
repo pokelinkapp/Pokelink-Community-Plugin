@@ -1,0 +1,18 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Name": {
+                "emeraldImperium": "Emerald Imperium"
+            },
+            "Subtitle": {
+                "v1.3.1": "v1.3.1"
+            }
+        },
+        "EmeraldImperium": {
+            "Type": {
+                "mystery": "Mystery"
+            }
+        }
+    }
+}

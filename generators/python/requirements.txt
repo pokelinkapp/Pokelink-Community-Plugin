@@ -1,0 +1,4 @@
+protobuf
+mypy-protobuf
+types-protobuf
+pillow

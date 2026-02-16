@@ -1,0 +1,5830 @@
+{
+    "version": "0.7.1",
+    "entries": [
+        {
+            "id": 1,
+            "name": "mariomon.species.piranha_plant",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/piranhaplant.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/piranhaplant.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/piranhaplant.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 75,
+                "def": 55,
+                "spAtk": 35,
+                "spDef": 35,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.overgrow",
+                "",
+                "mariomon.ability.unburden"
+            ],
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "mariomon.species.peewee_piranha",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/peeweepiranha.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/peeweepiranha.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/peeweepiranha.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 100,
+                "def": 75,
+                "spAtk": 45,
+                "spDef": 45,
+                "spd": 70
+            },
+            "abilities": [
+                "mariomon.ability.overgrow",
+                "",
+                "mariomon.ability.unburden"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "mariomon.species.petey_piranha",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/peteypiranha.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/peteypiranha.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/peteypiranha.png"
+            },
+            "baseStats": {
+                "hp": 105,
+                "atk": 130,
+                "def": 100,
+                "spAtk": 55,
+                "spDef": 55,
+                "spd": 85
+            },
+            "abilities": [
+                "mariomon.ability.overgrow",
+                "",
+                "mariomon.ability.unburden"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "mariomon.species.blooper",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/blooper.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/blooper.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/blooper.png"
+            },
+            "baseStats": {
+                "hp": 45,
+                "atk": 50,
+                "def": 30,
+                "spAtk": 60,
+                "spDef": 80,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.torrent",
+                "",
+                "mariomon.ability.sticky_hold"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "mariomon.species.bubble_blooper",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bubbleblooper.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bubbleblooper.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bubbleblooper.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 60,
+                "def": 40,
+                "spAtk": 90,
+                "spDef": 100,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.torrent",
+                "",
+                "mariomon.ability.sticky_hold"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "mariomon.species.gooper_blooper",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/gooperblooper.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/gooperblooper.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/gooperblooper.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 65,
+                "def": 75,
+                "spAtk": 130,
+                "spDef": 110,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.torrent",
+                "",
+                "mariomon.ability.sticky_hold"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water",
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "mariomon.species.bob_omb",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bobomb.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bobomb.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bobomb.png"
+            },
+            "baseStats": {
+                "hp": 105,
+                "atk": 70,
+                "def": 25,
+                "spAtk": 50,
+                "spDef": 20,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.blaze",
+                "",
+                "mariomon.ability.aftermath"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "mariomon.species.chuckya",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/chuckya.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/chuckya.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/chuckya.png"
+            },
+            "baseStats": {
+                "hp": 150,
+                "atk": 100,
+                "def": 30,
+                "spAtk": 65,
+                "spDef": 30,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.blaze",
+                "",
+                "mariomon.ability.aftermath"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "mariomon.species.king_bob_omb",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/kingbobomb.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/kingbobomb.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/kingbobomb.png"
+            },
+            "baseStats": {
+                "hp": 185,
+                "atk": 120,
+                "def": 45,
+                "spAtk": 80,
+                "spDef": 45,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.blaze",
+                "",
+                "mariomon.ability.aftermath"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "mariomon.species.goomba",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/goomba.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/goomba.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/goomba.png"
+            },
+            "baseStats": {
+                "hp": 35,
+                "atk": 50,
+                "def": 25,
+                "spAtk": 20,
+                "spDef": 35,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.quick_feet",
+                "mariomon.ability.run_away",
+                "mariomon.ability.unnerve"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "mariomon.species.goomba_stack",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/goombastack.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/goombastack.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/goombastack.png"
+            },
+            "baseStats": {
+                "hp": 105,
+                "atk": 100,
+                "def": 50,
+                "spAtk": 60,
+                "spDef": 60,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.quick_feet",
+                "mariomon.ability.run_away",
+                "mariomon.ability.unnerve"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "mariomon.species.ant_trooper",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/anttrooper.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/anttrooper.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/anttrooper.png"
+            },
+            "baseStats": {
+                "hp": 35,
+                "atk": 55,
+                "def": 40,
+                "spAtk": 30,
+                "spDef": 40,
+                "spd": 20
+            },
+            "abilities": [
+                "mariomon.ability.swarm",
+                "mariomon.ability.shield_dust",
+                "mariomon.ability.hustle"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "mariomon.species.horned_ant_trooper",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/hornedanttrooper.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/hornedanttrooper.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/hornedanttrooper.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 85,
+                "def": 90,
+                "spAtk": 50,
+                "spDef": 55,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.swarm",
+                "mariomon.ability.shield_dust",
+                "mariomon.ability.hustle"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "mariomon.species.cheep_cheep",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/cheepcheep.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/cheepcheep.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/cheepcheep.png"
+            },
+            "baseStats": {
+                "hp": 55,
+                "atk": 40,
+                "def": 60,
+                "spAtk": 35,
+                "spDef": 30,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.swift_swim",
+                "mariomon.ability.strong_jaw",
+                "mariomon.ability.drizzle"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "mariomon.species.cheep_chomp",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/cheepchomp.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/cheepchomp.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/cheepchomp.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 60,
+                "def": 90,
+                "spAtk": 50,
+                "spDef": 45,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.swift_swim",
+                "mariomon.ability.strong_jaw",
+                "mariomon.ability.drizzle"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "mariomon.species.porcupuffer",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/porcupuffer.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/porcupuffer.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/porcupuffer.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 95,
+                "def": 95,
+                "spAtk": 70,
+                "spDef": 75,
+                "spd": 65
+            },
+            "abilities": [
+                "mariomon.ability.swift_swim",
+                "mariomon.ability.strong_jaw",
+                "mariomon.ability.drizzle"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water",
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "mariomon.species.podoboo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/podoboo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/podoboo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/podoboo.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 80,
+                "def": 20,
+                "spAtk": 35,
+                "spDef": 40,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.magma_armor",
+                "",
+                "mariomon.ability.flame_body"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "mariomon.species.blargg",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/blargg.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/blargg.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/blargg.png"
+            },
+            "baseStats": {
+                "hp": 95,
+                "atk": 60,
+                "def": 100,
+                "spAtk": 125,
+                "spDef": 80,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.magma_armor",
+                "",
+                "mariomon.ability.flame_body"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire",
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "mariomon.species.biddybud",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/biddybud.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/biddybud.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/biddybud.png"
+            },
+            "baseStats": {
+                "hp": 35,
+                "atk": 50,
+                "def": 45,
+                "spAtk": 35,
+                "spDef": 45,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.keen_eye",
+                "mariomon.ability.hustle",
+                "mariomon.ability.tangled_feet"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "mariomon.species.para_biddies",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/parabiddies.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/parabiddies.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/parabiddies.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 85,
+                "def": 70,
+                "spAtk": 70,
+                "spDef": 60,
+                "spd": 75
+            },
+            "abilities": [
+                "mariomon.ability.keen_eye",
+                "mariomon.ability.hustle",
+                "mariomon.ability.tangled_feet"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "mariomon.species.shy_guy",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/shyguy.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/shyguy.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/shyguy.png"
+            },
+            "baseStats": {
+                "hp": 44,
+                "atk": 44,
+                "def": 44,
+                "spAtk": 44,
+                "spDef": 44,
+                "spd": 44
+            },
+            "abilities": [
+                "mariomon.ability.battle_armor",
+                "mariomon.ability.pickup",
+                "mariomon.ability.prankster"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "mariomon.species.sniffit",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/sniffit.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/sniffit.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/sniffit.png"
+            },
+            "baseStats": {
+                "hp": 74,
+                "atk": 124,
+                "def": 114,
+                "spAtk": 64,
+                "spDef": 64,
+                "spd": 54
+            },
+            "abilities": [
+                "mariomon.ability.battle_armor",
+                "mariomon.ability.overcoat",
+                "mariomon.ability.sniper"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "form": 0,
+            "id": 23,
+            "name": "mariomon.species.fuzzy",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/fuzzy.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/fuzzy.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/fuzzy.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 20,
+                "def": 25,
+                "spAtk": 20,
+                "spDef": 30,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.schooling",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.dark"
+            ],
+            "forms": [
+                {
+                    "form": 1,
+                    "id": 23,
+                    "formName": "mariomon.form.swarm",
+                    "name": "mariomon.species.fuzzy",
+                    "sprites": {
+                        "party": "pokelink-community:/mariomon/sprites/normal/fuzzyswarm.png",
+                        "normal": "pokelink-community:/mariomon/sprites/normal/fuzzyswarm.png",
+                        "shiny": "pokelink-community:/mariomon/sprites/shiny/fuzzyswarm.png"
+                    },
+                    "baseStats": {
+                        "hp": 40,
+                        "atk": 130,
+                        "def": 135,
+                        "spAtk": 130,
+                        "spDef": 135,
+                        "spd": 50
+                    },
+                    "abilities": [
+                        "mariomon.ability.schooling",
+                        "",
+                        ""
+                    ],
+                    "baseFriendship": 0,
+                    "evYield": {
+                        "hp": 0,
+                        "atk": 0,
+                        "def": 0,
+                        "spAtk": 0,
+                        "spDef": 0,
+                        "spd": 0
+                    },
+                    "hatchCycles": 0,
+                    "catchRate": 0,
+                    "growthRate": 0,
+                    "types": [
+                        "pokemon.type.bug",
+                        "pokemon.type.dark"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "mariomon.species.lava_drop",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/lavadrop.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/lavadrop.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/lavadrop.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 50,
+                "def": 40,
+                "spAtk": 85,
+                "spDef": 65,
+                "spd": 110
+            },
+            "abilities": [
+                "mariomon.ability.flame_body",
+                "",
+                "mariomon.ability.solar_power"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "mariomon.species.monty_mole",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/montymole.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/montymole.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/montymole.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 75,
+                "def": 85,
+                "spAtk": 20,
+                "spDef": 30,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.sand_veil",
+                "",
+                "mariomon.ability.arena_trap"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "mariomon.species.mega_mole",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/megamole.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/megamole.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/megamole.png"
+            },
+            "baseStats": {
+                "hp": 75,
+                "atk": 95,
+                "def": 115,
+                "spAtk": 25,
+                "spDef": 50,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.sand_veil",
+                "",
+                "mariomon.ability.arena_trap"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "mariomon.species.major_burrows",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/majorburrows.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/majorburrows.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/majorburrows.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 115,
+                "def": 135,
+                "spAtk": 45,
+                "spDef": 70,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.arena_trap",
+                "",
+                "mariomon.ability.arena_trap"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "mariomon.species.thwimp",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/thwimp.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/thwimp.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/thwimp.png"
+            },
+            "baseStats": {
+                "hp": 20,
+                "atk": 45,
+                "def": 85,
+                "spAtk": 10,
+                "spDef": 15,
+                "spd": 5
+            },
+            "abilities": [
+                "mariomon.ability.sturdy",
+                "",
+                "mariomon.ability.sheer_force"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "mariomon.species.thwomp",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/thwomp.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/thwomp.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/thwomp.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 90,
+                "def": 175,
+                "spAtk": 50,
+                "spDef": 60,
+                "spd": 10
+            },
+            "abilities": [
+                "mariomon.ability.sturdy",
+                "mariomon.ability.rock_head",
+                "mariomon.ability.sheer_force"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "mariomon.species.whomp",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/whomp.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/whomp.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/whomp.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 100,
+                "def": 175,
+                "spAtk": 30,
+                "spDef": 45,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.sand_force",
+                "mariomon.ability.solid_rock",
+                "mariomon.ability.battle_armor"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground",
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "mariomon.species.boo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/boo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/boo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/boo.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 30,
+                "def": 25,
+                "spAtk": 50,
+                "spDef": 90,
+                "spd": 20
+            },
+            "abilities": [
+                "mariomon.ability.levitate",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "mariomon.species.balloon_boo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/balloonboo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/balloonboo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/balloonboo.png"
+            },
+            "baseStats": {
+                "hp": 130,
+                "atk": 40,
+                "def": 40,
+                "spAtk": 70,
+                "spDef": 100,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.levitate",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "mariomon.species.king_boo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/kingboo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/kingboo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/kingboo.png"
+            },
+            "baseStats": {
+                "hp": 110,
+                "atk": 55,
+                "def": 60,
+                "spAtk": 90,
+                "spDef": 130,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.levitate",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "mariomon.species.dino_torch",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/dinotorch.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/dinotorch.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/dinotorch.png"
+            },
+            "baseStats": {
+                "hp": 45,
+                "atk": 70,
+                "def": 30,
+                "spAtk": 60,
+                "spDef": 20,
+                "spd": 25
+            },
+            "abilities": [
+                "mariomon.ability.flash_fire",
+                "",
+                "mariomon.ability.guts"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "mariomon.species.dino_rhino",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/dinorhino.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/dinorhino.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/dinorhino.png"
+            },
+            "baseStats": {
+                "hp": 115,
+                "atk": 90,
+                "def": 60,
+                "spAtk": 80,
+                "spDef": 40,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.flash_fire",
+                "",
+                "mariomon.ability.guts"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire",
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 36,
+            "name": "mariomon.species.rex",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/rex.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/rex.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/rex.png"
+            },
+            "baseStats": {
+                "hp": 110,
+                "atk": 130,
+                "def": 65,
+                "spAtk": 60,
+                "spDef": 65,
+                "spd": 95
+            },
+            "abilities": [
+                "mariomon.ability.defeatist",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "mariomon.species.baby_yoshi",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/babyyoshi.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/babyyoshi.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/babyyoshi.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 55,
+                "def": 55,
+                "spAtk": 50,
+                "spDef": 55,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.run_away",
+                "",
+                "mariomon.ability.adaptability"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "mariomon.species.yoshi",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/yoshi.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/yoshi.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/yoshi.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 60,
+                "def": 80,
+                "spAtk": 55,
+                "spDef": 80,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.run_away",
+                "",
+                "mariomon.ability.adaptability"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "mariomon.species.yoob",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/yoob.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/yoob.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/yoob.png"
+            },
+            "baseStats": {
+                "hp": 140,
+                "atk": 95,
+                "def": 125,
+                "spAtk": 80,
+                "spDef": 100,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.mold_breaker",
+                "",
+                "mariomon.ability.thick_fat"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "mariomon.species.red_yoshi",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/redyoshi.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/redyoshi.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/redyoshi.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 130,
+                "def": 60,
+                "spAtk": 95,
+                "spDef": 110,
+                "spd": 65
+            },
+            "abilities": [
+                "mariomon.ability.flame_body",
+                "",
+                "mariomon.ability.flash_fire"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 41,
+            "name": "mariomon.species.blue_yoshi",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/blueyoshi.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/blueyoshi.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/blueyoshi.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 65,
+                "def": 60,
+                "spAtk": 110,
+                "spDef": 95,
+                "spd": 130
+            },
+            "abilities": [
+                "mariomon.ability.cloud_nine",
+                "",
+                "mariomon.ability.aerilate"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 42,
+            "name": "mariomon.species.yellow_yoshi",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/yellowyoshi.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/yellowyoshi.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/yellowyoshi.png"
+            },
+            "baseStats": {
+                "hp": 95,
+                "atk": 110,
+                "def": 130,
+                "spAtk": 65,
+                "spDef": 65,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.sand_force",
+                "",
+                "mariomon.ability.earth_eater"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "mariomon.species.birdo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/birdo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/birdo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/birdo.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 65,
+                "def": 95,
+                "spAtk": 130,
+                "spDef": 110,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.cute_charm",
+                "mariomon.ability.costar",
+                "mariomon.ability.pixilate"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 44,
+            "name": "mariomon.species.crazee_dayzee",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/crazeedayzee.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/crazeedayzee.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/crazeedayzee.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 30,
+                "def": 15,
+                "spAtk": 60,
+                "spDef": 50,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.run_away",
+                "",
+                "mariomon.ability.effect_spore"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 45,
+            "name": "mariomon.species.amazy_dayzee",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/amazydayzee.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/amazydayzee.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/amazydayzee.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 45,
+                "def": 30,
+                "spAtk": 140,
+                "spDef": 75,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.run_away",
+                "",
+                "mariomon.ability.effect_spore"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 46,
+            "name": "mariomon.species.fang",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/fang.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/fang.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/fang.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 45,
+                "def": 35,
+                "spAtk": 30,
+                "spDef": 40,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.inner_focus",
+                "mariomon.ability.infiltrator",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 47,
+            "name": "mariomon.species.swoop",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/swoop.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/swoop.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/swoop.png"
+            },
+            "baseStats": {
+                "hp": 75,
+                "atk": 80,
+                "def": 70,
+                "spAtk": 65,
+                "spDef": 75,
+                "spd": 90
+            },
+            "abilities": [
+                "mariomon.ability.inner_focus",
+                "mariomon.ability.infiltrator",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 48,
+            "name": "mariomon.species.bald_cleft",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/baldcleft.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/baldcleft.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/baldcleft.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 45,
+                "def": 100,
+                "spAtk": 30,
+                "spDef": 50,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.sturdy",
+                "",
+                "mariomon.ability.rock_head"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 49,
+            "name": "mariomon.species.iron_cleft",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/ironcleft.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/ironcleft.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/ironcleft.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 90,
+                "def": 110,
+                "spAtk": 30,
+                "spDef": 60,
+                "spd": 90
+            },
+            "abilities": [
+                "mariomon.ability.sturdy",
+                "",
+                "mariomon.ability.rock_head"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 50,
+            "name": "mariomon.species.bristle",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bristle.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bristle.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bristle.png"
+            },
+            "baseStats": {
+                "hp": 20,
+                "atk": 35,
+                "def": 230,
+                "spAtk": 15,
+                "spDef": 200,
+                "spd": 5
+            },
+            "abilities": [
+                "mariomon.ability.iron_barbs",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 51,
+            "name": "mariomon.species.bullet_bill",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bulletbill.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bulletbill.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bulletbill.png"
+            },
+            "baseStats": {
+                "hp": 35,
+                "atk": 50,
+                "def": 70,
+                "spAtk": 40,
+                "spDef": 35,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.levitate",
+                "",
+                "mariomon.ability.sheer_force"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 52,
+            "name": "mariomon.species.banzai_bill",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/banzaibill.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/banzaibill.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/banzaibill.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 90,
+                "def": 110,
+                "spAtk": 55,
+                "spDef": 50,
+                "spd": 130
+            },
+            "abilities": [
+                "mariomon.ability.levitate",
+                "",
+                "mariomon.ability.sheer_force"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 53,
+            "name": "mariomon.species.duplighost",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/duplighost.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/duplighost.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/duplighost.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 50,
+                "def": 50,
+                "spAtk": 50,
+                "spDef": 50,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.imposter",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 54,
+            "name": "mariomon.species.broozer",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/broozer.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/broozer.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/broozer.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 100,
+                "def": 100,
+                "spAtk": 30,
+                "spDef": 75,
+                "spd": 110
+            },
+            "abilities": [
+                "mariomon.ability.iron_fist",
+                "mariomon.ability.unburden",
+                "mariomon.ability.no_guard"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 55,
+            "name": "mariomon.species.chargin_chuck",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/charginchuck.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/charginchuck.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/charginchuck.png"
+            },
+            "baseStats": {
+                "hp": 120,
+                "atk": 95,
+                "def": 110,
+                "spAtk": 30,
+                "spDef": 80,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.defiant",
+                "mariomon.ability.guts",
+                "mariomon.ability.anger_shell"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 56,
+            "name": "mariomon.species.baby_penguin",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/babypenguin.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/babypenguin.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/babypenguin.png"
+            },
+            "baseStats": {
+                "hp": 35,
+                "atk": 40,
+                "def": 50,
+                "spAtk": 40,
+                "spDef": 55,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.slush_rush",
+                "",
+                "mariomon.ability.snow_cloak"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice"
+            ]
+        },
+        {
+            "id": 57,
+            "name": "mariomon.species.penguin",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/penguin.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/penguin.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/penguin.png"
+            },
+            "baseStats": {
+                "hp": 130,
+                "atk": 80,
+                "def": 70,
+                "spAtk": 80,
+                "spDef": 95,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.slush_rush",
+                "",
+                "mariomon.ability.snow_cloak"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice"
+            ]
+        },
+        {
+            "id": 58,
+            "name": "mariomon.species.buzzy_beetle",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/buzzybeetle.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/buzzybeetle.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/buzzybeetle.png"
+            },
+            "baseStats": {
+                "hp": 35,
+                "atk": 50,
+                "def": 110,
+                "spAtk": 20,
+                "spDef": 100,
+                "spd": 15
+            },
+            "abilities": [
+                "mariomon.ability.quick_feet",
+                "",
+                "mariomon.ability.shell_armor"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "mariomon.species.spine_top",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/spinetop.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/spinetop.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/spinetop.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 65,
+                "def": 150,
+                "spAtk": 35,
+                "spDef": 130,
+                "spd": 20
+            },
+            "abilities": [
+                "mariomon.ability.levitate",
+                "",
+                "mariomon.ability.shell_armor"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 60,
+            "name": "mariomon.species.spiny",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/spiny.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/spiny.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/spiny.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 50,
+                "def": 100,
+                "spAtk": 30,
+                "spDef": 80,
+                "spd": 20
+            },
+            "abilities": [
+                "mariomon.ability.shell_armor",
+                "",
+                "mariomon.ability.iron_barbs"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 61,
+            "name": "mariomon.species.lakitu",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/lakitu.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/lakitu.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/lakitu.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 100,
+                "def": 50,
+                "spAtk": 70,
+                "spDef": 50,
+                "spd": 110
+            },
+            "abilities": [
+                "mariomon.ability.cloud_nine",
+                "",
+                "mariomon.ability.rocky_payload"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 62,
+            "name": "mariomon.species.spike",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/spike.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/spike.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/spike.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 30,
+                "def": 60,
+                "spAtk": 30,
+                "spDef": 35,
+                "spd": 20
+            },
+            "abilities": [
+                "mariomon.ability.stamina",
+                "",
+                "mariomon.ability.huge_power"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 63,
+            "name": "mariomon.species.clubba",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/clubba.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/clubba.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/clubba.png"
+            },
+            "baseStats": {
+                "hp": 105,
+                "atk": 70,
+                "def": 100,
+                "spAtk": 50,
+                "spDef": 60,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.stamina",
+                "",
+                "mariomon.ability.huge_power"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 64,
+            "name": "mariomon.species.pokey",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/pokey.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/pokey.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/pokey.png"
+            },
+            "baseStats": {
+                "hp": 115,
+                "atk": 85,
+                "def": 45,
+                "spAtk": 50,
+                "spDef": 45,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.sand_force",
+                "",
+                "mariomon.ability.rough_skin"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground",
+                "pokemon.type.grass"
+            ]
+        },
+        {
+            "id": 65,
+            "name": "mariomon.species.poison_pokey",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/poisonpokey.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/poisonpokey.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/poisonpokey.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 90,
+                "def": 100,
+                "spAtk": 50,
+                "spDef": 75,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.toxic_debris",
+                "",
+                "mariomon.ability.rough_skin"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground",
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 66,
+            "name": "mariomon.species.koopa_troopa",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/koopatroopa.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/koopatroopa.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/koopatroopa.png"
+            },
+            "baseStats": {
+                "hp": 41,
+                "atk": 50,
+                "def": 70,
+                "spAtk": 40,
+                "spDef": 50,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.shell_armor",
+                "",
+                "mariomon.ability.speed_boost"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 67,
+            "name": "mariomon.species.paratroopa",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/paratroopa.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/paratroopa.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/paratroopa.png"
+            },
+            "baseStats": {
+                "hp": 71,
+                "atk": 100,
+                "def": 50,
+                "spAtk": 50,
+                "spDef": 50,
+                "spd": 120
+            },
+            "abilities": [
+                "mariomon.ability.shell_armor",
+                "",
+                "mariomon.ability.speed_boost"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 68,
+            "name": "mariomon.species.dry_bones",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/drybones.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/drybones.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/drybones.png"
+            },
+            "baseStats": {
+                "hp": 1,
+                "atk": 100,
+                "def": 50,
+                "spAtk": 50,
+                "spDef": 50,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.wonder_guard",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark",
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 69,
+            "name": "mariomon.species.cataquack",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/cataquack.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/cataquack.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/cataquack.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 75,
+                "def": 60,
+                "spAtk": 75,
+                "spDef": 60,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.mega_launcher",
+                "",
+                "mariomon.ability.opportunist"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 70,
+            "name": "mariomon.species.plungelo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/plungelo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/plungelo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/plungelo.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 90,
+                "def": 80,
+                "spAtk": 110,
+                "spDef": 80,
+                "spd": 70
+            },
+            "abilities": [
+                "mariomon.ability.mega_launcher",
+                "",
+                "mariomon.ability.opportunist"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 71,
+            "name": "mariomon.species.chain_chomp",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/chainchomp.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/chainchomp.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/chainchomp.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 130,
+                "def": 110,
+                "spAtk": 45,
+                "spDef": 70,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.intimidate",
+                "mariomon.ability.guard_dog",
+                "mariomon.ability.stamina"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 72,
+            "name": "mariomon.species.hammer_bro",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/hammerbro.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/hammerbro.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/hammerbro.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 100,
+                "def": 80,
+                "spAtk": 100,
+                "spDef": 70,
+                "spd": 70
+            },
+            "abilities": [
+                "mariomon.ability.forecast",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 73,
+            "name": "mariomon.species.bully",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bully.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bully.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bully.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 90,
+                "def": 110,
+                "spAtk": 25,
+                "spDef": 40,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.solid_rock",
+                "",
+                "mariomon.ability.weak_armor"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 74,
+            "name": "mariomon.species.chill_bully",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/chillbully.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/chillbully.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/chillbully.png"
+            },
+            "baseStats": {
+                "hp": 75,
+                "atk": 110,
+                "def": 140,
+                "spAtk": 45,
+                "spDef": 70,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.ice_body",
+                "",
+                "mariomon.ability.weak_armor"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice",
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 75,
+            "name": "mariomon.species.gushen",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/gushen.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/gushen.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/gushen.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 30,
+                "def": 50,
+                "spAtk": 60,
+                "spDef": 50,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.swift_swim",
+                "mariomon.ability.water_bubble",
+                "mariomon.ability.marvel_scale"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 76,
+            "name": "mariomon.species.mollusque_lanceur",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mollusquelanceur.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mollusquelanceur.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mollusquelanceur.png"
+            },
+            "baseStats": {
+                "hp": 140,
+                "atk": 55,
+                "def": 90,
+                "spAtk": 110,
+                "spDef": 100,
+                "spd": 25
+            },
+            "abilities": [
+                "mariomon.ability.swift_swim",
+                "mariomon.ability.suction_cups",
+                "mariomon.ability.marvel_scale"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water",
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 77,
+            "name": "mariomon.species.t_rex",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/trex.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/trex.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/trex.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 130,
+                "def": 110,
+                "spAtk": 60,
+                "spDef": 50,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.intimidate",
+                "",
+                "mariomon.ability.mold_breaker"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 78,
+            "name": "mariomon.species.foo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/foo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/foo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/foo.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 40,
+                "def": 50,
+                "spAtk": 65,
+                "spDef": 65,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.competitive",
+                "",
+                "mariomon.ability.serene_grace"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 79,
+            "name": "mariomon.species.ty_foo",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/tyfoo.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/tyfoo.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/tyfoo.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 60,
+                "def": 70,
+                "spAtk": 80,
+                "spDef": 110,
+                "spd": 90
+            },
+            "abilities": [
+                "mariomon.ability.competitive",
+                "",
+                "mariomon.ability.serene_grace"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 80,
+            "name": "mariomon.species.uproot",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/uproot.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/uproot.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/uproot.png"
+            },
+            "baseStats": {
+                "hp": 55,
+                "atk": 90,
+                "def": 105,
+                "spAtk": 50,
+                "spDef": 80,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.disguise",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 81,
+            "name": "mariomon.species.klepto",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/klepto.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/klepto.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/klepto.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 95,
+                "def": 105,
+                "spAtk": 60,
+                "spDef": 65,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.keen_eye",
+                "mariomon.ability.pickpocket",
+                "mariomon.ability.sheer_force"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.flying",
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 82,
+            "name": "mariomon.species.strollin_stu",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/strollinstu.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/strollinstu.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/strollinstu.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 80,
+                "def": 80,
+                "spAtk": 80,
+                "spDef": 80,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.innards_out",
+                "",
+                "mariomon.ability.aftermath"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 83,
+            "name": "mariomon.species.chincho",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/chincho.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/chincho.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/chincho.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 100,
+                "def": 60,
+                "spAtk": 90,
+                "spDef": 70,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.mummy",
+                "mariomon.ability.cursed_body",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 84,
+            "name": "mariomon.species.fighter_fly",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/fighterfly.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/fighterfly.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/fighterfly.png"
+            },
+            "baseStats": {
+                "hp": 55,
+                "atk": 55,
+                "def": 45,
+                "spAtk": 30,
+                "spDef": 30,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.guts",
+                "mariomon.ability.thick_fat",
+                "mariomon.ability.unburden"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fighting",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 85,
+            "name": "mariomon.species.super_fly",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/superfly.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/superfly.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/superfly.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 80,
+                "def": 65,
+                "spAtk": 60,
+                "spDef": 60,
+                "spd": 130
+            },
+            "abilities": [
+                "mariomon.ability.guts",
+                "mariomon.ability.thick_fat",
+                "mariomon.ability.unburden"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fighting",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 86,
+            "name": "mariomon.species.beanie",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/beanie.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/beanie.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/beanie.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 65,
+                "def": 65,
+                "spAtk": 30,
+                "spDef": 35,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.solar_power",
+                "mariomon.ability.chlorophyll",
+                "mariomon.ability.harvest"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass"
+            ]
+        },
+        {
+            "id": 87,
+            "name": "mariomon.species.parabeanie",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/parabeanie.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/parabeanie.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/parabeanie.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 80,
+                "def": 95,
+                "spAtk": 50,
+                "spDef": 55,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.solar_power",
+                "mariomon.ability.chlorophyll",
+                "mariomon.ability.harvest"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 88,
+            "name": "mariomon.species.wiggler",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/wiggler.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/wiggler.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/wiggler.png"
+            },
+            "baseStats": {
+                "hp": 75,
+                "atk": 125,
+                "def": 105,
+                "spAtk": 60,
+                "spDef": 75,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.anger_point",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 89,
+            "name": "mariomon.species.trunkle",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/trunkle.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/trunkle.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/trunkle.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 105,
+                "def": 130,
+                "spAtk": 50,
+                "spDef": 50,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.regenerator",
+                "mariomon.ability.harvest",
+                "mariomon.ability.iron_fist"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 90,
+            "name": "mariomon.species.maw_maw",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mawmaw.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mawmaw.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mawmaw.png"
+            },
+            "baseStats": {
+                "hp": 77,
+                "atk": 110,
+                "def": 103,
+                "spAtk": 55,
+                "spDef": 90,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.cheek_pouch",
+                "mariomon.ability.strong_jaw",
+                "mariomon.ability.dragons_maw"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dragon",
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 91,
+            "name": "mariomon.species.shrooblet",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/shrooblet.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/shrooblet.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/shrooblet.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 40,
+                "def": 60,
+                "spAtk": 20,
+                "spDef": 60,
+                "spd": 25
+            },
+            "abilities": [
+                "mariomon.ability.poison_touch",
+                "mariomon.ability.corrosion",
+                "mariomon.ability.stench"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 92,
+            "name": "mariomon.species.shroob",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/shroob.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/shroob.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/shroob.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 60,
+                "def": 80,
+                "spAtk": 30,
+                "spDef": 80,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.poison_touch",
+                "mariomon.ability.corrosion",
+                "mariomon.ability.stench"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 93,
+            "name": "mariomon.species.shrooboid",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/shrooboid.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/shrooboid.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/shrooboid.png"
+            },
+            "baseStats": {
+                "hp": 113,
+                "atk": 83,
+                "def": 93,
+                "spAtk": 43,
+                "spDef": 103,
+                "spd": 53
+            },
+            "abilities": [
+                "mariomon.ability.poison_touch",
+                "mariomon.ability.corrosion",
+                "mariomon.ability.mycelium_might"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 94,
+            "name": "mariomon.species.crystal_king",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/crystalking.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/crystalking.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/crystalking.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 70,
+                "def": 70,
+                "spAtk": 135,
+                "spDef": 80,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.refrigerate",
+                "",
+                "mariomon.ability.snow_cloak"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice",
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 95,
+            "name": "mariomon.species.pidgit",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/pidgit.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/pidgit.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/pidgit.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 50,
+                "def": 45,
+                "spAtk": 90,
+                "spDef": 80,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.magic_bounce",
+                "mariomon.ability.healer",
+                "mariomon.ability.early_bird"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 96,
+            "name": "mariomon.species.tuff_puff",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/tuffpuff.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/tuffpuff.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/tuffpuff.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 60,
+                "def": 45,
+                "spAtk": 65,
+                "spDef": 95,
+                "spd": 35
+            },
+            "abilities": [
+                "mariomon.ability.neutralizing_gas",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 97,
+            "name": "mariomon.species.huff_n_puff",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/huffnpuff.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/huffnpuff.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/huffnpuff.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 85,
+                "def": 70,
+                "spAtk": 90,
+                "spDef": 120,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.neutralizing_gas",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 98,
+            "name": "mariomon.species.minion",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/minion.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/minion.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/minion.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 50,
+                "def": 65,
+                "spAtk": 45,
+                "spDef": 50,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.sand_force",
+                "mariomon.ability.earth_eater",
+                "mariomon.ability.sand_rush"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 99,
+            "name": "mariomon.species.hisstocrat",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/hisstocrat.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/hisstocrat.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/hisstocrat.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 100,
+                "def": 115,
+                "spAtk": 65,
+                "spDef": 70,
+                "spd": 75
+            },
+            "abilities": [
+                "mariomon.ability.sand_force",
+                "mariomon.ability.earth_eater",
+                "mariomon.ability.sand_rush"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 100,
+            "name": "mariomon.species.lil_sparky",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/lilsparky.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/lilsparky.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/lilsparky.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 60,
+                "def": 55,
+                "spAtk": 30,
+                "spDef": 50,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.motor_drive",
+                "mariomon.ability.static",
+                "mariomon.ability.lightning_rod"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.electric"
+            ]
+        },
+        {
+            "id": 101,
+            "name": "mariomon.species.spark",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/spark.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/spark.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/spark.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 85,
+                "def": 80,
+                "spAtk": 50,
+                "spDef": 70,
+                "spd": 150
+            },
+            "abilities": [
+                "mariomon.ability.motor_drive",
+                "mariomon.ability.static",
+                "mariomon.ability.lightning_rod"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.electric"
+            ]
+        },
+        {
+            "id": 102,
+            "name": "mariomon.species.handfake",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/handfake.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/handfake.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/handfake.png"
+            },
+            "baseStats": {
+                "hp": 105,
+                "atk": 120,
+                "def": 60,
+                "spAtk": 105,
+                "spDef": 60,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.illusion",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 103,
+            "name": "mariomon.species.sprangler",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/sprangler.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/sprangler.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/sprangler.png"
+            },
+            "baseStats": {
+                "hp": 55,
+                "atk": 50,
+                "def": 60,
+                "spAtk": 45,
+                "spDef": 25,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.corrosion",
+                "mariomon.ability.swarm",
+                "mariomon.ability.steadfast"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 104,
+            "name": "mariomon.species.tarantox",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/tarantox.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/tarantox.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/tarantox.png"
+            },
+            "baseStats": {
+                "hp": 110,
+                "atk": 60,
+                "def": 95,
+                "spAtk": 60,
+                "spDef": 35,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.corrosion",
+                "mariomon.ability.swarm",
+                "mariomon.ability.steadfast"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.poison"
+            ]
+        },
+        {
+            "id": 105,
+            "name": "mariomon.species.fish_bone",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/fishbone.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/fishbone.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/fishbone.png"
+            },
+            "baseStats": {
+                "hp": 65,
+                "atk": 105,
+                "def": 40,
+                "spAtk": 85,
+                "spDef": 40,
+                "spd": 120
+            },
+            "abilities": [
+                "mariomon.ability.swift_swim",
+                "",
+                "mariomon.ability.cursed_body"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water",
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 106,
+            "name": "mariomon.species.snoozorb",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/snoozorb.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/snoozorb.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/snoozorb.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 100,
+                "def": 80,
+                "spAtk": 100,
+                "spDef": 80,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.truant",
+                "",
+                "mariomon.ability.comatose"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.electric",
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 107,
+            "name": "mariomon.species.happy_moon",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/happymoon.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/happymoon.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/happymoon.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 55,
+                "def": 65,
+                "spAtk": 106,
+                "spDef": 86,
+                "spd": 70
+            },
+            "abilities": [
+                "mariomon.ability.shadow_shield",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fairy",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 108,
+            "name": "mariomon.species.angry_sun",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/angrysun.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/angrysun.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/angrysun.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 106,
+                "def": 86,
+                "spAtk": 55,
+                "spDef": 65,
+                "spd": 70
+            },
+            "abilities": [
+                "mariomon.ability.drought",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 109,
+            "name": "mariomon.species.luma",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/luma.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/luma.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/luma.png"
+            },
+            "baseStats": {
+                "hp": 150,
+                "atk": 5,
+                "def": 5,
+                "spAtk": 55,
+                "spDef": 105,
+                "spd": 65
+            },
+            "abilities": [
+                "mariomon.ability.synchronize",
+                "mariomon.ability.triage",
+                "mariomon.ability.natural_cure"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 110,
+            "name": "mariomon.species.lubba",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/lubba.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/lubba.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/lubba.png"
+            },
+            "baseStats": {
+                "hp": 255,
+                "atk": 10,
+                "def": 10,
+                "spAtk": 75,
+                "spDef": 135,
+                "spd": 55
+            },
+            "abilities": [
+                "mariomon.ability.synchronize",
+                "mariomon.ability.triage",
+                "mariomon.ability.natural_cure"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 111,
+            "name": "mariomon.species.starbag",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/starbag.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/starbag.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/starbag.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 60,
+                "def": 65,
+                "spAtk": 85,
+                "spDef": 100,
+                "spd": 120
+            },
+            "abilities": [
+                "mariomon.ability.run_away",
+                "mariomon.ability.pickup",
+                "mariomon.ability.good_as_gold"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic"
+            ]
+        },
+        {
+            "form": 0,
+            "id": 112,
+            "formName": "mariomon.form.chill",
+            "name": "mariomon.species.virus",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/chillvirus.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/chillvirus.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/chillvirus.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 70,
+                "def": 93,
+                "spAtk": 70,
+                "spDef": 93,
+                "spd": 123
+            },
+            "abilities": [
+                "mariomon.ability.ice_body",
+                "",
+                "mariomon.ability.snow_cloak"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice"
+            ],
+            "forms": [
+                {
+                    "form": 1,
+                    "id": 112,
+                    "formName": "mariomon.form.fever",
+                    "name": "mariomon.species.virus",
+                    "sprites": {
+                        "party": "pokelink-community:/mariomon/sprites/normal/fevervirus.png",
+                        "normal": "pokelink-community:/mariomon/sprites/normal/fevervirus.png",
+                        "shiny": "pokelink-community:/mariomon/sprites/shiny/fevervirus.png"
+                    },
+                    "baseStats": {
+                        "hp": 50,
+                        "atk": 103,
+                        "def": 70,
+                        "spAtk": 103,
+                        "spDef": 70,
+                        "spd": 103
+                    },
+                    "abilities": [
+                        "mariomon.ability.flame_body",
+                        "",
+                        "mariomon.ability.flash_fire"
+                    ],
+                    "baseFriendship": 0,
+                    "evYield": {
+                        "hp": 0,
+                        "atk": 0,
+                        "def": 0,
+                        "spAtk": 0,
+                        "spDef": 0,
+                        "spd": 0
+                    },
+                    "hatchCycles": 0,
+                    "catchRate": 0,
+                    "growthRate": 0,
+                    "types": [
+                        "pokemon.type.fire"
+                    ]
+                },
+                {
+                    "form": 2,
+                    "id": 112,
+                    "formName": "mariomon.form.weird",
+                    "name": "mariomon.species.virus",
+                    "sprites": {
+                        "party": "pokelink-community:/mariomon/sprites/normal/weirdvirus.png",
+                        "normal": "pokelink-community:/mariomon/sprites/normal/weirdvirus.png",
+                        "shiny": "pokelink-community:/mariomon/sprites/shiny/weirdvirus.png"
+                    },
+                    "baseStats": {
+                        "hp": 50,
+                        "atk": 80,
+                        "def": 103,
+                        "spAtk": 80,
+                        "spDef": 103,
+                        "spd": 83
+                    },
+                    "abilities": [
+                        "mariomon.ability.static",
+                        "",
+                        "mariomon.ability.lightning_rod"
+                    ],
+                    "baseFriendship": 0,
+                    "evYield": {
+                        "hp": 0,
+                        "atk": 0,
+                        "def": 0,
+                        "spAtk": 0,
+                        "spDef": 0,
+                        "spd": 0
+                    },
+                    "hatchCycles": 0,
+                    "catchRate": 0,
+                    "growthRate": 0,
+                    "types": [
+                        "pokemon.type.electric"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "name": "mariomon.species.eerie",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/eerie.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/eerie.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/eerie.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 95,
+                "def": 65,
+                "spAtk": 95,
+                "spDef": 55,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.perish_body",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 114,
+            "name": "mariomon.species.nipper",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/nipper.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/nipper.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/nipper.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 65,
+                "def": 85,
+                "spAtk": 60,
+                "spDef": 40,
+                "spd": 15
+            },
+            "abilities": [
+                "mariomon.ability.battle_armor",
+                "mariomon.ability.gluttony",
+                "mariomon.ability.effect_spore"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass"
+            ]
+        },
+        {
+            "id": 115,
+            "name": "mariomon.species.muncher",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/muncher.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/muncher.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/muncher.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 110,
+                "def": 100,
+                "spAtk": 90,
+                "spDef": 60,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.battle_armor",
+                "mariomon.ability.gluttony",
+                "mariomon.ability.effect_spore"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 116,
+            "name": "mariomon.species.sumo_bro",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/sumobro.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/sumobro.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/sumobro.png"
+            },
+            "baseStats": {
+                "hp": 120,
+                "atk": 110,
+                "def": 95,
+                "spAtk": 80,
+                "spDef": 30,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.unseen_fist",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fighting"
+            ]
+        },
+        {
+            "id": 117,
+            "name": "mariomon.species.mechakoopa",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mechakoopa.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mechakoopa.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mechakoopa.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 85,
+                "def": 100,
+                "spAtk": 60,
+                "spDef": 60,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.lightning_rod",
+                "mariomon.ability.rock_head",
+                "mariomon.ability.analytic"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel",
+                "pokemon.type.electric"
+            ]
+        },
+        {
+            "id": 118,
+            "name": "mariomon.species.mechachomp",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mechachomp.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mechachomp.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mechachomp.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 115,
+                "def": 130,
+                "spAtk": 70,
+                "spDef": 70,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.lightning_rod",
+                "mariomon.ability.reckless",
+                "mariomon.ability.analytic"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel",
+                "pokemon.type.electric"
+            ]
+        },
+        {
+            "id": 119,
+            "name": "mariomon.species.pyoro",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/pyoro.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/pyoro.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/pyoro.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 105,
+                "def": 75,
+                "spAtk": 60,
+                "spDef": 40,
+                "spd": 120
+            },
+            "abilities": [
+                "mariomon.ability.super_luck",
+                "mariomon.ability.justified",
+                "mariomon.ability.gale_wings"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.flying",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 120,
+            "name": "mariomon.species.toady",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/toady.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/toady.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/toady.png"
+            },
+            "baseStats": {
+                "hp": 50,
+                "atk": 30,
+                "def": 60,
+                "spAtk": 85,
+                "spDef": 80,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.prankster",
+                "mariomon.ability.magic_guard",
+                "mariomon.ability.transmutate"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 121,
+            "name": "mariomon.species.magikoopa",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/magikoopa.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/magikoopa.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/magikoopa.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 35,
+                "def": 75,
+                "spAtk": 125,
+                "spDef": 100,
+                "spd": 110
+            },
+            "abilities": [
+                "mariomon.ability.prankster",
+                "mariomon.ability.magic_guard",
+                "mariomon.ability.transmutate"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 122,
+            "name": "mariomon.species.mad_piano",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/madpiano.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/madpiano.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/madpiano.png"
+            },
+            "baseStats": {
+                "hp": 72,
+                "atk": 150,
+                "def": 53,
+                "spAtk": 90,
+                "spDef": 43,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.intimidate",
+                "mariomon.ability.unburden",
+                "mariomon.ability.strong_jaw"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 123,
+            "name": "mariomon.species.freezie",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/freezie.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/freezie.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/freezie.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 45,
+                "def": 50,
+                "spAtk": 70,
+                "spDef": 70,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.snow_warning",
+                "mariomon.ability.ice_body",
+                "mariomon.ability.slush_rush"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice"
+            ]
+        },
+        {
+            "id": 124,
+            "name": "mariomon.species.mr_blizzard",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mrblizzard.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mrblizzard.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mrblizzard.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 75,
+                "def": 85,
+                "spAtk": 120,
+                "spDef": 100,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.snow_warning",
+                "mariomon.ability.ice_body",
+                "mariomon.ability.slush_rush"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ice"
+            ]
+        },
+        {
+            "id": 125,
+            "name": "mariomon.species.heave_ho",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/heaveho.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/heaveho.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/heaveho.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 85,
+                "def": 150,
+                "spAtk": 70,
+                "spDef": 95,
+                "spd": 33
+            },
+            "abilities": [
+                "mariomon.ability.galvanize",
+                "",
+                "mariomon.ability.electromorphosis"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.electric"
+            ]
+        },
+        {
+            "id": 126,
+            "name": "mariomon.species.mr_i",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mri.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mri.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mri.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 90,
+                "def": 110,
+                "spAtk": 60,
+                "spDef": 90,
+                "spd": 5
+            },
+            "abilities": [
+                "mariomon.ability.keen_eye",
+                "mariomon.ability.trace",
+                "mariomon.ability.magic_guard"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 127,
+            "name": "mariomon.species.maw_ray",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/mawray.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/mawray.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/mawray.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 150,
+                "def": 90,
+                "spAtk": 70,
+                "spDef": 40,
+                "spd": 50
+            },
+            "abilities": [
+                "mariomon.ability.rough_skin",
+                "",
+                "mariomon.ability.intimidate"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 128,
+            "name": "mariomon.species.ukiki",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/ukiki.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/ukiki.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/ukiki.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 90,
+                "def": 80,
+                "spAtk": 60,
+                "spDef": 60,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.vital_spirit",
+                "mariomon.ability.anger_point",
+                "mariomon.ability.defiant"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 129,
+            "name": "mariomon.species.skeeter",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/skeeter.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/skeeter.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/skeeter.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 65,
+                "def": 30,
+                "spAtk": 30,
+                "spDef": 20,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.swarm",
+                "mariomon.ability.insomnia",
+                "mariomon.ability.magic_bounce"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 130,
+            "name": "mariomon.species.scuttlebug",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/scuttlebug.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/scuttlebug.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/scuttlebug.png"
+            },
+            "baseStats": {
+                "hp": 55,
+                "atk": 95,
+                "def": 45,
+                "spAtk": 60,
+                "spDef": 35,
+                "spd": 110
+            },
+            "abilities": [
+                "mariomon.ability.swarm",
+                "mariomon.ability.insomnia",
+                "mariomon.ability.magic_bounce"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.water"
+            ]
+        },
+        {
+            "id": 131,
+            "name": "mariomon.species.twirlip",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/twirlip.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/twirlip.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/twirlip.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 30,
+                "def": 70,
+                "spAtk": 40,
+                "spDef": 70,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.prankster",
+                "mariomon.ability.infiltrator",
+                "mariomon.ability.chlorophyll"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 132,
+            "name": "mariomon.species.spindrift",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/spindrift.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/spindrift.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/spindrift.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 65,
+                "def": 75,
+                "spAtk": 80,
+                "spDef": 85,
+                "spd": 120
+            },
+            "abilities": [
+                "mariomon.ability.prankster",
+                "mariomon.ability.infiltrator",
+                "mariomon.ability.chlorophyll"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.grass",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 133,
+            "name": "mariomon.species.bandit",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bandit.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bandit.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bandit.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 115,
+                "def": 85,
+                "spAtk": 65,
+                "spDef": 50,
+                "spd": 90
+            },
+            "abilities": [
+                "mariomon.ability.pickpocket",
+                "mariomon.ability.run_away",
+                "mariomon.ability.super_luck"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 134,
+            "name": "mariomon.species.x_naut",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/xnaut.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/xnaut.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/xnaut.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 80,
+                "def": 75,
+                "spAtk": 50,
+                "spDef": 60,
+                "spd": 70
+            },
+            "abilities": [
+                "mariomon.ability.scrappy",
+                "",
+                "mariomon.ability.regenerator"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal"
+            ]
+        },
+        {
+            "id": 135,
+            "name": "mariomon.species.elite_x_naut",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/elitexnaut.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/elitexnaut.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/elitexnaut.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 105,
+                "def": 90,
+                "spAtk": 60,
+                "spDef": 80,
+                "spd": 80
+            },
+            "abilities": [
+                "mariomon.ability.scrappy",
+                "",
+                "mariomon.ability.regenerator"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.normal",
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "id": 136,
+            "name": "mariomon.species.jabble",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/jabble.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/jabble.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/jabble.png"
+            },
+            "baseStats": {
+                "hp": 25,
+                "atk": 40,
+                "def": 50,
+                "spAtk": 40,
+                "spDef": 50,
+                "spd": 60
+            },
+            "abilities": [
+                "mariomon.ability.swarm",
+                "mariomon.ability.technician",
+                "mariomon.ability.steadfast"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 137,
+            "name": "mariomon.species.jabbi",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/jabbi.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/jabbi.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/jabbi.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 110,
+                "def": 75,
+                "spAtk": 110,
+                "spDef": 75,
+                "spd": 40
+            },
+            "abilities": [
+                "mariomon.ability.swarm",
+                "mariomon.ability.technician",
+                "mariomon.ability.steadfast"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.bug",
+                "pokemon.type.flying"
+            ]
+        },
+        {
+            "id": 138,
+            "name": "mariomon.species.ghost_mouse",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/ghostmouse.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/ghostmouse.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/ghostmouse.png"
+            },
+            "baseStats": {
+                "hp": 30,
+                "atk": 60,
+                "def": 40,
+                "spAtk": 25,
+                "spDef": 35,
+                "spd": 75
+            },
+            "abilities": [
+                "mariomon.ability.frisk",
+                "mariomon.ability._unburden",
+                "mariomon.ability.cursed_body"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 139,
+            "name": "mariomon.species.twirler",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/twirler.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/twirler.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/twirler.png"
+            },
+            "baseStats": {
+                "hp": 145,
+                "atk": 120,
+                "def": 75,
+                "spAtk": 50,
+                "spDef": 60,
+                "spd": 45
+            },
+            "abilities": [
+                "mariomon.ability.frisk",
+                "mariomon.ability._unburden",
+                "mariomon.ability.cursed_body"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost"
+            ]
+        },
+        {
+            "id": 140,
+            "name": "mariomon.species.brolder",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/brolder.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/brolder.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/brolder.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 50,
+                "def": 70,
+                "spAtk": 30,
+                "spDef": 50,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.steam_engine",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock"
+            ]
+        },
+        {
+            "id": 141,
+            "name": "mariomon.species.boss_brolder",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bossbrolder.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bossbrolder.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bossbrolder.png"
+            },
+            "baseStats": {
+                "hp": 110,
+                "atk": 90,
+                "def": 120,
+                "spAtk": 70,
+                "spDef": 90,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.steam_engine",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.rock",
+                "pokemon.type.fire"
+            ]
+        },
+        {
+            "id": 142,
+            "name": "mariomon.species.phanto",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/phanto.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/phanto.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/phanto.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 50,
+                "def": 75,
+                "spAtk": 90,
+                "spDef": 65,
+                "spd": 145
+            },
+            "abilities": [
+                "mariomon.ability.infiltrator",
+                "",
+                "mariomon.ability._shadow_tag"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark",
+                "pokemon.type.fairy"
+            ]
+        },
+        {
+            "id": 143,
+            "name": "mariomon.species.tweester",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/tweester.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/tweester.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/tweester.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 80,
+                "def": 60,
+                "spAtk": 100,
+                "spDef": 110,
+                "spd": 115
+            },
+            "abilities": [
+                "mariomon.ability.sand_stream",
+                "",
+                "mariomon.ability._sand_force"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ground"
+            ]
+        },
+        {
+            "id": 144,
+            "name": "mariomon.species.mini_yux",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/miniyux.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/miniyux.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/miniyux.png"
+            },
+            "baseStats": {
+                "hp": 40,
+                "atk": 20,
+                "def": 70,
+                "spAtk": 30,
+                "spDef": 50,
+                "spd": 25
+            },
+            "abilities": [
+                "mariomon.ability.synchronize",
+                "mariomon.ability._trace",
+                "mariomon.ability._magic_bounce"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic"
+            ]
+        },
+        {
+            "id": 145,
+            "name": "mariomon.species.yux",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/yux.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/yux.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/yux.png"
+            },
+            "baseStats": {
+                "hp": 60,
+                "atk": 80,
+                "def": 125,
+                "spAtk": 80,
+                "spDef": 100,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.synchronize",
+                "mariomon.ability._trace",
+                "mariomon.ability._magic_bounce"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.psychic"
+            ]
+        },
+        {
+            "id": 146,
+            "name": "mariomon.species.exor",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/exor.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/exor.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/exor.png"
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 120,
+                "def": 140,
+                "spAtk": 90,
+                "spDef": 120,
+                "spd": 30
+            },
+            "abilities": [
+                "mariomon.ability.mold_breaker",
+                "",
+                "mariomon.ability._sharpness"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.steel"
+            ]
+        },
+        {
+            "id": 147,
+            "name": "mariomon.species.hooktail",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/hooktail.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/hooktail.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/hooktail.png"
+            },
+            "baseStats": {
+                "hp": 90,
+                "atk": 85,
+                "def": 75,
+                "spAtk": 100,
+                "spDef": 115,
+                "spd": 115
+            },
+            "abilities": [
+                "mariomon.ability.berserk",
+                "",
+                "mariomon.ability._flash_fire"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.fire",
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 148,
+            "name": "mariomon.species.gloomtail",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/gloomtail.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/gloomtail.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/gloomtail.png"
+            },
+            "baseStats": {
+                "hp": 85,
+                "atk": 115,
+                "def": 115,
+                "spAtk": 90,
+                "spDef": 75,
+                "spd": 100
+            },
+            "abilities": [
+                "mariomon.ability.moxie",
+                "",
+                "mariomon.ability._justified"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark",
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 149,
+            "name": "mariomon.species.bonetail",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/bonetail.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/bonetail.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/bonetail.png"
+            },
+            "baseStats": {
+                "hp": 115,
+                "atk": 115,
+                "def": 85,
+                "spAtk": 100,
+                "spDef": 90,
+                "spd": 75
+            },
+            "abilities": [
+                "mariomon.ability.multiscale",
+                "",
+                "mariomon.ability._cursed_body"
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.ghost",
+                "pokemon.type.dragon"
+            ]
+        },
+        {
+            "id": 150,
+            "name": "mariomon.species.antasma",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/antasma.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/antasma.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/antasma.png"
+            },
+            "baseStats": {
+                "hp": 100,
+                "atk": 50,
+                "def": 60,
+                "spAtk": 120,
+                "spDef": 60,
+                "spd": 110
+            },
+            "abilities": [
+                "mariomon.ability.bad_dream",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.dark"
+            ]
+        },
+        {
+            "form": 0,
+            "id": 151,
+            "name": "mariomon.species.sonic",
+            "sprites": {
+                "party": "pokelink-community:/mariomon/sprites/normal/sonic.png",
+                "normal": "pokelink-community:/mariomon/sprites/normal/sonic.png",
+                "shiny": "pokelink-community:/mariomon/sprites/shiny/sonic.png"
+            },
+            "baseStats": {
+                "hp": 70,
+                "atk": 143,
+                "def": 50,
+                "spAtk": 133,
+                "spDef": 50,
+                "spd": 220
+            },
+            "abilities": [
+                "mariomon.ability.power_construct",
+                "",
+                ""
+            ],
+            "baseFriendship": 0,
+            "evYield": {
+                "hp": 0,
+                "atk": 0,
+                "def": 0,
+                "spAtk": 0,
+                "spDef": 0,
+                "spd": 0
+            },
+            "hatchCycles": 0,
+            "catchRate": 0,
+            "growthRate": 0,
+            "types": [
+                "pokemon.type.electric",
+                "pokemon.type.fighting"
+            ],
+            "forms": [
+                {
+                    "form": 1,
+                    "id": 151,
+                    "formName": "mariomon.form.super",
+                    "name": "mariomon.species.sonic",
+                    "sprites": {
+                        "party": "pokelink-community:/mariomon/sprites/normal/supersonic.png",
+                        "normal": "pokelink-community:/mariomon/sprites/normal/supersonic.png",
+                        "shiny": "pokelink-community:/mariomon/sprites/shiny/supersonic.png"
+                    },
+                    "baseStats": {
+                        "hp": 124,
+                        "atk": 153,
+                        "def": 75,
+                        "spAtk": 143,
+                        "spDef": 75,
+                        "spd": 230
+                    },
+                    "abilities": [
+                        "mariomon.ability.power_construct",
+                        "",
+                        ""
+                    ],
+                    "baseFriendship": 0,
+                    "evYield": {
+                        "hp": 0,
+                        "atk": 0,
+                        "def": 0,
+                        "spAtk": 0,
+                        "spDef": 0,
+                        "spd": 0
+                    },
+                    "hatchCycles": 0,
+                    "catchRate": 0,
+                    "growthRate": 0,
+                    "types": [
+                        "pokemon.type.electric",
+                        "pokemon.type.fighting"
+                    ]
+                }
+            ]
+        }
+    ]
+}

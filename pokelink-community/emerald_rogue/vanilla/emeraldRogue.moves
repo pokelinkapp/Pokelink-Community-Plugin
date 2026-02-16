@@ -1,0 +1,3188 @@
+[
+  {
+    "id": 1,
+    "name": "pokemon.move.pound",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 2,
+    "name": "pokemon.move.karate_chop",
+    "power": 50,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 3,
+    "name": "pokemon.move.double_slap",
+    "power": 15,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 4,
+    "name": "pokemon.move.comet_punch",
+    "power": 18,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 5,
+    "name": "pokemon.move.mega_punch",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 6,
+    "name": "pokemon.move.pay_day",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 7,
+    "name": "pokemon.move.fire_punch",
+    "power": 75,
+    "type": "pokemon.type.fire",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 8,
+    "name": "pokemon.move.ice_punch",
+    "power": 75,
+    "type": "pokemon.type.ice",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 9,
+    "name": "pokemon.move.thunder_punch",
+    "power": 75,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 10,
+    "name": "pokemon.move.scratch",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 11,
+    "name": "EmeraldRogue.Move.vice_grip",
+    "power": 55,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 12,
+    "name": "pokemon.move.guillotine",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 13,
+    "name": "pokemon.move.razor_wind",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 14,
+    "name": "pokemon.move.swords_dance",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 15,
+    "name": "pokemon.move.cut",
+    "power": 50,
+    "type": "pokemon.type.normal",
+    "accuracy": 95,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 16,
+    "name": "pokemon.move.gust",
+    "power": 40,
+    "type": "pokemon.type.flying",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 17,
+    "name": "pokemon.move.wing_attack",
+    "power": 60,
+    "type": "pokemon.type.flying",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 18,
+    "name": "pokemon.move.whirlwind",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -6
+  },
+  {
+    "id": 19,
+    "name": "pokemon.move.fly",
+    "power": 70,
+    "type": "pokemon.type.flying",
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 20,
+    "name": "pokemon.move.bind",
+    "power": 15,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 21,
+    "name": "pokemon.move.slam",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 22,
+    "name": "pokemon.move.vine_whip",
+    "power": 35,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 23,
+    "name": "pokemon.move.stomp",
+    "power": 65,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 24,
+    "name": "pokemon.move.double_kick",
+    "power": 30,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 25,
+    "name": "pokemon.move.mega_kick",
+    "power": 120,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 26,
+    "name": "pokemon.move.jump_kick",
+    "power": 70,
+    "type": "pokemon.type.fighting",
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 27,
+    "name": "pokemon.move.rolling_kick",
+    "power": 60,
+    "type": "pokemon.type.fighting",
+    "accuracy": 85,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 28,
+    "name": "pokemon.move.sand_attack",
+    "power": 0,
+    "type": "pokemon.type.ground",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 29,
+    "name": "pokemon.move.headbutt",
+    "power": 70,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 30,
+    "name": "pokemon.move.horn_attack",
+    "power": 65,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 31,
+    "name": "pokemon.move.fury_attack",
+    "power": 15,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 32,
+    "name": "pokemon.move.horn_drill",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 33,
+    "name": "pokemon.move.tackle",
+    "power": 35,
+    "type": "pokemon.type.normal",
+    "accuracy": 95,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 34,
+    "name": "pokemon.move.body_slam",
+    "power": 85,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 35,
+    "name": "pokemon.move.wrap",
+    "power": 15,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 36,
+    "name": "pokemon.move.take_down",
+    "power": 90,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 37,
+    "name": "pokemon.move.thrash",
+    "power": 90,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 38,
+    "name": "pokemon.move.double_edge",
+    "power": 120,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 39,
+    "name": "pokemon.move.tail_whip",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 40,
+    "name": "pokemon.move.poison_sting",
+    "power": 15,
+    "type": "pokemon.type.poison",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 41,
+    "name": "pokemon.move.twineedle",
+    "power": 25,
+    "type": "pokemon.type.bug",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 42,
+    "name": "pokemon.move.pin_missile",
+    "power": 14,
+    "type": "pokemon.type.bug",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 43,
+    "name": "pokemon.move.leer",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 44,
+    "name": "pokemon.move.bite",
+    "power": 60,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 45,
+    "name": "pokemon.move.growl",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 46,
+    "name": "pokemon.move.roar",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -6
+  },
+  {
+    "id": 47,
+    "name": "pokemon.move.sing",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 55,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 48,
+    "name": "pokemon.move.supersonic",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 55,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 49,
+    "name": "pokemon.move.sonic_boom",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 50,
+    "name": "pokemon.move.disable",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 55,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 51,
+    "name": "pokemon.move.acid",
+    "power": 40,
+    "type": "pokemon.type.poison",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 52,
+    "name": "pokemon.move.ember",
+    "power": 40,
+    "type": "pokemon.type.fire",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 53,
+    "name": "pokemon.move.flamethrower",
+    "power": 95,
+    "type": "pokemon.type.fire",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 54,
+    "name": "pokemon.move.mist",
+    "power": 0,
+    "type": "pokemon.type.ice",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 55,
+    "name": "pokemon.move.water_gun",
+    "power": 40,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 56,
+    "name": "pokemon.move.hydro_pump",
+    "power": 120,
+    "type": "pokemon.type.water",
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 57,
+    "name": "pokemon.move.surf",
+    "power": 95,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 58,
+    "name": "pokemon.move.ice_beam",
+    "power": 95,
+    "type": "pokemon.type.ice",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 59,
+    "name": "pokemon.move.blizzard",
+    "power": 120,
+    "type": "pokemon.type.ice",
+    "accuracy": 70,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 60,
+    "name": "pokemon.move.psybeam",
+    "power": 65,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 61,
+    "name": "pokemon.move.bubble_beam",
+    "power": 65,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 62,
+    "name": "pokemon.move.aurora_beam",
+    "power": 65,
+    "type": "pokemon.type.ice",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 63,
+    "name": "pokemon.move.hyper_beam",
+    "power": 150,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 64,
+    "name": "pokemon.move.peck",
+    "power": 35,
+    "type": "pokemon.type.flying",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 65,
+    "name": "pokemon.move.drill_peck",
+    "power": 80,
+    "type": "pokemon.type.flying",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 66,
+    "name": "pokemon.move.submission",
+    "power": 80,
+    "type": "pokemon.type.fighting",
+    "accuracy": 80,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 67,
+    "name": "pokemon.move.low_kick",
+    "power": 1,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 68,
+    "name": "pokemon.move.counter",
+    "power": 1,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -5
+  },
+  {
+    "id": 69,
+    "name": "pokemon.move.seismic_toss",
+    "power": 1,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 70,
+    "name": "pokemon.move.strength",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 71,
+    "name": "pokemon.move.absorb",
+    "power": 20,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 72,
+    "name": "pokemon.move.mega_drain",
+    "power": 40,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 73,
+    "name": "pokemon.move.leech_seed",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 74,
+    "name": "pokemon.move.growth",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 75,
+    "name": "pokemon.move.razor_leaf",
+    "power": 55,
+    "type": "pokemon.type.grass",
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 76,
+    "name": "pokemon.move.solar_beam",
+    "power": 120,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 77,
+    "name": "pokemon.move.poison_powder",
+    "power": 0,
+    "type": "pokemon.type.poison",
+    "accuracy": 75,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 78,
+    "name": "pokemon.move.stun_spore",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 75,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 79,
+    "name": "pokemon.move.sleep_powder",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 75,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 80,
+    "name": "pokemon.move.petal_dance",
+    "power": 70,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 81,
+    "name": "pokemon.move.string_shot",
+    "power": 0,
+    "type": "pokemon.type.bug",
+    "accuracy": 95,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 82,
+    "name": "pokemon.move.dragon_rage",
+    "power": 1,
+    "type": "pokemon.type.dragon",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 83,
+    "name": "pokemon.move.fire_spin",
+    "power": 15,
+    "type": "pokemon.type.fire",
+    "accuracy": 70,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 84,
+    "name": "pokemon.move.thunder_shock",
+    "power": 40,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 85,
+    "name": "pokemon.move.thunderbolt",
+    "power": 95,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 86,
+    "name": "pokemon.move.thunder_wave",
+    "power": 0,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 87,
+    "name": "pokemon.move.thunder",
+    "power": 120,
+    "type": "pokemon.type.electric",
+    "accuracy": 70,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 88,
+    "name": "pokemon.move.rock_throw",
+    "power": 50,
+    "type": "pokemon.type.rock",
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 89,
+    "name": "pokemon.move.earthquake",
+    "power": 100,
+    "type": "pokemon.type.ground",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 90,
+    "name": "pokemon.move.fissure",
+    "power": 1,
+    "type": "pokemon.type.ground",
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 91,
+    "name": "pokemon.move.dig",
+    "power": 60,
+    "type": "pokemon.type.ground",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 92,
+    "name": "pokemon.move.toxic",
+    "power": 0,
+    "type": "pokemon.type.poison",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 93,
+    "name": "pokemon.move.confusion",
+    "power": 50,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 94,
+    "name": "pokemon.move.psychic",
+    "power": 90,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 95,
+    "name": "pokemon.move.hypnosis",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 60,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 96,
+    "name": "pokemon.move.meditate",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 97,
+    "name": "pokemon.move.agility",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 98,
+    "name": "pokemon.move.quick_attack",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1
+  },
+  {
+    "id": 99,
+    "name": "pokemon.move.rage",
+    "power": 20,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 100,
+    "name": "pokemon.move.teleport",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 101,
+    "name": "pokemon.move.night_shade",
+    "power": 1,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 102,
+    "name": "pokemon.move.mimic",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 103,
+    "name": "pokemon.move.screech",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 104,
+    "name": "pokemon.move.double_team",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 105,
+    "name": "pokemon.move.recover",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 106,
+    "name": "pokemon.move.harden",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 107,
+    "name": "pokemon.move.minimize",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 108,
+    "name": "pokemon.move.smokescreen",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 109,
+    "name": "pokemon.move.confuse_ray",
+    "power": 0,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 110,
+    "name": "pokemon.move.withdraw",
+    "power": 0,
+    "type": "pokemon.type.water",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 111,
+    "name": "pokemon.move.defense_curl",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 112,
+    "name": "pokemon.move.barrier",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 113,
+    "name": "pokemon.move.light_screen",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 114,
+    "name": "pokemon.move.haze",
+    "power": 0,
+    "type": "pokemon.type.ice",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 115,
+    "name": "pokemon.move.reflect",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 116,
+    "name": "pokemon.move.focus_energy",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 117,
+    "name": "pokemon.move.bide",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 118,
+    "name": "pokemon.move.metronome",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 119,
+    "name": "pokemon.move.mirror_move",
+    "power": 0,
+    "type": "pokemon.type.flying",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 120,
+    "name": "pokemon.move.self_destruct",
+    "power": 200,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 121,
+    "name": "pokemon.move.egg_bomb",
+    "power": 100,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 122,
+    "name": "pokemon.move.lick",
+    "power": 20,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 123,
+    "name": "pokemon.move.smog",
+    "power": 20,
+    "type": "pokemon.type.poison",
+    "accuracy": 70,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 124,
+    "name": "pokemon.move.sludge",
+    "power": 65,
+    "type": "pokemon.type.poison",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 125,
+    "name": "pokemon.move.bone_club",
+    "power": 65,
+    "type": "pokemon.type.ground",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 126,
+    "name": "pokemon.move.fire_blast",
+    "power": 120,
+    "type": "pokemon.type.fire",
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 127,
+    "name": "pokemon.move.waterfall",
+    "power": 80,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 128,
+    "name": "pokemon.move.clamp",
+    "power": 35,
+    "type": "pokemon.type.water",
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 129,
+    "name": "pokemon.move.swift",
+    "power": 60,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 130,
+    "name": "pokemon.move.skull_bash",
+    "power": 100,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 131,
+    "name": "pokemon.move.spike_cannon",
+    "power": 20,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 132,
+    "name": "pokemon.move.constrict",
+    "power": 10,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 133,
+    "name": "pokemon.move.amnesia",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 134,
+    "name": "pokemon.move.kinesis",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 80,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 135,
+    "name": "pokemon.move.soft_boiled",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 136,
+    "name": "EmeraldRogue.Move.hi_jump_kick",
+    "power": 85,
+    "type": "pokemon.type.fighting",
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 137,
+    "name": "pokemon.move.glare",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 138,
+    "name": "pokemon.move.dream_eater",
+    "power": 100,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 139,
+    "name": "pokemon.move.poison_gas",
+    "power": 0,
+    "type": "pokemon.type.poison",
+    "accuracy": 55,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 140,
+    "name": "pokemon.move.barrage",
+    "power": 15,
+    "type": "pokemon.type.normal",
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 141,
+    "name": "pokemon.move.leech_life",
+    "power": 20,
+    "type": "pokemon.type.bug",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 142,
+    "name": "pokemon.move.lovely_kiss",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 143,
+    "name": "pokemon.move.sky_attack",
+    "power": 140,
+    "type": "pokemon.type.flying",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 144,
+    "name": "pokemon.move.transform",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 145,
+    "name": "pokemon.move.bubble",
+    "power": 20,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 146,
+    "name": "pokemon.move.dizzy_punch",
+    "power": 70,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 147,
+    "name": "pokemon.move.spore",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 148,
+    "name": "pokemon.move.flash",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 70,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 149,
+    "name": "pokemon.move.psywave",
+    "power": 1,
+    "type": "pokemon.type.psychic",
+    "accuracy": 80,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 150,
+    "name": "pokemon.move.splash",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 151,
+    "name": "pokemon.move.acid_armor",
+    "power": 0,
+    "type": "pokemon.type.poison",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 152,
+    "name": "pokemon.move.crabhammer",
+    "power": 90,
+    "type": "pokemon.type.water",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 153,
+    "name": "pokemon.move.explosion",
+    "power": 250,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 154,
+    "name": "pokemon.move.fury_swipes",
+    "power": 18,
+    "type": "pokemon.type.normal",
+    "accuracy": 80,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 155,
+    "name": "pokemon.move.bonemerang",
+    "power": 50,
+    "type": "pokemon.type.ground",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 156,
+    "name": "pokemon.move.rest",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 157,
+    "name": "pokemon.move.rock_slide",
+    "power": 75,
+    "type": "pokemon.type.rock",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 158,
+    "name": "pokemon.move.hyper_fang",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 159,
+    "name": "pokemon.move.sharpen",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 160,
+    "name": "pokemon.move.conversion",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 161,
+    "name": "pokemon.move.tri_attack",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 162,
+    "name": "pokemon.move.super_fang",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 163,
+    "name": "pokemon.move.slash",
+    "power": 70,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 164,
+    "name": "pokemon.move.substitute",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 165,
+    "name": "pokemon.move.struggle",
+    "power": 50,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 1,
+    "priority": 0
+  },
+  {
+    "id": 166,
+    "name": "pokemon.move.sketch",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 1,
+    "priority": 0
+  },
+  {
+    "id": 167,
+    "name": "pokemon.move.triple_kick",
+    "power": 10,
+    "type": "pokemon.type.fighting",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 168,
+    "name": "pokemon.move.thief",
+    "power": 40,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 169,
+    "name": "pokemon.move.spider_web",
+    "power": 0,
+    "type": "pokemon.type.bug",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 170,
+    "name": "pokemon.move.mind_reader",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 171,
+    "name": "pokemon.move.nightmare",
+    "power": 0,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 172,
+    "name": "pokemon.move.flame_wheel",
+    "power": 60,
+    "type": "pokemon.type.fire",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 173,
+    "name": "pokemon.move.snore",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 174,
+    "name": "pokemon.move.curse",
+    "power": 0,
+    "type": "pokemon.type.mystery",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 175,
+    "name": "pokemon.move.flail",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 176,
+    "name": "pokemon.move.conversion_2",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 177,
+    "name": "pokemon.move.aeroblast",
+    "power": 100,
+    "type": "pokemon.type.flying",
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 178,
+    "name": "pokemon.move.cotton_spore",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 179,
+    "name": "pokemon.move.reversal",
+    "power": 1,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 180,
+    "name": "pokemon.move.spite",
+    "power": 0,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 181,
+    "name": "pokemon.move.powder_snow",
+    "power": 40,
+    "type": "pokemon.type.ice",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 182,
+    "name": "pokemon.move.protect",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 3
+  },
+  {
+    "id": 183,
+    "name": "pokemon.move.mach_punch",
+    "power": 40,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1
+  },
+  {
+    "id": 184,
+    "name": "pokemon.move.scary_face",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 185,
+    "name": "EmeraldRogue.Move.faint_attack",
+    "power": 60,
+    "type": "pokemon.type.dark",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 186,
+    "name": "pokemon.move.sweet_kiss",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 75,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 187,
+    "name": "pokemon.move.belly_drum",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 188,
+    "name": "pokemon.move.sludge_bomb",
+    "power": 90,
+    "type": "pokemon.type.poison",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 189,
+    "name": "pokemon.move.mud_slap",
+    "power": 20,
+    "type": "pokemon.type.ground",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 190,
+    "name": "pokemon.move.octazooka",
+    "power": 65,
+    "type": "pokemon.type.water",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 191,
+    "name": "pokemon.move.spikes",
+    "power": 0,
+    "type": "pokemon.type.ground",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 192,
+    "name": "pokemon.move.zap_cannon",
+    "power": 100,
+    "type": "pokemon.type.electric",
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 193,
+    "name": "pokemon.move.foresight",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 194,
+    "name": "pokemon.move.destiny_bond",
+    "power": 0,
+    "type": "pokemon.type.ghost",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 195,
+    "name": "pokemon.move.perish_song",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 196,
+    "name": "pokemon.move.icy_wind",
+    "power": 55,
+    "type": "pokemon.type.ice",
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 197,
+    "name": "pokemon.move.detect",
+    "power": 0,
+    "type": "pokemon.type.fighting",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 3
+  },
+  {
+    "id": 198,
+    "name": "pokemon.move.bone_rush",
+    "power": 25,
+    "type": "pokemon.type.ground",
+    "accuracy": 80,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 199,
+    "name": "pokemon.move.lock_on",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 200,
+    "name": "pokemon.move.outrage",
+    "power": 90,
+    "type": "pokemon.type.dragon",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 201,
+    "name": "pokemon.move.sandstorm",
+    "power": 0,
+    "type": "pokemon.type.rock",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 202,
+    "name": "pokemon.move.giga_drain",
+    "power": 60,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 203,
+    "name": "pokemon.move.endure",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 3
+  },
+  {
+    "id": 204,
+    "name": "pokemon.move.charm",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 205,
+    "name": "pokemon.move.rollout",
+    "power": 30,
+    "type": "pokemon.type.rock",
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 206,
+    "name": "pokemon.move.false_swipe",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 207,
+    "name": "pokemon.move.swagger",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 208,
+    "name": "pokemon.move.milk_drink",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 209,
+    "name": "pokemon.move.spark",
+    "power": 65,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 210,
+    "name": "pokemon.move.fury_cutter",
+    "power": 10,
+    "type": "pokemon.type.bug",
+    "accuracy": 95,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 211,
+    "name": "pokemon.move.steel_wing",
+    "power": 70,
+    "type": "pokemon.type.steel",
+    "accuracy": 90,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 212,
+    "name": "pokemon.move.mean_look",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 213,
+    "name": "pokemon.move.attract",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 214,
+    "name": "pokemon.move.sleep_talk",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 215,
+    "name": "pokemon.move.heal_bell",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 216,
+    "name": "pokemon.move.return",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 217,
+    "name": "pokemon.move.present",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 218,
+    "name": "pokemon.move.frustration",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 219,
+    "name": "pokemon.move.safeguard",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 220,
+    "name": "pokemon.move.pain_split",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 221,
+    "name": "pokemon.move.sacred_fire",
+    "power": 100,
+    "type": "pokemon.type.fire",
+    "accuracy": 95,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 222,
+    "name": "pokemon.move.magnitude",
+    "power": 1,
+    "type": "pokemon.type.ground",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 223,
+    "name": "pokemon.move.dynamic_punch",
+    "power": 100,
+    "type": "pokemon.type.fighting",
+    "accuracy": 50,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 224,
+    "name": "pokemon.move.megahorn",
+    "power": 120,
+    "type": "pokemon.type.bug",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 225,
+    "name": "pokemon.move.dragon_breath",
+    "power": 60,
+    "type": "pokemon.type.dragon",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 226,
+    "name": "pokemon.move.baton_pass",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 227,
+    "name": "pokemon.move.encore",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 228,
+    "name": "pokemon.move.pursuit",
+    "power": 40,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 229,
+    "name": "pokemon.move.rapid_spin",
+    "power": 20,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 230,
+    "name": "pokemon.move.sweet_scent",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 231,
+    "name": "pokemon.move.iron_tail",
+    "power": 100,
+    "type": "pokemon.type.steel",
+    "accuracy": 75,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 232,
+    "name": "pokemon.move.metal_claw",
+    "power": 50,
+    "type": "pokemon.type.steel",
+    "accuracy": 95,
+    "pp": 35,
+    "priority": 0
+  },
+  {
+    "id": 233,
+    "name": "pokemon.move.vital_throw",
+    "power": 70,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": -1
+  },
+  {
+    "id": 234,
+    "name": "pokemon.move.morning_sun",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 235,
+    "name": "pokemon.move.synthesis",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 236,
+    "name": "pokemon.move.moonlight",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 237,
+    "name": "pokemon.move.hidden_power",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 238,
+    "name": "pokemon.move.cross_chop",
+    "power": 100,
+    "type": "pokemon.type.fighting",
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 239,
+    "name": "pokemon.move.twister",
+    "power": 40,
+    "type": "pokemon.type.dragon",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 240,
+    "name": "pokemon.move.rain_dance",
+    "power": 0,
+    "type": "pokemon.type.water",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 241,
+    "name": "pokemon.move.sunny_day",
+    "power": 0,
+    "type": "pokemon.type.fire",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 242,
+    "name": "pokemon.move.crunch",
+    "power": 80,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 243,
+    "name": "pokemon.move.mirror_coat",
+    "power": 1,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -5
+  },
+  {
+    "id": 244,
+    "name": "pokemon.move.psych_up",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 245,
+    "name": "pokemon.move.extreme_speed",
+    "power": 80,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 1
+  },
+  {
+    "id": 246,
+    "name": "pokemon.move.ancient_power",
+    "power": 60,
+    "type": "pokemon.type.rock",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 247,
+    "name": "pokemon.move.shadow_ball",
+    "power": 80,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 248,
+    "name": "pokemon.move.future_sight",
+    "power": 80,
+    "type": "pokemon.type.psychic",
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 249,
+    "name": "pokemon.move.rock_smash",
+    "power": 20,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 250,
+    "name": "pokemon.move.whirlpool",
+    "power": 15,
+    "type": "pokemon.type.water",
+    "accuracy": 70,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 251,
+    "name": "pokemon.move.beat_up",
+    "power": 10,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 252,
+    "name": "pokemon.move.fake_out",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 1
+  },
+  {
+    "id": 253,
+    "name": "pokemon.move.uproar",
+    "power": 50,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 254,
+    "name": "pokemon.move.stockpile",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 255,
+    "name": "pokemon.move.spit_up",
+    "power": 100,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 256,
+    "name": "pokemon.move.swallow",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 257,
+    "name": "pokemon.move.heat_wave",
+    "power": 100,
+    "type": "pokemon.type.fire",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 258,
+    "name": "pokemon.move.hail",
+    "power": 0,
+    "type": "pokemon.type.ice",
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 259,
+    "name": "pokemon.move.torment",
+    "power": 0,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 260,
+    "name": "pokemon.move.flatter",
+    "power": 0,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 261,
+    "name": "pokemon.move.will_o_wisp",
+    "power": 0,
+    "type": "pokemon.type.fire",
+    "accuracy": 75,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 262,
+    "name": "pokemon.move.memento",
+    "power": 0,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 263,
+    "name": "pokemon.move.facade",
+    "power": 70,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 264,
+    "name": "pokemon.move.focus_punch",
+    "power": 150,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": -3
+  },
+  {
+    "id": 265,
+    "name": "EmeraldRogue.Move.smelling_salt",
+    "power": 60,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 266,
+    "name": "pokemon.move.follow_me",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 3
+  },
+  {
+    "id": 267,
+    "name": "pokemon.move.nature_power",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 95,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 268,
+    "name": "pokemon.move.charge",
+    "power": 0,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 269,
+    "name": "pokemon.move.taunt",
+    "power": 0,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 270,
+    "name": "pokemon.move.helping_hand",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 5
+  },
+  {
+    "id": 271,
+    "name": "pokemon.move.trick",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 272,
+    "name": "pokemon.move.role_play",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 273,
+    "name": "pokemon.move.wish",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 274,
+    "name": "pokemon.move.assist",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 275,
+    "name": "pokemon.move.ingrain",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 276,
+    "name": "pokemon.move.superpower",
+    "power": 120,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 277,
+    "name": "pokemon.move.magic_coat",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 4
+  },
+  {
+    "id": 278,
+    "name": "pokemon.move.recycle",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 279,
+    "name": "pokemon.move.revenge",
+    "power": 60,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": -4
+  },
+  {
+    "id": 280,
+    "name": "pokemon.move.brick_break",
+    "power": 75,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 281,
+    "name": "pokemon.move.yawn",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 282,
+    "name": "pokemon.move.knock_off",
+    "power": 20,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 283,
+    "name": "pokemon.move.endeavor",
+    "power": 1,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 284,
+    "name": "pokemon.move.eruption",
+    "power": 150,
+    "type": "pokemon.type.fire",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 285,
+    "name": "pokemon.move.skill_swap",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 286,
+    "name": "pokemon.move.imprison",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 287,
+    "name": "pokemon.move.refresh",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 288,
+    "name": "pokemon.move.grudge",
+    "power": 0,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 289,
+    "name": "pokemon.move.snatch",
+    "power": 0,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 4
+  },
+  {
+    "id": 290,
+    "name": "pokemon.move.secret_power",
+    "power": 70,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 291,
+    "name": "pokemon.move.dive",
+    "power": 60,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 292,
+    "name": "pokemon.move.arm_thrust",
+    "power": 15,
+    "type": "pokemon.type.fighting",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 293,
+    "name": "pokemon.move.camouflage",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 294,
+    "name": "pokemon.move.tail_glow",
+    "power": 0,
+    "type": "pokemon.type.bug",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 295,
+    "name": "pokemon.move.luster_purge",
+    "power": 70,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 296,
+    "name": "pokemon.move.mist_ball",
+    "power": 70,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 297,
+    "name": "pokemon.move.feather_dance",
+    "power": 0,
+    "type": "pokemon.type.flying",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 298,
+    "name": "pokemon.move.teeter_dance",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 299,
+    "name": "pokemon.move.blaze_kick",
+    "power": 85,
+    "type": "pokemon.type.fire",
+    "accuracy": 90,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 300,
+    "name": "pokemon.move.mud_sport",
+    "power": 0,
+    "type": "pokemon.type.ground",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 301,
+    "name": "pokemon.move.ice_ball",
+    "power": 30,
+    "type": "pokemon.type.ice",
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 302,
+    "name": "pokemon.move.needle_arm",
+    "power": 60,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 303,
+    "name": "pokemon.move.slack_off",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 304,
+    "name": "pokemon.move.hyper_voice",
+    "power": 90,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 305,
+    "name": "pokemon.move.poison_fang",
+    "power": 50,
+    "type": "pokemon.type.poison",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 306,
+    "name": "pokemon.move.crush_claw",
+    "power": 75,
+    "type": "pokemon.type.normal",
+    "accuracy": 95,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 307,
+    "name": "pokemon.move.blast_burn",
+    "power": 150,
+    "type": "pokemon.type.fire",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 308,
+    "name": "pokemon.move.hydro_cannon",
+    "power": 150,
+    "type": "pokemon.type.water",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 309,
+    "name": "pokemon.move.meteor_mash",
+    "power": 100,
+    "type": "pokemon.type.steel",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 310,
+    "name": "pokemon.move.astonish",
+    "power": 30,
+    "type": "pokemon.type.ghost",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 311,
+    "name": "pokemon.move.weather_ball",
+    "power": 50,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 312,
+    "name": "pokemon.move.aromatherapy",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 0,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 313,
+    "name": "pokemon.move.fake_tears",
+    "power": 0,
+    "type": "pokemon.type.dark",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 314,
+    "name": "pokemon.move.air_cutter",
+    "power": 55,
+    "type": "pokemon.type.flying",
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 315,
+    "name": "pokemon.move.overheat",
+    "power": 140,
+    "type": "pokemon.type.fire",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 316,
+    "name": "pokemon.move.odor_sleuth",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 317,
+    "name": "pokemon.move.rock_tomb",
+    "power": 50,
+    "type": "pokemon.type.rock",
+    "accuracy": 80,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 318,
+    "name": "pokemon.move.silver_wind",
+    "power": 60,
+    "type": "pokemon.type.bug",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 319,
+    "name": "pokemon.move.metal_sound",
+    "power": 0,
+    "type": "pokemon.type.steel",
+    "accuracy": 85,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 320,
+    "name": "pokemon.move.grass_whistle",
+    "power": 0,
+    "type": "pokemon.type.grass",
+    "accuracy": 55,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 321,
+    "name": "pokemon.move.tickle",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 322,
+    "name": "pokemon.move.cosmic_power",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 323,
+    "name": "pokemon.move.water_spout",
+    "power": 150,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 324,
+    "name": "pokemon.move.signal_beam",
+    "power": 75,
+    "type": "pokemon.type.bug",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 325,
+    "name": "pokemon.move.shadow_punch",
+    "power": 60,
+    "type": "pokemon.type.ghost",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 326,
+    "name": "pokemon.move.extrasensory",
+    "power": 80,
+    "type": "pokemon.type.psychic",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 327,
+    "name": "pokemon.move.sky_uppercut",
+    "power": 85,
+    "type": "pokemon.type.fighting",
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 328,
+    "name": "pokemon.move.sand_tomb",
+    "power": 15,
+    "type": "pokemon.type.ground",
+    "accuracy": 70,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 329,
+    "name": "pokemon.move.sheer_cold",
+    "power": 1,
+    "type": "pokemon.type.ice",
+    "accuracy": 30,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 330,
+    "name": "pokemon.move.muddy_water",
+    "power": 95,
+    "type": "pokemon.type.water",
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 331,
+    "name": "pokemon.move.bullet_seed",
+    "power": 10,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 332,
+    "name": "pokemon.move.aerial_ace",
+    "power": 60,
+    "type": "pokemon.type.flying",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 333,
+    "name": "pokemon.move.icicle_spear",
+    "power": 10,
+    "type": "pokemon.type.ice",
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0
+  },
+  {
+    "id": 334,
+    "name": "pokemon.move.iron_defense",
+    "power": 0,
+    "type": "pokemon.type.steel",
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 335,
+    "name": "pokemon.move.block",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 336,
+    "name": "pokemon.move.howl",
+    "power": 0,
+    "type": "pokemon.type.normal",
+    "accuracy": 0,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 337,
+    "name": "pokemon.move.dragon_claw",
+    "power": 80,
+    "type": "pokemon.type.dragon",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 338,
+    "name": "pokemon.move.frenzy_plant",
+    "power": 150,
+    "type": "pokemon.type.grass",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 339,
+    "name": "pokemon.move.bulk_up",
+    "power": 0,
+    "type": "pokemon.type.fighting",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 340,
+    "name": "pokemon.move.bounce",
+    "power": 85,
+    "type": "pokemon.type.flying",
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 341,
+    "name": "pokemon.move.mud_shot",
+    "power": 55,
+    "type": "pokemon.type.ground",
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 342,
+    "name": "pokemon.move.poison_tail",
+    "power": 50,
+    "type": "pokemon.type.poison",
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0
+  },
+  {
+    "id": 343,
+    "name": "pokemon.move.covet",
+    "power": 40,
+    "type": "pokemon.type.normal",
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0
+  },
+  {
+    "id": 344,
+    "name": "pokemon.move.volt_tackle",
+    "power": 120,
+    "type": "pokemon.type.electric",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 345,
+    "name": "pokemon.move.magical_leaf",
+    "power": 60,
+    "type": "pokemon.type.grass",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 346,
+    "name": "pokemon.move.water_sport",
+    "power": 0,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 347,
+    "name": "pokemon.move.calm_mind",
+    "power": 0,
+    "type": "pokemon.type.psychic",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 348,
+    "name": "pokemon.move.leaf_blade",
+    "power": 70,
+    "type": "pokemon.type.grass",
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0
+  },
+  {
+    "id": 349,
+    "name": "pokemon.move.dragon_dance",
+    "power": 0,
+    "type": "pokemon.type.dragon",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 350,
+    "name": "pokemon.move.rock_blast",
+    "power": 25,
+    "type": "pokemon.type.rock",
+    "accuracy": 80,
+    "pp": 10,
+    "priority": 0
+  },
+  {
+    "id": 351,
+    "name": "pokemon.move.shock_wave",
+    "power": 60,
+    "type": "pokemon.type.electric",
+    "accuracy": 0,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 352,
+    "name": "pokemon.move.water_pulse",
+    "power": 60,
+    "type": "pokemon.type.water",
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0
+  },
+  {
+    "id": 353,
+    "name": "pokemon.move.doom_desire",
+    "power": 120,
+    "type": "pokemon.type.steel",
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0
+  },
+  {
+    "id": 354,
+    "name": "pokemon.move.psycho_boost",
+    "power": 140,
+    "type": "pokemon.type.psychic",
+    "accuracy": 90,
+    "pp": 5,
+    "priority": 0
+  }
+]

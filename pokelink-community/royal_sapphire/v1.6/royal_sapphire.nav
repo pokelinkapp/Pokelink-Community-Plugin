@@ -1,0 +1,28 @@
+{
+    "version": "Game.Subtitle.v1.6",
+    "romHeader": "POKEMON SAPPAXPE",
+    "features": {
+        "unsupported": [
+            "Features.Pokelink.badgeTracking"
+        ],
+        "knownIssues": [
+        ]
+    },
+    "partyReader": "pokelink.gen3.partyReader",
+    "ramComponents": [
+        {
+            "component": "pokelink.porygon.gen3.battle",
+            "config": {
+                "battleFlag": "0x03001BAD"
+            }
+        },
+        {
+            "component": "pokelink.porygon.gen3.party",
+            "config": {
+                "playerPartyAddress": "0x03004360",
+                "maxSpeciesID": 439,
+                "pokemonDataSize": 100
+            }
+        }
+    ]
+}

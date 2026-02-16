@@ -1,0 +1,3806 @@
+{
+    "version": "0.7.1",
+    "entries": [
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/1.entry": null,
+                "pokelink:/pokemon/rs/1.evos": null
+            },
+            "id": 1
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/2.entry": null,
+                "pokelink:/pokemon/rs/2.evos": null
+            },
+            "id": 2
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/3.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.chlorophyll",
+                "pokemon.ability.chlorophyll"
+            ],
+            "id": 3
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/4.entry": null,
+                "pokelink:/pokemon/rs/4.evos": null
+            },
+            "id": 4
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/5.entry": null,
+                "pokelink:/pokemon/rs/5.evos": null
+            },
+            "id": 5
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/6.entry": null
+            },
+            "id": 6
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/7.entry": null,
+                "pokelink:/pokemon/rs/7.evos": null
+            },
+            "id": 7
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/8.entry": null,
+                "pokelink:/pokemon/rs/8.evos": null
+            },
+            "id": 8
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/9.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.shell_armor",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 9
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/10.entry": null,
+                "pokelink:/pokemon/rs/10.evos": null
+            },
+            "id": 10
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/11.entry": null,
+                "pokelink:/pokemon/rs/11.evos": null
+            },
+            "id": 11
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/12.entry": null
+            },
+            "id": 12
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/13.entry": null,
+                "pokelink:/pokemon/rs/13.evos": null
+            },
+            "id": 13
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/14.entry": null,
+                "pokelink:/pokemon/rs/14.evos": null
+            },
+            "id": 14
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/15.entry": null
+            },
+            "id": 15
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/16.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 17,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 12
+                        }
+                    }
+                }
+            ],
+            "id": 16
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/17.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 18,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 25
+                        }
+                    }
+                }
+            ],
+            "id": 17
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/18.entry": null
+            },
+            "id": 18
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/19.entry": null,
+                "pokelink:/pokemon/rs/19.evos": null
+            },
+            "id": 19
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/20.entry": null
+            },
+            "id": 20
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/21.entry": null,
+                "pokelink:/pokemon/rs/21.evos": null
+            },
+            "id": 21
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/22.entry": null
+            },
+            "id": 22
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/23.entry": null,
+                "pokelink:/pokemon/rs/23.evos": null
+            },
+            "id": 23
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/24.entry": null
+            },
+            "id": 24
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/25.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 26,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.thunder_stone"
+                        },
+                        "pokemon.evolve.or": {
+                            "nested": {
+                                "pokemon.evolve.useItem": {
+                                    "string": "pokemon.item.sun_stone"
+                                }
+                            }
+                        }
+                    }
+                }
+            ],
+            "id": 25
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/26.entry": null,
+                "pokelink:/pokemon/national/26.1.entry": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.swift_swim"
+            ],
+            "id": 26
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/27.entry": null,
+                "pokelink:/pokemon/national/27.1.entry": null
+            },
+            "form": 0,
+            "evolutions": [
+                {
+                    "to": 28,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 22
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.battle_armor",
+                "pokemon.ability.battle_armor"
+            ],
+            "id": 27
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/28.entry": null,
+                "pokelink:/pokemon/national/28.1.entry": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.rough_skin",
+                "pokemon.ability.rough_skin"
+            ],
+            "id": 28
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/29.entry": null,
+                "pokelink:/pokemon/rs/29.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.hustle",
+                "pokemon.ability.hustle"
+            ],
+            "id": 29
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/30.entry": null,
+                "pokelink:/pokemon/rs/30.evos": null
+            },
+            "id": 30
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/31.entry": null
+            },
+            "id": 31
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/32.entry": null,
+                "pokelink:/pokemon/rs/32.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.hustle",
+                "pokemon.ability.hustle"
+            ],
+            "id": 32
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/33.entry": null,
+                "pokelink:/pokemon/rs/33.evos": null
+            },
+            "id": 33
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/34.entry": null
+            },
+            "id": 34
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/35.entry": null,
+                "pokelink:/pokemon/rs/35.evos": null
+            },
+            "id": 35
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/36.entry": null
+            },
+            "id": 36
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/37.entry": null,
+                "pokelink:/pokemon/rs/37.evos": null
+            },
+            "id": 37
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/38.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.drought",
+                "pokemon.ability.flash_fire"
+            ],
+            "id": 38
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/39.entry": null,
+                "pokelink:/pokemon/rs/39.evos": null
+            },
+            "id": 39
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/40.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 40
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/41.entry": null,
+                "pokelink:/pokemon/rs/41.evos": null
+            },
+            "id": 41
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/42.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 169,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 32
+                        }
+                    }
+                }
+            ],
+            "id": 42
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/43.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 44,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 20
+                        }
+                    }
+                }
+            ],
+            "id": 43
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/44.entry": null,
+                "pokelink:/pokemon/rs/44.evos": null
+            },
+            "id": 44
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/45.entry": null
+            },
+            "id": 45
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/46.entry": null,
+                "pokelink:/pokemon/rs/46.evos": null
+            },
+            "id": 46
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/47.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.water_absorb",
+                "pokemon.ability.water_absorb"
+            ],
+            "id": 47
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/48.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 49,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 25
+                        }
+                    }
+                }
+            ],
+            "id": 48
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/49.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.compound_eyes",
+                "pokemon.ability.compound_eyes"
+            ],
+            "id": 49
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/50.entry": null,
+                "pokelink:/pokemon/rs/50.evos": null
+            },
+            "id": 50
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/51.entry": null
+            },
+            "id": 51
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/52.entry": null,
+                "pokelink:/pokemon/rs/52.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.limber",
+                "pokemon.ability.limber"
+            ],
+            "id": 52
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/53.entry": null
+            },
+            "id": 53
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/54.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 55,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "id": 54
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/55.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.cloud_nine"
+            ],
+            "id": 55
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/56.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 57,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "id": 56
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/57.entry": null
+            },
+            "id": 57
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/58.entry": null,
+                "pokelink:/pokemon/national/58.1.entry": null,
+                "pokelink:/pokemon/rs/58.evos": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 58
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/59.entry": null,
+                "pokelink:/pokemon/national/59.1.entry": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 59
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/60.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 61,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 18
+                        }
+                    }
+                }
+            ],
+            "id": 60
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/61.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 62,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.gen3.water_stone"
+                        }
+                    }
+                },
+                {
+                    "to": 186,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 36
+                        }
+                    }
+                }
+            ],
+            "id": 61
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/62.entry": null
+            },
+            "id": 62
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/63.entry": null,
+                "pokelink:/pokemon/rs/63.evos": null
+            },
+            "id": 63
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/64.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 65,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 42
+                        }
+                    }
+                }
+            ],
+            "id": 64
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/65.entry": null
+            },
+            "id": 65
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/66.entry": null,
+                "pokelink:/pokemon/rs/66.evos": null
+            },
+            "id": 66
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/67.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 68,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 42
+                        }
+                    }
+                }
+            ],
+            "id": 67
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/68.entry": null
+            },
+            "id": 68
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/69.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 70,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 18
+                        }
+                    }
+                }
+            ],
+            "id": 69
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/70.entry": null,
+                "pokelink:/pokemon/rs/70.evos": null
+            },
+            "id": 70
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/71.entry": null
+            },
+            "id": 71
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/72.entry": null,
+                "pokelink:/pokemon/rs/72.evos": null
+            },
+            "id": 72
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/73.entry": null
+            },
+            "id": 73
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/74.entry": null,
+                "pokelink:/pokemon/rs/74.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 74
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/75.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 76,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 40
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 75
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/76.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 76
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/77.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.blaze",
+                "pokemon.ability.blaze"
+            ],
+            "evolutions": [
+                {
+                    "to": 78,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "id": 77
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/78.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.blaze",
+                "pokemon.ability.blaze"
+            ],
+            "id": 78
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/79.entry": null,
+                "pokelink:/pokemon/national/79.1.entry": null
+            },
+            "form": 0,
+            "evolutions": [
+                {
+                    "to": 80,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 36
+                        }
+                    }
+                },
+                {
+                    "to": 199,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.water_stone"
+                        }
+                    }
+                }
+            ],
+            "baseStats": {
+                "hp": 90,
+                "atk": 65,
+                "spAtk": 60,
+                "spDef": 50,
+                "spd": 30
+            },
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.natural_cure"
+            ],
+            "id": 79
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/80.entry": null,
+                "pokelink:/pokemon/national/80.2.entry": null
+            },
+            "form": 0,
+            "baseStats": {
+                "hp": 100,
+                "atk": 80,
+                "def": 110,
+                "spAtk": 80,
+                "spDef": 65,
+                "spd": 85
+            },
+            "abilities": [
+                "pokemon.ability.shell_armor",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 80
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/81.entry": null,
+                "pokelink:/pokemon/rs/81.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.magnet_pull",
+                "pokemon.ability.magnet_pull"
+            ],
+            "id": 81
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/82.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.magnet_pull",
+                "pokemon.ability.magnet_pull"
+            ],
+            "id": 82
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/83.entry": null,
+                "pokelink:/pokemon/national/808.entry": null
+            },
+            "form": 0,
+            "evolutions": [
+                {
+                    "to": 358,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 55
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.magnet_pull",
+                "pokemon.ability.battle_armor"
+            ],
+            "id": 83
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/84.entry": null,
+                "pokelink:/pokemon/rs/84.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.vital_spirit",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 84
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/85.entry": null
+            },
+            "id": 85
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/86.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.thick_fat"
+            ],
+            "evolutions": [
+                {
+                    "to": 87,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 26
+                        }
+                    }
+                }
+            ],
+            "id": 86
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/87.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 87
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/88.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 89,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 32
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.stench",
+                "pokemon.ability.poison_point"
+            ],
+            "id": 88
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/89.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.liquid_ooze",
+                "pokemon.ability.poison_point"
+            ],
+            "id": 89
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/90.entry": null,
+                "pokelink:/pokemon/rs/90.evos": null
+            },
+            "id": 90
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/91.entry": null
+            },
+            "id": 91
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/92.entry": null,
+                "pokelink:/pokemon/rs/92.evos": null
+            },
+            "id": 92
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/93.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 94,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 42
+                        }
+                    }
+                }
+            ],
+            "id": 93
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/94.entry": null
+            },
+            "id": 94
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/95.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 208,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 40
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 95
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/96.entry": null,
+                "pokelink:/pokemon/rs/96.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.inner_focus",
+                "pokemon.ability.inner_focus"
+            ],
+            "id": 96
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/97.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.inner_focus",
+                "pokemon.ability.inner_focus"
+            ],
+            "id": 97
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/98.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 99,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 25
+                        }
+                    }
+                }
+            ],
+            "id": 98
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/99.entry": null
+            },
+            "id": 99
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/100.entry": null,
+                "pokelink:/pokemon/national/100.1.entry": null
+            },
+            "form": 0,
+            "evolutions": [
+                {
+                    "to": 101,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.leaf_stone"
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.static",
+                "pokemon.ability.static"
+            ],
+            "id": 100
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/101.entry": null,
+                "pokelink:/pokemon/national/101.1.entry": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.static",
+                "pokemon.ability.static"
+            ],
+            "id": 101
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/102.entry": null,
+                "pokelink:/pokemon/rs/102.evos": null
+            },
+            "id": 102
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/103.entry": null,
+                "pokelink:/pokemon/national/103.1.entry": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.chlorophyll",
+                "pokemon.ability.chlorophyll"
+            ],
+            "id": 103
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/104.entry": null,
+                "pokelink:/pokemon/rs/104.evos": null
+            },
+            "id": 104
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/105.entry": null
+            },
+            "id": 105
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/106.entry": null
+            },
+            "id": 106
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/107.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.guts",
+                "pokemon.ability.guts"
+            ],
+            "id": 107
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/108.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 108
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/109.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 110,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 32
+                        }
+                    }
+                }
+            ],
+            "id": 109
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/110.entry": null
+            },
+            "id": 110
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/111.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 112,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 32
+                        }
+                    }
+                }
+            ],
+            "id": 111
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/112.entry": null
+            },
+            "id": 112
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/113.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 242,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 50
+                        }
+                    }
+                }
+            ],
+            "id": 113
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/114.entry": null
+            },
+            "id": 114
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/115.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.insomnia",
+                "pokemon.ability.insomnia"
+            ],
+            "id": 115
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/116.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 117,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 20
+                        }
+                    }
+                }
+            ],
+            "id": 116
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/117.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 230,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 40
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.swift_swim"
+            ],
+            "id": 117
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/118.entry": null,
+                "pokelink:/pokemon/rs/118.evos": null
+            },
+            "id": 118
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/119.entry": null
+            },
+            "id": 119
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/120.entry": null,
+                "pokelink:/pokemon/rs/120.evos": null
+            },
+            "id": 120
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/121.entry": null
+            },
+            "id": 121
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/122.entry": null
+            },
+            "id": 122
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/123.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 212,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 42
+                        }
+                    }
+                }
+            ],
+            "id": 123
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/124.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.trace",
+                "pokemon.ability.insomnia"
+            ],
+            "id": 124
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/125.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.volt_absorb",
+                "pokemon.ability.static"
+            ],
+            "id": 125
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/126.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.flash_fire",
+                "pokemon.ability.flame_body"
+            ],
+            "id": 126
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/127.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.intimidate"
+            ],
+            "id": 127
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/128.entry": null
+            },
+            "id": 128
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/129.entry": null,
+                "pokelink:/pokemon/rs/129.evos": null
+            },
+            "id": 129
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/130.entry": null
+            },
+            "id": 130
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/131.entry": null
+            },
+            "id": 131
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/132.entry": null,
+                "pokelink:/pokemon/national/904.entry": null
+            },
+            "form": 0,
+            "baseStats": {
+                "hp": 80,
+                "atk": 110,
+                "def": 85,
+                "spAtk": 80,
+                "spDef": 65,
+                "spd": 85
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.swift_swim"
+            ],
+            "id": 132
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/133.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 134,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.water_stone"
+                        }
+                    }
+                },
+                {
+                    "to": 135,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.thunder_stone"
+                        }
+                    }
+                },
+                {
+                    "to": 136,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.fire_stone"
+                        }
+                    }
+                },
+                {
+                    "to": 196,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.sun_stone"
+                        }
+                    }
+                },
+                {
+                    "to": 197,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.moon_stone"
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.guts",
+                "pokemon.ability.guts"
+            ],
+            "id": 133
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/134.entry": null
+            },
+            "id": 134
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/135.entry": null
+            },
+            "id": 135
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/136.entry": null
+            },
+            "id": 136
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/137.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 233,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 33
+                        }
+                    }
+                }
+            ],
+            "id": 137
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/138.entry": null,
+                "pokelink:/pokemon/rs/138.evos": null
+            },
+            "id": 138
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/139.entry": null
+            },
+            "id": 139
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/140.entry": null,
+                "pokelink:/pokemon/rs/140.evos": null
+            },
+            "id": 140
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/141.entry": null
+            },
+            "id": 141
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/142.entry": null
+            },
+            "id": 142
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/143.entry": null
+            },
+            "id": 143
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/144.entry": null
+            },
+            "id": 144
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/145.entry": null
+            },
+            "id": 145
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/146.entry": null
+            },
+            "id": 146
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/147.entry": null,
+                "pokelink:/pokemon/rs/147.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.shed_skin",
+                "pokemon.ability.marvel_scale"
+            ],
+            "id": 147
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/148.entry": null,
+                "pokelink:/pokemon/rs/148.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.shed_skin",
+                "pokemon.ability.marvel_scale"
+            ],
+            "id": 148
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/149.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.marvel_scale"
+            ],
+            "id": 149
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/150.entry": null
+            },
+            "id": 150
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/151.entry": null
+            },
+            "id": 151
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/152.entry": null,
+                "pokelink:/pokemon/rs/152.evos": null
+            },
+            "id": 152
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/153.entry": null,
+                "pokelink:/pokemon/rs/153.evos": null
+            },
+            "id": 153
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/154.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 154
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/155.entry": null,
+                "pokelink:/pokemon/rs/155.evos": null
+            },
+            "id": 155
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/156.entry": null,
+                "pokelink:/pokemon/rs/156.evos": null
+            },
+            "id": 156
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/157.entry": null
+            },
+            "id": 157
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/158.entry": null,
+                "pokelink:/pokemon/rs/158.evos": null
+            },
+            "id": 158
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/159.entry": null,
+                "pokelink:/pokemon/rs/159.evos": null
+            },
+            "id": 159
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/160.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.intimidate"
+            ],
+            "id": 160
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/161.entry": null,
+                "pokelink:/pokemon/rs/161.evos": null
+            },
+            "id": 161
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/162.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 162
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/163.entry": null,
+                "pokelink:/pokemon/rs/163.evos": null
+            },
+            "id": 163
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/164.entry": null
+            },
+            "id": 164
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/165.entry": null,
+                "pokelink:/pokemon/rs/165.evos": null
+            },
+            "id": 165
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/166.entry": null
+            },
+            "id": 166
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/167.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 168,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 20
+                        }
+                    }
+                }
+            ],
+            "id": 167
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/168.entry": null
+            },
+            "id": 168
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/169.entry": null
+            },
+            "id": 169
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/170.entry": null,
+                "pokelink:/pokemon/rs/170.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.volt_absorb",
+                "pokemon.ability.water_absorb"
+            ],
+            "id": 170
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/171.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.volt_absorb",
+                "pokemon.ability.water_absorb"
+            ],
+            "id": 171
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/172.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 25,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 10
+                        }
+                    }
+                }
+            ],
+            "id": 172
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/173.entry": null,
+                "pokelink:/pokemon/rs/173.evos": null
+            },
+            "id": 173
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/174.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 39,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 10
+                        }
+                    }
+                }
+            ],
+            "id": 174
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/175.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 176,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 20
+                        }
+                    }
+                }
+            ],
+            "id": 175
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/176.entry": null
+            },
+            "id": 176
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/177.entry": null,
+                "pokelink:/pokemon/rs/177.evos": null
+            },
+            "id": 177
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/178.entry": null
+            },
+            "id": 178
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/179.entry": null,
+                "pokelink:/pokemon/rs/179.evos": null
+            },
+            "id": 179
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/180.entry": null,
+                "pokelink:/pokemon/rs/180.evos": null
+            },
+            "id": 180
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/181.entry": null
+            },
+            "id": 181
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/182.entry": null
+            },
+            "id": 182
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/183.entry": null,
+                "pokelink:/pokemon/rs/183.evos": null
+            },
+            "id": 183
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/184.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.huge_power",
+                "pokemon.ability.huge_power"
+            ],
+            "id": 184
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/185.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 185
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/186.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.drizzle",
+                "pokemon.ability.damp"
+            ],
+            "id": 186
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/187.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 188,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 15
+                        }
+                    }
+                }
+            ],
+            "id": 187
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/188.entry": null,
+                "pokelink:/pokemon/rs/188.evos": null
+            },
+            "id": 188
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/189.entry": null
+            },
+            "id": 189
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/190.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.inner_focus",
+                "pokemon.ability.inner_focus"
+            ],
+            "id": 190
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/191.entry": null,
+                "pokelink:/pokemon/rs/191.evos": null
+            },
+            "id": 191
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/192.entry": null
+            },
+            "id": 192
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/193.entry": null
+            },
+            "id": 193
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/194.entry": null,
+                "pokelink:/pokemon/rs/194.evos": null
+            },
+            "id": 194
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/195.entry": null
+            },
+            "id": 195
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/196.entry": null
+            },
+            "id": 196
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/197.entry": null
+            },
+            "id": 197
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/198.entry": null
+            },
+            "id": 198
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/199.entry": null,
+                "pokelink:/pokemon/national/199.1.entry": null
+            },
+            "form": 0,
+            "id": 199
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/200.entry": null
+            },
+            "id": 200
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/201.entry": null
+            },
+            "id": 201,
+            "forms": [
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.1.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.2.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.3.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.4.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.5.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.6.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.7.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.8.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.9.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.10.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.11.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.12.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.13.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.14.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.15.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.16.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.17.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.18.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.19.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.20.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.21.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.22.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.23.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.24.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.25.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.26.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/201.27.entry": null
+                    }
+                }
+            ]
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/202.entry": null
+            },
+            "id": 202
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/203.entry": null
+            },
+            "id": 203
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/204.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 205,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.swarm",
+                "pokemon.ability.swarm"
+            ],
+            "id": 204
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/205.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.shell_armor",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 205
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/206.entry": null
+            },
+            "id": 206
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/207.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.hyper_cutter",
+                "pokemon.ability.marvel_scale"
+            ],
+            "id": 207
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/208.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 208
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/209.entry": null,
+                "pokelink:/pokemon/rs/209.evos": null
+            },
+            "id": 209
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/210.entry": null
+            },
+            "id": 210
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/211.entry": null,
+                "pokelink:/pokemon/national/211.1.entry": null
+            },
+            "form": 0,
+            "evolutions": [
+                {
+                    "to": 132,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 36
+                        }
+                    }
+                }
+            ],
+            "baseStats": {
+                "hp": 60,
+                "atk": 70,
+                "def": 65,
+                "spAtk": 55,
+                "spDef": 50,
+                "spd": 55
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.swift_swim"
+            ],
+            "id": 211
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/212.entry": null
+            },
+            "id": 212
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/213.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.shell_armor",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 213
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/214.entry": null
+            },
+            "id": 214
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/215.entry": null,
+                "pokelink:/pokemon/national/215.1.entry": null
+            },
+            "form": 0,
+            "evolutions": [
+                {
+                    "to": 235,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 36
+                        }
+                    }
+                }
+            ],
+            "baseStats": {
+                "hp": 50,
+                "atk": 80,
+                "def": 55,
+                "spAtk": 40,
+                "spDef": 60,
+                "spd": 75
+            },
+            "abilities": [
+                "pokemon.ability.inner_focus",
+                "pokemon.ability.poison_point"
+            ],
+            "id": 215
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/216.entry": null,
+                "pokelink:/pokemon/rs/216.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.guts",
+                "pokemon.ability.guts"
+            ],
+            "id": 216
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/217.entry": null
+            },
+            "id": 217
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/218.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 219,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 18
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.blaze",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 218
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/219.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.blaze",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 219
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/220.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 221,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 220
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/221.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 221
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/222.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.natural_cure",
+                "pokemon.ability.natural_cure"
+            ],
+            "id": 222
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/223.entry": null,
+                "pokelink:/pokemon/rs/223.evos": null
+            },
+            "id": 223
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/224.entry": null
+            },
+            "id": 224
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/225.entry": null
+            },
+            "id": 225
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/226.entry": null
+            },
+            "id": 226
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/227.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.keen_eye",
+                "pokemon.ability.keen_eye"
+            ],
+            "id": 227
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/228.entry": null,
+                "pokelink:/pokemon/rs/228.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.flash_fire"
+            ],
+            "id": 228
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/229.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.flash_fire"
+            ],
+            "id": 229
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/230.entry": null
+            },
+            "id": 230
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/231.entry": null,
+                "pokelink:/pokemon/rs/231.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.cute_charm",
+                "pokemon.ability.cute_charm"
+            ],
+            "id": 231
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/232.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.battle_armor",
+                "pokemon.ability.battle_armor"
+            ],
+            "id": 232
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/233.entry": null
+            },
+            "id": 233
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/234.entry": null
+            },
+            "id": 234
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/235.entry": null,
+                "pokelink:/pokemon/national/903.entry": null
+            },
+            "baseStats": {
+                "hp": 80,
+                "atk": 125,
+                "def": 65,
+                "spAtk": 40,
+                "spDef": 80,
+                "spd": 120
+            },
+            "id": 235
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/236.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 106,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 18
+                        },
+                        "pokemon.evolve.stat": {
+                            "string": "stat.attack>defense"
+                        }
+                    }
+                },
+                {
+                    "to": 107,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 18
+                        },
+                        "pokemon.evolve.stat": {
+                            "string": "stat.attack<defense"
+                        }
+                    }
+                },
+                {
+                    "to": 237,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 18
+                        },
+                        "pokemon.evolve.stat": {
+                            "string": "stat.attack=defense"
+                        }
+                    }
+                }
+            ],
+            "id": 236
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/237.entry": null
+            },
+            "id": 237
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/238.entry": null,
+                "pokelink:/pokemon/rs/238.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.trace",
+                "pokemon.ability.insomnia"
+            ],
+            "id": 238
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/239.entry": null,
+                "pokelink:/pokemon/rs/239.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.volt_absorb",
+                "pokemon.ability.static"
+            ],
+            "id": 239
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/240.entry": null,
+                "pokelink:/pokemon/rs/240.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.flash_fire",
+                "pokemon.ability.flame_body"
+            ],
+            "id": 240
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/241.entry": null
+            },
+            "id": 241
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/242.entry": null
+            },
+            "id": 242
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/243.entry": null
+            },
+            "id": 243
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/244.entry": null
+            },
+            "id": 244
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/245.entry": null
+            },
+            "id": 245
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/246.entry": null,
+                "pokelink:/pokemon/rs/246.evos": null
+            },
+            "id": 246
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/247.entry": null,
+                "pokelink:/pokemon/rs/247.evos": null
+            },
+            "id": 247
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/248.entry": null
+            },
+            "id": 248
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/249.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.damp",
+                "pokemon.ability.pressure"
+            ],
+            "id": 249
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/250.entry": null
+            },
+            "id": 250
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/251.entry": null
+            },
+            "id": 251
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/252.entry": null,
+                "pokelink:/pokemon/rs/252.evos": null
+            },
+            "id": 252
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/253.entry": null,
+                "pokelink:/pokemon/rs/253.evos": null
+            },
+            "id": 253
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/254.entry": null
+            },
+            "id": 254
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/255.entry": null,
+                "pokelink:/pokemon/rs/255.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.speed_boost",
+                "pokemon.ability.blaze"
+            ],
+            "id": 255
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/256.entry": null,
+                "pokelink:/pokemon/rs/256.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.speed_boost",
+                "pokemon.ability.blaze"
+            ],
+            "id": 256
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/257.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.speed_boost",
+                "pokemon.ability.blaze"
+            ],
+            "id": 257
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/258.entry": null,
+                "pokelink:/pokemon/rs/258.evos": null
+            },
+            "id": 258
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/259.entry": null,
+                "pokelink:/pokemon/rs/259.evos": null
+            },
+            "id": 259
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/260.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.swift_swim"
+            ],
+            "id": 260
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/261.entry": null,
+                "pokelink:/pokemon/rs/261.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.intimidate"
+            ],
+            "id": 261
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/262.entry": null
+            },
+            "id": 262
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/263.entry": null,
+                "pokelink:/pokemon/rs/263.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.limber",
+                "pokemon.ability.limber"
+            ],
+            "id": 263
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/264.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.limber",
+                "pokemon.ability.limber"
+            ],
+            "id": 264
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/265.entry": null,
+                "pokelink:/pokemon/rs/265.evos": null
+            },
+            "id": 265
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/266.entry": null,
+                "pokelink:/pokemon/rs/266.evos": null
+            },
+            "id": 266
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/267.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.compound_eyes",
+                "pokemon.ability.compound_eyes"
+            ],
+            "id": 267
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/268.entry": null,
+                "pokelink:/pokemon/rs/268.evos": null
+            },
+            "id": 268
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/269.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.marvel_scale",
+                "pokemon.ability.marvel_scale"
+            ],
+            "id": 269
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/270.entry": null,
+                "pokelink:/pokemon/rs/270.evos": null
+            },
+            "id": 270
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/271.entry": null,
+                "pokelink:/pokemon/rs/271.evos": null
+            },
+            "id": 271
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/272.entry": null
+            },
+            "id": 272
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/273.entry": null,
+                "pokelink:/pokemon/rs/273.evos": null
+            },
+            "id": 273
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/274.entry": null,
+                "pokelink:/pokemon/rs/274.evos": null
+            },
+            "id": 274
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/275.entry": null
+            },
+            "id": 275
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/276.entry": null,
+                "pokelink:/pokemon/rs/276.evos": null
+            },
+            "id": 276
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/277.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.guts",
+                "pokemon.ability.early_bird"
+            ],
+            "id": 277
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/278.entry": null,
+                "pokelink:/pokemon/rs/278.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.keen_eye"
+            ],
+            "id": 278
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/279.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.drizzle",
+                "pokemon.ability.keen_eye"
+            ],
+            "id": 279
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/280.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 281,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 10
+                        }
+                    }
+                }
+            ],
+            "id": 280
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/281.entry": null,
+                "pokelink:/pokemon/rs/281.evos": null
+            },
+            "id": 281
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/282.entry": null
+            },
+            "id": 282
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/283.entry": null,
+                "pokelink:/pokemon/rs/283.evos": null
+            },
+            "id": 283
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/284.entry": null
+            },
+            "id": 284
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/285.entry": null,
+                "pokelink:/pokemon/rs/285.evos": null
+            },
+            "id": 285
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/286.entry": null
+            },
+            "id": 286
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/287.entry": null,
+                "pokelink:/pokemon/rs/287.evos": null
+            },
+            "id": 287
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/288.entry": null,
+                "pokelink:/pokemon/rs/288.evos": null
+            },
+            "id": 288
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/289.entry": null
+            },
+            "id": 289
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/290.entry": null,
+                "pokelink:/pokemon/rs/290.evos": null
+            },
+            "id": 290
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/291.entry": null
+            },
+            "id": 291
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/292.entry": null
+            },
+            "id": 292
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/293.entry": null,
+                "pokelink:/pokemon/rs/293.evos": null
+            },
+            "id": 293
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/294.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 295,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 30
+                        }
+                    }
+                }
+            ],
+            "id": 294
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/295.entry": null
+            },
+            "id": 295
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/296.entry": null,
+                "pokelink:/pokemon/rs/296.evos": null
+            },
+            "id": 296
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/297.entry": null
+            },
+            "id": 297
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/298.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 183,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 10
+                        }
+                    }
+                }
+            ],
+            "id": 298
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/299.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.battle_armor",
+                "pokemon.ability.battle_armor"
+            ],
+            "id": 299
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/300.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 301,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 20
+                        }
+                    }
+                }
+            ],
+            "id": 300
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/301.entry": null
+            },
+            "id": 301
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/302.entry": null
+            },
+            "id": 302
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/303.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.intimidate"
+            ],
+            "id": 303
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/304.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 305,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 304
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/305.entry": null,
+                "pokelink:/pokemon/rs/305.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 305
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/306.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rock_head",
+                "pokemon.ability.rock_head"
+            ],
+            "id": 306
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/307.entry": null,
+                "pokelink:/pokemon/rs/307.evos": null
+            },
+            "id": 307
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/308.entry": null
+            },
+            "id": 308
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/309.entry": null,
+                "pokelink:/pokemon/rs/309.evos": null
+            },
+            "id": 309
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/310.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.intimidate",
+                "pokemon.ability.lightning_rod"
+            ],
+            "id": 310
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/311.entry": null
+            },
+            "id": 311
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/312.entry": null
+            },
+            "id": 312
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/313.entry": null
+            },
+            "id": 313
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/314.entry": null
+            },
+            "id": 314
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/315.entry": null
+            },
+            "id": 315
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/316.entry": null,
+                "pokelink:/pokemon/rs/316.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.liquid_ooze",
+                "pokemon.ability.liquid_ooze"
+            ],
+            "id": 316
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/317.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.liquid_ooze",
+                "pokemon.ability.liquid_ooze"
+            ],
+            "id": 317
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/318.entry": null,
+                "pokelink:/pokemon/rs/318.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.speed_boost",
+                "pokemon.ability.rough_skin"
+            ],
+            "id": 318
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/319.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.speed_boost",
+                "pokemon.ability.rough_skin"
+            ],
+            "id": 319
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/320.entry": null,
+                "pokelink:/pokemon/rs/320.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.rain_dish"
+            ],
+            "id": 320
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/321.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.pressure"
+            ],
+            "id": 321
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/322.entry": null,
+                "pokelink:/pokemon/rs/322.evos": null
+            },
+            "id": 322
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/323.entry": null
+            },
+            "id": 323
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/324.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.drought",
+                "pokemon.ability.shell_armor"
+            ],
+            "id": 324
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/325.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 326,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 28
+                        }
+                    }
+                }
+            ],
+            "id": 325
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/326.entry": null
+            },
+            "id": 326
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/327.entry": null
+            },
+            "id": 327
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/328.entry": null,
+                "pokelink:/pokemon/rs/328.evos": null
+            },
+            "id": 328
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/329.entry": null,
+                "pokelink:/pokemon/rs/329.evos": null
+            },
+            "id": 329
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/330.entry": null
+            },
+            "id": 330
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/331.entry": null,
+                "pokelink:/pokemon/rs/331.evos": null
+            },
+            "id": 331
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/332.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.water_absorb",
+                "pokemon.ability.rough_skin"
+            ],
+            "id": 332
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/333.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 334,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 32
+                        }
+                    }
+                }
+            ],
+            "id": 333
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/334.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.natural_cure",
+                "pokemon.ability.cloud_nine"
+            ],
+            "id": 334
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/335.entry": null
+            },
+            "id": 335
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/336.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.shed_skin",
+                "pokemon.ability.battle_armor"
+            ],
+            "id": 336
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/337.entry": null
+            },
+            "id": 337
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/338.entry": null
+            },
+            "id": 338
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/339.entry": null,
+                "pokelink:/pokemon/rs/339.evos": null
+            },
+            "id": 339
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/340.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.swift_swim",
+                "pokemon.ability.swift_swim"
+            ],
+            "id": 340
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/341.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 342,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 27
+                        }
+                    }
+                }
+            ],
+            "id": 341
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/342.entry": null
+            },
+            "id": 342
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/343.entry": null,
+                "pokelink:/pokemon/rs/343.evos": null
+            },
+            "id": 343
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/344.entry": null
+            },
+            "id": 344
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/345.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 346,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 30
+                        }
+                    }
+                }
+            ],
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.rain_dish"
+            ],
+            "id": 345
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/346.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.rain_dish"
+            ],
+            "id": 346
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/347.entry": null,
+                "pokelink:/pokemon/rs/347.evos": null
+            },
+            "id": 347
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/348.entry": null
+            },
+            "id": 348
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/349.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 350,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 40
+                        }
+                    }
+                }
+            ],
+            "id": 349
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/350.entry": null
+            },
+            "id": 350
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/351.entry": null
+            },
+            "id": 351,
+            "forms": [
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/351.1.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/351.2.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/351.3.entry": null
+                    }
+                }
+            ]
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/352.entry": null
+            },
+            "id": 352
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/353.entry": null,
+                "pokelink:/pokemon/rs/353.evos": null
+            },
+            "id": 353
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/354.entry": null
+            },
+            "id": 354
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/355.entry": null,
+                "pokelink:/pokemon/rs/355.evos": null
+            },
+            "id": 355
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/356.entry": null
+            },
+            "id": 356
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/357.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.thick_fat",
+                "pokemon.ability.chlorophyll"
+            ],
+            "id": 357
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/358.entry": null,
+                "pokelink:/pokemon/national/809.entry": null
+            },
+            "form": 0,
+            "abilities": [
+                "pokemon.ability.magnet_pull",
+                "pokemon.ability.battle_armor"
+            ],
+            "id": 358
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/359.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.serene_grace",
+                "pokemon.ability.serene_grace"
+            ],
+            "id": 359
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/360.entry": null,
+                "pokelink:/pokemon/rs/360.evos": null
+            },
+            "id": 360
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/361.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 362,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 40
+                        }
+                    }
+                }
+            ],
+            "id": 361
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/362.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.levitate",
+                "pokemon.ability.levitate"
+            ],
+            "id": 362
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/363.entry": null,
+                "pokelink:/pokemon/rs/363.evos": null
+            },
+            "id": 363
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/364.entry": null,
+                "pokelink:/pokemon/rs/364.evos": null
+            },
+            "id": 364
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/365.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.rain_dish",
+                "pokemon.ability.thick_fat"
+            ],
+            "id": 365
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/366.entry": null
+            },
+            "evolutions": [
+                {
+                    "to": 367,
+                    "conditions": {
+                        "pokemon.evolve.level": {
+                            "number": 24
+                        }
+                    }
+                },
+                {
+                    "to": 368,
+                    "conditions": {
+                        "pokemon.evolve.useItem": {
+                            "string": "pokemon.item.water_stone"
+                        }
+                    }
+                }
+            ],
+            "id": 366
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/367.entry": null
+            },
+            "id": 367
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/368.entry": null
+            },
+            "id": 368
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/369.entry": null
+            },
+            "id": 369
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/370.entry": null
+            },
+            "abilities": [
+                "pokemon.ability.torrent",
+                "pokemon.ability.torrent"
+            ],
+            "id": 370
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/371.entry": null,
+                "pokelink:/pokemon/rs/371.evos": null
+            },
+            "id": 371
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/372.entry": null,
+                "pokelink:/pokemon/rs/372.evos": null
+            },
+            "id": 372
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/373.entry": null
+            },
+            "id": 373
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/374.entry": null,
+                "pokelink:/pokemon/rs/374.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.magnet_pull",
+                "pokemon.ability.magnet_pull"
+            ],
+            "id": 374
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/375.entry": null,
+                "pokelink:/pokemon/rs/375.evos": null
+            },
+            "abilities": [
+                "pokemon.ability.magnet_pull",
+                "pokemon.ability.magnet_pull"
+            ],
+            "id": 375
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/376.entry": null
+            },
+            "id": 376
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/377.entry": null
+            },
+            "id": 377
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/378.entry": null
+            },
+            "id": 378
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/379.entry": null
+            },
+            "id": 379
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/380.entry": null
+            },
+            "id": 380
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/381.entry": null
+            },
+            "id": 381
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/382.entry": null
+            },
+            "id": 382
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/383.entry": null
+            },
+            "id": 383
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/384.entry": null
+            },
+            "id": 384
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/385.entry": null
+            },
+            "id": 385
+        },
+        {
+            "__import": {
+                "pokelink:/pokemon/rs/386.entry": null
+            },
+            "id": 386,
+            "forms": [
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/386.1.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/386.2.entry": null
+                    }
+                },
+                {
+                    "__import": {
+                        "pokelink:/pokemon/rs/386.3.entry": null
+                    }
+                }
+            ]
+        }
+    ]
+}

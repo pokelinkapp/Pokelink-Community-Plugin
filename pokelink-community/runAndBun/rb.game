@@ -1,0 +1,41 @@
+{
+    "__import": {
+        "pokelink-community:/runAndBun/rb.items": null,
+        "pokelink:/locations/gen3.locations": null,
+        "pokelink:/locations/e.nuzloc": null,
+        "pokelink:/badges/hoenn.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink-community:/runAndBun/rb.abilities": null,
+        "pokelink:/keybinds/rse.keybinds": null
+    },
+    "name": "Game.Name.runandbun",
+    "generation": 8,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/runAndBun/logo.png",
+    "lightTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "darkTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "priority": 1,
+    "pokedex": {
+        "auto": "pokelink-community:/runAndBun/rb.dex",
+        "manual": "pokelink-community:/runAndBun/rb.dex"
+    },
+    "delayEggHatch": true,
+    "moves": "pokelink:/moves/swsh.moves",
+    "typeChart": "pokelink:/typeCharts/gen6.typeChart",
+    "hatchMultiplier": 256,
+    "gameId": "EMERALD",
+    "console": "gba",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/runAndBun/rb.nav": null
+            }
+        }
+    ]
+}

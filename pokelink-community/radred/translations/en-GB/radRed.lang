@@ -1,0 +1,13 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Name": {
+                "radicalRed": "Pokémon Radical Red"
+            },
+            "Subtitle": {
+                "v4.1": "v4.1"
+            }
+        }
+    }
+}
