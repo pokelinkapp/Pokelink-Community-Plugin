@@ -18,7 +18,7 @@ def _load_plugin():
             os.path.join(os.environ["HOME"], ".local", "share", "pokelink"))
 
     plugin_path = os.path.abspath(
-        os.path.join(plugin_path, "resources", "public.zcell"))
+        os.path.join(plugin_path, "resources", "public", "core.zcell"))
 
     global _zip_f
     _zip_f = zipfile.ZipFile(plugin_path)

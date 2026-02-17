@@ -4235,16 +4235,16 @@
         {
           "to": 186,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
@@ -4375,14 +4375,14 @@
         {
           "to": 65,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -4545,14 +4545,14 @@
         {
           "to": 68,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -4974,14 +4974,14 @@
         {
           "to": 76,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -4989,14 +4989,14 @@
         {
           "to": 76,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 1,
           "toForm": 1
@@ -5323,16 +5323,16 @@
         {
           "to": 199,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
@@ -6183,14 +6183,14 @@
         {
           "to": 94,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -6343,16 +6343,16 @@
         {
           "to": 208,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
@@ -7362,17 +7362,17 @@
         {
           "to": 464,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.protector"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -7632,17 +7632,17 @@
         {
           "to": 230,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.prism_scale"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.dragon_scale"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.prism_scale"
                 }
               }
             }
@@ -7937,16 +7937,16 @@
         {
           "to": 212,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
@@ -8037,17 +8037,17 @@
         {
           "to": 466,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.electirizer"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -8093,17 +8093,17 @@
         {
           "to": 467,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.magmarizer"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -8628,11 +8628,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.time": {
-                  "string": "timeOfDay.day"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.time": {
+                  "string": "timeOfDay.day"
                 }
               }
             }
@@ -8645,11 +8645,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.time": {
-                  "string": "timeOfDay.night"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.time": {
+                  "string": "timeOfDay.night"
                 }
               }
             }
@@ -13160,11 +13160,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.rarity": {
-                  "string": "rarity.randomPersonality"
-                },
                 "pokemon.evolve.knowMove": {
                   "string": "pokemon.move.hyper_drill"
+                },
+                "pokemon.evolve.rarity": {
+                  "string": "rarity.randomPersonality"
                 }
               }
             }
@@ -16168,11 +16168,11 @@
         {
           "to": 266,
           "conditions": {
-            "pokemon.evolve.rarity": {
-              "string": "rarity.randomPersonality"
-            },
             "pokemon.evolve.level": {
               "number": 7
+            },
+            "pokemon.evolve.rarity": {
+              "string": "rarity.randomPersonality"
             }
           },
           "fromForm": 0,
@@ -16181,11 +16181,11 @@
         {
           "to": 268,
           "conditions": {
-            "pokemon.evolve.rarity": {
-              "string": "rarity.randomPersonality"
-            },
             "pokemon.evolve.level": {
               "number": 7
+            },
+            "pokemon.evolve.rarity": {
+              "string": "rarity.randomPersonality"
             }
           },
           "fromForm": 0,
@@ -16875,11 +16875,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -17320,15 +17320,15 @@
         {
           "to": 292,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 20
+            },
             "pokemon.evolve.emptySlot": {
               "nested": {
                 "pokemon.evolve.hasItem": {
                   "string": "pokemon.ball.poke_ball"
                 }
               }
-            },
-            "pokemon.evolve.level": {
-              "number": 20
             }
           },
           "fromForm": 0,
@@ -20015,15 +20015,15 @@
             },
             "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.prism_scale"
-                },
                 "pokemon.evolve.trade": {
                   "nested": {
                     "pokemon.evolve.holdItem": {
                       "string": "pokemon.item.prism_scale"
                     }
                   }
+                },
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.prism_scale"
                 }
               }
             }
@@ -20443,17 +20443,17 @@
         {
           "to": 477,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.reaper_cloth"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -20696,11 +20696,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -23117,11 +23117,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.time": {
-                  "string": "timeOfDay.day"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.time": {
+                  "string": "timeOfDay.day"
                 }
               }
             }
@@ -23400,11 +23400,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -23413,11 +23413,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -23426,11 +23426,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 1,
@@ -23439,11 +23439,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 1,
@@ -23452,11 +23452,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 2,
@@ -23465,11 +23465,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 2,
@@ -23803,11 +23803,11 @@
         {
           "to": 416,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 21
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 21
             }
           },
           "fromForm": 0,
@@ -24671,11 +24671,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.time": {
-                  "string": "timeOfDay.night"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.time": {
+                  "string": "timeOfDay.night"
                 }
               }
             }
@@ -29532,14 +29532,14 @@
         {
           "to": 526,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -29898,14 +29898,14 @@
         {
           "to": 534,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -30645,11 +30645,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 0,
@@ -30658,11 +30658,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 0,
@@ -30671,11 +30671,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 1,
@@ -30684,11 +30684,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 1,
@@ -30697,11 +30697,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 2,
@@ -30710,11 +30710,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 2,
@@ -32920,17 +32920,17 @@
         {
           "to": 589,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.tradeWith": {
                   "string": "pokemon.species.shelmet"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -34065,17 +34065,17 @@
         {
           "to": 617,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.tradeWith": {
                   "string": "pokemon.species.karrablast"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -39758,11 +39758,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 23
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 23
             }
           },
           "fromForm": 0,
@@ -39771,11 +39771,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 23
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 23
             }
           },
           "fromForm": 0,
@@ -40979,9 +40979,6 @@
             "pokemon.evolve.level": {
               "number": 50
             },
-            "pokemon.evolve.weather": {
-              "string": "weather.raining"
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
@@ -40991,6 +40988,9 @@
                   "string": "EmeraldImperium.Weather.fog"
                 }
               }
+            },
+            "pokemon.evolve.weather": {
+              "string": "weather.raining"
             }
           },
           "fromForm": 0,
@@ -41002,9 +41002,6 @@
             "pokemon.evolve.level": {
               "number": 50
             },
-            "pokemon.evolve.weather": {
-              "string": "weather.raining"
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
@@ -41014,6 +41011,9 @@
                   "string": "EmeraldImperium.Weather.fog"
                 }
               }
+            },
+            "pokemon.evolve.weather": {
+              "string": "weather.raining"
             }
           },
           "fromForm": 1,
@@ -41203,14 +41203,14 @@
         {
           "to": 709,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -41289,14 +41289,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -41304,14 +41304,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 1,
           "toForm": 1
@@ -41319,14 +41319,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 2,
           "toForm": 2
@@ -41334,14 +41334,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 3,
           "toForm": 3
@@ -43533,11 +43533,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.time": {
-              "string": "timeOfDay.dusk"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.dusk"
             }
           },
           "fromForm": 0,
@@ -43546,11 +43546,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.time": {
-              "string": "timeOfDay.dusk"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.dusk"
             }
           },
           "fromForm": 1,
@@ -44281,11 +44281,11 @@
         {
           "to": 758,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 33
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 33
             }
           },
           "fromForm": 0,
@@ -49758,9 +49758,6 @@
         {
           "to": 849,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 30
-            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.brave",
@@ -49776,6 +49773,9 @@
                 "pokemon.nature.sassy",
                 "pokemon.nature.quirky"
               ]
+            },
+            "pokemon.evolve.level": {
+              "number": 30
             }
           },
           "fromForm": 0,
@@ -49784,9 +49784,6 @@
         {
           "to": 849,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 30
-            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.lonely",
@@ -49802,6 +49799,9 @@
                 "pokemon.nature.gentle",
                 "pokemon.nature.careful"
               ]
+            },
+            "pokemon.evolve.level": {
+              "number": 30
             }
           },
           "fromForm": 0,
@@ -53232,11 +53232,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.time": {
-                  "string": "timeOfDay.night"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.time": {
+                  "string": "timeOfDay.night"
                 }
               }
             }
@@ -53823,15 +53823,15 @@
         {
           "to": 1018,
           "conditions": {
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.metal_alloy"
+            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
                   "number": 50
                 }
               }
-            },
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.metal_alloy"
             }
           },
           "fromForm": 0,
@@ -55515,11 +55515,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -55528,11 +55528,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -55931,11 +55931,11 @@
         {
           "to": 925,
           "conditions": {
-            "pokemon.evolve.rarity": {
-              "string": "rarity.rare"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.rarity": {
+              "string": "rarity.rare"
             }
           },
           "fromForm": 0,
