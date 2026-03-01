@@ -1,0 +1,38 @@
+{
+    "__import": {
+        "pokelink-community:/pokemon_null/null.items": null,
+        "pokelink:/locations/gen3.locations": null,
+        "pokelink:/locations/e.nuzloc": null,
+        "pokelink:/badges/hoenn.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink-community:/pokemon_null/null.abilities": null,
+        "pokelink:/keybinds/rse.keybinds": null,
+        "pokelink-community:/pokemon_null/null.exp": null
+    },
+    "name": "Game.Name.pokemon_null",
+    "generation": 9,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/pokemon_null/logo.png",
+    "lightTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "darkTheme": {
+        "color": "#047857",
+        "darkText": false
+    },
+    "priority": 2,
+    "pokedex": {
+        "auto": "pokelink-community:/pokemon_null/null.dex",
+        "manual": "pokelink-community:/pokemon_null/null.dex"
+    },
+    "moves": "pokelink-community:/pokemon_null/null.moves",
+    "delayEggHatch": true,
+    "typeChart": "pokelink-community:/emerald_imperium/emeraldImperium.typeChart",
+    "hatchMultiplier": 256,
+    "gameId": "EMERALD",
+    "console": "gba",
+    "memoryMaps": [
+        
+    ]
+}

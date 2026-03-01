@@ -2,6 +2,7 @@ import emerald_rogue
 import runAndBun
 import emerald_imperium
 import radical_red
+import pokemon_null
 
 import locale
 locale.setlocale(locale.LC_ALL, '')
@@ -13,3 +14,5 @@ print()
 radical_red.generate()
 print()
 emerald_rogue.generate()
+print()
+pokemon_null.generate()
