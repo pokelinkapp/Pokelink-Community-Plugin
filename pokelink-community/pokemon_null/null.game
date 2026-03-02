@@ -14,11 +14,11 @@
     "category": "Game.Category.supportedRomhacks",
     "logo": "pokelink-community:/pokemon_null/logo.png",
     "lightTheme": {
-        "color": "#047857",
+        "color": "#520a08",
         "darkText": false
     },
     "darkTheme": {
-        "color": "#047857",
+        "color": "#ce4442",
         "darkText": false
     },
     "priority": 2,
@@ -33,6 +33,10 @@
     "gameId": "EMERALD",
     "console": "gba",
     "memoryMaps": [
-        
+        {
+            "__import": {
+                "pokelink-community:/pokemon_null/null.nav": null
+            }
+        }
     ]
 }

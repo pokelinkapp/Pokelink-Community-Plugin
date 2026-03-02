@@ -58,8 +58,12 @@ def process_species_forms():
 
             if items[-1].startswith("SPECIES"):
                 continue
+                
 
             internal_id = int(items[-1])
+            
+            if (items[-3] == "FORMS_START"):
+                internal_id += _species_form_id["PECHARUNT"]
 
             _species_form_id[species] = internal_id
 

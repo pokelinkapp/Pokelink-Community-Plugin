@@ -115,7 +115,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/venusaur-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/venusaur-mega.png"
           },
-          "gameId": 1,
+          "gameId": 1026,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -259,7 +259,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/charizard-mega_x.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/charizard-mega_x.png"
           },
-          "gameId": 2,
+          "gameId": 1027,
           "form": 1,
           "formName": "pokemon.form.mega_x",
           "baseStats": {
@@ -294,7 +294,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/charizard-mega_y.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/charizard-mega_y.png"
           },
-          "gameId": 3,
+          "gameId": 1028,
           "form": 2,
           "formName": "pokemon.form.mega_y",
           "baseStats": {
@@ -438,7 +438,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/blastoise-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/blastoise-mega.png"
           },
-          "gameId": 4,
+          "gameId": 1029,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -679,7 +679,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/beedrill-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/beedrill-mega.png"
           },
-          "gameId": 5,
+          "gameId": 1030,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -821,7 +821,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pidgeot-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pidgeot-mega.png"
           },
-          "gameId": 6,
+          "gameId": 1031,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -892,7 +892,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rattata-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rattata-alolan.png"
           },
-          "gameId": 51,
+          "gameId": 1076,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -963,7 +963,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/raticate-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/raticate-alolan.png"
           },
-          "gameId": 52,
+          "gameId": 1077,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -1169,7 +1169,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-cosplay.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-cosplay.png"
           },
-          "gameId": 106,
+          "gameId": 1131,
           "form": 1,
           "formName": "pokemon.form.cosplay",
           "baseStats": {
@@ -1203,7 +1203,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-rock_star.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-rock_star.png"
           },
-          "gameId": 107,
+          "gameId": 1132,
           "form": 2,
           "formName": "pokemon.form.rock_star",
           "baseStats": {
@@ -1237,7 +1237,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-belle.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-belle.png"
           },
-          "gameId": 108,
+          "gameId": 1133,
           "form": 3,
           "formName": "pokemon.form.belle",
           "baseStats": {
@@ -1271,7 +1271,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-pop_star.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-pop_star.png"
           },
-          "gameId": 109,
+          "gameId": 1134,
           "form": 4,
           "formName": "pokemon.form.pop_star",
           "baseStats": {
@@ -1305,7 +1305,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-ph_d.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-ph_d.png"
           },
-          "gameId": 110,
+          "gameId": 1135,
           "form": 5,
           "formName": "Null.Form.ph_d",
           "baseStats": {
@@ -1339,7 +1339,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-libre.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-libre.png"
           },
-          "gameId": 111,
+          "gameId": 1136,
           "form": 6,
           "formName": "pokemon.form.libre",
           "baseStats": {
@@ -1373,7 +1373,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-original_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-original_cap.png"
           },
-          "gameId": 112,
+          "gameId": 1137,
           "form": 7,
           "formName": "Null.Form.original_cap",
           "baseStats": {
@@ -1407,7 +1407,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-hoenn_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-hoenn_cap.png"
           },
-          "gameId": 113,
+          "gameId": 1138,
           "form": 8,
           "formName": "Null.Form.hoenn_cap",
           "baseStats": {
@@ -1441,7 +1441,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-sinnoh_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-sinnoh_cap.png"
           },
-          "gameId": 114,
+          "gameId": 1139,
           "form": 9,
           "formName": "Null.Form.sinnoh_cap",
           "baseStats": {
@@ -1475,7 +1475,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-unova_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-unova_cap.png"
           },
-          "gameId": 115,
+          "gameId": 1140,
           "form": 10,
           "formName": "Null.Form.unova_cap",
           "baseStats": {
@@ -1509,7 +1509,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-kalos_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-kalos_cap.png"
           },
-          "gameId": 116,
+          "gameId": 1141,
           "form": 11,
           "formName": "Null.Form.kalos_cap",
           "baseStats": {
@@ -1543,7 +1543,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-alola_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-alola_cap.png"
           },
-          "gameId": 117,
+          "gameId": 1142,
           "form": 12,
           "formName": "Null.Form.alola_cap",
           "baseStats": {
@@ -1577,7 +1577,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-partner_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-partner_cap.png"
           },
-          "gameId": 118,
+          "gameId": 1143,
           "form": 13,
           "formName": "Null.Form.partner_cap",
           "baseStats": {
@@ -1612,7 +1612,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pikachu-world_cap.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pikachu-world_cap.png"
           },
-          "gameId": 119,
+          "gameId": 1144,
           "form": 14,
           "formName": "Null.Form.world_cap",
           "baseStats": {
@@ -1682,7 +1682,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/raichu-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/raichu-alolan.png"
           },
-          "gameId": 53,
+          "gameId": 1078,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -1716,7 +1716,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/raichu-mega_x.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/raichu-mega_x.png"
           },
-          "gameId": 380,
+          "gameId": 1405,
           "form": 2,
           "formName": "pokemon.form.mega_x",
           "baseStats": {
@@ -1750,7 +1750,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/raichu-mega_y.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/raichu-mega_y.png"
           },
-          "gameId": 381,
+          "gameId": 1406,
           "form": 3,
           "formName": "pokemon.form.mega_y",
           "baseStats": {
@@ -1820,7 +1820,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sandshrew-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sandshrew-alolan.png"
           },
-          "gameId": 54,
+          "gameId": 1079,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -1891,7 +1891,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sandslash-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sandslash-alolan.png"
           },
-          "gameId": 55,
+          "gameId": 1080,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -2208,7 +2208,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/clefable-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/clefable-mega.png"
           },
-          "gameId": 354,
+          "gameId": 1379,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -2279,7 +2279,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vulpix-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vulpix-alolan.png"
           },
-          "gameId": 56,
+          "gameId": 1081,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -2351,7 +2351,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ninetales-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ninetales-alolan.png"
           },
-          "gameId": 57,
+          "gameId": 1082,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -2804,7 +2804,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/diglett-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/diglett-alolan.png"
           },
-          "gameId": 58,
+          "gameId": 1083,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -2875,7 +2875,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dugtrio-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dugtrio-alolan.png"
           },
-          "gameId": 59,
+          "gameId": 1084,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -2946,7 +2946,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meowth-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meowth-alolan.png"
           },
-          "gameId": 60,
+          "gameId": 1085,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -2981,7 +2981,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meowth-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meowth-galarian.png"
           },
-          "gameId": 69,
+          "gameId": 1094,
           "form": 2,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -3052,7 +3052,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/persian-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/persian-alolan.png"
           },
-          "gameId": 61,
+          "gameId": 1086,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -3260,7 +3260,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/growlithe-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/growlithe-hisuian.png"
           },
-          "gameId": 88,
+          "gameId": 1113,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -3333,7 +3333,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arcanine-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arcanine-hisuian.png"
           },
-          "gameId": 89,
+          "gameId": 1114,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -3581,7 +3581,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alakazam-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alakazam-mega.png"
           },
-          "gameId": 7,
+          "gameId": 1032,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -3828,7 +3828,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/victreebel-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/victreebel-mega.png"
           },
-          "gameId": 355,
+          "gameId": 1380,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -3970,7 +3970,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/geodude-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/geodude-alolan.png"
           },
-          "gameId": 62,
+          "gameId": 1087,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -4043,7 +4043,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/graveler-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/graveler-alolan.png"
           },
-          "gameId": 63,
+          "gameId": 1088,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -4116,7 +4116,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/golem-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/golem-alolan.png"
           },
-          "gameId": 64,
+          "gameId": 1089,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -4188,7 +4188,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ponyta-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ponyta-galarian.png"
           },
-          "gameId": 70,
+          "gameId": 1095,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -4259,7 +4259,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rapidash-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rapidash-galarian.png"
           },
-          "gameId": 71,
+          "gameId": 1096,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -4330,7 +4330,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/slowpoke-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/slowpoke-galarian.png"
           },
-          "gameId": 72,
+          "gameId": 1097,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -4401,7 +4401,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/slowbro-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/slowbro-mega.png"
           },
-          "gameId": 8,
+          "gameId": 1033,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -4435,7 +4435,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/slowbro-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/slowbro-galarian.png"
           },
-          "gameId": 73,
+          "gameId": 1098,
           "form": 2,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -4574,7 +4574,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/farfetchd-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/farfetchd-galarian.png"
           },
-          "gameId": 74,
+          "gameId": 1099,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -4781,7 +4781,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/grimer-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/grimer-alolan.png"
           },
-          "gameId": 65,
+          "gameId": 1090,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -4853,7 +4853,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/muk-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/muk-alolan.png"
           },
-          "gameId": 66,
+          "gameId": 1091,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -5068,7 +5068,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gengar-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gengar-mega.png"
           },
-          "gameId": 9,
+          "gameId": 1034,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -5309,7 +5309,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/voltorb-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/voltorb-hisuian.png"
           },
-          "gameId": 90,
+          "gameId": 1115,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -5380,7 +5380,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/electrode-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/electrode-hisuian.png"
           },
-          "gameId": 91,
+          "gameId": 1116,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -5487,7 +5487,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/exeggutor-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/exeggutor-alolan.png"
           },
-          "gameId": 67,
+          "gameId": 1092,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -5593,7 +5593,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/marowak-alolan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/marowak-alolan.png"
           },
-          "gameId": 68,
+          "gameId": 1093,
           "form": 1,
           "formName": "Null.Form.alolan",
           "baseStats": {
@@ -5800,7 +5800,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/weezing-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/weezing-galarian.png"
           },
-          "gameId": 75,
+          "gameId": 1100,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -6010,7 +6010,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/kangaskhan-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/kangaskhan-mega.png"
           },
-          "gameId": 10,
+          "gameId": 1035,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -6253,7 +6253,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/starmie-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/starmie-mega.png"
           },
-          "gameId": 356,
+          "gameId": 1381,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -6494,7 +6494,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pinsir-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pinsir-mega.png"
           },
-          "gameId": 11,
+          "gameId": 1036,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -6562,7 +6562,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros.png"
           },
-          "gameId": 105,
+          "gameId": 1130,
           "form": 1,
           "formName": "Null.Form.paldean",
           "baseStats": {
@@ -6593,7 +6593,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros.png"
           },
-          "gameId": 342,
+          "gameId": 1367,
           "form": 2,
           "formName": "Null.Form.paldean_blaze_breed",
           "baseStats": {
@@ -6624,7 +6624,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros.png"
           },
-          "gameId": 343,
+          "gameId": 1368,
           "form": 3,
           "formName": "Null.Form.paldean_aqua_breed",
           "baseStats": {
@@ -6727,7 +6727,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gyarados-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gyarados-mega.png"
           },
-          "gameId": 12,
+          "gameId": 1037,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -7176,7 +7176,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/aerodactyl-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/aerodactyl-mega.png"
           },
-          "gameId": 13,
+          "gameId": 1038,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -7283,7 +7283,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/articuno-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/articuno-galarian.png"
           },
-          "gameId": 77,
+          "gameId": 1102,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -7358,7 +7358,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zapdos-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zapdos-galarian.png"
           },
-          "gameId": 78,
+          "gameId": 1103,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -7430,7 +7430,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/moltres-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/moltres-galarian.png"
           },
-          "gameId": 79,
+          "gameId": 1104,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -7573,7 +7573,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dragonite-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dragonite-mega.png"
           },
-          "gameId": 357,
+          "gameId": 1382,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -7646,7 +7646,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/mewtwo-mega_x.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/mewtwo-mega_x.png"
           },
-          "gameId": 14,
+          "gameId": 1039,
           "form": 1,
           "formName": "pokemon.form.mega_x",
           "baseStats": {
@@ -7681,7 +7681,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/mewtwo-mega_y.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/mewtwo-mega_y.png"
           },
-          "gameId": 15,
+          "gameId": 1040,
           "form": 2,
           "formName": "pokemon.form.mega_y",
           "baseStats": {
@@ -7860,7 +7860,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meganium-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meganium-mega.png"
           },
-          "gameId": 358,
+          "gameId": 1383,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -8005,7 +8005,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/typhlosion-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/typhlosion-hisuian.png"
           },
-          "gameId": 92,
+          "gameId": 1117,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -8150,7 +8150,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/feraligatr-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/feraligatr-mega.png"
           },
-          "gameId": 359,
+          "gameId": 1384,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -8603,7 +8603,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pichu-spiky_eared.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pichu-spiky_eared.png"
           },
-          "gameId": 120,
+          "gameId": 1145,
           "form": 1,
           "formName": "pokemon.form.spiky",
           "baseStats": {
@@ -8954,7 +8954,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ampharos-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ampharos-mega.png"
           },
-          "gameId": 16,
+          "gameId": 1041,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -9445,7 +9445,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/wooper.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/wooper.png"
           },
-          "gameId": 104,
+          "gameId": 1129,
           "form": 1,
           "formName": "Null.Form.paldean",
           "baseStats": {
@@ -9653,7 +9653,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/slowking-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/slowking-galarian.png"
           },
-          "gameId": 80,
+          "gameId": 1105,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -9758,7 +9758,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-b.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-b.png"
           },
-          "gameId": 121,
+          "gameId": 1146,
           "form": 1,
           "formName": "Null.Form.b",
           "baseStats": {
@@ -9792,7 +9792,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-c.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-c.png"
           },
-          "gameId": 122,
+          "gameId": 1147,
           "form": 2,
           "formName": "Null.Form.c",
           "baseStats": {
@@ -9826,7 +9826,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-d.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-d.png"
           },
-          "gameId": 123,
+          "gameId": 1148,
           "form": 3,
           "formName": "Null.Form.d",
           "baseStats": {
@@ -9860,7 +9860,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-e.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-e.png"
           },
-          "gameId": 124,
+          "gameId": 1149,
           "form": 4,
           "formName": "Null.Form.e",
           "baseStats": {
@@ -9894,7 +9894,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-f.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-f.png"
           },
-          "gameId": 125,
+          "gameId": 1150,
           "form": 5,
           "formName": "Null.Form.f",
           "baseStats": {
@@ -9928,7 +9928,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-g.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-g.png"
           },
-          "gameId": 126,
+          "gameId": 1151,
           "form": 6,
           "formName": "Null.Form.g",
           "baseStats": {
@@ -9962,7 +9962,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-h.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-h.png"
           },
-          "gameId": 127,
+          "gameId": 1152,
           "form": 7,
           "formName": "Null.Form.h",
           "baseStats": {
@@ -9996,7 +9996,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-i.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-i.png"
           },
-          "gameId": 128,
+          "gameId": 1153,
           "form": 8,
           "formName": "Null.Form.i",
           "baseStats": {
@@ -10030,7 +10030,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-j.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-j.png"
           },
-          "gameId": 129,
+          "gameId": 1154,
           "form": 9,
           "formName": "Null.Form.j",
           "baseStats": {
@@ -10064,7 +10064,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-k.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-k.png"
           },
-          "gameId": 130,
+          "gameId": 1155,
           "form": 10,
           "formName": "Null.Form.k",
           "baseStats": {
@@ -10098,7 +10098,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-l.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-l.png"
           },
-          "gameId": 131,
+          "gameId": 1156,
           "form": 11,
           "formName": "Null.Form.l",
           "baseStats": {
@@ -10132,7 +10132,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-m.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-m.png"
           },
-          "gameId": 132,
+          "gameId": 1157,
           "form": 12,
           "formName": "Null.Form.m",
           "baseStats": {
@@ -10166,7 +10166,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-n.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-n.png"
           },
-          "gameId": 133,
+          "gameId": 1158,
           "form": 13,
           "formName": "Null.Form.n",
           "baseStats": {
@@ -10200,7 +10200,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-o.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-o.png"
           },
-          "gameId": 134,
+          "gameId": 1159,
           "form": 14,
           "formName": "Null.Form.o",
           "baseStats": {
@@ -10234,7 +10234,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-p.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-p.png"
           },
-          "gameId": 135,
+          "gameId": 1160,
           "form": 15,
           "formName": "Null.Form.p",
           "baseStats": {
@@ -10268,7 +10268,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-q.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-q.png"
           },
-          "gameId": 136,
+          "gameId": 1161,
           "form": 16,
           "formName": "Null.Form.q",
           "baseStats": {
@@ -10302,7 +10302,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-r.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-r.png"
           },
-          "gameId": 137,
+          "gameId": 1162,
           "form": 17,
           "formName": "Null.Form.r",
           "baseStats": {
@@ -10336,7 +10336,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-s.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-s.png"
           },
-          "gameId": 138,
+          "gameId": 1163,
           "form": 18,
           "formName": "Null.Form.s",
           "baseStats": {
@@ -10370,7 +10370,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-t.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-t.png"
           },
-          "gameId": 139,
+          "gameId": 1164,
           "form": 19,
           "formName": "Null.Form.t",
           "baseStats": {
@@ -10404,7 +10404,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-u.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-u.png"
           },
-          "gameId": 140,
+          "gameId": 1165,
           "form": 20,
           "formName": "Null.Form.u",
           "baseStats": {
@@ -10438,7 +10438,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-v.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-v.png"
           },
-          "gameId": 141,
+          "gameId": 1166,
           "form": 21,
           "formName": "Null.Form.v",
           "baseStats": {
@@ -10472,7 +10472,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-w.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-w.png"
           },
-          "gameId": 142,
+          "gameId": 1167,
           "form": 22,
           "formName": "Null.Form.w",
           "baseStats": {
@@ -10506,7 +10506,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-x.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-x.png"
           },
-          "gameId": 143,
+          "gameId": 1168,
           "form": 23,
           "formName": "Null.Form.x",
           "baseStats": {
@@ -10540,7 +10540,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-y.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-y.png"
           },
-          "gameId": 144,
+          "gameId": 1169,
           "form": 24,
           "formName": "Null.Form.y",
           "baseStats": {
@@ -10574,7 +10574,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-z.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-z.png"
           },
-          "gameId": 145,
+          "gameId": 1170,
           "form": 25,
           "formName": "Null.Form.z",
           "baseStats": {
@@ -10608,7 +10608,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown.png"
           },
-          "gameId": 146,
+          "gameId": 1171,
           "form": 26,
           "formName": "Null.Form.emark",
           "baseStats": {
@@ -10642,7 +10642,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown.png"
           },
-          "gameId": 147,
+          "gameId": 1172,
           "form": 27,
           "formName": "Null.Form.qmark",
           "baseStats": {
@@ -10917,7 +10917,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/steelix-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/steelix-mega.png"
           },
-          "gameId": 17,
+          "gameId": 1042,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -11057,7 +11057,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/qwilfish-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/qwilfish-hisuian.png"
           },
-          "gameId": 93,
+          "gameId": 1118,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -11128,7 +11128,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/scizor-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/scizor-mega.png"
           },
-          "gameId": 18,
+          "gameId": 1043,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -11235,7 +11235,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/heracross-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/heracross-mega.png"
           },
-          "gameId": 19,
+          "gameId": 1044,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -11307,7 +11307,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sneasel-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sneasel-hisuian.png"
           },
-          "gameId": 94,
+          "gameId": 1119,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -11588,7 +11588,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/corsola-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/corsola-galarian.png"
           },
-          "gameId": 81,
+          "gameId": 1106,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -11800,7 +11800,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/skarmory-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/skarmory-mega.png"
           },
-          "gameId": 360,
+          "gameId": 1385,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -11907,7 +11907,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/houndoom-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/houndoom-mega.png"
           },
-          "gameId": 20,
+          "gameId": 1045,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -12614,7 +12614,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tyranitar-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tyranitar-mega.png"
           },
-          "gameId": 21,
+          "gameId": 1046,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -12861,7 +12861,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sceptile-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sceptile-mega.png"
           },
-          "gameId": 22,
+          "gameId": 1047,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -13005,7 +13005,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/blaziken-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/blaziken-mega.png"
           },
-          "gameId": 23,
+          "gameId": 1048,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -13148,7 +13148,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/swampert-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/swampert-mega.png"
           },
-          "gameId": 24,
+          "gameId": 1049,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -13287,7 +13287,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zigzagoon-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zigzagoon-galarian.png"
           },
-          "gameId": 82,
+          "gameId": 1107,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -13358,7 +13358,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/linoone-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/linoone-galarian.png"
           },
-          "gameId": 83,
+          "gameId": 1108,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -14016,7 +14016,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gardevoir-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gardevoir-mega.png"
           },
-          "gameId": 25,
+          "gameId": 1050,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -14750,7 +14750,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sableye-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sableye-mega.png"
           },
-          "gameId": 26,
+          "gameId": 1051,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -14824,7 +14824,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/mawile-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/mawile-mega.png"
           },
-          "gameId": 27,
+          "gameId": 1052,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -14967,7 +14967,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/aggron-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/aggron-mega.png"
           },
-          "gameId": 28,
+          "gameId": 1053,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -15072,7 +15072,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/medicham-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/medicham-mega.png"
           },
-          "gameId": 29,
+          "gameId": 1054,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -15178,7 +15178,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/manectric-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/manectric-mega.png"
           },
-          "gameId": 30,
+          "gameId": 1055,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -15528,7 +15528,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sharpedo-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sharpedo-mega.png"
           },
-          "gameId": 31,
+          "gameId": 1056,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -15704,7 +15704,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/camerupt-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/camerupt-mega.png"
           },
-          "gameId": 32,
+          "gameId": 1057,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -16128,7 +16128,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/altaria-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/altaria-mega.png"
           },
-          "gameId": 33,
+          "gameId": 1058,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -16750,7 +16750,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/castform-sunny.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/castform-sunny.png"
           },
-          "gameId": 148,
+          "gameId": 1173,
           "form": 1,
           "formName": "pokemon.form.sunny",
           "baseStats": {
@@ -16783,7 +16783,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/castform-rainy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/castform-rainy.png"
           },
-          "gameId": 149,
+          "gameId": 1174,
           "form": 2,
           "formName": "pokemon.form.rainy",
           "baseStats": {
@@ -16816,7 +16816,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/castform-snowy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/castform-snowy.png"
           },
-          "gameId": 150,
+          "gameId": 1175,
           "form": 3,
           "formName": "pokemon.form.snowy",
           "baseStats": {
@@ -16956,7 +16956,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/banette-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/banette-mega.png"
           },
-          "gameId": 34,
+          "gameId": 1059,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -17134,7 +17134,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/chimecho-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/chimecho-mega.png"
           },
-          "gameId": 382,
+          "gameId": 1407,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -17207,7 +17207,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/absol-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/absol-mega.png"
           },
-          "gameId": 35,
+          "gameId": 1060,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -17242,7 +17242,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/absol-mega_z.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/absol-mega_z.png"
           },
-          "gameId": 383,
+          "gameId": 1408,
           "form": 2,
           "formName": "pokemon.form.mega_z",
           "baseStats": {
@@ -17381,7 +17381,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/glalie-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/glalie-mega.png"
           },
-          "gameId": 36,
+          "gameId": 1061,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -17804,7 +17804,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/salamence-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/salamence-mega.png"
           },
-          "gameId": 37,
+          "gameId": 1062,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -17946,7 +17946,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/metagross-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/metagross-mega.png"
           },
-          "gameId": 38,
+          "gameId": 1063,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -18123,7 +18123,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/latias-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/latias-mega.png"
           },
-          "gameId": 39,
+          "gameId": 1064,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -18194,7 +18194,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/latios-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/latios-mega.png"
           },
-          "gameId": 40,
+          "gameId": 1065,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -18265,7 +18265,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/kyogre-primal.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/kyogre-primal.png"
           },
-          "gameId": 49,
+          "gameId": 1074,
           "form": 1,
           "formName": "pokemon.form.primal",
           "baseStats": {
@@ -18336,7 +18336,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/groudon-primal.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/groudon-primal.png"
           },
-          "gameId": 50,
+          "gameId": 1075,
           "form": 1,
           "formName": "pokemon.form.primal",
           "baseStats": {
@@ -18408,7 +18408,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rayquaza-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rayquaza-mega.png"
           },
-          "gameId": 48,
+          "gameId": 1073,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -18516,7 +18516,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/deoxys-attack.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/deoxys-attack.png"
           },
-          "gameId": 151,
+          "gameId": 1176,
           "form": 1,
           "formName": "pokemon.form.attack",
           "baseStats": {
@@ -18552,7 +18552,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/deoxys-defense.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/deoxys-defense.png"
           },
-          "gameId": 152,
+          "gameId": 1177,
           "form": 2,
           "formName": "pokemon.form.defense",
           "baseStats": {
@@ -18588,7 +18588,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/deoxys-speed.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/deoxys-speed.png"
           },
-          "gameId": 153,
+          "gameId": 1178,
           "form": 3,
           "formName": "pokemon.form.speed",
           "baseStats": {
@@ -19056,7 +19056,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/staraptor-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/staraptor-mega.png"
           },
-          "gameId": 384,
+          "gameId": 1409,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -19588,7 +19588,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/burmy-sandy_cloak.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/burmy-sandy_cloak.png"
           },
-          "gameId": 154,
+          "gameId": 1179,
           "form": 1,
           "formName": "Null.Form.sandy_cloak",
           "baseStats": {
@@ -19623,7 +19623,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/burmy-trash_cloak.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/burmy-trash_cloak.png"
           },
-          "gameId": 155,
+          "gameId": 1180,
           "form": 2,
           "formName": "Null.Form.trash_cloak",
           "baseStats": {
@@ -19694,7 +19694,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/wormadam-sandy_cloak.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/wormadam-sandy_cloak.png"
           },
-          "gameId": 156,
+          "gameId": 1181,
           "form": 1,
           "formName": "Null.Form.sandy_cloak",
           "baseStats": {
@@ -19729,7 +19729,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/wormadam-trash_cloak.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/wormadam-trash_cloak.png"
           },
-          "gameId": 157,
+          "gameId": 1182,
           "form": 2,
           "formName": "Null.Form.trash_cloak",
           "baseStats": {
@@ -20040,7 +20040,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/cherrim-sunshine.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/cherrim-sunshine.png"
           },
-          "gameId": 158,
+          "gameId": 1183,
           "form": 1,
           "formName": "pokemon.form.sunshine",
           "baseStats": {
@@ -20108,7 +20108,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/shellos-east_sea.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/shellos-east_sea.png"
           },
-          "gameId": 159,
+          "gameId": 1184,
           "form": 1,
           "formName": "Null.Form.east_sea",
           "baseStats": {
@@ -20178,7 +20178,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gastrodon-east_sea.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gastrodon-east_sea.png"
           },
-          "gameId": 160,
+          "gameId": 1185,
           "form": 1,
           "formName": "Null.Form.east_sea",
           "baseStats": {
@@ -20388,7 +20388,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lopunny-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lopunny-mega.png"
           },
-          "gameId": 41,
+          "gameId": 1066,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -21013,7 +21013,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/garchomp-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/garchomp-mega.png"
           },
-          "gameId": 42,
+          "gameId": 1067,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -21048,7 +21048,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/garchomp-mega_z.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/garchomp-mega_z.png"
           },
-          "gameId": 385,
+          "gameId": 1410,
           "form": 2,
           "formName": "pokemon.form.mega_z",
           "baseStats": {
@@ -21191,7 +21191,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lucario-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lucario-mega.png"
           },
-          "gameId": 43,
+          "gameId": 1068,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -21227,7 +21227,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lucario-mega_z.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lucario-mega_z.png"
           },
-          "gameId": 386,
+          "gameId": 1411,
           "form": 2,
           "formName": "pokemon.form.mega_z",
           "baseStats": {
@@ -21683,7 +21683,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/abomasnow-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/abomasnow-mega.png"
           },
-          "gameId": 44,
+          "gameId": 1069,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -22240,7 +22240,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gallade-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gallade-mega.png"
           },
-          "gameId": 45,
+          "gameId": 1070,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -22382,7 +22382,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/froslass-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/froslass-mega.png"
           },
-          "gameId": 361,
+          "gameId": 1386,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -22452,7 +22452,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rotom-heat.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rotom-heat.png"
           },
-          "gameId": 161,
+          "gameId": 1186,
           "form": 1,
           "formName": "pokemon.form.heat",
           "baseStats": {
@@ -22487,7 +22487,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rotom-wash.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rotom-wash.png"
           },
-          "gameId": 162,
+          "gameId": 1187,
           "form": 2,
           "formName": "pokemon.form.wash",
           "baseStats": {
@@ -22522,7 +22522,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rotom-frost.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rotom-frost.png"
           },
-          "gameId": 163,
+          "gameId": 1188,
           "form": 3,
           "formName": "pokemon.form.frost",
           "baseStats": {
@@ -22557,7 +22557,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rotom-fan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rotom-fan.png"
           },
-          "gameId": 164,
+          "gameId": 1189,
           "form": 4,
           "formName": "pokemon.form.fan",
           "baseStats": {
@@ -22592,7 +22592,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rotom-mow.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rotom-mow.png"
           },
-          "gameId": 165,
+          "gameId": 1190,
           "form": 5,
           "formName": "pokemon.form.mow",
           "baseStats": {
@@ -22770,7 +22770,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dialga-origin.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dialga-origin.png"
           },
-          "gameId": 166,
+          "gameId": 1191,
           "form": 1,
           "formName": "pokemon.form.origin",
           "baseStats": {
@@ -22843,7 +22843,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/palkia-origin.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/palkia-origin.png"
           },
-          "gameId": 167,
+          "gameId": 1192,
           "form": 1,
           "formName": "pokemon.form.origin",
           "baseStats": {
@@ -22916,7 +22916,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/heatran-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/heatran-mega.png"
           },
-          "gameId": 387,
+          "gameId": 1412,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -23021,7 +23021,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/giratina-origin.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/giratina-origin.png"
           },
-          "gameId": 168,
+          "gameId": 1193,
           "form": 1,
           "formName": "pokemon.form.origin",
           "baseStats": {
@@ -23195,7 +23195,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/darkrai-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/darkrai-mega.png"
           },
-          "gameId": 388,
+          "gameId": 1413,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -23267,7 +23267,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/shaymin-sky.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/shaymin-sky.png"
           },
-          "gameId": 169,
+          "gameId": 1194,
           "form": 1,
           "formName": "pokemon.form.sky",
           "baseStats": {
@@ -23338,7 +23338,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-fighting.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-fighting.png"
           },
-          "gameId": 170,
+          "gameId": 1195,
           "form": 1,
           "formName": "pokemon.form.fighting",
           "baseStats": {
@@ -23373,7 +23373,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-flying.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-flying.png"
           },
-          "gameId": 171,
+          "gameId": 1196,
           "form": 2,
           "formName": "pokemon.form.flying",
           "baseStats": {
@@ -23408,7 +23408,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-poison.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-poison.png"
           },
-          "gameId": 172,
+          "gameId": 1197,
           "form": 3,
           "formName": "pokemon.form.poison",
           "baseStats": {
@@ -23443,7 +23443,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-ground.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-ground.png"
           },
-          "gameId": 173,
+          "gameId": 1198,
           "form": 4,
           "formName": "pokemon.form.ground",
           "baseStats": {
@@ -23478,7 +23478,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-rock.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-rock.png"
           },
-          "gameId": 174,
+          "gameId": 1199,
           "form": 5,
           "formName": "pokemon.form.rock",
           "baseStats": {
@@ -23513,7 +23513,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-bug.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-bug.png"
           },
-          "gameId": 175,
+          "gameId": 1200,
           "form": 6,
           "formName": "pokemon.form.bug",
           "baseStats": {
@@ -23548,7 +23548,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-ghost.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-ghost.png"
           },
-          "gameId": 176,
+          "gameId": 1201,
           "form": 7,
           "formName": "pokemon.form.ghost",
           "baseStats": {
@@ -23583,7 +23583,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-steel.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-steel.png"
           },
-          "gameId": 177,
+          "gameId": 1202,
           "form": 8,
           "formName": "pokemon.form.steel",
           "baseStats": {
@@ -23618,7 +23618,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-fire.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-fire.png"
           },
-          "gameId": 178,
+          "gameId": 1203,
           "form": 9,
           "formName": "pokemon.form.fire",
           "baseStats": {
@@ -23653,7 +23653,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-water.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-water.png"
           },
-          "gameId": 179,
+          "gameId": 1204,
           "form": 10,
           "formName": "pokemon.form.water",
           "baseStats": {
@@ -23688,7 +23688,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-grass.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-grass.png"
           },
-          "gameId": 180,
+          "gameId": 1205,
           "form": 11,
           "formName": "pokemon.form.grass",
           "baseStats": {
@@ -23723,7 +23723,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-electric.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-electric.png"
           },
-          "gameId": 181,
+          "gameId": 1206,
           "form": 12,
           "formName": "pokemon.form.electric",
           "baseStats": {
@@ -23758,7 +23758,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-psychic.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-psychic.png"
           },
-          "gameId": 182,
+          "gameId": 1207,
           "form": 13,
           "formName": "pokemon.form.psychic",
           "baseStats": {
@@ -23793,7 +23793,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-ice.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-ice.png"
           },
-          "gameId": 183,
+          "gameId": 1208,
           "form": 14,
           "formName": "pokemon.form.ice",
           "baseStats": {
@@ -23828,7 +23828,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-dragon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-dragon.png"
           },
-          "gameId": 184,
+          "gameId": 1209,
           "form": 15,
           "formName": "pokemon.form.dragon",
           "baseStats": {
@@ -23863,7 +23863,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-dark.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-dark.png"
           },
-          "gameId": 185,
+          "gameId": 1210,
           "form": 16,
           "formName": "pokemon.form.dark",
           "baseStats": {
@@ -23898,7 +23898,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/arceus-fairy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/arceus-fairy.png"
           },
-          "gameId": 186,
+          "gameId": 1211,
           "form": 17,
           "formName": "pokemon.form.fairy",
           "baseStats": {
@@ -24179,7 +24179,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/emboar-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/emboar-mega.png"
           },
-          "gameId": 362,
+          "gameId": 1387,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -24321,7 +24321,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/samurott-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/samurott-hisuian.png"
           },
-          "gameId": 95,
+          "gameId": 1120,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -25291,7 +25291,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/excadrill-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/excadrill-mega.png"
           },
-          "gameId": 363,
+          "gameId": 1388,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -25362,7 +25362,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/audino-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/audino-mega.png"
           },
-          "gameId": 46,
+          "gameId": 1071,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -25896,7 +25896,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/scolipede-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/scolipede-mega.png"
           },
-          "gameId": 364,
+          "gameId": 1389,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -26069,7 +26069,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lilligant-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lilligant-hisuian.png"
           },
-          "gameId": 96,
+          "gameId": 1121,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -26140,7 +26140,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/basculin-blue_striped.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/basculin-blue_striped.png"
           },
-          "gameId": 187,
+          "gameId": 1212,
           "form": 1,
           "formName": "pokemon.form.blue",
           "baseStats": {
@@ -26175,7 +26175,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/basculin-white_striped.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/basculin-white_striped.png"
           },
-          "gameId": 188,
+          "gameId": 1213,
           "form": 2,
           "formName": "pokemon.form.white",
           "baseStats": {
@@ -26352,7 +26352,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/darumaka-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/darumaka-galarian.png"
           },
-          "gameId": 84,
+          "gameId": 1109,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -26425,7 +26425,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/darmanitan-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/darmanitan-galarian.png"
           },
-          "gameId": 85,
+          "gameId": 1110,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -26461,7 +26461,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/darmanitan-zen_mode.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/darmanitan-zen_mode.png"
           },
-          "gameId": 189,
+          "gameId": 1214,
           "form": 2,
           "formName": "Null.Form.zen_mode",
           "baseStats": {
@@ -26497,7 +26497,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/darmanitan.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/darmanitan.png"
           },
-          "gameId": 190,
+          "gameId": 1215,
           "form": 3,
           "formName": "Null.Form.zen_mode_galarian",
           "baseStats": {
@@ -26706,7 +26706,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/scrafty-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/scrafty-mega.png"
           },
-          "gameId": 365,
+          "gameId": 1390,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -26810,7 +26810,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/yamask-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/yamask-galarian.png"
           },
-          "gameId": 86,
+          "gameId": 1111,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -27115,7 +27115,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zorua-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zorua-hisuian.png"
           },
-          "gameId": 97,
+          "gameId": 1122,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -27186,7 +27186,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zoroark-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zoroark-hisuian.png"
           },
-          "gameId": 98,
+          "gameId": 1123,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -27710,7 +27710,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/deerling-summer.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/deerling-summer.png"
           },
-          "gameId": 191,
+          "gameId": 1216,
           "form": 1,
           "formName": "pokemon.form.summer",
           "baseStats": {
@@ -27745,7 +27745,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/deerling-autumn.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/deerling-autumn.png"
           },
-          "gameId": 192,
+          "gameId": 1217,
           "form": 2,
           "formName": "pokemon.form.autumn",
           "baseStats": {
@@ -27780,7 +27780,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/deerling-winter.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/deerling-winter.png"
           },
-          "gameId": 193,
+          "gameId": 1218,
           "form": 3,
           "formName": "pokemon.form.winter",
           "baseStats": {
@@ -27851,7 +27851,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sawsbuck-summer.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sawsbuck-summer.png"
           },
-          "gameId": 194,
+          "gameId": 1219,
           "form": 1,
           "formName": "pokemon.form.summer",
           "baseStats": {
@@ -27886,7 +27886,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sawsbuck-autumn.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sawsbuck-autumn.png"
           },
-          "gameId": 195,
+          "gameId": 1220,
           "form": 2,
           "formName": "pokemon.form.autumn",
           "baseStats": {
@@ -27921,7 +27921,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sawsbuck-winter.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sawsbuck-winter.png"
           },
-          "gameId": 196,
+          "gameId": 1221,
           "form": 3,
           "formName": "pokemon.form.winter",
           "baseStats": {
@@ -28577,7 +28577,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/eelektross-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/eelektross-mega.png"
           },
-          "gameId": 366,
+          "gameId": 1391,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -28796,7 +28796,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/chandelure-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/chandelure-mega.png"
           },
-          "gameId": 367,
+          "gameId": 1392,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -29141,7 +29141,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/stunfisk-galarian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/stunfisk-galarian.png"
           },
-          "gameId": 87,
+          "gameId": 1112,
           "form": 1,
           "formName": "Null.Form.galarian",
           "baseStats": {
@@ -29349,7 +29349,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/golurk-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/golurk-mega.png"
           },
-          "gameId": 389,
+          "gameId": 1414,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -29558,7 +29558,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/braviary-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/braviary-hisuian.png"
           },
-          "gameId": 99,
+          "gameId": 1124,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -30043,7 +30043,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tornadus-therian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tornadus-therian.png"
           },
-          "gameId": 197,
+          "gameId": 1222,
           "form": 1,
           "formName": "pokemon.form.therian",
           "baseStats": {
@@ -30115,7 +30115,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/thundurus-therian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/thundurus-therian.png"
           },
-          "gameId": 198,
+          "gameId": 1223,
           "form": 1,
           "formName": "pokemon.form.therian",
           "baseStats": {
@@ -30256,7 +30256,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/landorus-therian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/landorus-therian.png"
           },
-          "gameId": 199,
+          "gameId": 1224,
           "form": 1,
           "formName": "pokemon.form.therian",
           "baseStats": {
@@ -30329,7 +30329,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/kyurem-white.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/kyurem-white.png"
           },
-          "gameId": 201,
+          "gameId": 1226,
           "form": 1,
           "formName": "pokemon.form.white",
           "baseStats": {
@@ -30364,7 +30364,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/kyurem-black.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/kyurem-black.png"
           },
-          "gameId": 202,
+          "gameId": 1227,
           "form": 2,
           "formName": "pokemon.form.black",
           "baseStats": {
@@ -30435,7 +30435,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/keldeo-resolute.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/keldeo-resolute.png"
           },
-          "gameId": 203,
+          "gameId": 1228,
           "form": 1,
           "formName": "pokemon.form.resolute",
           "baseStats": {
@@ -30508,7 +30508,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meloetta-pirouette.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meloetta-pirouette.png"
           },
-          "gameId": 204,
+          "gameId": 1229,
           "form": 1,
           "formName": "pokemon.form.pirouette",
           "baseStats": {
@@ -30584,7 +30584,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/genesect-douse_drive.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/genesect-douse_drive.png"
           },
-          "gameId": 205,
+          "gameId": 1230,
           "form": 1,
           "formName": "Null.Form.douse_drive",
           "baseStats": {
@@ -30622,7 +30622,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/genesect-shock_drive.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/genesect-shock_drive.png"
           },
-          "gameId": 206,
+          "gameId": 1231,
           "form": 2,
           "formName": "Null.Form.shock_drive",
           "baseStats": {
@@ -30660,7 +30660,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/genesect-burn_drive.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/genesect-burn_drive.png"
           },
-          "gameId": 207,
+          "gameId": 1232,
           "form": 3,
           "formName": "Null.Form.burn_drive",
           "baseStats": {
@@ -30698,7 +30698,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/genesect-chill_drive.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/genesect-chill_drive.png"
           },
-          "gameId": 208,
+          "gameId": 1233,
           "form": 4,
           "formName": "Null.Form.chill_drive",
           "baseStats": {
@@ -30843,7 +30843,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/chesnaught-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/chesnaught-mega.png"
           },
-          "gameId": 368,
+          "gameId": 1393,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -30986,7 +30986,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/delphox-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/delphox-mega.png"
           },
-          "gameId": 369,
+          "gameId": 1394,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -31129,7 +31129,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/greninja.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/greninja.png"
           },
-          "gameId": 209,
+          "gameId": 1234,
           "form": 1,
           "formName": "Null.Form.battle_bond",
           "baseStats": {
@@ -31164,7 +31164,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/greninja-ash.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/greninja-ash.png"
           },
-          "gameId": 210,
+          "gameId": 1235,
           "form": 2,
           "formName": "pokemon.form.ash",
           "baseStats": {
@@ -31199,7 +31199,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/greninja-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/greninja-mega.png"
           },
-          "gameId": 370,
+          "gameId": 1395,
           "form": 3,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -31479,7 +31479,7 @@
         "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-polar.png",
         "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-polar.png"
       },
-      "gameId": 211,
+      "gameId": 1236,
       "formName": "pokemon.form.polar",
       "baseStats": {
         "hp": 80,
@@ -31515,7 +31515,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-tundra.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-tundra.png"
           },
-          "gameId": 212,
+          "gameId": 1237,
           "form": 1,
           "formName": "pokemon.form.tundra",
           "baseStats": {
@@ -31552,7 +31552,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-continental.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-continental.png"
           },
-          "gameId": 213,
+          "gameId": 1238,
           "form": 2,
           "formName": "pokemon.form.continental",
           "baseStats": {
@@ -31589,7 +31589,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-garden.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-garden.png"
           },
-          "gameId": 214,
+          "gameId": 1239,
           "form": 3,
           "formName": "pokemon.form.garden",
           "baseStats": {
@@ -31626,7 +31626,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-elegant.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-elegant.png"
           },
-          "gameId": 215,
+          "gameId": 1240,
           "form": 4,
           "formName": "pokemon.form.elegant",
           "baseStats": {
@@ -31663,7 +31663,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-meadow.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-meadow.png"
           },
-          "gameId": 216,
+          "gameId": 1241,
           "form": 5,
           "formName": "pokemon.form.meadow",
           "baseStats": {
@@ -31700,7 +31700,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-modern.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-modern.png"
           },
-          "gameId": 217,
+          "gameId": 1242,
           "form": 6,
           "formName": "pokemon.form.modern",
           "baseStats": {
@@ -31737,7 +31737,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-marine.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-marine.png"
           },
-          "gameId": 218,
+          "gameId": 1243,
           "form": 7,
           "formName": "pokemon.form.marine",
           "baseStats": {
@@ -31774,7 +31774,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-archipelago.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-archipelago.png"
           },
-          "gameId": 219,
+          "gameId": 1244,
           "form": 8,
           "formName": "pokemon.form.archipelago",
           "baseStats": {
@@ -31811,7 +31811,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-high_plains.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-high_plains.png"
           },
-          "gameId": 220,
+          "gameId": 1245,
           "form": 9,
           "formName": "pokemon.form.high_plains",
           "baseStats": {
@@ -31848,7 +31848,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-sandstorm.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-sandstorm.png"
           },
-          "gameId": 221,
+          "gameId": 1246,
           "form": 10,
           "formName": "pokemon.form.sandstorm",
           "baseStats": {
@@ -31885,7 +31885,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-river.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-river.png"
           },
-          "gameId": 222,
+          "gameId": 1247,
           "form": 11,
           "formName": "pokemon.form.river",
           "baseStats": {
@@ -31922,7 +31922,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-monsoon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-monsoon.png"
           },
-          "gameId": 223,
+          "gameId": 1248,
           "form": 12,
           "formName": "pokemon.form.monsoon",
           "baseStats": {
@@ -31959,7 +31959,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-savanna.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-savanna.png"
           },
-          "gameId": 224,
+          "gameId": 1249,
           "form": 13,
           "formName": "pokemon.form.savanna",
           "baseStats": {
@@ -31996,7 +31996,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-sun.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-sun.png"
           },
-          "gameId": 225,
+          "gameId": 1250,
           "form": 14,
           "formName": "pokemon.form.sun",
           "baseStats": {
@@ -32033,7 +32033,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-ocean.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-ocean.png"
           },
-          "gameId": 226,
+          "gameId": 1251,
           "form": 15,
           "formName": "pokemon.form.ocean",
           "baseStats": {
@@ -32070,7 +32070,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-jungle.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-jungle.png"
           },
-          "gameId": 227,
+          "gameId": 1252,
           "form": 16,
           "formName": "pokemon.form.jungle",
           "baseStats": {
@@ -32107,7 +32107,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-fancy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-fancy.png"
           },
-          "gameId": 228,
+          "gameId": 1253,
           "form": 17,
           "formName": "pokemon.form.fancy",
           "baseStats": {
@@ -32144,7 +32144,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/vivillon-poke_ball.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/vivillon-poke_ball.png"
           },
-          "gameId": 229,
+          "gameId": 1254,
           "form": 18,
           "formName": "pokemon.form.poke_ball",
           "baseStats": {
@@ -32255,7 +32255,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pyroar-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pyroar-mega.png"
           },
-          "gameId": 371,
+          "gameId": 1396,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -32293,7 +32293,7 @@
         "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/flabebe-yellow_flower.png",
         "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/flabebe-yellow_flower.png"
       },
-      "gameId": 230,
+      "gameId": 1255,
       "formName": "Null.Form.yellow_flower",
       "baseStats": {
         "hp": 44,
@@ -32326,7 +32326,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/flabebe-orange_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/flabebe-orange_flower.png"
           },
-          "gameId": 231,
+          "gameId": 1256,
           "form": 1,
           "formName": "Null.Form.orange_flower",
           "baseStats": {
@@ -32360,7 +32360,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/flabebe-blue_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/flabebe-blue_flower.png"
           },
-          "gameId": 232,
+          "gameId": 1257,
           "form": 2,
           "formName": "Null.Form.blue_flower",
           "baseStats": {
@@ -32394,7 +32394,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/flabebe-white_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/flabebe-white_flower.png"
           },
-          "gameId": 233,
+          "gameId": 1258,
           "form": 3,
           "formName": "Null.Form.white_flower",
           "baseStats": {
@@ -32463,7 +32463,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-yellow_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette-yellow_flower.png"
           },
-          "gameId": 234,
+          "gameId": 1259,
           "form": 1,
           "formName": "Null.Form.yellow_flower",
           "baseStats": {
@@ -32497,7 +32497,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-orange_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette-orange_flower.png"
           },
-          "gameId": 235,
+          "gameId": 1260,
           "form": 2,
           "formName": "Null.Form.orange_flower",
           "baseStats": {
@@ -32531,7 +32531,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-blue_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette-blue_flower.png"
           },
-          "gameId": 236,
+          "gameId": 1261,
           "form": 3,
           "formName": "Null.Form.blue_flower",
           "baseStats": {
@@ -32565,7 +32565,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-white_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette-white_flower.png"
           },
-          "gameId": 237,
+          "gameId": 1262,
           "form": 4,
           "formName": "Null.Form.white_flower",
           "baseStats": {
@@ -32599,7 +32599,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-eternal_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette-eternal_flower.png"
           },
-          "gameId": 238,
+          "gameId": 1263,
           "form": 5,
           "formName": "Null.Form.eternal_flower",
           "baseStats": {
@@ -32634,7 +32634,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette.png"
           },
-          "gameId": 372,
+          "gameId": 1397,
           "form": 6,
           "formName": "Null.Form.eternal_mega",
           "baseStats": {
@@ -32704,7 +32704,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/florges-yellow_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/florges-yellow_flower.png"
           },
-          "gameId": 239,
+          "gameId": 1264,
           "form": 1,
           "formName": "Null.Form.yellow_flower",
           "baseStats": {
@@ -32738,7 +32738,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/florges-orange_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/florges-orange_flower.png"
           },
-          "gameId": 240,
+          "gameId": 1265,
           "form": 2,
           "formName": "Null.Form.orange_flower",
           "baseStats": {
@@ -32772,7 +32772,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/florges-blue_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/florges-blue_flower.png"
           },
-          "gameId": 241,
+          "gameId": 1266,
           "form": 3,
           "formName": "Null.Form.blue_flower",
           "baseStats": {
@@ -32806,7 +32806,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/florges-white_flower.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/florges-white_flower.png"
           },
-          "gameId": 242,
+          "gameId": 1267,
           "form": 4,
           "formName": "Null.Form.white_flower",
           "baseStats": {
@@ -33010,7 +33010,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-heart_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-heart_trim.png"
           },
-          "gameId": 243,
+          "gameId": 1268,
           "form": 1,
           "formName": "pokemon.form.heart",
           "baseStats": {
@@ -33044,7 +33044,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-star_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-star_trim.png"
           },
-          "gameId": 244,
+          "gameId": 1269,
           "form": 2,
           "formName": "pokemon.form.star",
           "baseStats": {
@@ -33078,7 +33078,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-diamond_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-diamond_trim.png"
           },
-          "gameId": 245,
+          "gameId": 1270,
           "form": 3,
           "formName": "pokemon.form.diamond",
           "baseStats": {
@@ -33112,7 +33112,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-debutante_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-debutante_trim.png"
           },
-          "gameId": 246,
+          "gameId": 1271,
           "form": 4,
           "formName": "pokemon.form.debutante",
           "baseStats": {
@@ -33146,7 +33146,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-matron_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-matron_trim.png"
           },
-          "gameId": 247,
+          "gameId": 1272,
           "form": 5,
           "formName": "pokemon.form.matron",
           "baseStats": {
@@ -33180,7 +33180,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-dandy_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-dandy_trim.png"
           },
-          "gameId": 248,
+          "gameId": 1273,
           "form": 6,
           "formName": "pokemon.form.dandy",
           "baseStats": {
@@ -33214,7 +33214,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-la_reine_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-la_reine_trim.png"
           },
-          "gameId": 249,
+          "gameId": 1274,
           "form": 7,
           "formName": "pokemon.form.la_reine",
           "baseStats": {
@@ -33248,7 +33248,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-kabuki_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-kabuki_trim.png"
           },
-          "gameId": 250,
+          "gameId": 1275,
           "form": 8,
           "formName": "pokemon.form.kabuki",
           "baseStats": {
@@ -33282,7 +33282,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/furfrou-pharaoh_trim.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/furfrou-pharaoh_trim.png"
           },
-          "gameId": 251,
+          "gameId": 1276,
           "form": 9,
           "formName": "pokemon.form.pharaoh",
           "baseStats": {
@@ -33386,7 +33386,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meowstic-female.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meowstic-female.png"
           },
-          "gameId": 252,
+          "gameId": 1277,
           "form": 1,
           "formName": "pokemon.form.female",
           "baseStats": {
@@ -33421,7 +33421,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meowstic-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meowstic-mega.png"
           },
-          "gameId": 390,
+          "gameId": 1415,
           "form": 2,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -33557,7 +33557,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/aegislash-blade.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/aegislash-blade.png"
           },
-          "gameId": 253,
+          "gameId": 1278,
           "form": 1,
           "formName": "pokemon.form.blade",
           "baseStats": {
@@ -33798,7 +33798,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/malamar-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/malamar-mega.png"
           },
-          "gameId": 373,
+          "gameId": 1398,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -33902,7 +33902,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/barbaracle-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/barbaracle-mega.png"
           },
-          "gameId": 374,
+          "gameId": 1399,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -34006,7 +34006,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dragalge-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dragalge-mega.png"
           },
-          "gameId": 375,
+          "gameId": 1400,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -34383,7 +34383,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/hawlucha-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/hawlucha-mega.png"
           },
-          "gameId": 376,
+          "gameId": 1401,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -34559,7 +34559,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sliggoo-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sliggoo-hisuian.png"
           },
-          "gameId": 100,
+          "gameId": 1125,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -34632,7 +34632,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/goodra-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/goodra-hisuian.png"
           },
-          "gameId": 101,
+          "gameId": 1126,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -34791,7 +34791,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pumpkaboo-small.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pumpkaboo-small.png"
           },
-          "gameId": 254,
+          "gameId": 1279,
           "form": 1,
           "formName": "pokemon.form.small",
           "baseStats": {
@@ -34810,7 +34810,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pumpkaboo-large.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pumpkaboo-large.png"
           },
-          "gameId": 255,
+          "gameId": 1280,
           "form": 2,
           "formName": "pokemon.form.large",
           "baseStats": {
@@ -34829,7 +34829,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/pumpkaboo-super.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/pumpkaboo-super.png"
           },
-          "gameId": 256,
+          "gameId": 1281,
           "form": 3,
           "formName": "pokemon.form.super",
           "baseStats": {
@@ -34868,7 +34868,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gourgeist-small.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gourgeist-small.png"
           },
-          "gameId": 257,
+          "gameId": 1282,
           "form": 1,
           "formName": "pokemon.form.small",
           "baseStats": {
@@ -34887,7 +34887,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gourgeist-large.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gourgeist-large.png"
           },
-          "gameId": 258,
+          "gameId": 1283,
           "form": 2,
           "formName": "pokemon.form.large",
           "baseStats": {
@@ -34906,7 +34906,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gourgeist-super.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gourgeist-super.png"
           },
-          "gameId": 259,
+          "gameId": 1284,
           "form": 3,
           "formName": "pokemon.form.super",
           "baseStats": {
@@ -34995,7 +34995,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/avalugg-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/avalugg-hisuian.png"
           },
-          "gameId": 102,
+          "gameId": 1127,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -35133,7 +35133,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/xerneas-active.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/xerneas-active.png"
           },
-          "gameId": 260,
+          "gameId": 1285,
           "form": 1,
           "formName": "pokemon.form.active",
           "baseStats": {
@@ -35237,7 +35237,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zygarde.png"
           },
-          "gameId": 261,
+          "gameId": 1286,
           "form": 1,
           "formName": "Null.Form.10",
           "baseStats": {
@@ -35272,7 +35272,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zygarde.png"
           },
-          "gameId": 262,
+          "gameId": 1287,
           "form": 2,
           "formName": "pokemon.form.10%",
           "baseStats": {
@@ -35307,7 +35307,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zygarde.png"
           },
-          "gameId": 263,
+          "gameId": 1288,
           "form": 3,
           "formName": "pokemon.form.50%",
           "baseStats": {
@@ -35342,7 +35342,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde-complete.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zygarde-complete.png"
           },
-          "gameId": 264,
+          "gameId": 1289,
           "form": 4,
           "formName": "pokemon.form.complete",
           "baseStats": {
@@ -35377,7 +35377,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde-complete_mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zygarde-complete_mega.png"
           },
-          "gameId": 377,
+          "gameId": 1402,
           "form": 5,
           "formName": "Null.Form.complete_mega",
           "baseStats": {
@@ -35449,7 +35449,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/diancie-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/diancie-mega.png"
           },
-          "gameId": 47,
+          "gameId": 1072,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -35520,7 +35520,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/hoopa-unbound.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/hoopa-unbound.png"
           },
-          "gameId": 265,
+          "gameId": 1290,
           "form": 1,
           "formName": "pokemon.form.unbound",
           "baseStats": {
@@ -35696,7 +35696,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/decidueye-hisuian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/decidueye-hisuian.png"
           },
-          "gameId": 103,
+          "gameId": 1128,
           "form": 1,
           "formName": "Null.Form.hisuian",
           "baseStats": {
@@ -36281,7 +36281,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/crabominable-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/crabominable-mega.png"
           },
-          "gameId": 391,
+          "gameId": 1416,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -36350,7 +36350,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/oricorio-pom_pom.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/oricorio-pom_pom.png"
           },
-          "gameId": 266,
+          "gameId": 1291,
           "form": 1,
           "formName": "pokemon.form.pom_pom",
           "baseStats": {
@@ -36384,7 +36384,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/oricorio-pau.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/oricorio-pau.png"
           },
-          "gameId": 267,
+          "gameId": 1292,
           "form": 2,
           "formName": "pokemon.form.pau",
           "baseStats": {
@@ -36418,7 +36418,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/oricorio-sensu.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/oricorio-sensu.png"
           },
-          "gameId": 268,
+          "gameId": 1293,
           "form": 3,
           "formName": "pokemon.form.sensu",
           "baseStats": {
@@ -36555,7 +36555,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/rockruff.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/rockruff.png"
           },
-          "gameId": 269,
+          "gameId": 1294,
           "form": 1,
           "formName": "Null.Form.own_tempo",
           "baseStats": {
@@ -36624,7 +36624,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lycanroc-midnight.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lycanroc-midnight.png"
           },
-          "gameId": 270,
+          "gameId": 1295,
           "form": 1,
           "formName": "pokemon.form.midnight",
           "baseStats": {
@@ -36659,7 +36659,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lycanroc-dusk.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lycanroc-dusk.png"
           },
-          "gameId": 271,
+          "gameId": 1296,
           "form": 2,
           "formName": "pokemon.form.dusk",
           "baseStats": {
@@ -36729,7 +36729,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/wishiwashi-school.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/wishiwashi-school.png"
           },
-          "gameId": 272,
+          "gameId": 1297,
           "form": 1,
           "formName": "pokemon.form.school",
           "baseStats": {
@@ -37518,7 +37518,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/golisopod-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/golisopod-mega.png"
           },
-          "gameId": 392,
+          "gameId": 1417,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -37722,7 +37722,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-fighting.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-fighting.png"
           },
-          "gameId": 273,
+          "gameId": 1298,
           "form": 1,
           "formName": "pokemon.form.fighting",
           "baseStats": {
@@ -37757,7 +37757,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-flying.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-flying.png"
           },
-          "gameId": 274,
+          "gameId": 1299,
           "form": 2,
           "formName": "pokemon.form.flying",
           "baseStats": {
@@ -37792,7 +37792,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-poison.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-poison.png"
           },
-          "gameId": 275,
+          "gameId": 1300,
           "form": 3,
           "formName": "pokemon.form.poison",
           "baseStats": {
@@ -37827,7 +37827,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-ground.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-ground.png"
           },
-          "gameId": 276,
+          "gameId": 1301,
           "form": 4,
           "formName": "pokemon.form.ground",
           "baseStats": {
@@ -37862,7 +37862,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-rock.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-rock.png"
           },
-          "gameId": 277,
+          "gameId": 1302,
           "form": 5,
           "formName": "pokemon.form.rock",
           "baseStats": {
@@ -37897,7 +37897,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-bug.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-bug.png"
           },
-          "gameId": 278,
+          "gameId": 1303,
           "form": 6,
           "formName": "pokemon.form.bug",
           "baseStats": {
@@ -37932,7 +37932,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-ghost.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-ghost.png"
           },
-          "gameId": 279,
+          "gameId": 1304,
           "form": 7,
           "formName": "pokemon.form.ghost",
           "baseStats": {
@@ -37967,7 +37967,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-steel.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-steel.png"
           },
-          "gameId": 280,
+          "gameId": 1305,
           "form": 8,
           "formName": "pokemon.form.steel",
           "baseStats": {
@@ -38002,7 +38002,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-fire.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-fire.png"
           },
-          "gameId": 281,
+          "gameId": 1306,
           "form": 9,
           "formName": "pokemon.form.fire",
           "baseStats": {
@@ -38037,7 +38037,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-water.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-water.png"
           },
-          "gameId": 282,
+          "gameId": 1307,
           "form": 10,
           "formName": "pokemon.form.water",
           "baseStats": {
@@ -38072,7 +38072,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-grass.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-grass.png"
           },
-          "gameId": 283,
+          "gameId": 1308,
           "form": 11,
           "formName": "pokemon.form.grass",
           "baseStats": {
@@ -38107,7 +38107,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-electric.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-electric.png"
           },
-          "gameId": 284,
+          "gameId": 1309,
           "form": 12,
           "formName": "pokemon.form.electric",
           "baseStats": {
@@ -38142,7 +38142,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-psychic.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-psychic.png"
           },
-          "gameId": 285,
+          "gameId": 1310,
           "form": 13,
           "formName": "pokemon.form.psychic",
           "baseStats": {
@@ -38177,7 +38177,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-ice.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-ice.png"
           },
-          "gameId": 286,
+          "gameId": 1311,
           "form": 14,
           "formName": "pokemon.form.ice",
           "baseStats": {
@@ -38212,7 +38212,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-dragon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-dragon.png"
           },
-          "gameId": 287,
+          "gameId": 1312,
           "form": 15,
           "formName": "pokemon.form.dragon",
           "baseStats": {
@@ -38247,7 +38247,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-dark.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-dark.png"
           },
-          "gameId": 288,
+          "gameId": 1313,
           "form": 16,
           "formName": "pokemon.form.dark",
           "baseStats": {
@@ -38282,7 +38282,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/silvally-fairy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/silvally-fairy.png"
           },
-          "gameId": 289,
+          "gameId": 1314,
           "form": 17,
           "formName": "pokemon.form.fairy",
           "baseStats": {
@@ -38355,7 +38355,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior.png"
           },
-          "gameId": 290,
+          "gameId": 1315,
           "form": 1,
           "formName": "pokemon.form.m_orange",
           "baseStats": {
@@ -38392,7 +38392,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior.png"
           },
-          "gameId": 291,
+          "gameId": 1316,
           "form": 2,
           "formName": "pokemon.form.m_yellow",
           "baseStats": {
@@ -38429,7 +38429,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior.png"
           },
-          "gameId": 292,
+          "gameId": 1317,
           "form": 3,
           "formName": "pokemon.form.m_green",
           "baseStats": {
@@ -38466,7 +38466,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior.png"
           },
-          "gameId": 293,
+          "gameId": 1318,
           "form": 4,
           "formName": "pokemon.form.m_blue",
           "baseStats": {
@@ -38503,7 +38503,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior.png"
           },
-          "gameId": 294,
+          "gameId": 1319,
           "form": 5,
           "formName": "pokemon.form.m_indigo",
           "baseStats": {
@@ -38540,7 +38540,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior.png"
           },
-          "gameId": 295,
+          "gameId": 1320,
           "form": 6,
           "formName": "pokemon.form.m_violet",
           "baseStats": {
@@ -38577,7 +38577,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_red.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_red.png"
           },
-          "gameId": 296,
+          "gameId": 1321,
           "form": 7,
           "formName": "pokemon.form.c_red",
           "baseStats": {
@@ -38614,7 +38614,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_orange.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_orange.png"
           },
-          "gameId": 297,
+          "gameId": 1322,
           "form": 8,
           "formName": "pokemon.form.c_orange",
           "baseStats": {
@@ -38651,7 +38651,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_yellow.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_yellow.png"
           },
-          "gameId": 298,
+          "gameId": 1323,
           "form": 9,
           "formName": "pokemon.form.c_yellow",
           "baseStats": {
@@ -38688,7 +38688,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_green.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_green.png"
           },
-          "gameId": 299,
+          "gameId": 1324,
           "form": 10,
           "formName": "pokemon.form.c_green",
           "baseStats": {
@@ -38725,7 +38725,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_blue.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_blue.png"
           },
-          "gameId": 300,
+          "gameId": 1325,
           "form": 11,
           "formName": "pokemon.form.c_blue",
           "baseStats": {
@@ -38762,7 +38762,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_indigo.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_indigo.png"
           },
-          "gameId": 301,
+          "gameId": 1326,
           "form": 12,
           "formName": "pokemon.form.c_indigo",
           "baseStats": {
@@ -38799,7 +38799,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/minior-core_violet.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/minior-core_violet.png"
           },
-          "gameId": 302,
+          "gameId": 1327,
           "form": 13,
           "formName": "pokemon.form.c_violet",
           "baseStats": {
@@ -38972,7 +38972,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/mimikyu-busted.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/mimikyu-busted.png"
           },
-          "gameId": 303,
+          "gameId": 1328,
           "form": 1,
           "formName": "pokemon.form.busted",
           "baseStats": {
@@ -39076,7 +39076,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/drampa-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/drampa-mega.png"
           },
-          "gameId": 378,
+          "gameId": 1403,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -39810,7 +39810,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/necrozma-dusk_mane.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/necrozma-dusk_mane.png"
           },
-          "gameId": 304,
+          "gameId": 1329,
           "form": 1,
           "formName": "pokemon.form.dusk",
           "baseStats": {
@@ -39845,7 +39845,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/necrozma-dawn_wings.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/necrozma-dawn_wings.png"
           },
-          "gameId": 305,
+          "gameId": 1330,
           "form": 2,
           "formName": "pokemon.form.dawn",
           "baseStats": {
@@ -39880,7 +39880,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/necrozma-ultra.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/necrozma-ultra.png"
           },
-          "gameId": 306,
+          "gameId": 1331,
           "form": 3,
           "formName": "pokemon.form.ultra",
           "baseStats": {
@@ -39954,7 +39954,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/magearna-original_color.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/magearna-original_color.png"
           },
-          "gameId": 307,
+          "gameId": 1332,
           "form": 1,
           "formName": "Null.Form.original_color",
           "baseStats": {
@@ -39990,7 +39990,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/magearna-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/magearna-mega.png"
           },
-          "gameId": 393,
+          "gameId": 1418,
           "form": 2,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -40026,7 +40026,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/magearna.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/magearna.png"
           },
-          "gameId": 394,
+          "gameId": 1419,
           "form": 3,
           "formName": "Null.Form.original_mega",
           "baseStats": {
@@ -40273,7 +40273,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zeraora-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zeraora-mega.png"
           },
-          "gameId": 395,
+          "gameId": 1420,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -41624,7 +41624,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/cramorant-gulping.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/cramorant-gulping.png"
           },
-          "gameId": 308,
+          "gameId": 1333,
           "form": 1,
           "formName": "pokemon.form.gulping",
           "baseStats": {
@@ -41658,7 +41658,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/cramorant-gorging.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/cramorant-gorging.png"
           },
-          "gameId": 309,
+          "gameId": 1334,
           "form": 2,
           "formName": "pokemon.form.gorging",
           "baseStats": {
@@ -41834,7 +41834,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/toxtricity-low_key.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/toxtricity-low_key.png"
           },
-          "gameId": 310,
+          "gameId": 1335,
           "form": 1,
           "formName": "pokemon.form.low_key",
           "baseStats": {
@@ -42043,7 +42043,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/sinistea.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/sinistea.png"
           },
-          "gameId": 311,
+          "gameId": 1336,
           "form": 1,
           "formName": "pokemon.form.antique",
           "baseStats": {
@@ -42112,7 +42112,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/polteageist.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/polteageist.png"
           },
-          "gameId": 312,
+          "gameId": 1337,
           "form": 1,
           "formName": "pokemon.form.antique",
           "baseStats": {
@@ -42623,7 +42623,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-ruby_cream.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-ruby_cream.png"
           },
-          "gameId": 313,
+          "gameId": 1338,
           "form": 1,
           "formName": "pokemon.form.ruby_cream",
           "baseStats": {
@@ -42657,7 +42657,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-matcha_cream.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-matcha_cream.png"
           },
-          "gameId": 314,
+          "gameId": 1339,
           "form": 2,
           "formName": "pokemon.form.matcha_cream",
           "baseStats": {
@@ -42691,7 +42691,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-mint_cream.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-mint_cream.png"
           },
-          "gameId": 315,
+          "gameId": 1340,
           "form": 3,
           "formName": "pokemon.form.mint_cream",
           "baseStats": {
@@ -42725,7 +42725,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-lemon_cream.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-lemon_cream.png"
           },
-          "gameId": 316,
+          "gameId": 1341,
           "form": 4,
           "formName": "pokemon.form.lemon_cream",
           "baseStats": {
@@ -42759,7 +42759,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-salted_cream.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-salted_cream.png"
           },
-          "gameId": 317,
+          "gameId": 1342,
           "form": 5,
           "formName": "pokemon.form.salted_cream",
           "baseStats": {
@@ -42793,7 +42793,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-ruby_swirl.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-ruby_swirl.png"
           },
-          "gameId": 318,
+          "gameId": 1343,
           "form": 6,
           "formName": "pokemon.form.ruby_swirl",
           "baseStats": {
@@ -42827,7 +42827,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-caramel_swirl.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-caramel_swirl.png"
           },
-          "gameId": 319,
+          "gameId": 1344,
           "form": 7,
           "formName": "pokemon.form.caramel_swirl",
           "baseStats": {
@@ -42861,7 +42861,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/alcremie-rainbow_swirl.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/alcremie-rainbow_swirl.png"
           },
-          "gameId": 320,
+          "gameId": 1345,
           "form": 8,
           "formName": "pokemon.form.rainbow_swirl",
           "baseStats": {
@@ -42932,7 +42932,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/falinks-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/falinks-mega.png"
           },
-          "gameId": 379,
+          "gameId": 1404,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -43139,7 +43139,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/eiscue-noice_face.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/eiscue-noice_face.png"
           },
-          "gameId": 321,
+          "gameId": 1346,
           "form": 1,
           "formName": "pokemon.form.noice_face",
           "baseStats": {
@@ -43211,7 +43211,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/indeedee-female.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/indeedee-female.png"
           },
-          "gameId": 322,
+          "gameId": 1347,
           "form": 1,
           "formName": "pokemon.form.female",
           "baseStats": {
@@ -43282,7 +43282,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/morpeko-hangry.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/morpeko-hangry.png"
           },
-          "gameId": 323,
+          "gameId": 1348,
           "form": 1,
           "formName": "pokemon.form.hangry",
           "baseStats": {
@@ -43699,7 +43699,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zacian-crowned_sword.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zacian-crowned_sword.png"
           },
-          "gameId": 324,
+          "gameId": 1349,
           "form": 1,
           "formName": "Null.Form.crowned_sword",
           "baseStats": {
@@ -43770,7 +43770,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zamazenta-crowned_shield.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zamazenta-crowned_shield.png"
           },
-          "gameId": 325,
+          "gameId": 1350,
           "form": 1,
           "formName": "Null.Form.crowned_shield",
           "baseStats": {
@@ -43841,7 +43841,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/eternatus-eternamax.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/eternatus-eternamax.png"
           },
-          "gameId": 326,
+          "gameId": 1351,
           "form": 1,
           "formName": "pokemon.form.eternamax",
           "baseStats": {
@@ -43946,7 +43946,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/urshifu-rapid_strike_style.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/urshifu-rapid_strike_style.png"
           },
-          "gameId": 327,
+          "gameId": 1352,
           "form": 1,
           "formName": "Null.Form.rapid_strike_style",
           "baseStats": {
@@ -44017,7 +44017,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zarude-dada.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zarude-dada.png"
           },
-          "gameId": 328,
+          "gameId": 1353,
           "form": 1,
           "formName": "pokemon.form.dada",
           "baseStats": {
@@ -44226,7 +44226,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/calyrex-ice_rider.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/calyrex-ice_rider.png"
           },
-          "gameId": 329,
+          "gameId": 1354,
           "form": 1,
           "formName": "Null.Form.ice_rider",
           "baseStats": {
@@ -44261,7 +44261,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/calyrex-shadow_rider.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/calyrex-shadow_rider.png"
           },
-          "gameId": 330,
+          "gameId": 1355,
           "form": 2,
           "formName": "Null.Form.shadow_rider",
           "baseStats": {
@@ -44401,7 +44401,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ursaluna-bloodmoon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ursaluna-bloodmoon.png"
           },
-          "gameId": 351,
+          "gameId": 1376,
           "form": 1,
           "formName": "pokemon.form.bloodmoon",
           "baseStats": {
@@ -44471,7 +44471,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/basculegion-female.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/basculegion-female.png"
           },
-          "gameId": 331,
+          "gameId": 1356,
           "form": 1,
           "formName": "pokemon.form.female",
           "baseStats": {
@@ -44613,7 +44613,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/enamorus-therian.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/enamorus-therian.png"
           },
-          "gameId": 200,
+          "gameId": 1225,
           "form": 1,
           "formName": "pokemon.form.therian",
           "baseStats": {
@@ -45023,7 +45023,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/oinkologne-female.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/oinkologne-female.png"
           },
-          "gameId": 332,
+          "gameId": 1357,
           "form": 1,
           "formName": "pokemon.form.female",
           "baseStats": {
@@ -45359,7 +45359,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/maushold.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/maushold.png"
           },
-          "gameId": 333,
+          "gameId": 1358,
           "form": 1,
           "formName": "pokemon.form.family_of_three",
           "baseStats": {
@@ -45602,7 +45602,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/squawkabilly-blue_plumage.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/squawkabilly-blue_plumage.png"
           },
-          "gameId": 334,
+          "gameId": 1359,
           "form": 1,
           "formName": "Null.Form.blue_plumage",
           "baseStats": {
@@ -45634,7 +45634,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/squawkabilly-yellow_plumage.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/squawkabilly-yellow_plumage.png"
           },
-          "gameId": 335,
+          "gameId": 1360,
           "form": 2,
           "formName": "Null.Form.yellow_plumage",
           "baseStats": {
@@ -45666,7 +45666,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/squawkabilly-white_plumage.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/squawkabilly-white_plumage.png"
           },
-          "gameId": 336,
+          "gameId": 1361,
           "form": 3,
           "formName": "Null.Form.white_plumage",
           "baseStats": {
@@ -46426,7 +46426,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/scovillain-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/scovillain-mega.png"
           },
-          "gameId": 396,
+          "gameId": 1421,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -46861,7 +46861,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/palafin-hero.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/palafin-hero.png"
           },
-          "gameId": 337,
+          "gameId": 1362,
           "form": 1,
           "baseStats": {
             "atk": 160,
@@ -47087,7 +47087,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/glimmora-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/glimmora-mega.png"
           },
-          "gameId": 397,
+          "gameId": 1422,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -47405,7 +47405,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-droopy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri-droopy.png"
           },
-          "gameId": 338,
+          "gameId": 1363,
           "form": 1,
           "formName": "pokemon.form.droopy",
           "baseStats": {
@@ -47441,7 +47441,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-stretchy.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri-stretchy.png"
           },
-          "gameId": 339,
+          "gameId": 1364,
           "form": 2,
           "formName": "pokemon.form.stretchy",
           "baseStats": {
@@ -47477,7 +47477,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri.png"
           },
-          "gameId": 398,
+          "gameId": 1423,
           "form": 3,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -47512,7 +47512,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-droopy_mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri-droopy_mega.png"
           },
-          "gameId": 399,
+          "gameId": 1424,
           "form": 4,
           "formName": "Null.Form.droopy_mega",
           "baseStats": {
@@ -47547,7 +47547,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-stretchy_mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri-stretchy_mega.png"
           },
-          "gameId": 400,
+          "gameId": 1425,
           "form": 5,
           "formName": "Null.Form.stretchy_mega",
           "baseStats": {
@@ -47719,7 +47719,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dudunsparce-three_segment.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dudunsparce-three_segment.png"
           },
-          "gameId": 340,
+          "gameId": 1365,
           "form": 1,
           "formName": "pokemon.form.three_segment",
           "baseStats": {
@@ -48304,7 +48304,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/baxcalibur-mega.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/baxcalibur-mega.png"
           },
-          "gameId": 401,
+          "gameId": 1426,
           "form": 1,
           "formName": "pokemon.form.mega",
           "baseStats": {
@@ -48364,7 +48364,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/gimmighoul-roaming.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/gimmighoul-roaming.png"
           },
-          "gameId": 341,
+          "gameId": 1366,
           "form": 1,
           "formName": "pokemon.form.roaming",
           "baseStats": {
@@ -49014,7 +49014,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 344,
+          "gameId": 1369,
           "form": 1,
           "formName": "Null.Form.wellspring_mask",
           "baseStats": {
@@ -49050,7 +49050,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 345,
+          "gameId": 1370,
           "form": 2,
           "formName": "Null.Form.hearthflame_mask",
           "baseStats": {
@@ -49086,7 +49086,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 346,
+          "gameId": 1371,
           "form": 3,
           "formName": "Null.Form.cornerstone_mask",
           "baseStats": {
@@ -49122,7 +49122,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 347,
+          "gameId": 1372,
           "form": 4,
           "formName": "Null.Form.tera",
           "baseStats": {
@@ -49157,7 +49157,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 348,
+          "gameId": 1373,
           "form": 5,
           "formName": "Null.Form.wellspring_mask_tera",
           "baseStats": {
@@ -49193,7 +49193,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 349,
+          "gameId": 1374,
           "form": 6,
           "formName": "Null.Form.hearthflame_mask_tera",
           "baseStats": {
@@ -49229,7 +49229,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
           },
-          "gameId": 350,
+          "gameId": 1375,
           "form": 7,
           "formName": "Null.Form.cornerstone_mask_tera",
           "baseStats": {
@@ -49506,7 +49506,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/terapagos-terastal.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/terapagos-terastal.png"
           },
-          "gameId": 352,
+          "gameId": 1377,
           "form": 1,
           "formName": "pokemon.form.terastal",
           "baseStats": {
@@ -49541,7 +49541,7 @@
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/terapagos-stellar.png",
             "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/terapagos-stellar.png"
           },
-          "gameId": 353,
+          "gameId": 1378,
           "form": 2,
           "formName": "pokemon.form.stellar",
           "baseStats": {

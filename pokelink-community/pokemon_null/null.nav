@@ -1,0 +1,31 @@
+{
+    "version": "Game.Subtitle.V1.0",
+    "romHeader": "POKEMON EMERBPEE",
+    "features": {
+        "unsupported": [
+            "Features.Pokelink.badgeTracking"
+        ],
+        "knownIssues": [
+
+        ]
+    },
+    "partyReader": "pokelink.eex.partyReader",
+    "ramComponents": [
+//        {
+//            "component": "pokelink.porygon.gen3.battle",
+//            "config": {
+//                "battleFlag": "0x02037862"
+//            }
+//        },
+        {
+            "component": "pokelink.porygon.gen3.null.party",
+            "config": {
+                "playerPartyAddress": "0x02005370",
+                "maxSpeciesID": 1426,
+                "pokemonDataSize": 100,
+                "pokemonOffset": 4,
+                "useMoveData": true
+            }
+        }
+    ]
+}
