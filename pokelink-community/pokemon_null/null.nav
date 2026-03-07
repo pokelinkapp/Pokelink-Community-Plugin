@@ -11,12 +11,12 @@
     },
     "partyReader": "pokelink.eex.partyReader",
     "ramComponents": [
-//        {
-//            "component": "pokelink.porygon.gen3.battle",
-//            "config": {
-//                "battleFlag": "0x02037862"
-//            }
-//        },
+        {
+            "component": "pokelink.porygon.gen3.battle",
+            "config": {
+                "battleFlag": "0x03002789"
+            }
+        },
         {
             "component": "pokelink.porygon.gen3.null.party",
             "config": {
