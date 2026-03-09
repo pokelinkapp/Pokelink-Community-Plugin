@@ -1607,7 +1607,7 @@
     "power": 1,
     "type": "pokemon.type.fighting",
     "accuracy": 100,
-    "pp": 15,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -2265,7 +2265,7 @@
     "power": 40,
     "type": "pokemon.type.normal",
     "accuracy": 100,
-    "pp": 10
+    "pp": 5
   },
   {
     "id": 253,
@@ -2453,7 +2453,7 @@
     "power": 0,
     "type": "pokemon.type.normal",
     "accuracy": 0,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -2498,7 +2498,7 @@
     "power": 0,
     "type": "pokemon.type.normal",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 1,
     "priority": 0
   },
   {
@@ -3317,7 +3317,7 @@
     "power": 70,
     "type": "pokemon.type.bug",
     "accuracy": 100,
-    "pp": 20,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -4685,7 +4685,7 @@
     "power": 70,
     "type": "pokemon.type.electric",
     "accuracy": 100,
-    "pp": 20,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -5170,7 +5170,7 @@
     "power": 0,
     "type": "pokemon.type.dark",
     "accuracy": 100,
-    "pp": 20,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -5287,7 +5287,7 @@
     "power": 0,
     "type": "pokemon.type.steel",
     "accuracy": 0,
-    "pp": 1,
+    "pp": 2,
     "priority": 4
   },
   {
@@ -5359,7 +5359,7 @@
     "power": 0,
     "type": "pokemon.type.grass",
     "accuracy": 0,
-    "pp": 10,
+    "pp": 5,
     "priority": 4
   },
   {
@@ -5611,7 +5611,7 @@
     "power": 0,
     "type": "pokemon.type.poison",
     "accuracy": 0,
-    "pp": 5,
+    "pp": 1,
     "priority": 4
   },
   {
@@ -5674,7 +5674,7 @@
     "power": 0,
     "type": "pokemon.type.grass",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -6355,7 +6355,7 @@
   {
     "id": 707,
     "name": "pokemon.move.snap_trap",
-    "power": 90,
+    "power": 80,
     "type": "pokemon.type.grass",
     "accuracy": 100,
     "pp": 15,
@@ -6475,7 +6475,7 @@
     "power": 0,
     "type": "pokemon.type.dark",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 1,
     "priority": 4
   },
   {
@@ -6655,7 +6655,7 @@
     "power": 60,
     "type": "pokemon.type.water",
     "accuracy": 100,
-    "pp": 20,
+    "pp": 5,
     "priority": 0
   },
   {

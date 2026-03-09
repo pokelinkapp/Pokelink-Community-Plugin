@@ -4235,16 +4235,16 @@
         {
           "to": 186,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
@@ -4375,14 +4375,14 @@
         {
           "to": 65,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -4545,14 +4545,14 @@
         {
           "to": 68,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -4974,14 +4974,14 @@
         {
           "to": 76,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -4989,14 +4989,14 @@
         {
           "to": 76,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 1,
           "toForm": 1
@@ -5323,16 +5323,16 @@
         {
           "to": 199,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.kings_rock"
                 }
               }
@@ -5588,17 +5588,17 @@
         {
           "to": 462,
           "conditions": {
-            "pokemon.evolve.levelUp": {
-              "nested": {
-                "pokemon.evolve.location": {
-                  "string": "pokemon.location.gen3.new_mauville"
-                }
-              }
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.thunder_stone"
+                }
+              }
+            },
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.location": {
+                  "string": "pokemon.location.gen3.new_mauville"
                 }
               }
             }
@@ -6183,14 +6183,14 @@
         {
           "to": 94,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -6343,16 +6343,16 @@
         {
           "to": 208,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
@@ -7362,17 +7362,17 @@
         {
           "to": 464,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.protector"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -7632,17 +7632,17 @@
         {
           "to": 230,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.prism_scale"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.dragon_scale"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.prism_scale"
                 }
               }
             }
@@ -7937,16 +7937,16 @@
         {
           "to": 212,
           "conditions": {
-            "pokemon.evolve.or": {
+            "pokemon.evolve.trade": {
               "nested": {
-                "pokemon.evolve.useItem": {
+                "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
             },
-            "pokemon.evolve.trade": {
+            "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.holdItem": {
+                "pokemon.evolve.useItem": {
                   "string": "pokemon.item.metal_coat"
                 }
               }
@@ -8037,17 +8037,17 @@
         {
           "to": 466,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.electirizer"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -8093,17 +8093,17 @@
         {
           "to": 467,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.magmarizer"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -8682,11 +8682,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.knowMoveType": {
-                  "string": "pokemon.type.fairy"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.knowMoveType": {
+                  "string": "pokemon.type.fairy"
                 }
               }
             }
@@ -11987,7 +11987,7 @@
         "shiny": "pokelink-community:/emerald_imperium/assets/pokemon/shiny/unown.png"
       },
       "gameId": 201,
-      "formName": "EmeraldImperium.Form.a",
+      "formName": "pokemon.form.a",
       "baseStats": {
         "hp": 48,
         "atk": 48,
@@ -12022,7 +12022,7 @@
           },
           "gameId": 1024,
           "form": 1,
-          "formName": "EmeraldImperium.Form.b",
+          "formName": "pokemon.form.b",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12057,7 +12057,7 @@
           },
           "gameId": 1025,
           "form": 2,
-          "formName": "EmeraldImperium.Form.c",
+          "formName": "pokemon.form.c",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12092,7 +12092,7 @@
           },
           "gameId": 1026,
           "form": 3,
-          "formName": "EmeraldImperium.Form.d",
+          "formName": "pokemon.form.d",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12127,7 +12127,7 @@
           },
           "gameId": 1027,
           "form": 4,
-          "formName": "EmeraldImperium.Form.e",
+          "formName": "pokemon.form.e",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12162,7 +12162,7 @@
           },
           "gameId": 1028,
           "form": 5,
-          "formName": "EmeraldImperium.Form.f",
+          "formName": "pokemon.form.f",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12197,7 +12197,7 @@
           },
           "gameId": 1029,
           "form": 6,
-          "formName": "EmeraldImperium.Form.g",
+          "formName": "pokemon.form.g",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12232,7 +12232,7 @@
           },
           "gameId": 1030,
           "form": 7,
-          "formName": "EmeraldImperium.Form.h",
+          "formName": "pokemon.form.h",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12267,7 +12267,7 @@
           },
           "gameId": 1031,
           "form": 8,
-          "formName": "EmeraldImperium.Form.i",
+          "formName": "pokemon.form.i",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12302,7 +12302,7 @@
           },
           "gameId": 1032,
           "form": 9,
-          "formName": "EmeraldImperium.Form.j",
+          "formName": "pokemon.form.j",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12337,7 +12337,7 @@
           },
           "gameId": 1033,
           "form": 10,
-          "formName": "EmeraldImperium.Form.k",
+          "formName": "pokemon.form.k",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12372,7 +12372,7 @@
           },
           "gameId": 1034,
           "form": 11,
-          "formName": "EmeraldImperium.Form.l",
+          "formName": "pokemon.form.l",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12407,7 +12407,7 @@
           },
           "gameId": 1035,
           "form": 12,
-          "formName": "EmeraldImperium.Form.m",
+          "formName": "pokemon.form.m",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12442,7 +12442,7 @@
           },
           "gameId": 1036,
           "form": 13,
-          "formName": "EmeraldImperium.Form.n",
+          "formName": "pokemon.form.n",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12477,7 +12477,7 @@
           },
           "gameId": 1037,
           "form": 14,
-          "formName": "EmeraldImperium.Form.o",
+          "formName": "pokemon.form.o",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12512,7 +12512,7 @@
           },
           "gameId": 1038,
           "form": 15,
-          "formName": "EmeraldImperium.Form.p",
+          "formName": "pokemon.form.p",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12547,7 +12547,7 @@
           },
           "gameId": 1039,
           "form": 16,
-          "formName": "EmeraldImperium.Form.q",
+          "formName": "pokemon.form.q",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12582,7 +12582,7 @@
           },
           "gameId": 1040,
           "form": 17,
-          "formName": "EmeraldImperium.Form.r",
+          "formName": "pokemon.form.r",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12617,7 +12617,7 @@
           },
           "gameId": 1041,
           "form": 18,
-          "formName": "EmeraldImperium.Form.s",
+          "formName": "pokemon.form.s",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12652,7 +12652,7 @@
           },
           "gameId": 1042,
           "form": 19,
-          "formName": "EmeraldImperium.Form.t",
+          "formName": "pokemon.form.t",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12687,7 +12687,7 @@
           },
           "gameId": 1043,
           "form": 20,
-          "formName": "EmeraldImperium.Form.u",
+          "formName": "pokemon.form.u",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12722,7 +12722,7 @@
           },
           "gameId": 1044,
           "form": 21,
-          "formName": "EmeraldImperium.Form.v",
+          "formName": "pokemon.form.v",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12757,7 +12757,7 @@
           },
           "gameId": 1045,
           "form": 22,
-          "formName": "EmeraldImperium.Form.w",
+          "formName": "pokemon.form.w",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12792,7 +12792,7 @@
           },
           "gameId": 1046,
           "form": 23,
-          "formName": "EmeraldImperium.Form.x",
+          "formName": "pokemon.form.x",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12827,7 +12827,7 @@
           },
           "gameId": 1047,
           "form": 24,
-          "formName": "EmeraldImperium.Form.y",
+          "formName": "pokemon.form.y",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12862,7 +12862,7 @@
           },
           "gameId": 1048,
           "form": 25,
-          "formName": "EmeraldImperium.Form.z",
+          "formName": "pokemon.form.z",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -13160,11 +13160,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.rarity": {
-                  "string": "rarity.randomPersonality"
-                },
                 "pokemon.evolve.knowMove": {
                   "string": "pokemon.move.hyper_drill"
+                },
+                "pokemon.evolve.rarity": {
+                  "string": "rarity.randomPersonality"
                 }
               }
             }
@@ -17320,15 +17320,15 @@
         {
           "to": 292,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 20
+            },
             "pokemon.evolve.emptySlot": {
               "nested": {
                 "pokemon.evolve.hasItem": {
                   "string": "pokemon.ball.poke_ball"
                 }
               }
-            },
-            "pokemon.evolve.level": {
-              "number": 20
             }
           },
           "fromForm": 0,
@@ -20006,24 +20006,24 @@
         {
           "to": 350,
           "conditions": {
-            "pokemon.evolve.levelUp": {
-              "nested": {
-                "pokemon.evolve.maxTrait": {
-                  "string": "trait.beauty"
-                }
-              }
-            },
             "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.prism_scale"
-                },
                 "pokemon.evolve.trade": {
                   "nested": {
                     "pokemon.evolve.holdItem": {
                       "string": "pokemon.item.prism_scale"
                     }
                   }
+                },
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.prism_scale"
+                }
+              }
+            },
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.maxTrait": {
+                  "string": "trait.beauty"
                 }
               }
             }
@@ -20443,17 +20443,17 @@
         {
           "to": 477,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.holdItem": {
                   "string": "pokemon.item.reaper_cloth"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -23400,11 +23400,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -23413,11 +23413,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -23426,11 +23426,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 1,
@@ -23439,11 +23439,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 1,
@@ -23452,11 +23452,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 2,
@@ -23465,11 +23465,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 2,
@@ -23803,11 +23803,11 @@
         {
           "to": 416,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 21
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 21
             }
           },
           "fromForm": 0,
@@ -29532,14 +29532,14 @@
         {
           "to": 526,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -29898,14 +29898,14 @@
         {
           "to": 534,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -30645,11 +30645,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 0,
@@ -30658,11 +30658,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 0,
@@ -30671,11 +30671,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 1,
@@ -30684,11 +30684,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 1,
@@ -30697,11 +30697,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 2,
@@ -30710,11 +30710,11 @@
         {
           "to": 902,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 44
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 44
             }
           },
           "fromForm": 2,
@@ -32920,17 +32920,17 @@
         {
           "to": 589,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.tradeWith": {
                   "string": "pokemon.species.shelmet"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -34065,17 +34065,17 @@
         {
           "to": 617,
           "conditions": {
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.linking_cord"
-                }
-              }
-            },
             "pokemon.evolve.trade": {
               "nested": {
                 "pokemon.evolve.tradeWith": {
                   "string": "pokemon.species.karrablast"
+                }
+              }
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.linking_cord"
                 }
               }
             }
@@ -39758,11 +39758,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 23
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 23
             }
           },
           "fromForm": 0,
@@ -39771,11 +39771,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 23
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 23
             }
           },
           "fromForm": 0,
@@ -41203,14 +41203,14 @@
         {
           "to": 709,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -41289,14 +41289,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 0,
           "toForm": 0
@@ -41304,14 +41304,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 1,
           "toForm": 1
@@ -41319,14 +41319,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 2,
           "toForm": 2
@@ -41334,14 +41334,14 @@
         {
           "to": 711,
           "conditions": {
+            "pokemon.evolve.trade": {},
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.linking_cord"
                 }
               }
-            },
-            "pokemon.evolve.trade": {}
+            }
           },
           "fromForm": 3,
           "toForm": 3
@@ -43040,17 +43040,17 @@
         {
           "to": 738,
           "conditions": {
-            "pokemon.evolve.levelUp": {
-              "nested": {
-                "pokemon.evolve.location": {
-                  "string": "pokemon.location.gen3.new_mauville"
-                }
-              }
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.useItem": {
                   "string": "pokemon.item.thunder_stone"
+                }
+              }
+            },
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.location": {
+                  "string": "pokemon.location.gen3.new_mauville"
                 }
               }
             }
@@ -44281,11 +44281,11 @@
         {
           "to": 758,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 33
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 33
             }
           },
           "fromForm": 0,
@@ -50074,17 +50074,17 @@
         {
           "to": 853,
           "conditions": {
-            "pokemon.evolve.levelUp": {
-              "nested": {
-                "pokemon.evolve.knowMove": {
-                  "string": "pokemon.move.taunt"
-                }
-              }
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
                   "number": 36
+                }
+              }
+            },
+            "pokemon.evolve.levelUp": {
+              "nested": {
+                "pokemon.evolve.knowMove": {
+                  "string": "pokemon.move.taunt"
                 }
               }
             }
@@ -55515,11 +55515,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -55528,11 +55528,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,

@@ -7781,7 +7781,7 @@
         "shiny": "pokelink-community:/emerald_rogue/assets/pokemon/shiny/unown.png"
       },
       "gameId": 201,
-      "formName": "EmeraldRogue.Form.a",
+      "formName": "pokemon.form.a",
       "baseStats": {
         "hp": 48,
         "atk": 48,
@@ -7816,7 +7816,7 @@
           },
           "gameId": 412,
           "form": 1,
-          "formName": "EmeraldRogue.Form.b",
+          "formName": "pokemon.form.b",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -7851,7 +7851,7 @@
           },
           "gameId": 413,
           "form": 2,
-          "formName": "EmeraldRogue.Form.c",
+          "formName": "pokemon.form.c",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -7886,7 +7886,7 @@
           },
           "gameId": 414,
           "form": 3,
-          "formName": "EmeraldRogue.Form.d",
+          "formName": "pokemon.form.d",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -7921,7 +7921,7 @@
           },
           "gameId": 415,
           "form": 4,
-          "formName": "EmeraldRogue.Form.e",
+          "formName": "pokemon.form.e",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -7956,7 +7956,7 @@
           },
           "gameId": 416,
           "form": 5,
-          "formName": "EmeraldRogue.Form.f",
+          "formName": "pokemon.form.f",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -7991,7 +7991,7 @@
           },
           "gameId": 417,
           "form": 6,
-          "formName": "EmeraldRogue.Form.g",
+          "formName": "pokemon.form.g",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8026,7 +8026,7 @@
           },
           "gameId": 418,
           "form": 7,
-          "formName": "EmeraldRogue.Form.h",
+          "formName": "pokemon.form.h",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8061,7 +8061,7 @@
           },
           "gameId": 419,
           "form": 8,
-          "formName": "EmeraldRogue.Form.i",
+          "formName": "pokemon.form.i",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8096,7 +8096,7 @@
           },
           "gameId": 420,
           "form": 9,
-          "formName": "EmeraldRogue.Form.j",
+          "formName": "pokemon.form.j",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8131,7 +8131,7 @@
           },
           "gameId": 421,
           "form": 10,
-          "formName": "EmeraldRogue.Form.k",
+          "formName": "pokemon.form.k",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8166,7 +8166,7 @@
           },
           "gameId": 422,
           "form": 11,
-          "formName": "EmeraldRogue.Form.l",
+          "formName": "pokemon.form.l",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8201,7 +8201,7 @@
           },
           "gameId": 423,
           "form": 12,
-          "formName": "EmeraldRogue.Form.m",
+          "formName": "pokemon.form.m",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8236,7 +8236,7 @@
           },
           "gameId": 424,
           "form": 13,
-          "formName": "EmeraldRogue.Form.n",
+          "formName": "pokemon.form.n",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8271,7 +8271,7 @@
           },
           "gameId": 425,
           "form": 14,
-          "formName": "EmeraldRogue.Form.o",
+          "formName": "pokemon.form.o",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8306,7 +8306,7 @@
           },
           "gameId": 426,
           "form": 15,
-          "formName": "EmeraldRogue.Form.p",
+          "formName": "pokemon.form.p",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8341,7 +8341,7 @@
           },
           "gameId": 427,
           "form": 16,
-          "formName": "EmeraldRogue.Form.q",
+          "formName": "pokemon.form.q",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8376,7 +8376,7 @@
           },
           "gameId": 428,
           "form": 17,
-          "formName": "EmeraldRogue.Form.r",
+          "formName": "pokemon.form.r",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8411,7 +8411,7 @@
           },
           "gameId": 429,
           "form": 18,
-          "formName": "EmeraldRogue.Form.s",
+          "formName": "pokemon.form.s",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8446,7 +8446,7 @@
           },
           "gameId": 430,
           "form": 19,
-          "formName": "EmeraldRogue.Form.t",
+          "formName": "pokemon.form.t",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8481,7 +8481,7 @@
           },
           "gameId": 431,
           "form": 20,
-          "formName": "EmeraldRogue.Form.u",
+          "formName": "pokemon.form.u",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8516,7 +8516,7 @@
           },
           "gameId": 432,
           "form": 21,
-          "formName": "EmeraldRogue.Form.v",
+          "formName": "pokemon.form.v",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8551,7 +8551,7 @@
           },
           "gameId": 433,
           "form": 22,
-          "formName": "EmeraldRogue.Form.w",
+          "formName": "pokemon.form.w",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8586,7 +8586,7 @@
           },
           "gameId": 434,
           "form": 23,
-          "formName": "EmeraldRogue.Form.x",
+          "formName": "pokemon.form.x",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8621,7 +8621,7 @@
           },
           "gameId": 435,
           "form": 24,
-          "formName": "EmeraldRogue.Form.y",
+          "formName": "pokemon.form.y",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -8656,7 +8656,7 @@
           },
           "gameId": 436,
           "form": 25,
-          "formName": "EmeraldRogue.Form.z",
+          "formName": "pokemon.form.z",
           "baseStats": {
             "hp": 48,
             "atk": 48,

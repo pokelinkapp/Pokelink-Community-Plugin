@@ -1,0 +1,60 @@
+{
+    "keyBinds": [
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "stone",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+1"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "knuckle",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+2"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "dynamo",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+3"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "balance",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+4"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "heat",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+5"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "feather",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+6"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "mind",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+7"
+            }
+        },
+        {
+            "event": "Pokelink.KeyBind.Badge",
+            "config": {
+                "badge": "adamantite",
+                "defaultKeybind": "LEFTCONTROL+LEFTALT+8"
+            }
+        }
+    ]
+}

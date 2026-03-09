@@ -11794,7 +11794,7 @@
         "shiny": "pokelink-community:/emerald_rogue/assets/pokemon/shiny/unown.png"
       },
       "gameId": 201,
-      "formName": "EmeraldRogue.Form.a",
+      "formName": "pokemon.form.a",
       "baseStats": {
         "hp": 48,
         "atk": 48,
@@ -11829,7 +11829,7 @@
           },
           "gameId": 1024,
           "form": 1,
-          "formName": "EmeraldRogue.Form.b",
+          "formName": "pokemon.form.b",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -11864,7 +11864,7 @@
           },
           "gameId": 1025,
           "form": 2,
-          "formName": "EmeraldRogue.Form.c",
+          "formName": "pokemon.form.c",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -11899,7 +11899,7 @@
           },
           "gameId": 1026,
           "form": 3,
-          "formName": "EmeraldRogue.Form.d",
+          "formName": "pokemon.form.d",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -11934,7 +11934,7 @@
           },
           "gameId": 1027,
           "form": 4,
-          "formName": "EmeraldRogue.Form.e",
+          "formName": "pokemon.form.e",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -11969,7 +11969,7 @@
           },
           "gameId": 1028,
           "form": 5,
-          "formName": "EmeraldRogue.Form.f",
+          "formName": "pokemon.form.f",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12004,7 +12004,7 @@
           },
           "gameId": 1029,
           "form": 6,
-          "formName": "EmeraldRogue.Form.g",
+          "formName": "pokemon.form.g",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12039,7 +12039,7 @@
           },
           "gameId": 1030,
           "form": 7,
-          "formName": "EmeraldRogue.Form.h",
+          "formName": "pokemon.form.h",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12074,7 +12074,7 @@
           },
           "gameId": 1031,
           "form": 8,
-          "formName": "EmeraldRogue.Form.i",
+          "formName": "pokemon.form.i",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12109,7 +12109,7 @@
           },
           "gameId": 1032,
           "form": 9,
-          "formName": "EmeraldRogue.Form.j",
+          "formName": "pokemon.form.j",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12144,7 +12144,7 @@
           },
           "gameId": 1033,
           "form": 10,
-          "formName": "EmeraldRogue.Form.k",
+          "formName": "pokemon.form.k",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12179,7 +12179,7 @@
           },
           "gameId": 1034,
           "form": 11,
-          "formName": "EmeraldRogue.Form.l",
+          "formName": "pokemon.form.l",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12214,7 +12214,7 @@
           },
           "gameId": 1035,
           "form": 12,
-          "formName": "EmeraldRogue.Form.m",
+          "formName": "pokemon.form.m",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12249,7 +12249,7 @@
           },
           "gameId": 1036,
           "form": 13,
-          "formName": "EmeraldRogue.Form.n",
+          "formName": "pokemon.form.n",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12284,7 +12284,7 @@
           },
           "gameId": 1037,
           "form": 14,
-          "formName": "EmeraldRogue.Form.o",
+          "formName": "pokemon.form.o",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12319,7 +12319,7 @@
           },
           "gameId": 1038,
           "form": 15,
-          "formName": "EmeraldRogue.Form.p",
+          "formName": "pokemon.form.p",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12354,7 +12354,7 @@
           },
           "gameId": 1039,
           "form": 16,
-          "formName": "EmeraldRogue.Form.q",
+          "formName": "pokemon.form.q",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12389,7 +12389,7 @@
           },
           "gameId": 1040,
           "form": 17,
-          "formName": "EmeraldRogue.Form.r",
+          "formName": "pokemon.form.r",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12424,7 +12424,7 @@
           },
           "gameId": 1041,
           "form": 18,
-          "formName": "EmeraldRogue.Form.s",
+          "formName": "pokemon.form.s",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12459,7 +12459,7 @@
           },
           "gameId": 1042,
           "form": 19,
-          "formName": "EmeraldRogue.Form.t",
+          "formName": "pokemon.form.t",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12494,7 +12494,7 @@
           },
           "gameId": 1043,
           "form": 20,
-          "formName": "EmeraldRogue.Form.u",
+          "formName": "pokemon.form.u",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12529,7 +12529,7 @@
           },
           "gameId": 1044,
           "form": 21,
-          "formName": "EmeraldRogue.Form.v",
+          "formName": "pokemon.form.v",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12564,7 +12564,7 @@
           },
           "gameId": 1045,
           "form": 22,
-          "formName": "EmeraldRogue.Form.w",
+          "formName": "pokemon.form.w",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12599,7 +12599,7 @@
           },
           "gameId": 1046,
           "form": 23,
-          "formName": "EmeraldRogue.Form.x",
+          "formName": "pokemon.form.x",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12634,7 +12634,7 @@
           },
           "gameId": 1047,
           "form": 24,
-          "formName": "EmeraldRogue.Form.y",
+          "formName": "pokemon.form.y",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -12669,7 +12669,7 @@
           },
           "gameId": 1048,
           "form": 25,
-          "formName": "EmeraldRogue.Form.z",
+          "formName": "pokemon.form.z",
           "baseStats": {
             "hp": 48,
             "atk": 48,
@@ -17171,15 +17171,15 @@
         {
           "to": 292,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 20
+            },
             "pokemon.evolve.emptySlot": {
               "nested": {
                 "pokemon.evolve.hasItem": {
                   "string": "pokemon.ball.poke_ball"
                 }
               }
-            },
-            "pokemon.evolve.level": {
-              "number": 20
             }
           },
           "fromForm": 0,
@@ -23085,11 +23085,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -23098,11 +23098,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -23111,11 +23111,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 1,
@@ -23124,11 +23124,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 1,
@@ -23137,11 +23137,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 2,
@@ -23150,11 +23150,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 2,
@@ -23415,11 +23415,11 @@
         {
           "to": 416,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 21
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 21
             }
           },
           "fromForm": 0,
@@ -38058,11 +38058,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 0,
@@ -38071,11 +38071,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 0,
@@ -42347,11 +42347,11 @@
         {
           "to": 758,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 33
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 33
             }
           },
           "fromForm": 0,
@@ -53426,11 +53426,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 18
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.level": {
+              "number": 18
             }
           },
           "fromForm": 0,
@@ -53439,11 +53439,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 18
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.level": {
+              "number": 18
             }
           },
           "fromForm": 0,

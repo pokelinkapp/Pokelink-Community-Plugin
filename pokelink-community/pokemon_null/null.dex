@@ -32,7 +32,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -68,7 +68,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -104,7 +104,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3,
       "forms": [
@@ -177,7 +177,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -213,7 +213,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -248,7 +248,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3,
       "forms": [
@@ -356,7 +356,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -392,7 +392,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -427,7 +427,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3,
       "forms": [
@@ -499,7 +499,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -532,7 +532,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -601,7 +601,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -634,7 +634,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -740,7 +740,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -775,7 +775,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -882,7 +882,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -894,7 +894,7 @@
           },
           "gameId": 1076,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 30,
             "atk": 56,
@@ -953,7 +953,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -965,7 +965,7 @@
           },
           "gameId": 1077,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 75,
             "atk": 71,
@@ -1024,7 +1024,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -1058,7 +1058,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -1092,7 +1092,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -1307,7 +1307,7 @@
           },
           "gameId": 1135,
           "form": 5,
-          "formName": "Null.Form.ph_d",
+          "formName": "pokemon.form.phd",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1375,7 +1375,7 @@
           },
           "gameId": 1137,
           "form": 7,
-          "formName": "Null.Form.original_cap",
+          "formName": "pokemon.form.original",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1409,7 +1409,7 @@
           },
           "gameId": 1138,
           "form": 8,
-          "formName": "Null.Form.hoenn_cap",
+          "formName": "pokemon.form.hoenn",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1443,7 +1443,7 @@
           },
           "gameId": 1139,
           "form": 9,
-          "formName": "Null.Form.sinnoh_cap",
+          "formName": "pokemon.form.sinnoh",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1477,7 +1477,7 @@
           },
           "gameId": 1140,
           "form": 10,
-          "formName": "Null.Form.unova_cap",
+          "formName": "pokemon.form.unova",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1511,7 +1511,7 @@
           },
           "gameId": 1141,
           "form": 11,
-          "formName": "Null.Form.kalos_cap",
+          "formName": "pokemon.form.kalos",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1545,7 +1545,7 @@
           },
           "gameId": 1142,
           "form": 12,
-          "formName": "Null.Form.alola_cap",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1579,7 +1579,7 @@
           },
           "gameId": 1143,
           "form": 13,
-          "formName": "Null.Form.partner_cap",
+          "formName": "pokemon.form.partner",
           "baseStats": {
             "hp": 45,
             "atk": 80,
@@ -1614,7 +1614,7 @@
           },
           "gameId": 1144,
           "form": 14,
-          "formName": "Null.Form.world_cap",
+          "formName": "pokemon.form.world",
           "baseStats": {
             "hp": 35,
             "atk": 55,
@@ -1684,7 +1684,7 @@
           },
           "gameId": 1078,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 60,
             "atk": 85,
@@ -1810,7 +1810,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "forms": [
         {
@@ -1822,7 +1822,7 @@
           },
           "gameId": 1079,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 50,
             "atk": 75,
@@ -1881,7 +1881,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "forms": [
         {
@@ -1893,7 +1893,7 @@
           },
           "gameId": 1080,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 75,
             "atk": 100,
@@ -1952,7 +1952,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -1987,7 +1987,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -2057,7 +2057,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -2092,7 +2092,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -2269,7 +2269,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "forms": [
         {
@@ -2281,7 +2281,7 @@
           },
           "gameId": 1081,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 38,
             "atk": 41,
@@ -2341,7 +2341,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "forms": [
         {
@@ -2353,7 +2353,7 @@
           },
           "gameId": 1082,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 73,
             "atk": 67,
@@ -2483,7 +2483,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -2517,7 +2517,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -2551,7 +2551,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -2586,7 +2586,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -2656,7 +2656,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ]
     },
     {
@@ -2691,7 +2691,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ]
     },
     {
@@ -2725,7 +2725,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -2760,7 +2760,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -2794,7 +2794,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "forms": [
         {
@@ -2806,7 +2806,7 @@
           },
           "gameId": 1083,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 10,
             "atk": 55,
@@ -2877,7 +2877,7 @@
           },
           "gameId": 1084,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 35,
             "atk": 100,
@@ -2936,7 +2936,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -2948,7 +2948,7 @@
           },
           "gameId": 1085,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 40,
             "atk": 35,
@@ -2983,7 +2983,7 @@
           },
           "gameId": 1094,
           "form": 2,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 50,
             "atk": 65,
@@ -3042,7 +3042,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -3054,7 +3054,7 @@
           },
           "gameId": 1086,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 65,
             "atk": 60,
@@ -3113,7 +3113,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -3147,7 +3147,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -3181,7 +3181,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -3215,7 +3215,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -3249,7 +3249,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5,
       "forms": [
@@ -3262,7 +3262,7 @@
           },
           "gameId": 1113,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 60,
             "atk": 75,
@@ -3322,7 +3322,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5,
       "forms": [
@@ -3335,7 +3335,7 @@
           },
           "gameId": 1114,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 95,
             "atk": 115,
@@ -3395,7 +3395,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -3430,7 +3430,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -3500,7 +3500,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 3
     },
@@ -3535,7 +3535,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 3
     },
@@ -3642,7 +3642,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3
     },
@@ -3677,7 +3677,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3
     },
@@ -3712,7 +3712,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3
     },
@@ -3747,7 +3747,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -3782,7 +3782,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -3826,7 +3826,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/victreebel-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/victreebel-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/victreebel-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/victreebel-mega.png"
           },
           "gameId": 1380,
           "form": 1,
@@ -3889,7 +3889,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 5
     },
@@ -3924,7 +3924,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 5
     },
@@ -3959,7 +3959,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 3,
       "forms": [
@@ -3972,7 +3972,7 @@
           },
           "gameId": 1087,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 40,
             "atk": 80,
@@ -4032,7 +4032,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 3,
       "forms": [
@@ -4045,7 +4045,7 @@
           },
           "gameId": 1088,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 55,
             "atk": 95,
@@ -4118,7 +4118,7 @@
           },
           "gameId": 1089,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 80,
             "atk": 120,
@@ -4178,7 +4178,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "forms": [
         {
@@ -4190,7 +4190,7 @@
           },
           "gameId": 1095,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 50,
             "atk": 85,
@@ -4249,7 +4249,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "forms": [
         {
@@ -4261,7 +4261,7 @@
           },
           "gameId": 1096,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 65,
             "atk": 100,
@@ -4320,7 +4320,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "forms": [
         {
@@ -4332,7 +4332,7 @@
           },
           "gameId": 1097,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 90,
             "atk": 65,
@@ -4391,7 +4391,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "forms": [
         {
@@ -4437,7 +4437,7 @@
           },
           "gameId": 1098,
           "form": 2,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 95,
             "atk": 100,
@@ -4496,7 +4496,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ]
     },
     {
@@ -4530,7 +4530,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ]
     },
     {
@@ -4576,7 +4576,7 @@
           },
           "gameId": 1099,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 52,
             "atk": 95,
@@ -4635,7 +4635,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -4703,7 +4703,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -4737,7 +4737,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ]
     },
     {
@@ -4771,7 +4771,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "forms": [
         {
@@ -4783,7 +4783,7 @@
           },
           "gameId": 1090,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 80,
             "atk": 80,
@@ -4843,7 +4843,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "forms": [
         {
@@ -4855,7 +4855,7 @@
           },
           "gameId": 1091,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 105,
             "atk": 105,
@@ -4915,7 +4915,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -4950,7 +4950,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5
     },
@@ -4985,7 +4985,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -5020,7 +5020,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -5057,7 +5057,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3,
       "forms": [
@@ -5129,7 +5129,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ]
     },
     {
@@ -5163,7 +5163,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -5197,7 +5197,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -5231,7 +5231,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -5265,7 +5265,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -5299,7 +5299,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "forms": [
         {
@@ -5311,7 +5311,7 @@
           },
           "gameId": 1115,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 40,
             "atk": 30,
@@ -5363,7 +5363,7 @@
       "abilities": [
         "pokemon.ability.soundproof",
         "",
-        "pokemon.ability.aftermath"
+        "pokemon.ability.static"
       ],
       "hatchCycles": 20,
       "genderRatio": 255,
@@ -5382,7 +5382,7 @@
           },
           "gameId": 1116,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 60,
             "atk": 50,
@@ -5441,7 +5441,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -5489,7 +5489,7 @@
           },
           "gameId": 1092,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 95,
             "atk": 105,
@@ -5549,7 +5549,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ]
     },
     {
@@ -5583,7 +5583,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "forms": [
         {
@@ -5595,7 +5595,7 @@
           },
           "gameId": 1093,
           "form": 1,
-          "formName": "Null.Form.alolan",
+          "formName": "pokemon.form.alola",
           "baseStats": {
             "hp": 60,
             "atk": 80,
@@ -5654,7 +5654,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -5688,7 +5688,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -5722,7 +5722,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -5756,7 +5756,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -5790,7 +5790,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "forms": [
         {
@@ -5802,7 +5802,7 @@
           },
           "gameId": 1100,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 65,
             "atk": 90,
@@ -5861,7 +5861,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 5
     },
@@ -5896,7 +5896,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 5
     },
@@ -5931,7 +5931,7 @@
       "catchRate": 15,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 4
     },
@@ -5966,7 +5966,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ]
     },
     {
@@ -6000,7 +6000,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -6070,7 +6070,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -6105,7 +6105,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -6139,7 +6139,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -6173,7 +6173,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -6207,7 +6207,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -6242,7 +6242,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5,
       "forms": [
@@ -6276,7 +6276,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.water",
-            "pokemon.type.psychic "
+            "pokemon.type.psychic"
           ],
           "growthRate": 5
         }
@@ -6347,7 +6347,7 @@
       "catchRate": 120,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -6381,7 +6381,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -6415,7 +6415,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ]
     },
     {
@@ -6449,7 +6449,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ]
     },
     {
@@ -6483,7 +6483,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ],
       "growthRate": 5,
       "forms": [
@@ -6552,19 +6552,19 @@
       ],
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
           "name": "pokemon.species.tauros",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tauros.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tauros-combat.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros-combat.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros-combat.png"
           },
           "gameId": 1130,
           "form": 1,
-          "formName": "Null.Form.paldean",
+          "formName": "pokemon.form.paldea_combat",
           "baseStats": {
             "hp": 75,
             "atk": 110,
@@ -6583,19 +6583,19 @@
           ],
           "types": [
             "pokemon.type.fighting",
-            "pokemon.type.fighting "
+            "pokemon.type.fighting"
           ]
         },
         {
           "name": "pokemon.species.tauros",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tauros.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tauros-blaze.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros-blaze.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros-blaze.png"
           },
           "gameId": 1367,
           "form": 2,
-          "formName": "Null.Form.paldean_blaze_breed",
+          "formName": "pokemon.form.paldea_blaze",
           "baseStats": {
             "hp": 75,
             "atk": 110,
@@ -6614,19 +6614,19 @@
           ],
           "types": [
             "pokemon.type.fighting",
-            "pokemon.type.fire "
+            "pokemon.type.fire"
           ]
         },
         {
           "name": "pokemon.species.tauros",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tauros.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tauros-aqua.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tauros-aqua.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tauros-aqua.png"
           },
           "gameId": 1368,
           "form": 3,
-          "formName": "Null.Form.paldean_aqua_breed",
+          "formName": "pokemon.form.paldea_aqua",
           "baseStats": {
             "hp": 75,
             "atk": 110,
@@ -6645,7 +6645,7 @@
           ],
           "types": [
             "pokemon.type.fighting",
-            "pokemon.type.water "
+            "pokemon.type.water"
           ]
         }
       ]
@@ -6681,7 +6681,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -6716,7 +6716,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -6788,7 +6788,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5
     },
@@ -6823,7 +6823,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -6859,7 +6859,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -6893,7 +6893,7 @@
       "catchRate": 15,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -6927,7 +6927,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ]
     },
     {
@@ -6961,7 +6961,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ]
     },
     {
@@ -6995,7 +6995,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -7029,7 +7029,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -7063,7 +7063,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -7097,7 +7097,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -7131,7 +7131,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -7165,7 +7165,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -7237,7 +7237,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5
     },
@@ -7272,7 +7272,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -7285,7 +7285,7 @@
           },
           "gameId": 1102,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 90,
             "atk": 85,
@@ -7347,7 +7347,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -7360,7 +7360,7 @@
           },
           "gameId": 1103,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 90,
             "atk": 125,
@@ -7419,7 +7419,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -7432,7 +7432,7 @@
           },
           "gameId": 1104,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 90,
             "atk": 85,
@@ -7492,7 +7492,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -7527,7 +7527,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -7562,7 +7562,7 @@
       "catchRate": 40,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -7571,7 +7571,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/dragonite-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dragonite-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dragonite-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/dragonite-mega.png"
           },
           "gameId": 1382,
           "form": 1,
@@ -7635,7 +7635,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5,
       "forms": [
@@ -7742,7 +7742,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 3
     },
@@ -7777,7 +7777,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -7813,7 +7813,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -7849,7 +7849,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3,
       "forms": [
@@ -7886,7 +7886,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.grass",
-            "pokemon.type.fairy "
+            "pokemon.type.fairy"
           ],
           "growthRate": 3
         }
@@ -7923,7 +7923,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -7959,7 +7959,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -7994,7 +7994,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3,
       "forms": [
@@ -8007,7 +8007,7 @@
           },
           "gameId": 1117,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 73,
             "atk": 84,
@@ -8067,7 +8067,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -8103,7 +8103,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -8139,7 +8139,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3,
       "forms": [
@@ -8176,7 +8176,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.water",
-            "pokemon.type.dragon "
+            "pokemon.type.dragon"
           ],
           "growthRate": 3
         }
@@ -8213,7 +8213,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -8247,7 +8247,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -8281,7 +8281,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -8349,7 +8349,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 4
     },
@@ -8384,7 +8384,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 4
     },
@@ -8419,7 +8419,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 4
     },
@@ -8489,7 +8489,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -8523,7 +8523,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 5
     },
@@ -8558,7 +8558,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 5
     },
@@ -8804,7 +8804,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -8839,7 +8839,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -8873,7 +8873,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 3
     },
@@ -8908,7 +8908,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 3
     },
@@ -9120,7 +9120,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ]
     },
     {
@@ -9154,7 +9154,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -9189,7 +9189,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -9224,7 +9224,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -9294,7 +9294,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 4
     },
@@ -9329,7 +9329,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -9364,7 +9364,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -9399,7 +9399,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ]
     },
     {
@@ -9435,7 +9435,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "forms": [
         {
@@ -9447,7 +9447,7 @@
           },
           "gameId": 1129,
           "form": 1,
-          "formName": "Null.Form.paldean",
+          "formName": "pokemon.form.paldea",
           "baseStats": {
             "hp": 55,
             "atk": 45,
@@ -9470,7 +9470,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.poison",
-            "pokemon.type.ground "
+            "pokemon.type.ground"
           ]
         }
       ]
@@ -9506,7 +9506,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ]
     },
     {
@@ -9540,7 +9540,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -9574,7 +9574,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ]
     },
     {
@@ -9608,7 +9608,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -9643,7 +9643,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "forms": [
         {
@@ -9655,7 +9655,7 @@
           },
           "gameId": 1105,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 95,
             "atk": 65,
@@ -9713,7 +9713,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 4
     },
@@ -9726,7 +9726,7 @@
         "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown.png"
       },
       "gameId": 201,
-      "formName": "Null.Form.a",
+      "formName": "pokemon.form.a",
       "baseStats": {
         "hp": 48,
         "atk": 72,
@@ -9760,7 +9760,7 @@
           },
           "gameId": 1146,
           "form": 1,
-          "formName": "Null.Form.b",
+          "formName": "pokemon.form.b",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9794,7 +9794,7 @@
           },
           "gameId": 1147,
           "form": 2,
-          "formName": "Null.Form.c",
+          "formName": "pokemon.form.c",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9828,7 +9828,7 @@
           },
           "gameId": 1148,
           "form": 3,
-          "formName": "Null.Form.d",
+          "formName": "pokemon.form.d",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9862,7 +9862,7 @@
           },
           "gameId": 1149,
           "form": 4,
-          "formName": "Null.Form.e",
+          "formName": "pokemon.form.e",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9896,7 +9896,7 @@
           },
           "gameId": 1150,
           "form": 5,
-          "formName": "Null.Form.f",
+          "formName": "pokemon.form.f",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9930,7 +9930,7 @@
           },
           "gameId": 1151,
           "form": 6,
-          "formName": "Null.Form.g",
+          "formName": "pokemon.form.g",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9964,7 +9964,7 @@
           },
           "gameId": 1152,
           "form": 7,
-          "formName": "Null.Form.h",
+          "formName": "pokemon.form.h",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -9998,7 +9998,7 @@
           },
           "gameId": 1153,
           "form": 8,
-          "formName": "Null.Form.i",
+          "formName": "pokemon.form.i",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10032,7 +10032,7 @@
           },
           "gameId": 1154,
           "form": 9,
-          "formName": "Null.Form.j",
+          "formName": "pokemon.form.j",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10066,7 +10066,7 @@
           },
           "gameId": 1155,
           "form": 10,
-          "formName": "Null.Form.k",
+          "formName": "pokemon.form.k",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10100,7 +10100,7 @@
           },
           "gameId": 1156,
           "form": 11,
-          "formName": "Null.Form.l",
+          "formName": "pokemon.form.l",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10134,7 +10134,7 @@
           },
           "gameId": 1157,
           "form": 12,
-          "formName": "Null.Form.m",
+          "formName": "pokemon.form.m",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10168,7 +10168,7 @@
           },
           "gameId": 1158,
           "form": 13,
-          "formName": "Null.Form.n",
+          "formName": "pokemon.form.n",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10202,7 +10202,7 @@
           },
           "gameId": 1159,
           "form": 14,
-          "formName": "Null.Form.o",
+          "formName": "pokemon.form.o",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10236,7 +10236,7 @@
           },
           "gameId": 1160,
           "form": 15,
-          "formName": "Null.Form.p",
+          "formName": "pokemon.form.p",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10270,7 +10270,7 @@
           },
           "gameId": 1161,
           "form": 16,
-          "formName": "Null.Form.q",
+          "formName": "pokemon.form.q",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10304,7 +10304,7 @@
           },
           "gameId": 1162,
           "form": 17,
-          "formName": "Null.Form.r",
+          "formName": "pokemon.form.r",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10338,7 +10338,7 @@
           },
           "gameId": 1163,
           "form": 18,
-          "formName": "Null.Form.s",
+          "formName": "pokemon.form.s",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10372,7 +10372,7 @@
           },
           "gameId": 1164,
           "form": 19,
-          "formName": "Null.Form.t",
+          "formName": "pokemon.form.t",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10406,7 +10406,7 @@
           },
           "gameId": 1165,
           "form": 20,
-          "formName": "Null.Form.u",
+          "formName": "pokemon.form.u",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10440,7 +10440,7 @@
           },
           "gameId": 1166,
           "form": 21,
-          "formName": "Null.Form.v",
+          "formName": "pokemon.form.v",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10474,7 +10474,7 @@
           },
           "gameId": 1167,
           "form": 22,
-          "formName": "Null.Form.w",
+          "formName": "pokemon.form.w",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10508,7 +10508,7 @@
           },
           "gameId": 1168,
           "form": 23,
-          "formName": "Null.Form.x",
+          "formName": "pokemon.form.x",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10542,7 +10542,7 @@
           },
           "gameId": 1169,
           "form": 24,
-          "formName": "Null.Form.y",
+          "formName": "pokemon.form.y",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10576,7 +10576,7 @@
           },
           "gameId": 1170,
           "form": 25,
-          "formName": "Null.Form.z",
+          "formName": "pokemon.form.z",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10604,13 +10604,13 @@
         {
           "name": "pokemon.species.unown",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/unown.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/unown-exclamation_mark.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-exclamation_mark.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-exclamation_mark.png"
           },
           "gameId": 1171,
           "form": 26,
-          "formName": "Null.Form.emark",
+          "formName": "pokemon.form.!",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10638,13 +10638,13 @@
         {
           "name": "pokemon.species.unown",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/unown.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/unown-question_mark.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/unown-question_mark.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/unown-question_mark.png"
           },
           "gameId": 1172,
           "form": 27,
-          "formName": "Null.Form.qmark",
+          "formName": "pokemon.form.?",
           "baseStats": {
             "hp": 48,
             "atk": 72,
@@ -10702,7 +10702,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -10736,7 +10736,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -10770,7 +10770,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -10804,7 +10804,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ]
     },
     {
@@ -10838,7 +10838,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -10872,7 +10872,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -10907,7 +10907,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "forms": [
         {
@@ -11005,7 +11005,7 @@
       "abilities": [
         "pokemon.ability.intimidate",
         "",
-        "pokemon.ability.rattled"
+        "pokemon.ability.quick_feet"
       ],
       "hatchCycles": 20,
       "genderRatio": 191,
@@ -11059,7 +11059,7 @@
           },
           "gameId": 1118,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 65,
             "atk": 95,
@@ -11118,7 +11118,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "forms": [
         {
@@ -11189,7 +11189,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 3
     },
@@ -11224,7 +11224,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 5,
       "forms": [
@@ -11296,7 +11296,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 3,
       "forms": [
@@ -11309,7 +11309,7 @@
           },
           "gameId": 1119,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 55,
             "atk": 95,
@@ -11324,7 +11324,7 @@
           },
           "abilities": [
             "pokemon.ability.unburden",
-            "",
+            "pokemon.ability.inner_focus",
             "pokemon.ability.poison_touch"
           ],
           "hatchCycles": 20,
@@ -11369,7 +11369,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -11403,7 +11403,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -11437,7 +11437,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ]
     },
     {
@@ -11505,7 +11505,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 5
     },
@@ -11541,7 +11541,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 5
     },
@@ -11590,7 +11590,7 @@
           },
           "gameId": 1106,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 60,
             "atk": 55,
@@ -11650,7 +11650,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -11685,7 +11685,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -11719,7 +11719,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 4
     },
@@ -11789,7 +11789,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -11824,7 +11824,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.steel",
-            "pokemon.type.flying "
+            "pokemon.type.flying"
           ],
           "growthRate": 5
         }
@@ -11861,7 +11861,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5
     },
@@ -11896,7 +11896,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5,
       "forms": [
@@ -11970,7 +11970,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ]
     },
     {
@@ -12004,7 +12004,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ]
     },
     {
@@ -12039,7 +12039,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ]
     },
     {
@@ -12073,7 +12073,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -12107,7 +12107,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5
     },
@@ -12142,7 +12142,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 4
     },
@@ -12177,7 +12177,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -12211,7 +12211,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -12245,7 +12245,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -12279,7 +12279,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ]
     },
     {
@@ -12313,7 +12313,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ]
     },
     {
@@ -12347,7 +12347,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5
     },
@@ -12382,7 +12382,7 @@
       "catchRate": 15,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 4
     },
@@ -12421,7 +12421,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 5
     },
@@ -12460,7 +12460,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5
     },
@@ -12499,7 +12499,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -12534,7 +12534,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 5
     },
@@ -12568,7 +12568,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 5
     },
@@ -12603,7 +12603,7 @@
       "catchRate": 40,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 5,
       "forms": [
@@ -12676,7 +12676,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5
     },
@@ -12711,7 +12711,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5
     },
@@ -12745,7 +12745,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -12780,7 +12780,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -12815,7 +12815,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -12850,7 +12850,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3,
       "forms": [
@@ -12923,7 +12923,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -12959,7 +12959,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3
     },
@@ -12994,7 +12994,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3,
       "forms": [
@@ -13067,7 +13067,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -13102,7 +13102,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 3
     },
@@ -13137,7 +13137,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 3,
       "forms": [
@@ -13209,7 +13209,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ]
     },
     {
@@ -13243,7 +13243,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ]
     },
     {
@@ -13277,7 +13277,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -13289,7 +13289,7 @@
           },
           "gameId": 1107,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 38,
             "atk": 30,
@@ -13348,7 +13348,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "forms": [
         {
@@ -13360,7 +13360,7 @@
           },
           "gameId": 1108,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 78,
             "atk": 70,
@@ -13419,7 +13419,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -13452,7 +13452,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -13519,7 +13519,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -13553,7 +13553,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -13587,7 +13587,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -13622,7 +13622,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -13657,7 +13657,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -13692,7 +13692,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -13727,7 +13727,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 3
     },
@@ -13762,7 +13762,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 3
     },
@@ -13797,7 +13797,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -14146,7 +14146,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 2
     },
@@ -14181,7 +14181,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 2
     },
@@ -14215,7 +14215,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5
     },
@@ -14249,7 +14249,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5
     },
@@ -14283,7 +14283,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5
     },
@@ -14423,7 +14423,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -14458,7 +14458,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -14886,7 +14886,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 5
     },
@@ -14921,7 +14921,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 5
     },
@@ -14956,7 +14956,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 5,
       "forms": [
@@ -16532,7 +16532,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 1
     },
@@ -16567,7 +16567,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 1
     },
@@ -16602,7 +16602,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ],
       "growthRate": 1
     },
@@ -16637,7 +16637,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ],
       "growthRate": 1
     },
@@ -17132,7 +17132,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/chimecho-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/chimecho-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/chimecho-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/chimecho-mega.png"
           },
           "gameId": 1407,
           "form": 1,
@@ -17240,7 +17240,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/absol-mega_z.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/absol-mega_z.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/absol-mega_z.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/absol-mega_z.png"
           },
           "gameId": 1408,
           "form": 2,
@@ -17723,7 +17723,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -17758,7 +17758,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -17793,7 +17793,7 @@
       "catchRate": 40,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5,
       "forms": [
@@ -17865,7 +17865,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -17900,7 +17900,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -17935,7 +17935,7 @@
       "catchRate": 40,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5,
       "forms": [
@@ -18007,7 +18007,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 5
     },
@@ -18042,7 +18042,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5
     },
@@ -18078,7 +18078,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "growthRate": 5
     },
@@ -18112,7 +18112,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5,
       "forms": [
@@ -18183,7 +18183,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5,
       "forms": [
@@ -18469,7 +18469,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -18505,7 +18505,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5,
       "forms": [
@@ -19054,7 +19054,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/staraptor-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/staraptor-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/staraptor-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/staraptor-mega.png"
           },
           "gameId": 1409,
           "form": 1,
@@ -19590,7 +19590,7 @@
           },
           "gameId": 1179,
           "form": 1,
-          "formName": "Null.Form.sandy_cloak",
+          "formName": "pokemon.form.sandy",
           "baseStats": {
             "hp": 40,
             "atk": 29,
@@ -19625,7 +19625,7 @@
           },
           "gameId": 1180,
           "form": 2,
-          "formName": "Null.Form.trash_cloak",
+          "formName": "pokemon.form.trash",
           "baseStats": {
             "hp": 40,
             "atk": 29,
@@ -19696,7 +19696,7 @@
           },
           "gameId": 1181,
           "form": 1,
-          "formName": "Null.Form.sandy_cloak",
+          "formName": "pokemon.form.sandy",
           "baseStats": {
             "hp": 60,
             "atk": 79,
@@ -19731,7 +19731,7 @@
           },
           "gameId": 1182,
           "form": 2,
-          "formName": "Null.Form.trash_cloak",
+          "formName": "pokemon.form.trash",
           "baseStats": {
             "hp": 60,
             "atk": 69,
@@ -20110,7 +20110,7 @@
           },
           "gameId": 1184,
           "form": 1,
-          "formName": "Null.Form.east_sea",
+          "formName": "pokemon.form.east",
           "baseStats": {
             "hp": 76,
             "atk": 48,
@@ -20180,7 +20180,7 @@
           },
           "gameId": 1185,
           "form": 1,
-          "formName": "Null.Form.east_sea",
+          "formName": "pokemon.form.east",
           "baseStats": {
             "hp": 111,
             "atk": 83,
@@ -20681,9 +20681,9 @@
         "def": 1
       },
       "abilities": [
-        "pokemon.ability.keen_eye",
-        "pokemon.ability.aftermath",
-        "pokemon.ability.stench"
+        "pokemon.ability.levitate",
+        "pokemon.ability.heatproof",
+        "pokemon.ability.heavy_metal"
       ],
       "hatchCycles": 20,
       "genderRatio": 255,
@@ -21046,7 +21046,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/garchomp-mega_z.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/garchomp-mega_z.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/garchomp-mega_z.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/garchomp-mega_z.png"
           },
           "gameId": 1410,
           "form": 2,
@@ -21225,7 +21225,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/lucario-mega_z.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/lucario-mega_z.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/lucario-mega_z.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/lucario-mega_z.png"
           },
           "gameId": 1411,
           "form": 2,
@@ -22380,7 +22380,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/froslass-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/froslass-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/froslass-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/froslass-mega.png"
           },
           "gameId": 1386,
           "form": 1,
@@ -23193,7 +23193,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/darkrai-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/darkrai-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/darkrai-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/darkrai-mega.png"
           },
           "gameId": 1413,
           "form": 1,
@@ -24323,7 +24323,7 @@
           },
           "gameId": 1120,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 90,
             "atk": 108,
@@ -25894,7 +25894,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/scolipede-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/scolipede-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/scolipede-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/scolipede-mega.png"
           },
           "gameId": 1389,
           "form": 1,
@@ -26071,7 +26071,7 @@
           },
           "gameId": 1121,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 70,
             "atk": 105,
@@ -26354,7 +26354,7 @@
           },
           "gameId": 1109,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 70,
             "atk": 90,
@@ -26427,7 +26427,7 @@
           },
           "gameId": 1110,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 105,
             "atk": 140,
@@ -26463,7 +26463,7 @@
           },
           "gameId": 1214,
           "form": 2,
-          "formName": "Null.Form.zen_mode",
+          "formName": "pokemon.form.zen",
           "baseStats": {
             "hp": 105,
             "atk": 30,
@@ -26499,7 +26499,7 @@
           },
           "gameId": 1215,
           "form": 3,
-          "formName": "Null.Form.zen_mode_galarian",
+          "formName": "pokemon.form.galar_zen",
           "baseStats": {
             "hp": 105,
             "atk": 160,
@@ -26812,7 +26812,7 @@
           },
           "gameId": 1111,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 38,
             "atk": 55,
@@ -27117,7 +27117,7 @@
           },
           "gameId": 1122,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 35,
             "atk": 60,
@@ -27188,7 +27188,7 @@
           },
           "gameId": 1123,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 55,
             "atk": 100,
@@ -27413,7 +27413,7 @@
         "spAtk": 1
       },
       "abilities": [
-        "pokemon.ability.analytic",
+        "pokemon.ability.magic_guard",
         "pokemon.ability.regenerator",
         "pokemon.ability.magic_guard"
       ],
@@ -27448,7 +27448,7 @@
         "spAtk": 2
       },
       "abilities": [
-        "pokemon.ability.analytic",
+        "pokemon.ability.magic_guard",
         "pokemon.ability.regenerator",
         "pokemon.ability.magic_guard"
       ],
@@ -28794,7 +28794,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/chandelure-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/chandelure-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/chandelure-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/chandelure-mega.png"
           },
           "gameId": 1392,
           "form": 1,
@@ -29143,7 +29143,7 @@
           },
           "gameId": 1112,
           "form": 1,
-          "formName": "Null.Form.galarian",
+          "formName": "pokemon.form.galar",
           "baseStats": {
             "hp": 109,
             "atk": 81,
@@ -29347,7 +29347,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/golurk-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/golurk-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/golurk-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/golurk-mega.png"
           },
           "gameId": 1414,
           "form": 1,
@@ -29560,7 +29560,7 @@
           },
           "gameId": 1124,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 110,
             "atk": 83,
@@ -30586,7 +30586,7 @@
           },
           "gameId": 1230,
           "form": 1,
-          "formName": "Null.Form.douse_drive",
+          "formName": "Null.Form.douse",
           "baseStats": {
             "hp": 71,
             "atk": 120,
@@ -30624,7 +30624,7 @@
           },
           "gameId": 1231,
           "form": 2,
-          "formName": "Null.Form.shock_drive",
+          "formName": "Null.Form.shock",
           "baseStats": {
             "hp": 71,
             "atk": 120,
@@ -30662,7 +30662,7 @@
           },
           "gameId": 1232,
           "form": 3,
-          "formName": "Null.Form.burn_drive",
+          "formName": "Null.Form.burn",
           "baseStats": {
             "hp": 71,
             "atk": 120,
@@ -30700,7 +30700,7 @@
           },
           "gameId": 1233,
           "form": 4,
-          "formName": "Null.Form.chill_drive",
+          "formName": "Null.Form.chill",
           "baseStats": {
             "hp": 71,
             "atk": 120,
@@ -31125,13 +31125,13 @@
         {
           "name": "pokemon.species.greninja",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/greninja.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/greninja.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/greninja.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/greninja-ash.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/greninja-ash.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/greninja-ash.png"
           },
           "gameId": 1234,
           "form": 1,
-          "formName": "Null.Form.battle_bond",
+          "formName": "pokemon.form.active",
           "baseStats": {
             "hp": 72,
             "atk": 95,
@@ -32294,7 +32294,7 @@
         "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/flabebe-yellow_flower.png"
       },
       "gameId": 1255,
-      "formName": "Null.Form.yellow_flower",
+      "formName": "pokemon.form.yellow",
       "baseStats": {
         "hp": 44,
         "atk": 38,
@@ -32328,7 +32328,7 @@
           },
           "gameId": 1256,
           "form": 1,
-          "formName": "Null.Form.orange_flower",
+          "formName": "pokemon.form.orange",
           "baseStats": {
             "hp": 44,
             "atk": 38,
@@ -32362,7 +32362,7 @@
           },
           "gameId": 1257,
           "form": 2,
-          "formName": "Null.Form.blue_flower",
+          "formName": "pokemon.form.blue",
           "baseStats": {
             "hp": 44,
             "atk": 38,
@@ -32396,7 +32396,7 @@
           },
           "gameId": 1258,
           "form": 3,
-          "formName": "Null.Form.white_flower",
+          "formName": "pokemon.form.white",
           "baseStats": {
             "hp": 44,
             "atk": 38,
@@ -32465,7 +32465,7 @@
           },
           "gameId": 1259,
           "form": 1,
-          "formName": "Null.Form.yellow_flower",
+          "formName": "pokemon.form.yellow",
           "baseStats": {
             "hp": 54,
             "atk": 45,
@@ -32499,7 +32499,7 @@
           },
           "gameId": 1260,
           "form": 2,
-          "formName": "Null.Form.orange_flower",
+          "formName": "pokemon.form.orange",
           "baseStats": {
             "hp": 54,
             "atk": 45,
@@ -32533,7 +32533,7 @@
           },
           "gameId": 1261,
           "form": 3,
-          "formName": "Null.Form.blue_flower",
+          "formName": "pokemon.form.blue",
           "baseStats": {
             "hp": 54,
             "atk": 45,
@@ -32567,7 +32567,7 @@
           },
           "gameId": 1262,
           "form": 4,
-          "formName": "Null.Form.white_flower",
+          "formName": "pokemon.form.white",
           "baseStats": {
             "hp": 54,
             "atk": 45,
@@ -32601,7 +32601,7 @@
           },
           "gameId": 1263,
           "form": 5,
-          "formName": "Null.Form.eternal_flower",
+          "formName": "pokemon.form.eternal",
           "baseStats": {
             "hp": 74,
             "atk": 65,
@@ -32630,9 +32630,9 @@
         {
           "name": "pokemon.species.floette",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/floette.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/floette.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/floette-eternal_flower_mega.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-eternal_flower_mega.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/floette-eternal_flower_mega.png"
           },
           "gameId": 1397,
           "form": 6,
@@ -32706,7 +32706,7 @@
           },
           "gameId": 1264,
           "form": 1,
-          "formName": "Null.Form.yellow_flower",
+          "formName": "pokemon.form.yellow",
           "baseStats": {
             "hp": 78,
             "atk": 65,
@@ -32740,7 +32740,7 @@
           },
           "gameId": 1265,
           "form": 2,
-          "formName": "Null.Form.orange_flower",
+          "formName": "pokemon.form.orange",
           "baseStats": {
             "hp": 78,
             "atk": 65,
@@ -32774,7 +32774,7 @@
           },
           "gameId": 1266,
           "form": 3,
-          "formName": "Null.Form.blue_flower",
+          "formName": "pokemon.form.blue",
           "baseStats": {
             "hp": 78,
             "atk": 65,
@@ -32808,7 +32808,7 @@
           },
           "gameId": 1267,
           "form": 4,
-          "formName": "Null.Form.white_flower",
+          "formName": "pokemon.form.white",
           "baseStats": {
             "hp": 78,
             "atk": 65,
@@ -33419,7 +33419,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/meowstic-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/meowstic-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/meowstic-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/meowstic-mega.png"
           },
           "gameId": 1415,
           "form": 2,
@@ -34004,7 +34004,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/dragalge-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/dragalge-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/dragalge-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/dragalge-mega.png"
           },
           "gameId": 1400,
           "form": 1,
@@ -34381,7 +34381,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/hawlucha-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/hawlucha-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/hawlucha-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/hawlucha-mega.png"
           },
           "gameId": 1401,
           "form": 1,
@@ -34561,7 +34561,7 @@
           },
           "gameId": 1125,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 58,
             "atk": 75,
@@ -34576,7 +34576,7 @@
           },
           "abilities": [
             "pokemon.ability.sap_sipper",
-            "pokemon.ability.overcoat",
+            "pokemon.ability.shell_armor",
             "pokemon.ability.gooey"
           ],
           "hatchCycles": 40,
@@ -34634,7 +34634,7 @@
           },
           "gameId": 1126,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 80,
             "atk": 100,
@@ -34997,7 +34997,7 @@
           },
           "gameId": 1127,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 95,
             "atk": 127,
@@ -35375,7 +35375,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/zygarde-complete_mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde-complete_mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zygarde-complete_mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/zygarde-complete_mega.png"
           },
           "gameId": 1402,
           "form": 5,
@@ -35698,7 +35698,7 @@
           },
           "gameId": 1128,
           "form": 1,
-          "formName": "Null.Form.hisuian",
+          "formName": "pokemon.form.hisui",
           "baseStats": {
             "hp": 88,
             "atk": 112,
@@ -36279,7 +36279,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/crabominable-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/crabominable-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/crabominable-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/crabominable-mega.png"
           },
           "gameId": 1416,
           "form": 1,
@@ -37516,7 +37516,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/golisopod-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/golisopod-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/golisopod-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/golisopod-mega.png"
           },
           "gameId": 1417,
           "form": 1,
@@ -39074,7 +39074,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/drampa-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/drampa-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/drampa-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/drampa-mega.png"
           },
           "gameId": 1403,
           "form": 1,
@@ -39956,7 +39956,7 @@
           },
           "gameId": 1332,
           "form": 1,
-          "formName": "Null.Form.original_color",
+          "formName": "pokemon.form.original",
           "baseStats": {
             "hp": 80,
             "atk": 95,
@@ -39988,7 +39988,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/magearna-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/magearna-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/magearna-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/magearna-mega.png"
           },
           "gameId": 1418,
           "form": 2,
@@ -40028,7 +40028,7 @@
           },
           "gameId": 1419,
           "form": 3,
-          "formName": "Null.Form.original_mega",
+          "formName": "pokemon.form.original_mega",
           "baseStats": {
             "hp": 80,
             "atk": 125,
@@ -40271,7 +40271,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/zeraora-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/zeraora-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/zeraora-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/zeraora-mega.png"
           },
           "gameId": 1420,
           "form": 1,
@@ -42930,7 +42930,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/falinks-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/falinks-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/falinks-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/falinks-mega.png"
           },
           "gameId": 1404,
           "form": 1,
@@ -43701,7 +43701,7 @@
           },
           "gameId": 1349,
           "form": 1,
-          "formName": "Null.Form.crowned_sword",
+          "formName": "pokemon.form.crowned",
           "baseStats": {
             "hp": 92,
             "atk": 150,
@@ -43772,7 +43772,7 @@
           },
           "gameId": 1350,
           "form": 1,
-          "formName": "Null.Form.crowned_shield",
+          "formName": "pokemon.form.crowned",
           "baseStats": {
             "hp": 92,
             "atk": 120,
@@ -43948,7 +43948,7 @@
           },
           "gameId": 1352,
           "form": 1,
-          "formName": "Null.Form.rapid_strike_style",
+          "formName": "pokemon.form.rapid_strike",
           "baseStats": {
             "hp": 100,
             "atk": 130,
@@ -44228,7 +44228,7 @@
           },
           "gameId": 1354,
           "form": 1,
-          "formName": "Null.Form.ice_rider",
+          "formName": "pokemon.form.ice",
           "baseStats": {
             "hp": 100,
             "atk": 165,
@@ -44263,7 +44263,7 @@
           },
           "gameId": 1355,
           "form": 2,
-          "formName": "Null.Form.shadow_rider",
+          "formName": "pokemon.form.shadow",
           "baseStats": {
             "hp": 100,
             "atk": 85,
@@ -44674,7 +44674,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -44709,7 +44709,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -44744,7 +44744,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 3
     },
@@ -44779,7 +44779,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -44814,7 +44814,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 3
     },
@@ -44849,7 +44849,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 3
     },
@@ -44884,7 +44884,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -44919,7 +44919,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 3
     },
@@ -44954,7 +44954,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3
     },
@@ -44989,7 +44989,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ]
     },
     {
@@ -45074,7 +45074,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ],
       "growthRate": 1
     },
@@ -45109,7 +45109,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ],
       "growthRate": 1
     },
@@ -45144,7 +45144,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ]
     },
     {
@@ -45178,7 +45178,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ]
     },
     {
@@ -45212,7 +45212,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ]
     },
     {
@@ -45246,7 +45246,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -45280,7 +45280,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ]
     },
     {
@@ -45314,7 +45314,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 4
     },
@@ -45322,9 +45322,9 @@
       "id": 925,
       "name": "pokemon.species.maushold",
       "sprites": {
-        "party": "pokelink-community:/pokemon_null/assets/pokemon/party/maushold.gif",
-        "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/maushold.png",
-        "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/maushold.png"
+        "party": "pokelink-community:/pokemon_null/assets/pokemon/party/maushold-four.gif",
+        "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/maushold-four.png",
+        "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/maushold-four.png"
       },
       "gameId": 925,
       "baseStats": {
@@ -45413,14 +45413,14 @@
       "abilities": [
         "pokemon.ability.thick_fat",
         "",
-        "pokemon.ability.klutz"
+        "pokemon.ability.own_tempo"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.fairy "
+        "pokemon.type.fairy"
       ],
       "growthRate": 3
     },
@@ -45455,7 +45455,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.fairy "
+        "pokemon.type.fairy"
       ],
       "growthRate": 3
     },
@@ -45490,7 +45490,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -45525,7 +45525,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -45560,7 +45560,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -45604,7 +45604,7 @@
           },
           "gameId": 1359,
           "form": 1,
-          "formName": "Null.Form.blue_plumage",
+          "formName": "pokemon.form.blue",
           "baseStats": {
             "hp": 82,
             "atk": 96,
@@ -45636,7 +45636,7 @@
           },
           "gameId": 1360,
           "form": 2,
-          "formName": "Null.Form.yellow_plumage",
+          "formName": "pokemon.form.yellow",
           "baseStats": {
             "hp": 82,
             "atk": 96,
@@ -45668,7 +45668,7 @@
           },
           "gameId": 1361,
           "form": 3,
-          "formName": "Null.Form.white_plumage",
+          "formName": "pokemon.form.white",
           "baseStats": {
             "hp": 82,
             "atk": 96,
@@ -45724,7 +45724,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 3
     },
@@ -45759,7 +45759,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 3
     },
@@ -45794,7 +45794,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ],
       "growthRate": 3
     },
@@ -45829,7 +45829,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5
     },
@@ -45864,7 +45864,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -45899,7 +45899,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 5
     },
@@ -45934,7 +45934,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ]
     },
     {
@@ -45968,7 +45968,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ]
     },
     {
@@ -46002,7 +46002,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -46037,7 +46037,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 3
     },
@@ -46072,7 +46072,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 3
     },
@@ -46107,7 +46107,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 3
     },
@@ -46142,7 +46142,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -46177,7 +46177,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -46212,7 +46212,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ]
     },
     {
@@ -46246,7 +46246,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ]
     },
     {
@@ -46279,7 +46279,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -46313,7 +46313,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 3
     },
@@ -46348,7 +46348,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.rock "
+        "pokemon.type.rock"
       ]
     },
     {
@@ -46382,7 +46382,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ]
     },
     {
@@ -46416,7 +46416,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "forms": [
         {
@@ -46424,7 +46424,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/scovillain-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/scovillain-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/scovillain-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/scovillain-mega.png"
           },
           "gameId": 1421,
           "form": 1,
@@ -46451,7 +46451,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.grass",
-            "pokemon.type.fire "
+            "pokemon.type.fire"
           ]
         }
       ]
@@ -46487,7 +46487,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.bug "
+        "pokemon.type.bug"
       ],
       "growthRate": 4
     },
@@ -46522,7 +46522,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 4
     },
@@ -46557,7 +46557,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 3
     },
@@ -46592,7 +46592,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.psychic",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 3
     },
@@ -46627,7 +46627,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "growthRate": 3
     },
@@ -46662,7 +46662,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "growthRate": 3
     },
@@ -46697,7 +46697,7 @@
       "catchRate": 120,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "growthRate": 3
     },
@@ -46732,7 +46732,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -46766,7 +46766,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ]
     },
     {
@@ -46800,7 +46800,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.flying",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 5
     },
@@ -46834,7 +46834,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -46903,7 +46903,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -46937,7 +46937,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ]
     },
     {
@@ -46971,7 +46971,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 3
     },
@@ -47006,7 +47006,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "growthRate": 5
     },
@@ -47041,7 +47041,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3
     },
@@ -47076,7 +47076,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 3,
       "forms": [
@@ -47085,7 +47085,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/glimmora-mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/glimmora-mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/glimmora-mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/glimmora-mega.png"
           },
           "gameId": 1422,
           "form": 1,
@@ -47112,7 +47112,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.rock",
-            "pokemon.type.poison "
+            "pokemon.type.poison"
           ],
           "growthRate": 3
         }
@@ -47149,7 +47149,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 3
     },
@@ -47184,7 +47184,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 3
     },
@@ -47219,7 +47219,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.flying",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 3
     },
@@ -47254,7 +47254,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 3
     },
@@ -47289,7 +47289,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 3
     },
@@ -47324,7 +47324,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 4
     },
@@ -47359,7 +47359,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -47473,9 +47473,9 @@
         {
           "name": "pokemon.species.tatsugiri",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tatsugiri.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tatsugiri-curly_mega.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-curly_mega.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-curly_mega.png"
           },
           "gameId": 1423,
           "form": 3,
@@ -47501,7 +47501,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.dragon",
-            "pokemon.type.water "
+            "pokemon.type.water"
           ],
           "growthRate": 3
         },
@@ -47510,7 +47510,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tatsugiri-droopy_mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-droopy_mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri-droopy_mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-droopy_mega.png"
           },
           "gameId": 1424,
           "form": 4,
@@ -47536,7 +47536,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.dragon",
-            "pokemon.type.water "
+            "pokemon.type.water"
           ],
           "growthRate": 3
         },
@@ -47545,7 +47545,7 @@
           "sprites": {
             "party": "pokelink-community:/pokemon_null/assets/pokemon/party/tatsugiri-stretchy_mega.gif",
             "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-stretchy_mega.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/tatsugiri-stretchy_mega.png"
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/normal/tatsugiri-stretchy_mega.png"
           },
           "gameId": 1425,
           "form": 5,
@@ -47571,7 +47571,7 @@
           "catchRate": 200,
           "types": [
             "pokemon.type.dragon",
-            "pokemon.type.water "
+            "pokemon.type.water"
           ],
           "growthRate": 3
         }
@@ -47608,7 +47608,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ]
     },
     {
@@ -47642,7 +47642,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ]
     },
     {
@@ -47676,7 +47676,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ]
     },
     {
@@ -47779,7 +47779,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ]
     },
     {
@@ -47812,7 +47812,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 5
     },
@@ -47846,7 +47846,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -47880,7 +47880,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 5
     },
@@ -47916,7 +47916,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.ghost",
-        "pokemon.type.fairy "
+        "pokemon.type.fairy"
       ],
       "growthRate": 5
     },
@@ -47950,7 +47950,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.bug",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 5
     },
@@ -47984,7 +47984,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 5
     },
@@ -48018,7 +48018,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.ground",
-        "pokemon.type.steel "
+        "pokemon.type.steel"
       ],
       "growthRate": 5
     },
@@ -48052,7 +48052,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.ice",
-        "pokemon.type.water "
+        "pokemon.type.water"
       ],
       "growthRate": 5
     },
@@ -48086,7 +48086,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 5
     },
@@ -48120,7 +48120,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.flying "
+        "pokemon.type.flying"
       ],
       "growthRate": 5
     },
@@ -48154,7 +48154,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.poison "
+        "pokemon.type.poison"
       ],
       "growthRate": 5
     },
@@ -48188,7 +48188,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.electric "
+        "pokemon.type.electric"
       ],
       "growthRate": 5
     },
@@ -48223,7 +48223,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5
     },
@@ -48258,7 +48258,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5
     },
@@ -48293,7 +48293,7 @@
       "catchRate": 40,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5,
       "forms": [
@@ -48329,7 +48329,7 @@
           "catchRate": 40,
           "types": [
             "pokemon.type.dragon",
-            "pokemon.type.ice "
+            "pokemon.type.ice"
           ],
           "growthRate": 5
         }
@@ -48412,7 +48412,7 @@
       "catchRate": 90,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 5
     },
@@ -48447,7 +48447,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.grass "
+        "pokemon.type.grass"
       ],
       "growthRate": 5
     },
@@ -48482,7 +48482,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.ice "
+        "pokemon.type.ice"
       ],
       "growthRate": 5
     },
@@ -48517,7 +48517,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.ground "
+        "pokemon.type.ground"
       ],
       "growthRate": 5
     },
@@ -48552,7 +48552,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.dark",
-        "pokemon.type.fire "
+        "pokemon.type.fire"
       ],
       "growthRate": 5
     },
@@ -48586,7 +48586,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.dragon",
-        "pokemon.type.dark "
+        "pokemon.type.dark"
       ],
       "growthRate": 5
     },
@@ -48620,7 +48620,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.fairy",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 5
     },
@@ -48655,7 +48655,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.fighting",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -48690,7 +48690,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -48724,7 +48724,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.water",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -48758,7 +48758,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -48793,7 +48793,7 @@
       "catchRate": 200,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 1
     },
@@ -48904,7 +48904,7 @@
       "catchRate": 3,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.fighting "
+        "pokemon.type.fighting"
       ],
       "growthRate": 5
     },
@@ -48939,7 +48939,7 @@
       "catchRate": 3,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -48974,7 +48974,7 @@
       "catchRate": 3,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.fairy "
+        "pokemon.type.fairy"
       ],
       "growthRate": 5
     },
@@ -49010,9 +49010,9 @@
         {
           "name": "pokemon.species.ogerpon",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon-wellspring.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon-wellspring.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon-wellspring.png"
           },
           "gameId": 1369,
           "form": 1,
@@ -49046,9 +49046,9 @@
         {
           "name": "pokemon.species.ogerpon",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon-hearthflame.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon-hearthflame.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon-hearthflame.png"
           },
           "gameId": 1370,
           "form": 2,
@@ -49082,9 +49082,9 @@
         {
           "name": "pokemon.species.ogerpon",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon-cornerstone.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon-cornerstone.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon-cornerstone.png"
           },
           "gameId": 1371,
           "form": 3,
@@ -49153,9 +49153,9 @@
         {
           "name": "pokemon.species.ogerpon",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon-wellspring.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon-wellspring.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon-wellspring.png"
           },
           "gameId": 1373,
           "form": 5,
@@ -49189,9 +49189,9 @@
         {
           "name": "pokemon.species.ogerpon",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon-hearthflame.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon-hearthflame.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon-hearthflame.png"
           },
           "gameId": 1374,
           "form": 6,
@@ -49225,9 +49225,9 @@
         {
           "name": "pokemon.species.ogerpon",
           "sprites": {
-            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon.gif",
-            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon.png",
-            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon.png"
+            "party": "pokelink-community:/pokemon_null/assets/pokemon/party/ogerpon-cornerstone.gif",
+            "normal": "pokelink-community:/pokemon_null/assets/pokemon/normal/ogerpon-cornerstone.png",
+            "shiny": "pokelink-community:/pokemon_null/assets/pokemon/shiny/ogerpon-cornerstone.png"
           },
           "gameId": 1375,
           "form": 7,
@@ -49291,7 +49291,7 @@
       "catchRate": 40,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ]
     },
     {
@@ -49325,7 +49325,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 1
     },
@@ -49359,7 +49359,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.fire",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -49393,7 +49393,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.electric",
-        "pokemon.type.dragon "
+        "pokemon.type.dragon"
       ],
       "growthRate": 5
     },
@@ -49427,7 +49427,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.rock",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -49461,7 +49461,7 @@
       "catchRate": 30,
       "types": [
         "pokemon.type.steel",
-        "pokemon.type.psychic "
+        "pokemon.type.psychic"
       ],
       "growthRate": 5
     },
@@ -49495,7 +49495,7 @@
       "catchRate": 255,
       "types": [
         "pokemon.type.normal",
-        "pokemon.type.normal "
+        "pokemon.type.normal"
       ],
       "growthRate": 5,
       "forms": [
@@ -49530,7 +49530,7 @@
           "catchRate": 255,
           "types": [
             "pokemon.type.normal",
-            "pokemon.type.normal "
+            "pokemon.type.normal"
           ],
           "growthRate": 5
         },
@@ -49565,7 +49565,7 @@
           "catchRate": 255,
           "types": [
             "pokemon.type.normal",
-            "pokemon.type.normal "
+            "pokemon.type.normal"
           ],
           "growthRate": 5
         }
@@ -49601,7 +49601,7 @@
       "catchRate": 3,
       "types": [
         "pokemon.type.poison",
-        "pokemon.type.ghost "
+        "pokemon.type.ghost"
       ],
       "growthRate": 5
     }

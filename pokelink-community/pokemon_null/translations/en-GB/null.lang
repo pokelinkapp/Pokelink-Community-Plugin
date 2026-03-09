@@ -5,6 +5,37 @@
             "Name": {
                 "pokemon_null": "Pokemon Null"
             }
+        },
+        "Pokelink": {
+            "KeyBind": {
+                "Badge": {
+                    "adamantite": "Toggle Adamantite Badge"
+                }
+            }
+        },
+        "Null": {
+            "Badge": {
+                "stone": "${Badges.Hoenn.stone}",
+                "knuckle": "${Badges.Hoenn.knuckle}",
+                "dynamo": "${Badges.Hoenn.dynamo}",
+                "balance": "${Badges.Hoenn.balance}",
+                "heat": "${Badges.Hoenn.heat}",
+                "feather": "${Badges.Hoenn.feather}",
+                "mind": "${Badges.Hoenn.mind}",
+                "adamantite": "Adamantite Badge"
+            },
+            "Location": {
+                "littleroot_grove": "Littleroot Grove",
+                "oldale_grove": "Oldale Grove",
+                "petalburg_grove": "Petalburg Grove",
+                "verdanturf_tunnel": "Verdanturf Tunnel",
+                "verdanturf_grotto": "Verdanturf Grotto",
+                "altering_grove": "Altering Grove",
+                "route_102_grove": "Route 102 Grove",
+                "rustboro_grove": "Rustboro Grove",
+                "victory_finale": "Victory Finale",
+                "root_academy": "Root Academy"
+            }
         }
     }
 }

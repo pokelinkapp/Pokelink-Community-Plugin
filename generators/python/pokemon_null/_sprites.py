@@ -275,7 +275,7 @@ def _process_pokemon_sprites(pokemon_dir: str):
 
         for f in os.scandir(p_dir.path):
             if f.is_dir():
-                if (p_dir.name == "minior" and f.name == "core") or p_dir.name == "tatsugiri" or p_dir.name == "zygarde":
+                if (p_dir.name == "minior" and f.name == "core") or p_dir.name == "tatsugiri" or p_dir.name == "zygarde" or (p_dir.name == "floette" and f.name == "eternal_flower"):
                     for c in os.scandir(f.path):
                         if c.is_dir():
                             if p_dir.name == "tatsugiri" and c.name == "mega":
@@ -297,7 +297,6 @@ def _process_pokemon_sprites(pokemon_dir: str):
                                 _process_pokemon_sprite_images(c,
                                                                f"{p_dir.name}-{f.name}_{c.name}",
                                                                output)
-                            
                 elif f.name == "gmax":
                     _process_pokemon_sprite_images(f,
                                                    f"{p_dir.name}-{f.name}",

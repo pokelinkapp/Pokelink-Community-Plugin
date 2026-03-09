@@ -15,6 +15,8 @@ _valid_languages = [
     "zh-Hant"
 ]
 
+_unownForms = "ABCDEFGHIJKLMNOPQRSTUVWXYZ?!"
+
 _game_strings = {}
 
 
@@ -108,6 +110,10 @@ def has_species(species: str, lang: str = "en") -> bool:
 
 def has_form(form: str, lang: str = "en") -> bool:
     global _game_strings
+    global _unownForms
+    
+    if _unownForms.__contains__(form):
+        return True
 
     if not _game_strings.__contains__(lang):
         return False

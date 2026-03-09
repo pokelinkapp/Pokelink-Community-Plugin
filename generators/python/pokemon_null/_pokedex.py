@@ -58,10 +58,9 @@ def process_species_forms():
 
             if items[-1].startswith("SPECIES"):
                 continue
-                
 
             internal_id = int(items[-1])
-            
+
             if (items[-3] == "FORMS_START"):
                 internal_id += _species_form_id["PECHARUNT"]
 
@@ -202,10 +201,10 @@ def process_species_stats():
                 if current_pokemon.types.__len__() == 0:
                     types = line.removeprefix(".types = { ").removesuffix(
                         "},").split(", ")
-    
+
                     for type in types:
                         current_pokemon.types.append(
-                            f"pokemon.type.{type.lower().removeprefix("type_")}")
+                            f"pokemon.type.{type.lower().removeprefix("type_").strip()}")
             elif line.startswith(".catchRate"):
                 current_pokemon.catchRate = get_pokemon_number(line)
             elif line.startswith(".evYield_HP"):
@@ -612,7 +611,7 @@ def process_species_stats():
     silvally_stat.abilities.append("pokemon.ability.rks_system")
     silvally_stat.abilities.append("")
     silvally_stat.abilities.append("")
-    
+
     _stats["SILVALLY"] = silvally_stat
 
     for p_type in [
@@ -644,7 +643,7 @@ def process_species_stats():
     minior_m_stat.abilities.append("pokemon.ability.shields_down")
     minior_m_stat.abilities.append("")
     minior_m_stat.abilities.append("")
-    
+
     _stats["MINIOR"] = minior_m_stat
 
     minior_c_stat = pb_pokedex.Species()
@@ -723,7 +722,7 @@ def process_species_stats():
     ogerpon_stat.hatchCycles = 10
     ogerpon_stat.baseFriendship = 70
     ogerpon_stat.growthRate = 5
-    
+
     _stats["OGERPON"] = ogerpon_stat
 
     for tera in ["", "_TERA"]:
@@ -737,7 +736,7 @@ def process_species_stats():
                 form_stat.abilities.append("")
                 form_stat.abilities.append(
                     f"pokemon.ability.{"embody_aspect_(teal)" if tera == "_TERA" else "defiant"}")
-                
+
                 _stats["OGERPON_TERA"] = form_stat
             elif form == "WELLSPRING":
                 form_stat.types.append("pokemon.type.water")
@@ -762,7 +761,7 @@ def process_species_stats():
                     f"pokemon.ability.{"embody_aspect_(cornerstone)" if tera == "_TERA" else "sturdy"}")
 
             _stats[f"OGERPON_{form}_MASK{tera}"] = form_stat
-            
+
     pikachu_stat = pb_pokedex.Species()
     pikachu_stat.baseStats.hp = 35
     pikachu_stat.baseStats.attack = 55
@@ -780,7 +779,7 @@ def process_species_stats():
     pikachu_stat.abilities.append("")
     pikachu_stat.abilities.append("pokemon.ability.static")
     pikachu_stat.growthRate = 0
-    
+
     _stats["PIKACHU"] = pikachu_stat
     _stats["PIKACHU_ORIGINAL_CAP"] = pikachu_stat.__deepcopy__()
     _stats["PIKACHU_HOENN_CAP"] = pikachu_stat.__deepcopy__()
@@ -789,12 +788,12 @@ def process_species_stats():
     _stats["PIKACHU_KALOS_CAP"] = pikachu_stat.__deepcopy__()
     _stats["PIKACHU_WORLD_CAP"] = pikachu_stat.__deepcopy__()
     _stats["PIKACHU_ALOLA_CAP"] = pikachu_stat.__deepcopy__()
-    
+
     pikachu_cosplay = pb_pokedex.Species()
     pikachu_cosplay.CopyFrom(pikachu_stat)
-    
+
     pikachu_cosplay.genderRatio = 254
-    
+
     _stats["PIKACHU_COSPLAY"] = pikachu_cosplay
     _stats["PIKACHU_ROCK_STAR"] = pikachu_cosplay
     _stats["PIKACHU_BELLE"] = pikachu_cosplay
@@ -842,12 +841,12 @@ def process_species_stats():
     castform_stat.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
 
     _stats["CASTFORM"] = castform_stat
-    
+
     castform_sunny = pb_pokedex.Species()
     castform_sunny.CopyFrom(castform_stat)
     castform_sunny.types.clear()
     castform_sunny.types.append("pokemon.type.fire")
-    
+
     _stats["CASTFORM_SUNNY"] = castform_sunny
 
     castform_rainy = pb_pokedex.Species()
@@ -1065,7 +1064,7 @@ def process_species_stats():
 
     _stats["ZYGARDE"] = zygarde_stats
     _stats["ZYGARDE_50_POWER_CONSTRUCT"] = zygarde_stats.__deepcopy__()
-    
+
     zygarde_10 = pb_pokedex.Species()
     zygarde_10.CopyFrom(zygarde_stats)
     zygarde_10.baseStats.hp = 54
@@ -1074,7 +1073,7 @@ def process_species_stats():
     zygarde_10.baseStats.speed = 115
     zygarde_10.baseStats.specialAttack = 61
     zygarde_10.baseStats.specialDefense = 85
-    
+
     _stats["ZYGARDE_10_POWER_CONSTRUCT"] = zygarde_10
 
     zygarde_10 = pb_pokedex.Species()
@@ -1103,13 +1102,13 @@ def process_species_stats():
     oricorio_stats.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
 
     _stats["ORICORIO"] = oricorio_stats
-    
+
     oricorio_stats = pb_pokedex.Species()
     oricorio_stats.CopyFrom(_stats["ORICORIO"])
     oricorio_stats.types.clear()
     oricorio_stats.types.append("pokemon.type.electric")
     oricorio_stats.types.append("pokemon.type.flying")
-    
+
     _stats["ORICORIO_POM_POM"] = oricorio_stats
 
     oricorio_stats = pb_pokedex.Species()
@@ -1147,13 +1146,13 @@ def process_species_stats():
     rockruff_stats.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
 
     _stats["ROCKRUFF"] = rockruff_stats
-    
+
     rockruff_owntempo = pb_pokedex.Species()
     rockruff_owntempo.CopyFrom(rockruff_stats)
     rockruff_owntempo.abilities.clear()
     rockruff_owntempo.abilities.append("pokemon.ability.own_tempo")
     rockruff_owntempo.abilities.append("")
-    
+
     _stats["ROCKRUFF_OWN_TEMPO"] = rockruff_owntempo
 
     mimikyu_stats = pb_pokedex.Species()
@@ -1453,21 +1452,21 @@ def process_species_stats():
     sinistcha_stats.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
 
     _stats["SINISTCHA"] = sinistcha_stats
-    
+
     rotom_heat = pb_pokedex.Species()
     rotom_heat.CopyFrom(_stats["ROTOM"])
     rotom_heat.types.clear()
     rotom_heat.types.append("pokemon.type.electric")
     rotom_heat.types.append("pokemon.type.fire")
     _stats["ROTOM_HEAT"] = rotom_heat
-    
+
     rotom_heat = pb_pokedex.Species()
     rotom_heat.CopyFrom(_stats["ROTOM"])
     rotom_heat.types.clear()
     rotom_heat.types.append("pokemon.type.electric")
     rotom_heat.types.append("pokemon.type.water")
     _stats["ROTOM_WASH"] = rotom_heat
-    
+
     rotom_heat = pb_pokedex.Species()
     rotom_heat.CopyFrom(_stats["ROTOM"])
     rotom_heat.types.clear()
@@ -1489,8 +1488,6 @@ def process_species_stats():
     rotom_heat.types.append("pokemon.type.grass")
     _stats["ROTOM_MOW"] = rotom_heat
 
-
-
     wooper_stats = _stats["WOOPER"]
     wooper_stats.baseStats.hp = 55
     wooper_stats.baseStats.attack = 45
@@ -1505,7 +1502,6 @@ def process_species_stats():
     wooper_stats.baseFriendship = 70
     wooper_stats.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
 
-
     wooper_stats = _stats["WOOPER_PALDEAN"]
     wooper_stats.baseStats.hp = 55
     wooper_stats.baseStats.attack = 45
@@ -1519,7 +1515,6 @@ def process_species_stats():
     wooper_stats.hatchCycles = 20
     wooper_stats.baseFriendship = 70
     wooper_stats.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
-    
 
     squawkabilly_stats = _stats["SQUAWKABILLY"]
     squawkabilly_stats.baseStats.hp = 82
@@ -1584,6 +1579,7 @@ def process_species_stats():
     squawkabilly_stats.hatchCycles = 15
     squawkabilly_stats.baseFriendship = 50
     squawkabilly_stats.growthRate = _growth_indexes["GROWTH_ERRATIC"]
+
 
 def process():
     print("Processing Pokedex")
@@ -1921,6 +1917,38 @@ def generate():
             file_form_id = f"{game_strings.clean_up(species_id)}{"" if form_id is None else f"-{game_strings.clean_up(form_id)}"}"
             file_id = f"{game_strings.clean_up(species_id)}"
 
+            if species == "TAUROS":
+                if form == "PALDEAN":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-combat"
+                elif form == "PALDEAN_BLAZE_BREED":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-blaze"
+                elif form == "PALDEAN_AQUA_BREED":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-aqua"
+            elif species == "UNOWN":
+                if form == "EMARK":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-exclamation_mark"
+                elif form == "QMARK":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-question_mark"
+            elif species == "GRENINJA":
+                if form == "BATTLE_BOND":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-ash"
+            elif species == "FLOETTE":
+                if form == "ETERNAL_MEGA":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-eternal_flower_mega"
+            elif species == "TATSUGIRI":
+                if form == "MEGA":
+                    file_form_id = f"{game_strings.clean_up(species_id)}-curly_mega"
+            elif species == "OGERPON" and form is not None:
+                if form.startswith("WELLSPRING_MASK"):
+                    file_form_id = f"{game_strings.clean_up(species_id)}-wellspring"
+                elif form.startswith("CORNERSTONE_MASK"):
+                    file_form_id = f"{game_strings.clean_up(species_id)}-cornerstone"
+                elif form.startswith("HEARTHFLAME_MASK"):
+                    file_form_id = f"{game_strings.clean_up(species_id)}-hearthflame"
+            elif species == "MAUSHOLD":
+                if form is None:
+                    file_form_id = f"{game_strings.clean_up(species_id)}-four"
+
             if os.path.isfile(
                     os.path.join(sprite_dir, "party", f"{file_form_id}.gif")):
                 stats.sprites.party = f"pokelink-community:/pokemon_null/assets/pokemon/party/{file_form_id}.gif"
@@ -1947,7 +1975,36 @@ def generate():
                 print(
                     f"\tWARNING: Not able to find a normal sprite for {file_form_id}")
 
-            if os.path.isfile(
+            if ((species == "VICTREEBEL" and form == "MEGA")
+                    or (species == "DRAGONITE" and form == "MEGA")
+                    or (species == "CHIMECHO" and form == "MEGA")
+                    or (species == "ABSOL" and form == "MEGA_Z")
+                    or (species == "STARAPTOR" and form == "MEGA")
+                    or (species == "GARCHOMP" and form == "MEGA_Z")
+                    or (species == "LUCARIO" and form == "MEGA_Z")
+                    or (species == "FROSLASS" and form == "MEGA")
+                    or (species == "DARKRAI" and form == "MEGA")
+                    or (species == "SCOLIPEDE" and form == "MEGA")
+                    or (species == "ELEKTROSS" and form == "MEGA")
+                    or (species == "CHANDELURE" and form == "MEGA")
+                    or (species == "GOLURK" and form == "MEGA")
+                    or (species == "FLOETTE" and form == "ETERNAL_MEGA")
+                    or (species == "MEOWSTIC" and form == "MEGA")
+                    or (species == "DRAGALGE" and form == "MEGA")
+                    or (species == "HAWLUCHA" and form == "MEGA")
+                    or (species == "ZYGARDE" and form == "COMPLETE_MEGA")
+                    or (species == "CRABOMINABLE" and form == "MEGA")
+                    or (species == "GOLISOPOD" and form == "MEGA")
+                    or (species == "DRAMPA" and form == "MEGA")
+                    or (species == "MAGEARNA" and form == "MEGA")
+                    or (species == "ZERAORA" and form == "MEGA")
+                    or (species == "FALINKS" and form == "MEGA")
+                    or (species == "SCOVILLAIN" and form == "MEGA")
+                    or (species == "GLIMMORA" and form == "MEGA")
+                    or (species == "TATSUGIRI") and form is not None and form.__contains__("MEGA")):
+                    stats.sprites.shiny = stats.sprites.normal
+                    
+            elif os.path.isfile(
                     os.path.join(sprite_dir, "shiny", f"{file_form_id}.png")):
                 stats.sprites.shiny = f"pokelink-community:/pokemon_null/assets/pokemon/shiny/{file_form_id}.png"
             elif os.path.isfile(os.path.join(sprite_dir, "shiny",
@@ -1977,21 +2034,161 @@ def generate():
                     stats.formName = "pokemon.form." + game_strings.clean_up(
                         form)
                 else:
-                    split = form.split("_")
-                    first = True
-                    form_translation = ""
-                    for f in split:
-                        if first:
-                            first = False
-                            form_translation = f[0] + f[1:].lower()
-                            continue
+                    formFound = False
+                    if form == "ALOLAN":
+                        form = "ALOLA"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "GALARIAN":
+                        form = "GALAR"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "HISUIAN":
+                        form = "HISUI"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "PALDEAN" and species == "TAUROS":
+                        form = "PALDEA_COMBAT"
+                        stats.formName = "pokemon.form." + game_strings.clean_up(
+                            form)
+                        formFound = True
+                    elif form == "PALDEAN":
+                        form = "PALDEA"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("_CAP"):
+                        form = form.removesuffix("_CAP")
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("_CLOAK"):
+                        form = form.removesuffix("_CLOAK")
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("PH_D"):
+                        form = "PHD"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("_DRIVE"):
+                        form = form.removesuffix("_DRIVE")
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "EMARK":
+                        form = "!"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "QMARK":
+                        form = "?"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "ZEN_MODE":
+                        form = "ZEN"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "ZEN_MODE_GALARIAN":
+                        form = "GALAR_ZEN"
+                        stats.formName = "pokemon.form." + game_strings.clean_up(
+                            form)
+                        formFound = True
+                    elif form == "EAST_SEA":
+                        form = "EAST"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("_FLOWER"):
+                        form = form.removesuffix("_FLOWER")
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.startswith("CROWNED_"):
+                        form = "CROWNED"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "RAPID_STRIKE_STYLE":
+                        form = "RAPID_STRIKE"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("_PLUMAGE"):
+                        form = form.removesuffix("_PLUMAGE")
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form.endswith("_RIDER"):
+                        form = form.removesuffix("_RIDER")
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "ORIGINAL_COLOR":
+                        form = "ORIGINAL"
+                        if game_strings.has_form(form):
+                            stats.formName = "pokemon.form." + game_strings.clean_up(
+                                form)
+                            formFound = True
+                    elif form == "ORIGINAL_MEGA":
+                        stats.formName = "pokemon.form." + game_strings.clean_up(
+                            form)
+                        formFound = True
+                    elif form == "PALDEAN_BLAZE_BREED":
+                        form = "PALDEA_BLAZE"
+                        stats.formName = "pokemon.form." + game_strings.clean_up(
+                            form)
+                        formFound = True
+                    elif form == "PALDEAN_AQUA_BREED":
+                        form = "PALDEA_AQUA"
+                        stats.formName = "pokemon.form." + game_strings.clean_up(
+                            form)
+                        formFound = True
+                    elif form == "BATTLE_BOND":
+                        form = "ACTIVE"
+                        stats.formName = "pokemon.form." + game_strings.clean_up(
+                            form)
+                        formFound = True
 
-                        form_translation += " " + f[0] + f[1:].lower()
+                    if not formFound:
+                        split = form.split("_")
+                        first = True
+                        form_translation = ""
+                        for f in split:
+                            if first:
+                                first = False
+                                form_translation = f[0] + f[1:].lower()
+                                continue
 
-                    translations.add_translation(
-                        f"Null.Form.{game_strings.clean_up(form_translation)}",
-                        form_translation)
-                    stats.formName = f"Null.Form.{game_strings.clean_up(form_translation)}"
+                            form_translation += " " + f[0] + f[1:].lower()
+
+                        translations.add_translation(
+                            f"Null.Form.{game_strings.clean_up(form_translation)}",
+                            form_translation)
+                        stats.formName = f"Null.Form.{game_strings.clean_up(form_translation)}"
 
             if first_form_key != form_id:
                 stats.form = forms[form_id]

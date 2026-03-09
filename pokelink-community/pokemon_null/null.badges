@@ -1,0 +1,13 @@
+{
+    "badges": {
+        "stone": "pokelink:/assets/badges/hoenn/stone.png",
+        "knuckle": "pokelink:/assets/badges/hoenn/knuckle.png",
+        "dynamo": "pokelink:/assets/badges/hoenn/dynamo.png",
+        "balance": "pokelink:/assets/badges/hoenn/balance.png",
+        "heat": "pokelink:/assets/badges/hoenn/heat.png",
+        "feather": "pokelink:/assets/badges/hoenn/feather.png",
+        "mind": "pokelink:/assets/badges/hoenn/mind.png",
+        "adamantite": "pokelink-community:/pokemon_null/assets/adamantite.png"
+    },
+    "badgeTranslationPrefix": "Null.Badge"
+}
