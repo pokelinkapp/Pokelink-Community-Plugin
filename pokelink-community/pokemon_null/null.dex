@@ -34783,6 +34783,21 @@
         "spDef": 55,
         "spd": 51
       },
+      "baseFriendship": 70,
+      "evYield": {
+        "def": 1
+      },
+      "abilities": [
+        "pokemon.ability.insomnia",
+        "pokemon.ability.insomnia",
+        "pokemon.ability.insomnia"
+      ],
+      "genderRatio": 127,
+      "catchRate": 200,
+      "types": [
+        "pokemon.types.ghost",
+        "pokemon.types.grass"
+      ],
       "forms": [
         {
           "name": "pokemon.species.pumpkaboo",
@@ -34801,7 +34816,22 @@
             "spAtk": 44,
             "spDef": 55,
             "spd": 56
-          }
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1
+          },
+          "abilities": [
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.types.ghost",
+            "pokemon.types.grass"
+          ]
         },
         {
           "name": "pokemon.species.pumpkaboo",
@@ -34820,7 +34850,22 @@
             "spAtk": 44,
             "spDef": 55,
             "spd": 46
-          }
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1
+          },
+          "abilities": [
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.types.ghost",
+            "pokemon.types.grass"
+          ]
         },
         {
           "name": "pokemon.species.pumpkaboo",
@@ -34839,7 +34884,22 @@
             "spAtk": 44,
             "spDef": 55,
             "spd": 41
-          }
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 1
+          },
+          "abilities": [
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.types.ghost",
+            "pokemon.types.grass"
+          ]
         }
       ]
     },
@@ -34860,6 +34920,21 @@
         "spDef": 75,
         "spd": 84
       },
+      "baseFriendship": 70,
+      "evYield": {
+        "def": 2
+      },
+      "abilities": [
+        "pokemon.ability.insomnia",
+        "pokemon.ability.insomnia",
+        "pokemon.ability.insomnia"
+      ],
+      "genderRatio": 127,
+      "catchRate": 200,
+      "types": [
+        "pokemon.types.ghost",
+        "pokemon.types.grass"
+      ],
       "forms": [
         {
           "name": "pokemon.species.gourgeist",
@@ -34878,7 +34953,22 @@
             "spAtk": 58,
             "spDef": 75,
             "spd": 99
-          }
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 2
+          },
+          "abilities": [
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.types.ghost",
+            "pokemon.types.grass"
+          ]
         },
         {
           "name": "pokemon.species.gourgeist",
@@ -34897,7 +34987,22 @@
             "spAtk": 58,
             "spDef": 75,
             "spd": 69
-          }
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 2
+          },
+          "abilities": [
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.types.ghost",
+            "pokemon.types.grass"
+          ]
         },
         {
           "name": "pokemon.species.gourgeist",
@@ -34916,7 +35021,22 @@
             "spAtk": 58,
             "spDef": 75,
             "spd": 54
-          }
+          },
+          "baseFriendship": 70,
+          "evYield": {
+            "def": 2
+          },
+          "abilities": [
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia",
+            "pokemon.ability.insomnia"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.types.ghost",
+            "pokemon.types.grass"
+          ]
         }
       ]
     },

@@ -23085,11 +23085,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,
@@ -23098,11 +23098,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 0,
@@ -23111,11 +23111,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 1,
@@ -23124,11 +23124,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 1,
@@ -23137,11 +23137,11 @@
         {
           "to": 413,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 2,
@@ -23150,11 +23150,11 @@
         {
           "to": 414,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 2,
@@ -23415,11 +23415,11 @@
         {
           "to": 416,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 21
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,
@@ -38058,11 +38058,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 0,
@@ -38071,11 +38071,11 @@
         {
           "to": 678,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,
@@ -42347,11 +42347,11 @@
         {
           "to": 758,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 33
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,
@@ -48797,11 +48797,11 @@
         {
           "to": 869,
           "conditions": {
-            "EmeraldRogue.Evolve.hasNature": {
-              "string": "pokemon.nature.adamant"
-            },
             "pokemon.evolve.level": {
               "number": 30
+            },
+            "EmeraldRogue.Evolve.hasNature": {
+              "string": "pokemon.nature.adamant"
             }
           },
           "fromForm": 0,
@@ -48810,11 +48810,11 @@
         {
           "to": 869,
           "conditions": {
-            "EmeraldRogue.Evolve.hasNature": {
-              "string": "pokemon.nature.lax"
-            },
             "pokemon.evolve.level": {
               "number": 30
+            },
+            "EmeraldRogue.Evolve.hasNature": {
+              "string": "pokemon.nature.lax"
             }
           },
           "fromForm": 0,
@@ -48823,11 +48823,11 @@
         {
           "to": 869,
           "conditions": {
-            "EmeraldRogue.Evolve.hasNature": {
-              "string": "pokemon.nature.modest"
-            },
             "pokemon.evolve.level": {
               "number": 30
+            },
+            "EmeraldRogue.Evolve.hasNature": {
+              "string": "pokemon.nature.modest"
             }
           },
           "fromForm": 0,
@@ -48836,11 +48836,11 @@
         {
           "to": 869,
           "conditions": {
-            "EmeraldRogue.Evolve.hasNature": {
-              "string": "pokemon.nature.gentle"
-            },
             "pokemon.evolve.level": {
               "number": 30
+            },
+            "EmeraldRogue.Evolve.hasNature": {
+              "string": "pokemon.nature.gentle"
             }
           },
           "fromForm": 0,
@@ -48849,11 +48849,11 @@
         {
           "to": 869,
           "conditions": {
-            "EmeraldRogue.Evolve.hasNature": {
-              "string": "pokemon.nature.timid"
-            },
             "pokemon.evolve.level": {
               "number": 30
+            },
+            "EmeraldRogue.Evolve.hasNature": {
+              "string": "pokemon.nature.timid"
             }
           },
           "fromForm": 0,
@@ -48862,11 +48862,11 @@
         {
           "to": 869,
           "conditions": {
-            "EmeraldRogue.Evolve.hasNature": {
-              "string": "pokemon.nature.jolly"
-            },
             "pokemon.evolve.level": {
               "number": 30
+            },
+            "EmeraldRogue.Evolve.hasNature": {
+              "string": "pokemon.nature.jolly"
             }
           },
           "fromForm": 0,
@@ -53426,11 +53426,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.level": {
               "number": 18
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 0,
@@ -53439,11 +53439,11 @@
         {
           "to": 916,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.level": {
               "number": 18
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,

@@ -176,7 +176,32 @@ def process_species_stats():
 
         if line.startswith("}"):
             reading = False
-            _stats[current_name] = current_pokemon
+            
+            if current_name is not None:
+                if current_name.startswith("PUMPKABOO"):
+                    current_pokemon.types.append("pokemon.types.ghost")
+                    current_pokemon.types.append("pokemon.types.grass")
+                    current_pokemon.catchRate = 200
+                    current_pokemon.evYield.defense = 1
+                    current_pokemon.genderRatio = poke_math.PERCENT_FEMALE(50)
+                    current_pokemon.baseFriendship = 70
+                    current_pokemon.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
+                    current_pokemon.abilities.append("pokemon.ability.insomnia")
+                    current_pokemon.abilities.append("pokemon.ability.insomnia")
+                    current_pokemon.abilities.append("pokemon.ability.insomnia")
+                elif current_name.startswith("GOURGEIST"):
+                    current_pokemon.types.append("pokemon.types.ghost")
+                    current_pokemon.types.append("pokemon.types.grass")
+                    current_pokemon.catchRate = 200
+                    current_pokemon.evYield.defense = 2
+                    current_pokemon.genderRatio = poke_math.PERCENT_FEMALE(50)
+                    current_pokemon.baseFriendship = 70
+                    current_pokemon.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
+                    current_pokemon.abilities.append("pokemon.ability.insomnia")
+                    current_pokemon.abilities.append("pokemon.ability.insomnia")
+                    current_pokemon.abilities.append("pokemon.ability.insomnia")
+            
+                _stats[current_name] = current_pokemon
             continue
 
         if not line.startswith("[SPECIES_"):
@@ -621,8 +646,12 @@ def process_species_stats():
     ]:
         form_stat = pb_pokedex.Species()
         form_stat.CopyFrom(silvally_stat)
-        form_stat.types.append("pokemon.type." + p_type.lower())
-        _stats["SILVALLY_" + p_type] = form_stat
+        if p_type == "NORMAL":
+            form_stat.types.append("pokemon.type." + p_type.lower())
+            _stats["SILVALLY_" + p_type] = form_stat
+        else:
+            form_stat.types.append("pokemon.type." + p_type.lower())
+            _stats["SILVALLY_" + p_type] = form_stat
 
     minior_m_stat = pb_pokedex.Species()
     minior_m_stat.baseStats.hp = 60
