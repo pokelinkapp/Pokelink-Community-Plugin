@@ -13160,11 +13160,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.rarity": {
-                  "string": "rarity.randomPersonality"
-                },
                 "pokemon.evolve.knowMove": {
                   "string": "pokemon.move.hyper_drill"
+                },
+                "pokemon.evolve.rarity": {
+                  "string": "rarity.randomPersonality"
                 }
               }
             }
@@ -14722,11 +14722,11 @@
         {
           "to": 107,
           "conditions": {
-            "pokemon.evolve.stat": {
-              "string": "stat.attack<defense"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.stat": {
+              "string": "stat.attack<defense"
             }
           },
           "fromForm": 0,
@@ -14735,11 +14735,11 @@
         {
           "to": 106,
           "conditions": {
-            "pokemon.evolve.stat": {
-              "string": "stat.attack>defense"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.stat": {
+              "string": "stat.attack>defense"
             }
           },
           "fromForm": 0,
@@ -14748,11 +14748,11 @@
         {
           "to": 237,
           "conditions": {
-            "pokemon.evolve.stat": {
-              "string": "stat.attack=defense"
-            },
             "pokemon.evolve.level": {
               "number": 20
+            },
+            "pokemon.evolve.stat": {
+              "string": "stat.attack=defense"
             }
           },
           "fromForm": 0,
@@ -16168,11 +16168,11 @@
         {
           "to": 266,
           "conditions": {
-            "pokemon.evolve.rarity": {
-              "string": "rarity.randomPersonality"
-            },
             "pokemon.evolve.level": {
               "number": 7
+            },
+            "pokemon.evolve.rarity": {
+              "string": "rarity.randomPersonality"
             }
           },
           "fromForm": 0,
@@ -16181,11 +16181,11 @@
         {
           "to": 268,
           "conditions": {
-            "pokemon.evolve.rarity": {
-              "string": "rarity.randomPersonality"
-            },
             "pokemon.evolve.level": {
               "number": 7
+            },
+            "pokemon.evolve.rarity": {
+              "string": "rarity.randomPersonality"
             }
           },
           "fromForm": 0,
@@ -40979,18 +40979,18 @@
             "pokemon.evolve.level": {
               "number": 50
             },
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.weather": {
-                  "string": "EmeraldImperium.Weather.fog"
-                },
-                "pokemon.evolve.level": {
-                  "number": 50
-                }
-              }
-            },
             "pokemon.evolve.weather": {
               "string": "weather.raining"
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.level": {
+                  "number": 50
+                },
+                "pokemon.evolve.weather": {
+                  "string": "EmeraldImperium.Weather.fog"
+                }
+              }
             }
           },
           "fromForm": 0,
@@ -41002,18 +41002,18 @@
             "pokemon.evolve.level": {
               "number": 50
             },
-            "pokemon.evolve.or": {
-              "nested": {
-                "pokemon.evolve.weather": {
-                  "string": "EmeraldImperium.Weather.fog"
-                },
-                "pokemon.evolve.level": {
-                  "number": 50
-                }
-              }
-            },
             "pokemon.evolve.weather": {
               "string": "weather.raining"
+            },
+            "pokemon.evolve.or": {
+              "nested": {
+                "pokemon.evolve.level": {
+                  "number": 50
+                },
+                "pokemon.evolve.weather": {
+                  "string": "EmeraldImperium.Weather.fog"
+                }
+              }
             }
           },
           "fromForm": 1,
@@ -43533,11 +43533,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.time": {
-              "string": "timeOfDay.dusk"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.dusk"
             }
           },
           "fromForm": 0,
@@ -43546,11 +43546,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.time": {
-              "string": "timeOfDay.dusk"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.dusk"
             }
           },
           "fromForm": 1,
@@ -49758,6 +49758,9 @@
         {
           "to": 849,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 30
+            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.brave",
@@ -49773,9 +49776,6 @@
                 "pokemon.nature.sassy",
                 "pokemon.nature.quirky"
               ]
-            },
-            "pokemon.evolve.level": {
-              "number": 30
             }
           },
           "fromForm": 0,
@@ -49784,6 +49784,9 @@
         {
           "to": 849,
           "conditions": {
+            "pokemon.evolve.level": {
+              "number": 30
+            },
             "pokemon.evolve.nature": {
               "stringArray": [
                 "pokemon.nature.lonely",
@@ -49799,9 +49802,6 @@
                 "pokemon.nature.gentle",
                 "pokemon.nature.careful"
               ]
-            },
-            "pokemon.evolve.level": {
-              "number": 30
             }
           },
           "fromForm": 0,
@@ -55931,11 +55931,11 @@
         {
           "to": 925,
           "conditions": {
-            "pokemon.evolve.rarity": {
-              "string": "rarity.rare"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.rarity": {
+              "string": "rarity.rare"
             }
           },
           "fromForm": 0,

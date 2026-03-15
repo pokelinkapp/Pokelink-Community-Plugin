@@ -648,7 +648,7 @@ def process_species_stats():
         form_stat.CopyFrom(silvally_stat)
         if p_type == "NORMAL":
             form_stat.types.append("pokemon.type." + p_type.lower())
-            _stats["SILVALLY_" + p_type] = form_stat
+            _stats["SILVALLY"] = form_stat
         else:
             form_stat.types.append("pokemon.type." + p_type.lower())
             _stats["SILVALLY_" + p_type] = form_stat

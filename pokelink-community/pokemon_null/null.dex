@@ -37833,6 +37833,9 @@
       "hatchCycles": 120,
       "genderRatio": 255,
       "catchRate": 3,
+      "types": [
+        "pokemon.type.normal"
+      ],
       "growthRate": 5,
       "forms": [
         {
