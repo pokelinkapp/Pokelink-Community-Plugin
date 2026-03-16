@@ -1559,8 +1559,8 @@ def process_species_stats():
     squawkabilly_stats.baseStats.speed = 92
     squawkabilly_stats.baseStats.specialAttack = 45
     squawkabilly_stats.baseStats.specialDefense = 51
-    sinistcha_stats.types.append("pokemon.type.normal")
-    sinistcha_stats.types.append("pokemon.type.flying")
+    squawkabilly_stats.types.append("pokemon.type.normal")
+    squawkabilly_stats.types.append("pokemon.type.flying")
     squawkabilly_stats.catchRate = 200
     squawkabilly_stats.evYield.attack = 1
     squawkabilly_stats.genderRatio = poke_math.PERCENT_FEMALE(50)
@@ -1575,8 +1575,8 @@ def process_species_stats():
     squawkabilly_stats.baseStats.speed = 92
     squawkabilly_stats.baseStats.specialAttack = 45
     squawkabilly_stats.baseStats.specialDefense = 51
-    sinistcha_stats.types.append("pokemon.type.normal")
-    sinistcha_stats.types.append("pokemon.type.flying")
+    squawkabilly_stats.types.append("pokemon.type.normal")
+    squawkabilly_stats.types.append("pokemon.type.flying")
     squawkabilly_stats.catchRate = 200
     squawkabilly_stats.evYield.attack = 1
     squawkabilly_stats.genderRatio = poke_math.PERCENT_FEMALE(50)
@@ -1591,8 +1591,8 @@ def process_species_stats():
     squawkabilly_stats.baseStats.speed = 92
     squawkabilly_stats.baseStats.specialAttack = 45
     squawkabilly_stats.baseStats.specialDefense = 51
-    sinistcha_stats.types.append("pokemon.type.normal")
-    sinistcha_stats.types.append("pokemon.type.flying")
+    squawkabilly_stats.types.append("pokemon.type.normal")
+    squawkabilly_stats.types.append("pokemon.type.flying")
     squawkabilly_stats.catchRate = 200
     squawkabilly_stats.evYield.attack = 1
     squawkabilly_stats.genderRatio = poke_math.PERCENT_FEMALE(50)
@@ -1607,8 +1607,8 @@ def process_species_stats():
     squawkabilly_stats.baseStats.speed = 92
     squawkabilly_stats.baseStats.specialAttack = 45
     squawkabilly_stats.baseStats.specialDefense = 51
-    sinistcha_stats.types.append("pokemon.type.normal")
-    sinistcha_stats.types.append("pokemon.type.flying")
+    squawkabilly_stats.types.append("pokemon.type.normal")
+    squawkabilly_stats.types.append("pokemon.type.flying")
     squawkabilly_stats.catchRate = 200
     squawkabilly_stats.evYield.attack = 1
     squawkabilly_stats.genderRatio = poke_math.PERCENT_FEMALE(50)

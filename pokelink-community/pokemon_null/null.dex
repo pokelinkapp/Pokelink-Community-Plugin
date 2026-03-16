@@ -45734,6 +45734,10 @@
       "hatchCycles": 15,
       "genderRatio": 127,
       "catchRate": 200,
+      "types": [
+        "pokemon.type.normal",
+        "pokemon.type.flying"
+      ],
       "growthRate": 1,
       "forms": [
         {
@@ -45766,6 +45770,10 @@
           "hatchCycles": 15,
           "genderRatio": 127,
           "catchRate": 200,
+          "types": [
+            "pokemon.type.normal",
+            "pokemon.type.flying"
+          ],
           "growthRate": 1
         },
         {
@@ -45798,6 +45806,10 @@
           "hatchCycles": 15,
           "genderRatio": 127,
           "catchRate": 200,
+          "types": [
+            "pokemon.type.normal",
+            "pokemon.type.flying"
+          ],
           "growthRate": 1
         },
         {
@@ -45830,6 +45842,10 @@
           "hatchCycles": 15,
           "genderRatio": 127,
           "catchRate": 200,
+          "types": [
+            "pokemon.type.normal",
+            "pokemon.type.flying"
+          ],
           "growthRate": 1
         }
       ]
@@ -49003,15 +49019,7 @@
       "catchRate": 60,
       "types": [
         "pokemon.type.grass",
-        "pokemon.type.ghost",
-        "pokemon.type.normal",
-        "pokemon.type.flying",
-        "pokemon.type.normal",
-        "pokemon.type.flying",
-        "pokemon.type.normal",
-        "pokemon.type.flying",
-        "pokemon.type.normal",
-        "pokemon.type.flying"
+        "pokemon.type.ghost"
       ]
     },
     {
