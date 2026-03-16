@@ -9285,11 +9285,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.day"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -9302,11 +9302,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.night"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -9369,11 +9369,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.knowMoveType": {
                   "string": "pokemon.type.fairy"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -18494,11 +18494,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -22666,11 +22666,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -25177,11 +25177,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.day"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -26783,11 +26783,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.night"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -40701,11 +40701,11 @@
         {
           "to": 675,
           "conditions": {
-            "pokemon.evolve.typedPokemonPresentInParty": {
-              "string": "pokemon.type.dark"
-            },
             "pokemon.evolve.level": {
               "number": 32
+            },
+            "pokemon.evolve.typedPokemonPresentInParty": {
+              "string": "pokemon.type.dark"
             }
           },
           "fromForm": 0,
@@ -52670,11 +52670,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.night"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }

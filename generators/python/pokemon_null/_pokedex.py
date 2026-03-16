@@ -216,6 +216,14 @@ def process_species_stats():
                     current_pokemon.genderRatio = poke_math.PERCENT_FEMALE(50)
                     current_pokemon.growthRate = _growth_indexes["GROWTH_SLOW"]
                     current_pokemon.abilities.append("pokemon.ability.zero_to_hero")
+                elif current_name.startswith("GIMMIGHOUL"):
+                    current_pokemon.types.append("pokemon.type.ghost")
+                    current_pokemon.catchRate = 200
+                    current_pokemon.evYield.specialAttack = 1
+                    current_pokemon.genderRatio = 255
+                    current_pokemon.hatchCycles = 50
+                    current_pokemon.baseFriendship = 50
+                    current_pokemon.growthRate = _growth_indexes["GROWTH_SLOW"]
             
                 _stats[current_name] = current_pokemon
             continue

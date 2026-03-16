@@ -48537,10 +48537,21 @@
         "spDef": 70,
         "spd": 10
       },
+      "baseFriendship": 50,
+      "evYield": {
+        "spAtk": 1
+      },
       "abilities": [
         "pokemon.ability.rattled",
         ""
       ],
+      "hatchCycles": 50,
+      "genderRatio": 255,
+      "catchRate": 200,
+      "types": [
+        "pokemon.type.ghost"
+      ],
+      "growthRate": 5,
       "forms": [
         {
           "name": "pokemon.species.gimmighoul",
@@ -48560,10 +48571,21 @@
             "spDef": 45,
             "spd": 80
           },
+          "baseFriendship": 50,
+          "evYield": {
+            "spAtk": 1
+          },
           "abilities": [
             "pokemon.ability.run_away",
             ""
-          ]
+          ],
+          "hatchCycles": 50,
+          "genderRatio": 255,
+          "catchRate": 200,
+          "types": [
+            "pokemon.type.ghost"
+          ],
+          "growthRate": 5
         }
       ]
     },

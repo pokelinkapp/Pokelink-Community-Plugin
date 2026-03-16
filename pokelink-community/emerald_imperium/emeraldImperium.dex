@@ -7120,9 +7120,6 @@
         {
           "to": 463,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 35
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.levelUp": {
@@ -7133,6 +7130,9 @@
                   }
                 }
               }
+            },
+            "pokemon.evolve.level": {
+              "number": 35
             }
           },
           "fromForm": 0,
@@ -8628,11 +8628,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.day"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -8645,11 +8645,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.night"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -8682,11 +8682,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.knowMoveType": {
                   "string": "pokemon.type.fairy"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -14031,9 +14031,6 @@
         {
           "to": 473,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 45
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.levelUp": {
@@ -14044,6 +14041,9 @@
                   }
                 }
               }
+            },
+            "pokemon.evolve.level": {
+              "number": 45
             }
           },
           "fromForm": 0,
@@ -16875,11 +16875,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -20008,15 +20008,15 @@
           "conditions": {
             "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.prism_scale"
-                },
                 "pokemon.evolve.trade": {
                   "nested": {
                     "pokemon.evolve.holdItem": {
                       "string": "pokemon.item.prism_scale"
                     }
                   }
+                },
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.prism_scale"
                 }
               }
             },
@@ -20696,11 +20696,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -23117,11 +23117,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.day"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -24671,11 +24671,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.night"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -39334,11 +39334,11 @@
         {
           "to": 675,
           "conditions": {
-            "pokemon.evolve.typedPokemonPresentInParty": {
-              "string": "pokemon.type.dark"
-            },
             "pokemon.evolve.level": {
               "number": 32
+            },
+            "pokemon.evolve.typedPokemonPresentInParty": {
+              "string": "pokemon.type.dark"
             }
           },
           "fromForm": 0,
@@ -40976,9 +40976,6 @@
         {
           "to": 706,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 50
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
@@ -40988,6 +40985,9 @@
                   "string": "EmeraldImperium.Weather.fog"
                 }
               }
+            },
+            "pokemon.evolve.level": {
+              "number": 50
             },
             "pokemon.evolve.weather": {
               "string": "weather.raining"
@@ -40999,9 +40999,6 @@
         {
           "to": 706,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 50
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
@@ -41011,6 +41008,9 @@
                   "string": "EmeraldImperium.Weather.fog"
                 }
               }
+            },
+            "pokemon.evolve.level": {
+              "number": 50
             },
             "pokemon.evolve.weather": {
               "string": "weather.raining"
@@ -53232,11 +53232,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.time": {
                   "string": "timeOfDay.night"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -53823,15 +53823,15 @@
         {
           "to": 1018,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.metal_alloy"
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
                   "number": 50
                 }
               }
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.metal_alloy"
             }
           },
           "fromForm": 0,
