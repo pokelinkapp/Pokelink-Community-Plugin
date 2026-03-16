@@ -215,7 +215,7 @@ def process_species_stats():
                     current_pokemon.evYield.hp = 2
                     current_pokemon.genderRatio = poke_math.PERCENT_FEMALE(50)
                     current_pokemon.growthRate = _growth_indexes["GROWTH_SLOW"]
-                    current_pokemon.abilities.append("pokemon.ability.hero_to_zero")
+                    current_pokemon.abilities.append("pokemon.ability.zero_to_hero")
             
                 _stats[current_name] = current_pokemon
             continue

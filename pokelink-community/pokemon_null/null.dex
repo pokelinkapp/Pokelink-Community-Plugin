@@ -47016,7 +47016,7 @@
         "hp": 2
       },
       "abilities": [
-        "pokemon.ability.hero_to_zero"
+        "pokemon.ability.zero_to_hero"
       ],
       "genderRatio": 127,
       "catchRate": 200,
@@ -47046,7 +47046,7 @@
             "hp": 2
           },
           "abilities": [
-            "pokemon.ability.hero_to_zero"
+            "pokemon.ability.zero_to_hero"
           ],
           "genderRatio": 127,
           "catchRate": 200,
