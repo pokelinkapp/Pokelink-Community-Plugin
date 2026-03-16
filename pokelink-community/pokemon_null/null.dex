@@ -47005,11 +47005,25 @@
       },
       "gameId": 964,
       "baseStats": {
+        "hp": 100,
         "atk": 70,
         "def": 72,
         "spAtk": 53,
-        "spDef": 62
+        "spDef": 62,
+        "spd": 100
       },
+      "evYield": {
+        "hp": 2
+      },
+      "abilities": [
+        "pokemon.ability.hero_to_zero"
+      ],
+      "genderRatio": 127,
+      "catchRate": 200,
+      "types": [
+        "pokemon.type.water"
+      ],
+      "growthRate": 5,
       "forms": [
         {
           "name": "pokemon.species.palafin",
@@ -47021,11 +47035,25 @@
           "gameId": 1362,
           "form": 1,
           "baseStats": {
+            "hp": 100,
             "atk": 160,
             "def": 97,
             "spAtk": 106,
-            "spDef": 100
-          }
+            "spDef": 100,
+            "spd": 100
+          },
+          "evYield": {
+            "hp": 2
+          },
+          "abilities": [
+            "pokemon.ability.hero_to_zero"
+          ],
+          "genderRatio": 127,
+          "catchRate": 200,
+          "types": [
+            "pokemon.type.water"
+          ],
+          "growthRate": 5
         }
       ]
     },

@@ -13160,11 +13160,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.knowMove": {
-                  "string": "pokemon.move.hyper_drill"
-                },
                 "pokemon.evolve.rarity": {
                   "string": "rarity.randomPersonality"
+                },
+                "pokemon.evolve.knowMove": {
+                  "string": "pokemon.move.hyper_drill"
                 }
               }
             }
@@ -14722,11 +14722,11 @@
         {
           "to": 107,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.stat": {
               "string": "stat.attack<defense"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -14735,11 +14735,11 @@
         {
           "to": 106,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.stat": {
               "string": "stat.attack>defense"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -14748,11 +14748,11 @@
         {
           "to": 237,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.stat": {
               "string": "stat.attack=defense"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -17320,15 +17320,15 @@
         {
           "to": 292,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.emptySlot": {
               "nested": {
                 "pokemon.evolve.hasItem": {
                   "string": "pokemon.ball.poke_ball"
                 }
               }
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -39334,11 +39334,11 @@
         {
           "to": 675,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 32
-            },
             "pokemon.evolve.typedPokemonPresentInParty": {
               "string": "pokemon.type.dark"
+            },
+            "pokemon.evolve.level": {
+              "number": 32
             }
           },
           "fromForm": 0,
@@ -40981,11 +40981,11 @@
             },
             "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.weather": {
-                  "string": "EmeraldImperium.Weather.fog"
-                },
                 "pokemon.evolve.level": {
                   "number": 50
+                },
+                "pokemon.evolve.weather": {
+                  "string": "EmeraldImperium.Weather.fog"
                 }
               }
             },
@@ -41004,11 +41004,11 @@
             },
             "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.weather": {
-                  "string": "EmeraldImperium.Weather.fog"
-                },
                 "pokemon.evolve.level": {
                   "number": 50
+                },
+                "pokemon.evolve.weather": {
+                  "string": "EmeraldImperium.Weather.fog"
                 }
               }
             },
@@ -43533,11 +43533,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.time": {
-              "string": "timeOfDay.dusk"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.dusk"
             }
           },
           "fromForm": 0,
@@ -43546,11 +43546,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.time": {
-              "string": "timeOfDay.dusk"
-            },
             "pokemon.evolve.level": {
               "number": 25
+            },
+            "pokemon.evolve.time": {
+              "string": "timeOfDay.dusk"
             }
           },
           "fromForm": 1,
@@ -53823,15 +53823,15 @@
         {
           "to": 1018,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.metal_alloy"
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
                   "number": 50
                 }
               }
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.metal_alloy"
             }
           },
           "fromForm": 0,

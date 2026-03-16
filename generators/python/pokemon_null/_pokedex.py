@@ -207,6 +207,15 @@ def process_species_stats():
                     current_pokemon.hatchCycles = 15
                     current_pokemon.baseFriendship = 50
                     current_pokemon.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
+                elif current_name.startswith("PALAFIN"):
+                    current_pokemon.baseStats.hp = 100
+                    current_pokemon.baseStats.speed = 100
+                    current_pokemon.types.append("pokemon.type.water")
+                    current_pokemon.catchRate = 200
+                    current_pokemon.evYield.hp = 2
+                    current_pokemon.genderRatio = poke_math.PERCENT_FEMALE(50)
+                    current_pokemon.growthRate = _growth_indexes["GROWTH_SLOW"]
+                    current_pokemon.abilities.append("pokemon.ability.hero_to_zero")
             
                 _stats[current_name] = current_pokemon
             continue
