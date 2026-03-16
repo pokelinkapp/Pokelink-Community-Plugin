@@ -45132,12 +45132,21 @@
         "spDef": 80,
         "spd": 65
       },
+      "baseFriendship": 50,
+      "evYield": {
+        "hp": 2
+      },
       "abilities": [
         "pokemon.ability.thick_fat",
         "pokemon.ability.gluttony",
         "pokemon.ability.lingering_aroma"
       ],
+      "hatchCycles": 15,
       "genderRatio": 0,
+      "catchRate": 200,
+      "types": [
+        "pokemon.type.normal"
+      ],
       "forms": [
         {
           "name": "pokemon.species.oinkologne",
@@ -45157,12 +45166,21 @@
             "spDef": 90,
             "spd": 65
           },
+          "baseFriendship": 50,
+          "evYield": {
+            "hp": 2
+          },
           "abilities": [
             "pokemon.ability.aroma_veil",
             "pokemon.ability.gluttony",
             "pokemon.ability.thick_fat"
           ],
-          "genderRatio": 254
+          "hatchCycles": 15,
+          "genderRatio": 254,
+          "catchRate": 200,
+          "types": [
+            "pokemon.type.normal"
+          ]
         }
       ]
     },

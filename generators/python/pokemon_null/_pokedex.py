@@ -200,6 +200,13 @@ def process_species_stats():
                     current_pokemon.abilities.append("pokemon.ability.insomnia")
                     current_pokemon.abilities.append("pokemon.ability.insomnia")
                     current_pokemon.abilities.append("pokemon.ability.insomnia")
+                elif current_name.startswith("OINKOLOGNE"):
+                    current_pokemon.types.append("pokemon.type.normal")
+                    current_pokemon.catchRate = 200
+                    current_pokemon.evYield.hp = 2
+                    current_pokemon.hatchCycles = 15
+                    current_pokemon.baseFriendship = 50
+                    current_pokemon.growthRate = _growth_indexes["GROWTH_MEDIUM_FAST"]
             
                 _stats[current_name] = current_pokemon
             continue

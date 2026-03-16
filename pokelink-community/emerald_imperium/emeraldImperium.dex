@@ -8682,11 +8682,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.friendship": {
-                  "string": "friendship.high"
-                },
                 "pokemon.evolve.knowMoveType": {
                   "string": "pokemon.type.fairy"
+                },
+                "pokemon.evolve.friendship": {
+                  "string": "friendship.high"
                 }
               }
             }
@@ -13160,11 +13160,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.knowMove": {
-                  "string": "pokemon.move.hyper_drill"
-                },
                 "pokemon.evolve.rarity": {
                   "string": "rarity.randomPersonality"
+                },
+                "pokemon.evolve.knowMove": {
+                  "string": "pokemon.move.hyper_drill"
                 }
               }
             }
@@ -16875,11 +16875,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.male"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -20015,15 +20015,15 @@
             },
             "pokemon.evolve.or": {
               "nested": {
-                "pokemon.evolve.useItem": {
-                  "string": "pokemon.item.prism_scale"
-                },
                 "pokemon.evolve.trade": {
                   "nested": {
                     "pokemon.evolve.holdItem": {
                       "string": "pokemon.item.prism_scale"
                     }
                   }
+                },
+                "pokemon.evolve.useItem": {
+                  "string": "pokemon.item.prism_scale"
                 }
               }
             }
@@ -20696,11 +20696,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.useItem": {
-              "string": "pokemon.item.dawn_stone"
-            },
             "pokemon.evolve.gender": {
               "string": "Gender.female"
+            },
+            "pokemon.evolve.useItem": {
+              "string": "pokemon.item.dawn_stone"
             }
           },
           "fromForm": 0,
@@ -40979,9 +40979,6 @@
             "pokemon.evolve.level": {
               "number": 50
             },
-            "pokemon.evolve.weather": {
-              "string": "weather.raining"
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
@@ -40991,6 +40988,9 @@
                   "string": "EmeraldImperium.Weather.fog"
                 }
               }
+            },
+            "pokemon.evolve.weather": {
+              "string": "weather.raining"
             }
           },
           "fromForm": 0,
@@ -41002,9 +41002,6 @@
             "pokemon.evolve.level": {
               "number": 50
             },
-            "pokemon.evolve.weather": {
-              "string": "weather.raining"
-            },
             "pokemon.evolve.or": {
               "nested": {
                 "pokemon.evolve.level": {
@@ -41014,6 +41011,9 @@
                   "string": "EmeraldImperium.Weather.fog"
                 }
               }
+            },
+            "pokemon.evolve.weather": {
+              "string": "weather.raining"
             }
           },
           "fromForm": 1,
