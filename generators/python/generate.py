@@ -1,4 +1,7 @@
+import os.path
+
 import emerald_rogue
+import pokelink.directories
 import runAndBun
 import emerald_imperium
 import radical_red
@@ -14,5 +17,6 @@ print()
 radical_red.generate()
 print()
 emerald_rogue.generate()
-print()
-pokemon_null.generate()
+if os.path.isdir(os.path.join(pokelink.directories.get_external_dir("private"), "pokemon_null")):
+    print()
+    pokemon_null.generate()
