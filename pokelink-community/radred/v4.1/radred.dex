@@ -9369,11 +9369,11 @@
           "conditions": {
             "pokemon.evolve.levelUp": {
               "nested": {
-                "pokemon.evolve.knowMoveType": {
-                  "string": "pokemon.type.fairy"
-                },
                 "pokemon.evolve.friendship": {
                   "string": "friendship.high"
+                },
+                "pokemon.evolve.knowMoveType": {
+                  "string": "pokemon.type.fairy"
                 }
               }
             }
@@ -48762,7 +48762,7 @@
         "normal": "pokelink-community:/radred/assets/sprites/normal/801.png",
         "shiny": "pokelink-community:/radred/assets/sprites/normal/801.png"
       },
-      "gameId": 1073,
+      "gameId": 1018,
       "baseStats": {
         "hp": 80,
         "atk": 95,
