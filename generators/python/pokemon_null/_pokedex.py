@@ -224,6 +224,12 @@ def process_species_stats():
                     current_pokemon.hatchCycles = 50
                     current_pokemon.baseFriendship = 50
                     current_pokemon.growthRate = _growth_indexes["GROWTH_SLOW"]
+                elif current_name.startswith("TAUROS"):
+                    current_pokemon.catchRate = 200
+                    current_pokemon.genderRatio = 0
+                    current_pokemon.hatchCycles = 20
+                    current_pokemon.baseFriendship = 70
+                    current_pokemon.growthRate = _growth_indexes["GROWTH_SLOW"]
             
                 _stats[current_name] = current_pokemon
             continue
@@ -252,8 +258,9 @@ def process_species_stats():
                         "},").split(", ")
 
                     for type in types:
-                        current_pokemon.types.append(
-                            f"pokemon.type.{type.lower().removeprefix("type_").strip()}")
+                        entry = f"pokemon.type.{type.lower().removeprefix("type_").strip()}"
+                        if not any(t == entry for t in current_pokemon.types):
+                            current_pokemon.types.append(entry)
             elif line.startswith(".catchRate"):
                 current_pokemon.catchRate = get_pokemon_number(line)
             elif line.startswith(".evYield_HP"):
@@ -298,7 +305,7 @@ def process_species_stats():
                 key = line.split(" ")[-1].removesuffix(",")
                 if not _growth_indexes.__contains__(key):
                     print(
-                        f"ERROR Unable to read {current_name}'s growth rate. Recieved value: {key}")
+                        f"ERROR Unable to read {current_name}'s growth rate. Received value: {key}")
                     exit(2)
 
                 current_pokemon.growthRate = _growth_indexes[key]
