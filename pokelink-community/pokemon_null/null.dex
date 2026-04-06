@@ -176,7 +176,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -212,7 +211,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -355,7 +353,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -391,7 +388,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -426,7 +422,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3,
@@ -461,7 +456,6 @@
           "genderRatio": 31,
           "catchRate": 60,
           "types": [
-            "pokemon.type.water",
             "pokemon.type.water"
           ],
           "growthRate": 3
@@ -498,7 +492,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -531,7 +524,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -881,7 +873,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -952,7 +943,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -1091,7 +1081,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ]
     },
@@ -1125,7 +1114,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ]
     },
@@ -1601,7 +1589,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.electric",
             "pokemon.type.electric"
           ]
         },
@@ -1671,7 +1658,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "forms": [
@@ -1739,7 +1725,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.electric",
             "pokemon.type.electric"
           ]
         },
@@ -1773,7 +1758,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.electric",
             "pokemon.type.electric"
           ]
         }
@@ -1809,7 +1793,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "forms": [
@@ -1880,7 +1863,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "forms": [
@@ -1951,7 +1933,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 3
@@ -1986,7 +1967,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 3
@@ -2056,7 +2036,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 3
@@ -2091,7 +2070,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 3
@@ -2161,7 +2139,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4
@@ -2196,7 +2173,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4,
@@ -2268,7 +2244,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "forms": [
@@ -2303,7 +2278,6 @@
           "genderRatio": 191,
           "catchRate": 200,
           "types": [
-            "pokemon.type.ice",
             "pokemon.type.ice"
           ]
         }
@@ -2340,7 +2314,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "forms": [
@@ -2793,7 +2766,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "forms": [
@@ -2864,7 +2836,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "forms": [
@@ -2935,7 +2906,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -2970,7 +2940,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.dark",
             "pokemon.type.dark"
           ]
         },
@@ -3005,7 +2974,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.steel",
             "pokemon.type.steel"
           ]
         }
@@ -3041,7 +3009,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -3076,7 +3043,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.dark",
             "pokemon.type.dark"
           ]
         }
@@ -3112,7 +3078,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -3146,7 +3111,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -3180,7 +3144,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -3214,7 +3177,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -3248,7 +3210,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 5,
@@ -3321,7 +3282,6 @@
       "genderRatio": 63,
       "catchRate": 60,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 5,
@@ -3394,7 +3354,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -3429,7 +3388,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -3499,7 +3457,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -3534,7 +3491,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -3569,7 +3525,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3,
@@ -3604,7 +3559,6 @@
           "genderRatio": 63,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ],
           "growthRate": 3
@@ -3641,7 +3595,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -3676,7 +3629,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -3711,7 +3663,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -4177,7 +4128,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "forms": [
@@ -4212,7 +4162,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ]
         }
@@ -4248,7 +4197,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "forms": [
@@ -4354,7 +4302,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ]
         }
@@ -4598,7 +4545,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.fighting",
             "pokemon.type.fighting"
           ]
         }
@@ -4702,7 +4648,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -4770,7 +4715,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "forms": [
@@ -4842,7 +4786,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "forms": [
@@ -4914,7 +4857,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -5162,7 +5104,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -5196,7 +5137,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -5230,7 +5170,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -5264,7 +5203,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -5298,7 +5236,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "forms": [
@@ -5369,7 +5306,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "forms": [
@@ -5548,7 +5484,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -5582,7 +5517,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "forms": [
@@ -5653,7 +5587,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -5687,7 +5620,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -5721,7 +5653,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -5755,7 +5686,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ]
     },
@@ -5789,7 +5719,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "forms": [
@@ -5930,7 +5859,6 @@
       "genderRatio": 254,
       "catchRate": 15,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -5965,7 +5893,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -5999,7 +5926,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -6033,7 +5959,6 @@
           "genderRatio": 254,
           "catchRate": 200,
           "types": [
-            "pokemon.type.normal",
             "pokemon.type.normal"
           ]
         }
@@ -6069,7 +5994,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -6104,7 +6028,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -6138,7 +6061,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -6172,7 +6094,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -6206,7 +6127,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -6414,7 +6334,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -6448,7 +6367,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -6482,7 +6400,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 5,
@@ -6541,6 +6458,7 @@
         "spDef": 70,
         "spd": 110
       },
+      "baseFriendship": 70,
       "evYield": {
         "atk": 1,
         "spd": 1
@@ -6550,10 +6468,13 @@
         "pokemon.ability.sheer_force",
         "pokemon.ability.anger_point"
       ],
+      "hatchCycles": 20,
+      "genderRatio": 0,
+      "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
+      "growthRate": 5,
       "forms": [
         {
           "name": "pokemon.species.tauros",
@@ -6573,6 +6494,7 @@
             "spDef": 70,
             "spd": 100
           },
+          "baseFriendship": 70,
           "evYield": {
             "atk": 2
           },
@@ -6581,10 +6503,13 @@
             "",
             "pokemon.ability.cud_chew"
           ],
+          "hatchCycles": 20,
+          "genderRatio": 0,
+          "catchRate": 200,
           "types": [
-            "pokemon.type.fighting",
             "pokemon.type.fighting"
-          ]
+          ],
+          "growthRate": 5
         },
         {
           "name": "pokemon.species.tauros",
@@ -6604,6 +6529,7 @@
             "spDef": 70,
             "spd": 100
           },
+          "baseFriendship": 70,
           "evYield": {
             "atk": 2
           },
@@ -6612,10 +6538,14 @@
             "",
             "pokemon.ability.cud_chew"
           ],
+          "hatchCycles": 20,
+          "genderRatio": 0,
+          "catchRate": 200,
           "types": [
             "pokemon.type.fighting",
             "pokemon.type.fire"
-          ]
+          ],
+          "growthRate": 5
         },
         {
           "name": "pokemon.species.tauros",
@@ -6635,6 +6565,7 @@
             "spDef": 70,
             "spd": 100
           },
+          "baseFriendship": 70,
           "evYield": {
             "atk": 2
           },
@@ -6643,10 +6574,14 @@
             "",
             "pokemon.ability.cud_chew"
           ],
+          "hatchCycles": 20,
+          "genderRatio": 0,
+          "catchRate": 200,
           "types": [
             "pokemon.type.fighting",
             "pokemon.type.water"
-          ]
+          ],
+          "growthRate": 5
         }
       ]
     },
@@ -6680,7 +6615,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -6822,7 +6756,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -6858,7 +6791,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -6892,7 +6824,6 @@
       "genderRatio": 31,
       "catchRate": 15,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -6926,7 +6857,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -6960,7 +6890,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -6994,7 +6923,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -7236,7 +7164,6 @@
       "genderRatio": 31,
       "catchRate": 90,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -7491,7 +7418,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -7526,7 +7452,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -7634,7 +7559,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5,
@@ -7704,7 +7628,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ],
           "growthRate": 5
@@ -7741,7 +7664,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -7776,7 +7698,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -7812,7 +7733,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -7848,7 +7768,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3,
@@ -7922,7 +7841,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -7958,7 +7876,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -7993,7 +7910,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3,
@@ -8066,7 +7982,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -8102,7 +8017,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -8138,7 +8052,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3,
@@ -8212,7 +8125,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -8246,7 +8158,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -8663,7 +8574,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4
@@ -8733,7 +8643,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4
@@ -8872,7 +8781,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 3
@@ -8907,7 +8815,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 3
@@ -8942,7 +8849,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 3,
@@ -9014,7 +8920,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -9119,7 +9024,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ]
     },
@@ -9153,7 +9057,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -9293,7 +9196,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -9328,7 +9230,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -9363,7 +9264,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -9539,7 +9439,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -9573,7 +9472,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ]
     },
@@ -9712,7 +9610,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -10701,7 +10598,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -10769,7 +10665,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -10837,7 +10732,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -10976,7 +10870,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4
@@ -11011,7 +10904,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4
@@ -11368,7 +11260,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -11402,7 +11293,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -11436,7 +11326,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -11612,7 +11501,6 @@
           "genderRatio": 191,
           "catchRate": 200,
           "types": [
-            "pokemon.type.ghost",
             "pokemon.type.ghost"
           ],
           "growthRate": 4
@@ -11649,7 +11537,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -11684,7 +11571,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -12003,7 +11889,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -12038,7 +11923,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -12072,7 +11956,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -12106,7 +11989,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -12141,7 +12023,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -12176,7 +12057,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -12210,7 +12090,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -12278,7 +12157,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -12312,7 +12190,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -12346,7 +12223,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -12381,7 +12257,6 @@
       "genderRatio": 254,
       "catchRate": 15,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -12420,7 +12295,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5
@@ -12459,7 +12333,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 5
@@ -12498,7 +12371,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -12779,7 +12651,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -12814,7 +12685,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -12849,7 +12719,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3,
@@ -12922,7 +12791,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -13066,7 +12934,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -13208,7 +13075,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ]
     },
@@ -13242,7 +13108,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ]
     },
@@ -13276,7 +13141,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -13347,7 +13211,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -13418,7 +13281,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -13451,7 +13313,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -13518,7 +13379,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -13691,7 +13551,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -14145,7 +14004,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 2
@@ -14214,7 +14072,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -14248,7 +14105,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -14282,7 +14138,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -14422,7 +14277,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -14457,7 +14311,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -14492,7 +14345,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -14527,7 +14379,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 2
@@ -14562,7 +14413,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 2
@@ -14632,7 +14482,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ]
     },
@@ -14666,7 +14515,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -14702,7 +14550,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -14990,7 +14837,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.steel",
             "pokemon.type.steel"
           ],
           "growthRate": 5
@@ -15131,7 +14977,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5
@@ -15166,7 +15011,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5,
@@ -15201,7 +15045,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.electric",
             "pokemon.type.electric"
           ],
           "growthRate": 5
@@ -15238,7 +15081,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -15272,7 +15114,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -15306,7 +15147,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 1
@@ -15341,7 +15181,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 2
@@ -15411,7 +15250,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 2
@@ -15446,7 +15284,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 2
@@ -15588,7 +15425,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 2
@@ -15623,7 +15459,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 2
@@ -15764,7 +15599,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -15798,7 +15632,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 4
@@ -15833,7 +15666,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 4
@@ -15868,7 +15700,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -15903,7 +15734,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "growthRate": 3
@@ -16010,7 +15840,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -16188,7 +16017,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 1
@@ -16224,7 +16052,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 2
@@ -16395,7 +16222,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 2
@@ -16671,7 +16497,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -16706,7 +16531,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -16874,7 +16698,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -16909,7 +16732,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -16944,7 +16766,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4,
@@ -16979,7 +16800,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.ghost",
             "pokemon.type.ghost"
           ],
           "growthRate": 4
@@ -17016,7 +16836,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -17052,7 +16871,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -17122,7 +16940,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 4,
@@ -17195,7 +17012,6 @@
       "genderRatio": 127,
       "catchRate": 120,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 3,
@@ -17230,7 +17046,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.dark",
             "pokemon.type.dark"
           ],
           "growthRate": 3
@@ -17302,7 +17117,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -17336,7 +17150,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ]
     },
@@ -17370,7 +17183,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "forms": [
@@ -17404,7 +17216,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.ice",
             "pokemon.type.ice"
           ]
         }
@@ -17545,7 +17356,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -17581,7 +17391,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -17616,7 +17425,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -17687,7 +17495,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 4
@@ -17722,7 +17529,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -17757,7 +17563,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -18006,7 +17811,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 5
@@ -18041,7 +17845,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 5
@@ -18077,7 +17880,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 5
@@ -18253,7 +18055,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5,
@@ -18288,7 +18089,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.water",
             "pokemon.type.water"
           ],
           "growthRate": 5
@@ -18324,7 +18124,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "growthRate": 5,
@@ -18504,7 +18303,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5,
@@ -18540,7 +18338,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ],
           "growthRate": 5
@@ -18576,7 +18373,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ],
           "growthRate": 5
@@ -18611,7 +18407,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ],
           "growthRate": 5
@@ -18648,7 +18443,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -18684,7 +18478,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -18755,7 +18548,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -18863,7 +18655,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -18898,7 +18689,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -19118,7 +18908,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -19188,7 +18977,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 3
@@ -19225,7 +19013,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 3
@@ -19262,7 +19049,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 3
@@ -19297,7 +19083,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 3
@@ -19332,7 +19117,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 3
@@ -19437,7 +19221,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 1
@@ -19472,7 +19255,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 1
@@ -19896,7 +19678,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -19930,7 +19711,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -19964,7 +19744,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -19997,7 +19776,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -20238,7 +20016,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -20343,7 +20120,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -20377,7 +20153,6 @@
       "genderRatio": 127,
       "catchRate": 90,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "forms": [
@@ -20447,7 +20222,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -20517,7 +20291,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -20552,7 +20325,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -20586,7 +20358,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 4
@@ -20758,7 +20529,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ]
     },
@@ -20826,7 +20596,6 @@
       "genderRatio": 254,
       "catchRate": 15,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -21071,7 +20840,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.dragon",
             "pokemon.type.dragon"
           ],
           "growthRate": 5
@@ -21108,7 +20876,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -21143,7 +20910,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -21288,7 +21054,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "growthRate": 5
@@ -21323,7 +21088,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ],
       "growthRate": 5
@@ -21495,7 +21259,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 5
@@ -21530,7 +21293,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -21565,7 +21327,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 1
@@ -21815,7 +21576,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -21884,7 +21644,6 @@
       "genderRatio": 127,
       "catchRate": 90,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -21918,7 +21677,6 @@
       "genderRatio": 63,
       "catchRate": 90,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -21952,7 +21710,6 @@
       "genderRatio": 63,
       "catchRate": 90,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -22056,7 +21813,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -22090,7 +21846,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ]
     },
@@ -22194,7 +21949,6 @@
       "genderRatio": 255,
       "catchRate": 90,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -22336,7 +22090,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -22652,7 +22405,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -22688,7 +22440,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -22723,7 +22474,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -22974,7 +22724,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -23080,7 +22829,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -23114,7 +22862,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -23148,7 +22895,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -23183,7 +22929,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 5,
@@ -23219,7 +22964,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.dark",
             "pokemon.type.dark"
           ],
           "growthRate": 5
@@ -23255,7 +22999,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3,
@@ -23326,7 +23069,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5,
@@ -23992,7 +23734,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -24027,7 +23768,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -24062,7 +23802,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -24097,7 +23836,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -24239,7 +23977,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -24274,7 +24011,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -24309,7 +24045,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3,
@@ -24382,7 +24117,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -24416,7 +24150,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -24450,7 +24183,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -24485,7 +24217,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -24520,7 +24251,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 3
@@ -24555,7 +24285,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ]
     },
@@ -24589,7 +24318,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ]
     },
@@ -24623,7 +24351,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -24657,7 +24384,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -24691,7 +24417,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -24725,7 +24450,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -24759,7 +24483,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -24793,7 +24516,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -24827,7 +24549,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 4
@@ -24862,7 +24583,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 4
@@ -25004,7 +24724,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -25038,7 +24757,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -25072,7 +24790,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -25108,7 +24825,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -25143,7 +24859,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -25246,7 +24961,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -25350,7 +25064,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4,
@@ -25422,7 +25135,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -25457,7 +25169,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -25492,7 +25203,6 @@
       "genderRatio": 63,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -25527,7 +25237,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -25632,7 +25341,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -25666,7 +25374,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -26024,7 +25731,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -26058,7 +25764,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "forms": [
@@ -26129,7 +25834,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "forms": [
@@ -26164,7 +25868,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.water",
             "pokemon.type.water"
           ]
         },
@@ -26199,7 +25902,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.water",
             "pokemon.type.water"
           ]
         }
@@ -26340,7 +26042,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3,
@@ -26376,7 +26077,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.ice",
             "pokemon.type.ice"
           ],
           "growthRate": 3
@@ -26413,7 +26113,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3,
@@ -26449,7 +26148,6 @@
           "genderRatio": 127,
           "catchRate": 60,
           "types": [
-            "pokemon.type.ice",
             "pokemon.type.ice"
           ],
           "growthRate": 3
@@ -26558,7 +26256,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -26799,7 +26496,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "forms": [
@@ -26868,7 +26564,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ]
     },
@@ -27036,7 +26731,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ]
     },
@@ -27070,7 +26764,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ]
     },
@@ -27103,7 +26796,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 3,
@@ -27174,7 +26866,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 3,
@@ -27246,7 +26937,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -27281,7 +26971,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -27316,7 +27005,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -27351,7 +27039,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -27386,7 +27073,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -27421,7 +27107,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -27456,7 +27141,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -27491,7 +27175,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -27594,7 +27277,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 5
@@ -27629,7 +27311,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 5
@@ -27664,7 +27345,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 5
@@ -28015,7 +27695,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -28223,7 +27902,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 4
@@ -28393,7 +28071,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 3
@@ -28428,7 +28105,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 3
@@ -28463,7 +28139,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 3
@@ -28497,7 +28172,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5
@@ -28531,7 +28205,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5
@@ -28565,7 +28238,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5,
@@ -28600,7 +28272,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.electric",
             "pokemon.type.electric"
           ],
           "growthRate": 5
@@ -28637,7 +28308,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -28671,7 +28341,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -28856,7 +28525,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -28891,7 +28559,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -28926,7 +28593,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -28961,7 +28627,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ]
     },
@@ -28995,7 +28660,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ]
     },
@@ -29028,7 +28692,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ]
     },
@@ -29062,7 +28725,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -29096,7 +28758,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -29200,7 +28861,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -29235,7 +28895,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -29270,7 +28929,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ]
     },
@@ -29477,7 +29135,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -29689,7 +29346,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ]
     },
@@ -30031,7 +29687,6 @@
       "genderRatio": 0,
       "catchRate": 90,
       "types": [
-        "pokemon.type.flying",
         "pokemon.type.flying"
       ],
       "growthRate": 5,
@@ -30066,7 +29721,6 @@
           "genderRatio": 0,
           "catchRate": 90,
           "types": [
-            "pokemon.type.flying",
             "pokemon.type.flying"
           ],
           "growthRate": 5
@@ -30761,7 +30415,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -30796,7 +30449,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -30904,7 +30556,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -30939,7 +30590,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -31047,7 +30697,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -31082,7 +30731,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -31260,7 +30908,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -31433,7 +31080,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -31467,7 +31113,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -32623,7 +32268,6 @@
           "genderRatio": 254,
           "catchRate": 200,
           "types": [
-            "pokemon.type.fairy",
             "pokemon.type.fairy"
           ]
         },
@@ -32658,7 +32302,6 @@
           "genderRatio": 254,
           "catchRate": 200,
           "types": [
-            "pokemon.type.fairy",
             "pokemon.type.fairy"
           ]
         }
@@ -32865,7 +32508,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -32899,7 +32541,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -32933,7 +32574,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -33341,7 +32981,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ]
     },
@@ -33375,7 +33014,6 @@
       "genderRatio": 0,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "forms": [
@@ -33410,7 +33048,6 @@
           "genderRatio": 254,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ]
         },
@@ -33444,7 +33081,6 @@
           "genderRatio": 0,
           "catchRate": 200,
           "types": [
-            "pokemon.type.psychic",
             "pokemon.type.psychic"
           ]
         }
@@ -33617,7 +33253,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ]
     },
@@ -33651,7 +33286,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ]
     },
@@ -33685,7 +33319,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ]
     },
@@ -33719,7 +33352,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ]
     },
@@ -34064,7 +33696,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -34098,7 +33729,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -34338,7 +33968,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ]
     },
@@ -34512,7 +34141,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -34547,7 +34175,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5,
@@ -34620,7 +34247,6 @@
       "genderRatio": 127,
       "catchRate": 40,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5,
@@ -35070,7 +34696,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ]
     },
@@ -35104,7 +34729,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "forms": [
@@ -35877,7 +35501,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -35912,7 +35535,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -35982,7 +35604,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -36017,7 +35638,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -36189,7 +35809,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -36223,7 +35842,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -36256,7 +35874,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -36356,7 +35973,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -36733,7 +36349,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "forms": [
@@ -36768,7 +36383,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.rock",
             "pokemon.type.rock"
           ]
         },
@@ -36802,7 +36416,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.rock",
             "pokemon.type.rock"
           ]
         }
@@ -36837,7 +36450,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 4,
@@ -36872,7 +36484,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.water",
             "pokemon.type.water"
           ],
           "growthRate": 4
@@ -36977,7 +36588,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -37011,7 +36621,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -37113,7 +36722,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -37147,7 +36755,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -37385,7 +36992,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -37420,7 +37026,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -37455,7 +37060,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -37490,7 +37094,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 4
@@ -37560,7 +37163,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 5
@@ -37765,7 +37367,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 4
@@ -37799,7 +37400,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -38983,7 +38583,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5
@@ -39291,7 +38890,6 @@
       "genderRatio": 127,
       "catchRate": 60,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -39535,7 +39133,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -39570,7 +39167,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -39779,7 +39375,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5
@@ -39921,7 +39516,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5,
@@ -40244,7 +39838,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.poison",
         "pokemon.type.poison"
       ],
       "growthRate": 5
@@ -40384,7 +39977,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5,
@@ -40419,7 +40011,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.electric",
             "pokemon.type.electric"
           ],
           "growthRate": 5
@@ -40455,7 +40046,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 5
@@ -40489,7 +40079,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 5
@@ -40524,7 +40113,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -40559,7 +40147,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -40594,7 +40181,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -40629,7 +40215,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -40664,7 +40249,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -40699,7 +40283,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -40735,7 +40318,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -40770,7 +40352,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -40805,7 +40386,6 @@
       "genderRatio": 31,
       "catchRate": 60,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -40840,7 +40420,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -40874,7 +40453,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -40908,7 +40486,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.flying",
         "pokemon.type.flying"
       ],
       "growthRate": 3
@@ -40943,7 +40520,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.flying",
         "pokemon.type.flying"
       ],
       "growthRate": 3
@@ -41013,7 +40589,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -41115,7 +40690,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 4
@@ -41150,7 +40724,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 4
@@ -41185,7 +40758,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -41219,7 +40791,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -41253,7 +40824,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -41287,7 +40857,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -41321,7 +40890,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -41389,7 +40957,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 4
@@ -41424,7 +40991,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 4
@@ -41459,7 +41025,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -41669,7 +41234,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -41703,7 +41267,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ground",
         "pokemon.type.ground"
       ]
     },
@@ -41840,7 +41403,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -41875,7 +41437,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -42086,7 +41647,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -42121,7 +41681,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 3
@@ -42294,7 +41853,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -42329,7 +41887,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 5
@@ -42532,7 +42089,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ]
     },
@@ -42566,7 +42122,6 @@
       "genderRatio": 191,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 4
@@ -42601,7 +42156,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ]
     },
@@ -42702,7 +42256,6 @@
       "genderRatio": 254,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ]
     },
@@ -43044,7 +42597,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "forms": [
@@ -43079,7 +42631,6 @@
           "genderRatio": 255,
           "catchRate": 200,
           "types": [
-            "pokemon.type.fighting",
             "pokemon.type.fighting"
           ]
         }
@@ -43115,7 +42666,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -43216,7 +42766,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 5
@@ -43250,7 +42799,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 5,
@@ -43285,7 +42833,6 @@
           "genderRatio": 127,
           "catchRate": 200,
           "types": [
-            "pokemon.type.ice",
             "pokemon.type.ice"
           ],
           "growthRate": 5
@@ -43464,7 +43011,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ]
     },
@@ -43498,7 +43044,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ]
     },
@@ -43810,7 +43355,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 5,
@@ -43881,7 +43425,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 5,
@@ -44023,7 +43566,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fighting",
         "pokemon.type.fighting"
       ],
       "growthRate": 5
@@ -44199,7 +43741,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ],
       "growthRate": 5
@@ -44233,7 +43774,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dragon",
         "pokemon.type.dragon"
       ],
       "growthRate": 5
@@ -44268,7 +43808,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 5
@@ -44303,7 +43842,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 5
@@ -44796,7 +44334,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -44831,7 +44368,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ],
       "growthRate": 3
@@ -44901,7 +44437,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -44936,7 +44471,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 3
@@ -45006,7 +44540,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -45041,7 +44574,6 @@
       "genderRatio": 31,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 3
@@ -45111,7 +44643,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ]
     },
@@ -45214,7 +44745,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 1
@@ -45249,7 +44779,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 1
@@ -45284,7 +44813,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ]
     },
@@ -45352,7 +44880,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -45454,7 +44981,6 @@
       "genderRatio": 255,
       "catchRate": 200,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 4
@@ -45560,7 +45086,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 3
@@ -45595,7 +45120,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fairy",
         "pokemon.type.fairy"
       ],
       "growthRate": 3
@@ -45880,7 +45404,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -45915,7 +45438,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -45950,7 +45472,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ],
       "growthRate": 3
@@ -45985,7 +45506,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.fire",
         "pokemon.type.fire"
       ],
       "growthRate": 5
@@ -46090,7 +45610,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -46124,7 +45643,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.electric",
         "pokemon.type.electric"
       ]
     },
@@ -46228,7 +45746,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 3
@@ -46263,7 +45780,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.dark",
         "pokemon.type.dark"
       ],
       "growthRate": 3
@@ -46504,7 +46020,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.rock",
         "pokemon.type.rock"
       ]
     },
@@ -46538,7 +46053,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.grass",
         "pokemon.type.grass"
       ]
     },
@@ -46643,7 +46157,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.bug",
         "pokemon.type.bug"
       ],
       "growthRate": 4
@@ -46713,7 +46226,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -46748,7 +46260,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.psychic",
         "pokemon.type.psychic"
       ],
       "growthRate": 3
@@ -46888,7 +46399,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -46922,7 +46432,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ]
     },
@@ -46990,7 +46499,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -47190,7 +46698,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.steel",
         "pokemon.type.steel"
       ],
       "growthRate": 5
@@ -47333,7 +46840,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 3
@@ -47368,7 +46874,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ghost",
         "pokemon.type.ghost"
       ],
       "growthRate": 3
@@ -47438,7 +46943,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 3
@@ -47473,7 +46977,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.ice",
         "pokemon.type.ice"
       ],
       "growthRate": 3
@@ -47543,7 +47046,6 @@
       "genderRatio": 127,
       "catchRate": 200,
       "types": [
-        "pokemon.type.water",
         "pokemon.type.water"
       ],
       "growthRate": 5
@@ -49693,7 +49195,6 @@
       "genderRatio": 127,
       "catchRate": 255,
       "types": [
-        "pokemon.type.normal",
         "pokemon.type.normal"
       ],
       "growthRate": 5,
@@ -49728,7 +49229,6 @@
           "genderRatio": 127,
           "catchRate": 255,
           "types": [
-            "pokemon.type.normal",
             "pokemon.type.normal"
           ],
           "growthRate": 5
@@ -49763,7 +49263,6 @@
           "genderRatio": 127,
           "catchRate": 255,
           "types": [
-            "pokemon.type.normal",
             "pokemon.type.normal"
           ],
           "growthRate": 5
