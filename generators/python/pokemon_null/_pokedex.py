@@ -177,6 +177,9 @@ def process_species_stats():
         if line.startswith("}"):
             reading = False
             
+            if current_name == "SHEDINJA":
+                current_pokemon.pidCloneRisk = True
+            
             if current_name is not None:
                 if current_name.startswith("PUMPKABOO"):
                     current_pokemon.types.append("pokemon.types.ghost")

@@ -12303,7 +12303,8 @@
         "pokemon.type.bug",
         "pokemon.type.ghost"
       ],
-      "growthRate": 1
+      "growthRate": 1,
+      "pidCloneRisk": true
     },
     {
       "id": 293,

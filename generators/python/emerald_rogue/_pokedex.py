@@ -310,6 +310,8 @@ def process_species_stats(version: RogueVersion):
 
         if line.startswith("}"):
             reading = False
+            if current_name == "SHEDINJA":
+                current_pokemon.pidCloneRisk = True
             _stats[current_name] = current_pokemon
             continue
 

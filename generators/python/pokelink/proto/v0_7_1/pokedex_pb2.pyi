@@ -11,10 +11,10 @@ import builtins as _builtins
 import sys
 import typing as _typing
 
-if sys.version_info >= (3, 10):
-    from typing import TypeAlias as _TypeAlias
+if sys.version_info >= (3, 11):
+    from typing import TypeAlias as _TypeAlias, Never as _Never
 else:
-    from typing_extensions import TypeAlias as _TypeAlias
+    from typing_extensions import TypeAlias as _TypeAlias, Never as _Never
 
 DESCRIPTOR: _descriptor.FileDescriptor
 
@@ -43,6 +43,7 @@ class EvolutionCondition(_message.Message):
         def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
         _ClearFieldArgType: _TypeAlias = _typing.Literal["key", b"key", "value", b"value"]  # noqa: Y015
         def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+        def WhichOneof(self, oneof_group: _Never) -> None: ...
 
     NUMBER_FIELD_NUMBER: _builtins.int
     FLOAT_FIELD_NUMBER: _builtins.int
@@ -115,6 +116,7 @@ class Evolution(_message.Message):
         def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
         _ClearFieldArgType: _TypeAlias = _typing.Literal["key", b"key", "value", b"value"]  # noqa: Y015
         def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+        def WhichOneof(self, oneof_group: _Never) -> None: ...
 
     TO_FIELD_NUMBER: _builtins.int
     CONDITIONS_FIELD_NUMBER: _builtins.int
@@ -268,6 +270,7 @@ class Species(_message.Message):
     EVOLUTIONS_FIELD_NUMBER: _builtins.int
     FORMS_FIELD_NUMBER: _builtins.int
     MAXHEARTGAUGE_FIELD_NUMBER: _builtins.int
+    PIDCLONERISK_FIELD_NUMBER: _builtins.int
     id: _builtins.int
     name: _builtins.str
     gameId: _builtins.int
@@ -282,6 +285,7 @@ class Species(_message.Message):
     catchRate: _builtins.int
     growthRate: _builtins.int
     maxHeartGauge: _builtins.int
+    pidCloneRisk: _builtins.bool
     @_builtins.property
     def sprites(self) -> Global___Sprites: ...
     @_builtins.property
@@ -320,10 +324,11 @@ class Species(_message.Message):
         evolutions: _abc.Iterable[Global___Evolution] | None = ...,
         forms: _abc.Iterable[Global___Species] | None = ...,
         maxHeartGauge: _builtins.int | None = ...,
+        pidCloneRisk: _builtins.bool | None = ...,
     ) -> None: ...
-    _HasFieldArgType: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_maxHeartGauge", b"_maxHeartGauge", "_weight", b"_weight", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "color", b"color", "evYield", b"evYield", "form", b"form", "formName", b"formName", "gameId", b"gameId", "genderRatio", b"genderRatio", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "maxHeartGauge", b"maxHeartGauge", "sprites", b"sprites", "weight", b"weight"]  # noqa: Y015
+    _HasFieldArgType: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_maxHeartGauge", b"_maxHeartGauge", "_pidCloneRisk", b"_pidCloneRisk", "_weight", b"_weight", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "color", b"color", "evYield", b"evYield", "form", b"form", "formName", b"formName", "gameId", b"gameId", "genderRatio", b"genderRatio", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "maxHeartGauge", b"maxHeartGauge", "pidCloneRisk", b"pidCloneRisk", "sprites", b"sprites", "weight", b"weight"]  # noqa: Y015
     def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
-    _ClearFieldArgType: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_maxHeartGauge", b"_maxHeartGauge", "_weight", b"_weight", "abilities", b"abilities", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "catchRate", b"catchRate", "color", b"color", "evYield", b"evYield", "evolutions", b"evolutions", "form", b"form", "formName", b"formName", "forms", b"forms", "gameId", b"gameId", "genderRatio", b"genderRatio", "growthRate", b"growthRate", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "maxHeartGauge", b"maxHeartGauge", "name", b"name", "sprites", b"sprites", "types", b"types", "weight", b"weight"]  # noqa: Y015
+    _ClearFieldArgType: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship", "_color", b"_color", "_evYield", b"_evYield", "_form", b"_form", "_formName", b"_formName", "_gameId", b"_gameId", "_genderRatio", b"_genderRatio", "_hatchCycles", b"_hatchCycles", "_height", b"_height", "_id", b"_id", "_maxHeartGauge", b"_maxHeartGauge", "_pidCloneRisk", b"_pidCloneRisk", "_weight", b"_weight", "abilities", b"abilities", "baseFriendship", b"baseFriendship", "baseStats", b"baseStats", "catchRate", b"catchRate", "color", b"color", "evYield", b"evYield", "evolutions", b"evolutions", "form", b"form", "formName", b"formName", "forms", b"forms", "gameId", b"gameId", "genderRatio", b"genderRatio", "growthRate", b"growthRate", "hatchCycles", b"hatchCycles", "height", b"height", "id", b"id", "maxHeartGauge", b"maxHeartGauge", "name", b"name", "pidCloneRisk", b"pidCloneRisk", "sprites", b"sprites", "types", b"types", "weight", b"weight"]  # noqa: Y015
     def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
     _WhichOneofReturnType__baseFriendship: _TypeAlias = _typing.Literal["baseFriendship"]  # noqa: Y015
     _WhichOneofArgType__baseFriendship: _TypeAlias = _typing.Literal["_baseFriendship", b"_baseFriendship"]  # noqa: Y015
@@ -347,6 +352,8 @@ class Species(_message.Message):
     _WhichOneofArgType__id: _TypeAlias = _typing.Literal["_id", b"_id"]  # noqa: Y015
     _WhichOneofReturnType__maxHeartGauge: _TypeAlias = _typing.Literal["maxHeartGauge"]  # noqa: Y015
     _WhichOneofArgType__maxHeartGauge: _TypeAlias = _typing.Literal["_maxHeartGauge", b"_maxHeartGauge"]  # noqa: Y015
+    _WhichOneofReturnType__pidCloneRisk: _TypeAlias = _typing.Literal["pidCloneRisk"]  # noqa: Y015
+    _WhichOneofArgType__pidCloneRisk: _TypeAlias = _typing.Literal["_pidCloneRisk", b"_pidCloneRisk"]  # noqa: Y015
     _WhichOneofReturnType__weight: _TypeAlias = _typing.Literal["weight"]  # noqa: Y015
     _WhichOneofArgType__weight: _TypeAlias = _typing.Literal["_weight", b"_weight"]  # noqa: Y015
     @_typing.overload
@@ -372,6 +379,8 @@ class Species(_message.Message):
     @_typing.overload
     def WhichOneof(self, oneof_group: _WhichOneofArgType__maxHeartGauge) -> _WhichOneofReturnType__maxHeartGauge | None: ...
     @_typing.overload
+    def WhichOneof(self, oneof_group: _WhichOneofArgType__pidCloneRisk) -> _WhichOneofReturnType__pidCloneRisk | None: ...
+    @_typing.overload
     def WhichOneof(self, oneof_group: _WhichOneofArgType__weight) -> _WhichOneofReturnType__weight | None: ...
 
 Global___Species: _TypeAlias = Species  # noqa: Y015
@@ -391,7 +400,10 @@ class Pokedex(_message.Message):
         version: _builtins.str = ...,
         entries: _abc.Iterable[Global___Species] | None = ...,
     ) -> None: ...
+    _HasFieldArgType: _TypeAlias = _Never  # noqa: Y015
+    def HasField(self, field_name: _HasFieldArgType) -> _builtins.bool: ...
     _ClearFieldArgType: _TypeAlias = _typing.Literal["entries", b"entries", "version", b"version"]  # noqa: Y015
     def ClearField(self, field_name: _ClearFieldArgType) -> None: ...
+    def WhichOneof(self, oneof_group: _Never) -> None: ...
 
 Global___Pokedex: _TypeAlias = Pokedex  # noqa: Y015
