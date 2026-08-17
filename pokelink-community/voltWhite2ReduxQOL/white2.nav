@@ -37,7 +37,11 @@
                 "heldItemOffset": "0x12",
                 "movesOffset": "0x0104",
                 "formOffset": "0x0141",
-                "statusOffset": "0x6C"
+                "paralyzedOffset": "0x20",
+                "sleepOffset": "0x24",
+                "frozenOffset": "0x28",
+                "burnOffset": "0x2C",
+                "poisonOffset": "0x30"
             }
         },
         {
