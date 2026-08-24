@@ -1108,7 +1108,7 @@
       "abilities": [
         "pokemon.ability.intimidate",
         "",
-        "pokemon.ability.unnerve"
+        "pokemon.ability.shed_skin"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -2621,7 +2621,7 @@
       },
       "abilities": [
         "pokemon.ability.damp",
-        "",
+        "pokemon.ability.effect_spore",
         "pokemon.ability.dry_skin"
       ],
       "hatchCycles": 20,
@@ -2656,7 +2656,7 @@
       },
       "abilities": [
         "pokemon.ability.damp",
-        "",
+        "pokemon.ability.effect_spore",
         "pokemon.ability.dry_skin"
       ],
       "hatchCycles": 20,
@@ -3796,7 +3796,8 @@
           },
           "abilities": [
             "pokemon.ability.supersweet_syrup",
-            ""
+            "pokemon.ability.supersweet_syrup",
+            "pokemon.ability.innards_out"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -5511,7 +5512,7 @@
       "abilities": [
         "pokemon.ability.battle_armor",
         "pokemon.ability.battle_armor",
-        "pokemon.ability.lightning_rod"
+        "pokemon.ability.rock_head"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -6189,6 +6190,7 @@
             "spd": 2
           },
           "abilities": [
+            "pokemon.ability.pure_power",
             "pokemon.ability.pure_power"
           ],
           "hatchCycles": 20,
@@ -6392,9 +6394,9 @@
         "atk": 2
       },
       "abilities": [
-        "pokemon.ability.moxie",
+        "pokemon.ability.hyper_cutter",
         "pokemon.ability.mold_breaker",
-        "pokemon.ability.hyper_cutter"
+        "pokemon.ability.moxie"
       ],
       "hatchCycles": 25,
       "genderRatio": 127,
@@ -7018,7 +7020,7 @@
       "abilities": [
         "pokemon.ability.shell_armor",
         "",
-        "pokemon.ability.weak_armor"
+        "pokemon.ability.swift_swim"
       ],
       "hatchCycles": 30,
       "genderRatio": 31,
@@ -7052,7 +7054,7 @@
       "abilities": [
         "pokemon.ability.shell_armor",
         "",
-        "pokemon.ability.weak_armor"
+        "pokemon.ability.swift_swim"
       ],
       "hatchCycles": 30,
       "genderRatio": 31,
@@ -7515,7 +7517,7 @@
           },
           "abilities": [
             "pokemon.ability.no_guard",
-            "",
+            "pokemon.ability.no_guard",
             ""
           ],
           "hatchCycles": 40,
@@ -7797,7 +7799,7 @@
           },
           "abilities": [
             "pokemon.ability.flower_veil",
-            "",
+            "pokemon.ability.flower_veil",
             "pokemon.ability.triage"
           ],
           "hatchCycles": 20,
@@ -8081,7 +8083,7 @@
           },
           "abilities": [
             "pokemon.ability.dragons_maw",
-            "",
+            "pokemon.ability.dragons_maw",
             "pokemon.ability.sheer_force"
           ],
           "hatchCycles": 20,
@@ -9290,9 +9292,9 @@
         "spd": 1
       },
       "abilities": [
-        "pokemon.ability.speed_boost",
         "pokemon.ability.compound_eyes",
-        "pokemon.ability.frisk"
+        "pokemon.ability.compound_eyes",
+        "pokemon.ability.speed_boost"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -9533,8 +9535,8 @@
       },
       "abilities": [
         "pokemon.ability.shell_armor",
-        "pokemon.ability.regenerator",
-        "pokemon.ability.oblivious"
+        "pokemon.ability.shell_armor",
+        "pokemon.ability.regenerator"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -11003,7 +11005,7 @@
       "abilities": [
         "pokemon.ability.technician",
         "",
-        "pokemon.ability.light_metal"
+        "pokemon.ability.swarm"
       ],
       "hatchCycles": 25,
       "genderRatio": 127,
@@ -11107,9 +11109,9 @@
         "atk": 2
       },
       "abilities": [
-        "pokemon.ability.moxie",
-        "pokemon.ability.guts",
-        "pokemon.ability.swarm"
+        "pokemon.ability.swarm",
+        "pokemon.ability.swarm",
+        "pokemon.ability.moxie"
       ],
       "hatchCycles": 25,
       "genderRatio": 127,
@@ -11215,9 +11217,9 @@
             "spd": 1
           },
           "abilities": [
-            "pokemon.ability.unburden",
+            "pokemon.ability.poison_touch",
             "pokemon.ability.inner_focus",
-            "pokemon.ability.poison_touch"
+            "pokemon.ability.unburden"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -11703,7 +11705,7 @@
           },
           "abilities": [
             "pokemon.ability.tough_claws",
-            ""
+            "pokemon.ability.tough_claws"
           ],
           "hatchCycles": 25,
           "genderRatio": 127,
@@ -12284,9 +12286,9 @@
         "spd": 2
       },
       "abilities": [
-        "pokemon.ability.pressure",
-        "",
         "pokemon.ability.inner_focus",
+        "",
+        "pokemon.ability.pressure",
         "pokemon.ability.pressure",
         "",
         "pokemon.ability.volt_absorb"
@@ -12322,9 +12324,9 @@
         "atk": 2
       },
       "abilities": [
-        "pokemon.ability.pressure",
-        "",
         "pokemon.ability.inner_focus",
+        "",
+        "pokemon.ability.pressure",
         "pokemon.ability.pressure",
         "",
         "pokemon.ability.flash_fire"
@@ -12783,9 +12785,9 @@
         "spAtk": 1
       },
       "abilities": [
-        "pokemon.ability.speed_boost",
+        "pokemon.ability.blaze",
         "",
-        "pokemon.ability.blaze"
+        "pokemon.ability.speed_boost"
       ],
       "hatchCycles": 20,
       "genderRatio": 31,
@@ -12818,9 +12820,9 @@
         "spAtk": 1
       },
       "abilities": [
-        "pokemon.ability.speed_boost",
+        "pokemon.ability.blaze",
         "",
-        "pokemon.ability.blaze"
+        "pokemon.ability.speed_boost"
       ],
       "hatchCycles": 20,
       "genderRatio": 31,
@@ -12853,9 +12855,9 @@
         "atk": 3
       },
       "abilities": [
-        "pokemon.ability.speed_boost",
+        "pokemon.ability.blaze",
         "",
-        "pokemon.ability.blaze"
+        "pokemon.ability.speed_boost"
       ],
       "hatchCycles": 20,
       "genderRatio": 31,
@@ -14475,8 +14477,8 @@
       },
       "abilities": [
         "pokemon.ability.sand_force",
-        "pokemon.ability.sturdy",
-        "pokemon.ability.magnet_pull"
+        "pokemon.ability.sand_force",
+        "pokemon.ability.sturdy"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -15485,9 +15487,9 @@
         "spAtk": 1
       },
       "abilities": [
-        "pokemon.ability.oblivious",
         "pokemon.ability.simple",
-        "pokemon.ability.own_tempo"
+        "pokemon.ability.own_tempo",
+        "pokemon.ability.oblivious"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -15520,9 +15522,9 @@
         "spAtk": 1
       },
       "abilities": [
-        "pokemon.ability.magma_armor",
+        "pokemon.ability.solid_rock",
         "pokemon.ability.own_tempo",
-        "pokemon.ability.anger_point"
+        "pokemon.ability.magma_armor"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -15907,7 +15909,7 @@
         "pokemon.ability.cloud_nine"
       ],
       "hatchCycles": 20,
-      "genderRatio": 127,
+      "genderRatio": 254,
       "catchRate": 200,
       "types": [
         "pokemon.type.normal",
@@ -15942,7 +15944,7 @@
         "pokemon.ability.cloud_nine"
       ],
       "hatchCycles": 20,
-      "genderRatio": 223,
+      "genderRatio": 254,
       "catchRate": 200,
       "types": [
         "pokemon.type.dragon",
@@ -15977,7 +15979,7 @@
             "pokemon.ability.pixilate"
           ],
           "hatchCycles": 20,
-          "genderRatio": 223,
+          "genderRatio": 254,
           "catchRate": 200,
           "types": [
             "pokemon.type.dragon",
@@ -17074,7 +17076,8 @@
           },
           "abilities": [
             "pokemon.ability.aura_break",
-            "pokemon.ability.aura_break"
+            "pokemon.ability.aura_break",
+            "pokemon.ability.sharpness"
           ],
           "hatchCycles": 25,
           "genderRatio": 127,
@@ -18260,8 +18263,9 @@
         "hp": 3
       },
       "abilities": [
-        "pokemon.ability.serene_grace",
-        ""
+        "pokemon.ability.victory_star",
+        "",
+        "pokemon.ability.serene_grace"
       ],
       "hatchCycles": 120,
       "genderRatio": 255,
@@ -18331,7 +18335,7 @@
             "spAtk": 1
           },
           "abilities": [
-            "pokemon.ability.unnerve",
+            "pokemon.ability.scrappy",
             ""
           ],
           "hatchCycles": 120,
@@ -20248,9 +20252,9 @@
         "atk": 2
       },
       "abilities": [
-        "pokemon.ability.moxie",
+        "pokemon.ability.super_luck",
         "",
-        "pokemon.ability.super_luck"
+        "pokemon.ability.moxie"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -20834,7 +20838,8 @@
           },
           "abilities": [
             "pokemon.ability.aura_break",
-            "pokemon.ability.aura_break"
+            "pokemon.ability.aura_break",
+            "pokemon.ability.multiscale"
           ],
           "hatchCycles": 40,
           "genderRatio": 127,
@@ -21011,7 +21016,8 @@
           },
           "abilities": [
             "pokemon.ability.aura_break",
-            "pokemon.ability.aura_break"
+            "pokemon.ability.aura_break",
+            "pokemon.ability.mega_launcher"
           ],
           "hatchCycles": 25,
           "genderRatio": 31,
@@ -21771,9 +21777,9 @@
         "atk": 2
       },
       "abilities": [
-        "pokemon.ability.speed_boost",
         "pokemon.ability.tinted_lens",
-        "pokemon.ability.frisk"
+        "pokemon.ability.tinted_lens",
+        "pokemon.ability.speed_boost"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -22048,8 +22054,8 @@
       },
       "abilities": [
         "pokemon.ability.sand_force",
-        "pokemon.ability.sturdy",
-        "pokemon.ability.magnet_pull"
+        "pokemon.ability.sand_force",
+        "pokemon.ability.sturdy"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -22152,7 +22158,7 @@
           },
           "abilities": [
             "pokemon.ability.refrigerate",
-            ""
+            "pokemon.ability.refrigerate"
           ],
           "hatchCycles": 20,
           "genderRatio": 254,
@@ -22752,7 +22758,7 @@
       "abilities": [
         "pokemon.ability.pressure",
         "",
-        "pokemon.ability.telepathy"
+        "pokemon.ability.shadow_tag"
       ],
       "hatchCycles": 120,
       "genderRatio": 255,
@@ -22787,7 +22793,8 @@
           },
           "abilities": [
             "pokemon.ability.levitate",
-            ""
+            "",
+            "pokemon.ability.shadow_tag"
           ],
           "hatchCycles": 120,
           "genderRatio": 255,
@@ -22812,9 +22819,9 @@
       "baseStats": {
         "hp": 120,
         "atk": 70,
-        "def": 120,
+        "def": 110,
         "spAtk": 75,
-        "spDef": 130,
+        "spDef": 120,
         "spd": 85
       },
       "baseFriendship": 100,
@@ -23934,7 +23941,7 @@
           },
           "abilities": [
             "pokemon.ability.supreme_overlord",
-            ""
+            "pokemon.ability.supreme_overlord"
           ],
           "hatchCycles": 20,
           "genderRatio": 31,
@@ -25022,7 +25029,7 @@
           },
           "abilities": [
             "pokemon.ability.clear_body",
-            ""
+            "pokemon.ability.clear_body"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -25058,7 +25065,7 @@
       "abilities": [
         "pokemon.ability.regenerator",
         "pokemon.ability.regenerator",
-        "pokemon.ability.klutz"
+        "pokemon.ability.healer"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -25091,8 +25098,8 @@
             "hp": 2
           },
           "abilities": [
-            "pokemon.ability.healer",
-            "pokemon.ability.healer"
+            "pokemon.ability.friend_guard",
+            "pokemon.ability.friend_guard"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -25505,8 +25512,8 @@
       },
       "abilities": [
         "pokemon.ability.poison_point",
-        "pokemon.ability.speed_boost",
         "pokemon.ability.swarm",
+        "pokemon.ability.speed_boost",
         "pokemon.ability.poison_point",
         "pokemon.ability.swarm",
         "pokemon.ability.quick_feet"
@@ -25543,8 +25550,8 @@
       },
       "abilities": [
         "pokemon.ability.poison_point",
-        "pokemon.ability.speed_boost",
         "pokemon.ability.swarm",
+        "pokemon.ability.speed_boost",
         "pokemon.ability.poison_point",
         "pokemon.ability.swarm",
         "pokemon.ability.quick_feet"
@@ -25581,8 +25588,8 @@
       },
       "abilities": [
         "pokemon.ability.poison_point",
-        "pokemon.ability.speed_boost",
         "pokemon.ability.swarm",
+        "pokemon.ability.speed_boost",
         "pokemon.ability.poison_point",
         "pokemon.ability.swarm",
         "pokemon.ability.quick_feet"
@@ -25620,7 +25627,7 @@
           },
           "abilities": [
             "pokemon.ability.steelworker",
-            ""
+            "pokemon.ability.steelworker"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -26421,7 +26428,7 @@
           },
           "abilities": [
             "pokemon.ability.justified",
-            ""
+            "pokemon.ability.justified"
           ],
           "hatchCycles": 15,
           "genderRatio": 127,
@@ -27895,7 +27902,7 @@
       },
       "abilities": [
         "pokemon.ability.regenerator",
-        "",
+        "pokemon.ability.hydration",
         "pokemon.ability.healer"
       ],
       "hatchCycles": 40,
@@ -28001,7 +28008,7 @@
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
-      "catchRate": 200,
+      "catchRate": 20,
       "types": [
         "pokemon.type.grass",
         "pokemon.type.steel"
@@ -28035,7 +28042,7 @@
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
-      "catchRate": 90,
+      "catchRate": 20,
       "types": [
         "pokemon.type.grass",
         "pokemon.type.steel"
@@ -28266,7 +28273,7 @@
           },
           "abilities": [
             "pokemon.ability.levitate",
-            ""
+            "pokemon.ability.levitate"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -28482,7 +28489,7 @@
           },
           "abilities": [
             "pokemon.ability.technician",
-            ""
+            "pokemon.ability.technician"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -28854,8 +28861,8 @@
       },
       "abilities": [
         "pokemon.ability.reckless",
-        "pokemon.ability.regenerator",
-        "pokemon.ability.inner_focus"
+        "pokemon.ability.inner_focus",
+        "pokemon.ability.regenerator"
       ],
       "hatchCycles": 25,
       "genderRatio": 127,
@@ -29578,6 +29585,7 @@
       },
       "abilities": [
         "pokemon.ability.inner_focus",
+        "",
         "pokemon.ability.justified"
       ],
       "hatchCycles": 80,
@@ -29612,6 +29620,7 @@
       },
       "abilities": [
         "pokemon.ability.inner_focus",
+        "",
         "pokemon.ability.justified"
       ],
       "hatchCycles": 80,
@@ -29646,6 +29655,7 @@
       },
       "abilities": [
         "pokemon.ability.inner_focus",
+        "",
         "pokemon.ability.justified"
       ],
       "hatchCycles": 80,
@@ -29714,8 +29724,9 @@
             "atk": 3
           },
           "abilities": [
-            "pokemon.ability.regenerator",
-            ""
+            "pokemon.ability.unnerve",
+            "",
+            "pokemon.ability.regenerator"
           ],
           "hatchCycles": 120,
           "genderRatio": 0,
@@ -30071,7 +30082,8 @@
       },
       "abilities": [
         "pokemon.ability.justified",
-        ""
+        "",
+        "pokemon.ability.adaptability"
       ],
       "hatchCycles": 80,
       "genderRatio": 255,
@@ -30106,7 +30118,8 @@
           },
           "abilities": [
             "pokemon.ability.justified",
-            ""
+            "",
+            "pokemon.ability.adaptability"
           ],
           "hatchCycles": 80,
           "genderRatio": 255,
@@ -30408,7 +30421,7 @@
       },
       "abilities": [
         "pokemon.ability.battle_armor",
-        "",
+        "pokemon.ability.overgrow",
         "pokemon.ability.bulletproof"
       ],
       "hatchCycles": 20,
@@ -30442,7 +30455,7 @@
       },
       "abilities": [
         "pokemon.ability.battle_armor",
-        "",
+        "pokemon.ability.overgrow",
         "pokemon.ability.bulletproof"
       ],
       "hatchCycles": 20,
@@ -30652,8 +30665,8 @@
             "spAtk": 3
           },
           "abilities": [
-            "pokemon.ability.levitate",
-            "",
+            "pokemon.ability.serene_grace",
+            "pokemon.ability.serene_grace",
             "pokemon.ability.dazzling"
           ],
           "hatchCycles": 20,
@@ -30863,9 +30876,9 @@
             "spd": 3
           },
           "abilities": [
-            "pokemon.ability.protean",
-            "pokemon.ability.protean",
-            "pokemon.ability.sniper"
+            "pokemon.ability.sniper",
+            "pokemon.ability.sniper",
+            "pokemon.ability.protean"
           ],
           "hatchCycles": 20,
           "genderRatio": 31,
@@ -31917,7 +31930,7 @@
           },
           "abilities": [
             "pokemon.ability.blaze",
-            ""
+            "pokemon.ability.blaze"
           ],
           "hatchCycles": 20,
           "genderRatio": 223,
@@ -32295,7 +32308,7 @@
           },
           "abilities": [
             "pokemon.ability.aura_break",
-            "",
+            "pokemon.ability.aura_break",
             "pokemon.ability.fairy_aura"
           ],
           "hatchCycles": 20,
@@ -33075,7 +33088,8 @@
           },
           "abilities": [
             "pokemon.ability.synchronize",
-            "pokemon.ability.synchronize"
+            "",
+            "pokemon.ability.psychic_surge"
           ],
           "hatchCycles": 20,
           "genderRatio": 0,
@@ -33447,7 +33461,7 @@
           },
           "abilities": [
             "pokemon.ability.neuroforce",
-            ""
+            "pokemon.ability.neuroforce"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -33551,7 +33565,7 @@
           },
           "abilities": [
             "pokemon.ability.skill_link",
-            ""
+            "pokemon.ability.skill_link"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -33655,7 +33669,7 @@
           },
           "abilities": [
             "pokemon.ability.multiscale",
-            ""
+            "pokemon.ability.multiscale"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -34029,7 +34043,7 @@
           },
           "abilities": [
             "pokemon.ability.reckless",
-            ""
+            "pokemon.ability.reckless"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -34202,9 +34216,9 @@
             "spDef": 2
           },
           "abilities": [
-            "pokemon.ability.sap_sipper",
+            "pokemon.ability.gooey",
             "pokemon.ability.shell_armor",
-            "pokemon.ability.gooey"
+            "pokemon.ability.sap_sipper"
           ],
           "hatchCycles": 40,
           "genderRatio": 127,
@@ -35137,8 +35151,8 @@
             "hp": 3
           },
           "abilities": [
-            "pokemon.ability.aura_break",
-            ""
+            "pokemon.ability.speed_boost",
+            "pokemon.ability.speed_boost"
           ],
           "hatchCycles": 120,
           "genderRatio": 255,
@@ -37087,7 +37101,7 @@
       },
       "abilities": [
         "pokemon.ability.triage",
-        "pokemon.ability.triage",
+        "pokemon.ability.flower_veil",
         "pokemon.ability.natural_cure"
       ],
       "hatchCycles": 20,
@@ -38815,7 +38829,7 @@
           },
           "abilities": [
             "pokemon.ability.wind_rider",
-            ""
+            "pokemon.ability.wind_rider"
           ],
           "hatchCycles": 20,
           "genderRatio": 127,
@@ -39615,7 +39629,7 @@
             "spd": 1
           },
           "abilities": [
-            "pokemon.ability.neuroforce",
+            "pokemon.ability.prism_armor",
             ""
           ],
           "hatchCycles": 120,
@@ -41017,9 +41031,9 @@
         "def": 1
       },
       "abilities": [
-        "pokemon.ability.magma_armor",
-        "pokemon.ability.magma_armor",
-        "pokemon.ability.steam_engine"
+        "pokemon.ability.heatproof",
+        "pokemon.ability.steam_engine",
+        "pokemon.ability.flash_fire"
       ],
       "hatchCycles": 15,
       "genderRatio": 127,
@@ -41051,9 +41065,9 @@
         "def": 2
       },
       "abilities": [
-        "pokemon.ability.magma_armor",
-        "pokemon.ability.magma_armor",
-        "pokemon.ability.steam_engine"
+        "pokemon.ability.flame_body",
+        "pokemon.ability.steam_engine",
+        "pokemon.ability.flash_fire"
       ],
       "hatchCycles": 15,
       "genderRatio": 127,
@@ -41086,9 +41100,9 @@
         "def": 3
       },
       "abilities": [
-        "pokemon.ability.magma_armor",
-        "pokemon.ability.magma_armor",
-        "pokemon.ability.steam_engine"
+        "pokemon.ability.flame_body",
+        "pokemon.ability.steam_engine",
+        "pokemon.ability.flash_fire"
       ],
       "hatchCycles": 15,
       "genderRatio": 127,
@@ -42625,7 +42639,7 @@
           },
           "abilities": [
             "pokemon.ability.sharpness",
-            ""
+            "pokemon.ability.sharpness"
           ],
           "hatchCycles": 25,
           "genderRatio": 255,
@@ -43337,7 +43351,7 @@
       "gameId": 888,
       "baseStats": {
         "hp": 92,
-        "atk": 130,
+        "atk": 120,
         "def": 115,
         "spAtk": 80,
         "spDef": 115,
@@ -43407,7 +43421,7 @@
       "gameId": 889,
       "baseStats": {
         "hp": 92,
-        "atk": 130,
+        "atk": 120,
         "def": 115,
         "spAtk": 80,
         "spDef": 115,
@@ -43488,7 +43502,7 @@
         "hp": 3
       },
       "abilities": [
-        "pokemon.ability.pressure",
+        "pokemon.ability.shadow_tag",
         ""
       ],
       "hatchCycles": 120,
@@ -44185,9 +44199,9 @@
         "spd": 1
       },
       "abilities": [
-        "pokemon.ability.unburden",
-        "",
-        "pokemon.ability.poison_touch"
+        "pokemon.ability.poison_touch",
+        "pokemon.ability.pressure",
+        "pokemon.ability.unburden"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -44973,8 +44987,8 @@
         "spd": 1
       },
       "abilities": [
-        "pokemon.ability.technician",
-        "pokemon.ability.technician",
+        "pokemon.ability.own_tempo",
+        "pokemon.ability.own_tempo",
         "pokemon.ability.friend_guard"
       ],
       "hatchCycles": 10,
@@ -45670,7 +45684,7 @@
       "abilities": [
         "pokemon.ability.wind_power",
         "pokemon.ability.wind_power",
-        "pokemon.ability.competitive"
+        "pokemon.ability.volt_absorb"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -45705,7 +45719,7 @@
       "abilities": [
         "pokemon.ability.wind_power",
         "pokemon.ability.wind_power",
-        "pokemon.ability.competitive"
+        "pokemon.ability.volt_absorb"
       ],
       "hatchCycles": 20,
       "genderRatio": 127,
@@ -46795,9 +46809,9 @@
             "spAtk": 2
           },
           "abilities": [
-            "pokemon.ability.merciless",
-            "",
-            "pokemon.ability.toxic_debris"
+            "pokemon.ability.levitate",
+            "pokemon.ability.levitate",
+            "pokemon.ability.merciless"
           ],
           "hatchCycles": 30,
           "genderRatio": 127,
@@ -49257,7 +49271,8 @@
           },
           "abilities": [
             "pokemon.ability.teraform_zero",
-            ""
+            "",
+            "pokemon.ability.tera_shell"
           ],
           "hatchCycles": 5,
           "genderRatio": 127,

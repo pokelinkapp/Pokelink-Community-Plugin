@@ -1199,11 +1199,11 @@
         {
           "to": 20,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 1,
@@ -7395,11 +7395,11 @@
         {
           "to": 105,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 28
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 28
             }
           },
           "fromForm": 0,
@@ -7408,11 +7408,11 @@
         {
           "to": 105,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 28
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 28
             }
           },
           "fromForm": 0,
@@ -7722,11 +7722,11 @@
         {
           "to": 110,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 35
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 35
             }
           },
           "fromForm": 0,
@@ -7735,11 +7735,11 @@
         {
           "to": 110,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 35
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 35
             }
           },
           "fromForm": 0,
@@ -10679,11 +10679,11 @@
         {
           "to": 157,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -10692,11 +10692,11 @@
         {
           "to": 157,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -16105,11 +16105,11 @@
         {
           "to": 106,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.stat": {
               "string": "stat.attack>defense"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -16118,11 +16118,11 @@
         {
           "to": 237,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.stat": {
               "string": "stat.attack=defense"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -16131,11 +16131,11 @@
         {
           "to": 107,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 20
-            },
             "pokemon.evolve.stat": {
               "string": "stat.attack<defense"
+            },
+            "pokemon.evolve.level": {
+              "number": 20
             }
           },
           "fromForm": 0,
@@ -17622,11 +17622,11 @@
         {
           "to": 862,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 35
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 35
             }
           },
           "fromForm": 1,
@@ -17717,11 +17717,11 @@
         {
           "to": 266,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 7
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.p50Chance"
+            },
+            "pokemon.evolve.level": {
+              "number": 7
             }
           },
           "fromForm": 0,
@@ -17730,11 +17730,11 @@
         {
           "to": 268,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 7
-            },
             "pokemon.evolve.rarity": {
               "string": "rarity.p50Chance"
+            },
+            "pokemon.evolve.level": {
+              "number": 7
             }
           },
           "fromForm": 0,
@@ -18494,11 +18494,11 @@
         {
           "to": 475,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.male"
-            },
             "pokemon.evolve.useItem": {
               "string": "pokemon.item.dawn_stone"
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.male"
             }
           },
           "fromForm": 0,
@@ -19058,7 +19058,8 @@
         "pokemon.type.bug",
         "pokemon.type.ghost"
       ],
-      "growthRate": 1
+      "growthRate": 1,
+      "pidCloneRisk": true
     },
     {
       "id": 293,
@@ -22666,11 +22667,11 @@
         {
           "to": 478,
           "conditions": {
-            "pokemon.evolve.gender": {
-              "string": "Gender.female"
-            },
             "pokemon.evolve.useItem": {
               "string": "pokemon.item.dawn_stone"
+            },
+            "pokemon.evolve.gender": {
+              "string": "Gender.female"
             }
           },
           "fromForm": 0,
@@ -27567,11 +27568,11 @@
         {
           "to": 448,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 30
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 30
             }
           },
           "fromForm": 0,
@@ -31315,11 +31316,11 @@
         {
           "to": 503,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -31328,11 +31329,11 @@
         {
           "to": 503,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -38127,11 +38128,11 @@
         {
           "to": 628,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -38140,11 +38141,11 @@
         {
           "to": 628,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -40701,11 +40702,11 @@
         {
           "to": 675,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 32
-            },
             "pokemon.evolve.typedPokemonPresentInParty": {
               "string": "pokemon.type.dark"
+            },
+            "pokemon.evolve.level": {
+              "number": 32
             }
           },
           "fromForm": 0,
@@ -41882,11 +41883,11 @@
         {
           "to": 697,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 39
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 39
             }
           },
           "fromForm": 0,
@@ -41975,11 +41976,11 @@
         {
           "to": 699,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 39
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 39
             }
           },
           "fromForm": 0,
@@ -42285,11 +42286,11 @@
         {
           "to": 706,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 50
-            },
             "pokemon.evolve.weather": {
               "string": "weather.raining"
+            },
+            "pokemon.evolve.level": {
+              "number": 50
             }
           },
           "fromForm": 0,
@@ -42298,11 +42299,11 @@
         {
           "to": 706,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 50
-            },
             "pokemon.evolve.weather": {
               "string": "weather.raining"
+            },
+            "pokemon.evolve.level": {
+              "number": 50
             }
           },
           "fromForm": 1,
@@ -43757,11 +43758,11 @@
         {
           "to": 724,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -43770,11 +43771,11 @@
         {
           "to": 724,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 36
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 36
             }
           },
           "fromForm": 0,
@@ -44331,11 +44332,11 @@
         {
           "to": 735,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 16
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 16
             }
           },
           "fromForm": 0,
@@ -44903,11 +44904,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.dusk"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 0,
@@ -44916,11 +44917,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 0,
@@ -44929,11 +44930,11 @@
         {
           "to": 745,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 25
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 25
             }
           },
           "fromForm": 0,
@@ -45530,11 +45531,11 @@
         {
           "to": 754,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 34
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 34
             }
           },
           "fromForm": 0,
@@ -48206,11 +48207,11 @@
         {
           "to": 791,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 64
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.day"
+            },
+            "pokemon.evolve.level": {
+              "number": 64
             }
           },
           "fromForm": 0,
@@ -48219,11 +48220,11 @@
         {
           "to": 792,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 64
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 64
             }
           },
           "fromForm": 0,
@@ -57880,11 +57881,11 @@
         {
           "to": 972,
           "conditions": {
-            "pokemon.evolve.level": {
-              "number": 30
-            },
             "pokemon.evolve.time": {
               "string": "timeOfDay.night"
+            },
+            "pokemon.evolve.level": {
+              "number": 30
             }
           },
           "fromForm": 0,

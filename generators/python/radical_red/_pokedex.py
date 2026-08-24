@@ -414,6 +414,9 @@ def generate():
         _clean_up_types(entry)
         _clean_up_abilities(entry)
         _clean_up_form(entry)
+        
+        if entry.name == "pokemon.species.shedinja":
+            entry.pidCloneRisk = True
 
         for form in entry.forms:
             form.name = entry.name

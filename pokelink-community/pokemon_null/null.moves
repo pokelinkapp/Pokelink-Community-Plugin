@@ -896,7 +896,7 @@
     "power": 0,
     "type": "pokemon.type.psychic",
     "accuracy": 0,
-    "pp": 20,
+    "pp": 5,
     "priority": -6
   },
   {
@@ -1586,7 +1586,7 @@
   {
     "id": 177,
     "name": "pokemon.move.aeroblast",
-    "power": 100,
+    "power": 95,
     "type": "pokemon.type.flying",
     "accuracy": 100,
     "pp": 5,
@@ -1723,7 +1723,7 @@
     "name": "pokemon.move.zap_cannon",
     "power": 100,
     "type": "pokemon.type.electric",
-    "accuracy": 50,
+    "accuracy": 60,
     "pp": 5,
     "priority": 0
   },
@@ -2002,7 +2002,7 @@
     "name": "pokemon.move.dynamic_punch",
     "power": 100,
     "type": "pokemon.type.fighting",
-    "accuracy": 50,
+    "accuracy": 60,
     "pp": 5,
     "priority": 0
   },
@@ -2030,7 +2030,7 @@
     "power": 0,
     "type": "pokemon.type.normal",
     "accuracy": 0,
-    "pp": 40,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -2391,7 +2391,7 @@
     "power": 0,
     "type": "pokemon.type.normal",
     "accuracy": 100,
-    "pp": 20
+    "pp": 5
   },
   {
     "id": 267,
@@ -3872,7 +3872,7 @@
   {
     "id": 431,
     "name": "pokemon.move.rock_climb",
-    "power": 90,
+    "power": 80,
     "type": "pokemon.type.rock",
     "accuracy": 100,
     "pp": 20,
@@ -4079,7 +4079,7 @@
   {
     "id": 454,
     "name": "pokemon.move.attack_order",
-    "power": 90,
+    "power": 80,
     "type": "pokemon.type.bug",
     "accuracy": 0,
     "pp": 15,
@@ -4281,7 +4281,7 @@
     "power": 0,
     "type": "pokemon.type.bug",
     "accuracy": 0,
-    "pp": 20
+    "pp": 5
   },
   {
     "id": 477,
@@ -4648,7 +4648,7 @@
     "name": "pokemon.move.inferno",
     "power": 100,
     "type": "pokemon.type.fire",
-    "accuracy": 50,
+    "accuracy": 60,
     "pp": 5,
     "priority": 0
   },
@@ -4853,10 +4853,10 @@
   {
     "id": 540,
     "name": "pokemon.move.psystrike",
-    "power": 100,
+    "power": 95,
     "type": "pokemon.type.psychic",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -5287,7 +5287,7 @@
     "power": 0,
     "type": "pokemon.type.steel",
     "accuracy": 0,
-    "pp": 2,
+    "pp": 1,
     "priority": 4
   },
   {
@@ -5338,11 +5338,11 @@
   {
     "id": 594,
     "name": "pokemon.move.water_shuriken",
-    "power": 15,
+    "power": 20,
     "type": "pokemon.type.water",
     "accuracy": 100,
     "pp": 20,
-    "priority": 1
+    "priority": 2
   },
   {
     "id": 595,
@@ -5701,7 +5701,7 @@
     "power": 0,
     "type": "pokemon.type.normal",
     "accuracy": 0,
-    "pp": 15,
+    "pp": 5,
     "priority": 3
   },
   {
@@ -5800,7 +5800,7 @@
     "power": 130,
     "type": "pokemon.type.fire",
     "accuracy": 100,
-    "pp": 5,
+    "pp": 1,
     "priority": 0
   },
   {
@@ -6070,7 +6070,7 @@
     "power": 100,
     "type": "pokemon.type.psychic",
     "accuracy": 100,
-    "pp": 5,
+    "pp": 10,
     "priority": 0
   },
   {
@@ -6121,7 +6121,7 @@
   {
     "id": 681,
     "name": "pokemon.move.buzzy_buzz",
-    "power": 90,
+    "power": 95,
     "pp": 15,
     "type": "pokemon.type.electric",
     "accuracy": 100,
@@ -6130,7 +6130,7 @@
   {
     "id": 682,
     "name": "pokemon.move.sizzly_slide",
-    "power": 90,
+    "power": 95,
     "pp": 15,
     "type": "pokemon.type.fire",
     "accuracy": 100,
@@ -6466,7 +6466,7 @@
     "power": 0,
     "type": "pokemon.type.water",
     "accuracy": 0,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -6825,7 +6825,7 @@
     "name": "pokemon.move.springtide_storm",
     "power": 95,
     "type": "pokemon.type.fairy",
-    "accuracy": 100,
+    "accuracy": 95,
     "pp": 5,
     "priority": 0
   },
@@ -6961,7 +6961,7 @@
     "power": 95,
     "pp": 5,
     "type": "pokemon.type.flying",
-    "accuracy": 100,
+    "accuracy": 95,
     "priority": 0
   },
   {
@@ -6970,7 +6970,7 @@
     "power": 95,
     "pp": 5,
     "type": "pokemon.type.electric",
-    "accuracy": 100,
+    "accuracy": 95,
     "priority": 0
   },
   {
@@ -6979,7 +6979,7 @@
     "power": 95,
     "pp": 5,
     "type": "pokemon.type.ground",
-    "accuracy": 100,
+    "accuracy": 95,
     "priority": 0
   },
   {
@@ -7033,7 +7033,7 @@
     "power": 50,
     "type": "pokemon.type.ghost",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -7231,7 +7231,7 @@
     "power": 100,
     "type": "pokemon.type.fighting",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -7240,7 +7240,7 @@
     "power": 100,
     "type": "pokemon.type.electric",
     "accuracy": 100,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -7258,7 +7258,7 @@
     "power": 0,
     "type": "pokemon.type.ice",
     "accuracy": 0,
-    "pp": 10,
+    "pp": 5,
     "priority": 0
   },
   {
@@ -7518,7 +7518,7 @@
     "power": 0,
     "type": "pokemon.type.fire",
     "accuracy": 0,
-    "pp": 10,
+    "pp": 1,
     "priority": 4
   },
   {
