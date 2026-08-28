@@ -8,7 +8,7 @@
         "knownIssues": [
         ]
     },
-    "partyReader": "pokelink.gen3.pokemonReaderReader",
+    "partyReader": "pokelink.gen3.pokemonReader",
     "ramComponents": [
         {
             "component": "pokelink.porygon.gen3.battle",

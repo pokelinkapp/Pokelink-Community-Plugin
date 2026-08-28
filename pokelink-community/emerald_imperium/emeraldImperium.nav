@@ -9,7 +9,7 @@
 
         ]
     },
-    "partyReader": "pokelink.eex.pokemonReaderReader",
+    "partyReader": "pokelink.eex.pokemonReader",
     "ramComponents": [
         {
             "component": "pokelink.porygon.gen3.battle",
