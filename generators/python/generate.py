@@ -6,6 +6,7 @@ import runAndBun
 import emerald_imperium
 import radical_red
 import pokemon_null
+import pokemon_unknown
 
 import locale
 locale.setlocale(locale.LC_ALL, '')
@@ -20,3 +21,5 @@ emerald_rogue.generate()
 if os.path.isdir(os.path.join(pokelink.directories.get_external_dir("private"), "pokemon_null")):
     print()
     pokemon_null.generate()
+print()
+pokemon_unknown.generate()

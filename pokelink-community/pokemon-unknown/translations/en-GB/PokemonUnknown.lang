@@ -1,0 +1,13 @@
+{
+    "code": "en-GB",
+    "translations": {
+        "Game": {
+            "Name": {
+                "PokemonUnknown": "Pokémon Unknown"
+            },
+            "Subtitle": {
+                "v1.6": "v1.6"
+            }
+        }
+    }
+}
