@@ -4,6 +4,7 @@ import pokelink.directories as directories
 import pokelink.translations as translations
 from pokelink import game_strings
 from pokelink.json_output import write_file
+from pokemon_unknown._util import strip_comments
 
 _PREFIX = "PokemonUnknown.Move."
 _moves = []
@@ -21,8 +22,8 @@ def _parse_ids() -> dict:
     ids = {}
     with open(os.path.join(directories.get_external_dir("pokemon-unknown"),
                            "cfru", "include", "constants", "moves.h"), "r") as f:
-        for line in f:
-            line = line.split("//")[0].strip()
+        for line in strip_comments(f.read()).splitlines():
+            line = line.strip()
             if not line.startswith("#define MOVE_"):
                 continue
             parts = line.split()
@@ -46,8 +47,8 @@ def _parse_battle_moves() -> dict:
 
     with open(os.path.join(directories.get_external_dir("pokemon-unknown"),
                            "cfru", "src", "Tables", "battle_moves.c"), "r") as f:
-        for line in f:
-            line = line.split("//")[0].strip()
+        for line in strip_comments(f.read()).splitlines():
+            line = line.strip()
             if not line:
                 continue
 

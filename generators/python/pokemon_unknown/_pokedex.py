@@ -11,6 +11,7 @@ from pokelink.json_output import write_file
 import pokemon_unknown._abilities as _abilities
 import pokemon_unknown._items as _items
 import pokemon_unknown._moves as _moves
+from pokemon_unknown._util import strip_comments
 
 _PREFIX = "PokemonUnknown.Species."
 _entries: list = []
@@ -243,7 +244,7 @@ def _parse_base_stats() -> tuple[dict, dict]:
     path = os.path.join(directories.get_external_dir("pokemon-unknown"),
                         "dpe", "src", "Base_Stats.c")
     with open(path, "r", encoding="utf-8", errors="replace") as f:
-        content = f.read()
+        content = strip_comments(f.read())
 
     constants = {}
     for cm in re.finditer(r'#define\s+(\w+)\s+(\d+)', content):
@@ -264,7 +265,7 @@ def _parse_evolutions() -> dict:
     path = os.path.join(directories.get_external_dir("pokemon-unknown"),
                         "dpe", "src", "Evolution Table.c")
     with open(path, "r", encoding="utf-8", errors="replace") as f:
-        content = f.read()
+        content = strip_comments(f.read())
 
     evos = {}
     parts = re.split(r'\[SPECIES_([^\]]+)\]\s*=', content)
@@ -286,8 +287,9 @@ def _make_evolution(fields: list, species_ids: dict) -> dict | None:
     param = fields[1]
     target = fields[2].removeprefix("SPECIES_")
 
-    # Not possible in this ROM / unsupported by the app — skip entirely
-    if evo_type in ("EVO_MEGA", "EVO_RAINY_FOGGY_OW"):
+    # Not possible in this ROM / unsupported by the app — skip entirely.
+    # Trade and map evolutions always have an EVO_ITEM alternative in this ROM.
+    if evo_type in ("EVO_MEGA", "EVO_RAINY_FOGGY_OW", "EVO_TRADE", "EVO_TRADE_ITEM", "EVO_MAP"):
         return None
     target_id = species_ids.get(target, 0)
     if not target_id:
@@ -304,11 +306,6 @@ def _make_evolution(fields: list, species_ids: dict) -> dict | None:
         conditions["pokemon.evolve.level"] = {"number": level}
     elif evo_type == "EVO_ITEM":
         conditions["pokemon.evolve.useItem"] = {"string": _items.get_item_by_constant(param.removeprefix("ITEM_"))}
-    elif evo_type in ("EVO_TRADE", "EVO_MAP", "EVO_BEAUTY", "EVO_CRITICAL_HIT", "EVO_DAMAGE_LOCATION"):
-        conditions["pokemon.evolve.levelUp"] = {}
-    elif evo_type == "EVO_TRADE_ITEM":
-        conditions["pokemon.evolve.hasItem"] = {"string": _items.get_item_by_constant(param.removeprefix("ITEM_"))}
-        conditions["pokemon.evolve.levelUp"] = {}
     elif evo_type == "EVO_FRIENDSHIP":
         conditions["pokemon.evolve.friendship"] = {"string": "friendship.high"}
     elif evo_type == "EVO_FRIENDSHIP_DAY":
@@ -369,6 +366,24 @@ def _make_evolution(fields: list, species_ids: dict) -> dict | None:
     return {"to": target_id, "conditions": conditions, "fromForm": 0, "toForm": 0}
 
 
+def _merge_duplicate_evolutions(evo_list: list) -> list:
+    """Merge evolutions sharing the same target into one entry, chaining each
+    additional path under pokemon.evolve.or.nested (the app renders this as 'or')."""
+    merged: list = []
+    by_target: dict = {}
+    for evo in evo_list:
+        target = evo["to"]
+        if target in by_target:
+            node = by_target[target]["conditions"]
+            while "pokemon.evolve.or" in node:
+                node = node["pokemon.evolve.or"]["nested"]
+            node["pokemon.evolve.or"] = {"nested": evo["conditions"]}
+        else:
+            by_target[target] = evo
+            merged.append(evo)
+    return merged
+
+
 def process():
     print("Processing Pokedex")
     global _entries, _species_lookup, _national_id_lookup, _species_to_dex_table
@@ -413,6 +428,7 @@ def process():
             evo = _make_evolution(evo_fields, species_ids)
             if evo:
                 evo_list.append(evo)
+        evo_list = _merge_duplicate_evolutions(evo_list)
 
         national_id = _find_national_id(species_name)
 

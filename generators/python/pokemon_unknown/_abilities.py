@@ -5,6 +5,7 @@ import pokelink.directories as directories
 import pokelink.translations as translations
 from pokelink import game_strings
 from pokelink.json_output import write_file
+from pokemon_unknown._util import strip_comments
 
 _PREFIX = "PokemonUnknown.Ability."
 _abilities: list = []
@@ -29,8 +30,8 @@ def process():
     unordered = {}
     with open(os.path.join(directories.get_external_dir("pokemon-unknown"),
                            "cfru", "include", "constants", "abilities.h"), "r") as f:
-        for line in f:
-            line = line.split("//")[0].strip()
+        for line in strip_comments(f.read()).splitlines():
+            line = line.strip()
             if not line.startswith("#define ABILITY_"):
                 continue
             parts = line.split()
