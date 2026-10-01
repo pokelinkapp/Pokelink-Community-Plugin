@@ -9,11 +9,7 @@
 
         ]
     },
-<<<<<<< HEAD
-    "partyReader": "pokelink.gen3.pokemonReader",
-=======
-    "partyReader": "pokelink.crfu.partyReader",
->>>>>>> 17ac6858c06c0b408522f821465c0f4fd816931a
+    "partyReader": "pokelink.cfru.partyReader",
     "ramComponents": [
         {
             "component": "pokelink.porygon.gen3.battle",
@@ -22,7 +18,7 @@
             }
         },
         {
-            "component": "pokelink.porygon.gen3.crfu.party",
+            "component": "pokelink.porygon.gen3.cfru.party",
             "config": {
                 "playerPartyAddress": "0x02024284",
                 "maxSpeciesID": 1375,
