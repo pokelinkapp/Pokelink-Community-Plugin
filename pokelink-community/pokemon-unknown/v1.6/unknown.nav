@@ -1,5 +1,5 @@
 {
-    "version": "Game.Subtitle.v4.1",
+    "version": "Game.Subtitle.v1.6",
     "romHeader": "POKEMON FIREBPRE",
     "features": {
         "unsupported": [
@@ -9,11 +9,7 @@
 
         ]
     },
-<<<<<<< HEAD
-    "partyReader": "pokelink.gen3.pokemonReader",
-=======
     "partyReader": "pokelink.crfu.partyReader",
->>>>>>> 17ac6858c06c0b408522f821465c0f4fd816931a
     "ramComponents": [
         {
             "component": "pokelink.porygon.gen3.battle",
@@ -25,7 +21,7 @@
             "component": "pokelink.porygon.gen3.crfu.party",
             "config": {
                 "playerPartyAddress": "0x02024284",
-                "maxSpeciesID": 1375,
+                "maxSpeciesID": 1294,
                 "pokemonDataSize": 100
             }
         }

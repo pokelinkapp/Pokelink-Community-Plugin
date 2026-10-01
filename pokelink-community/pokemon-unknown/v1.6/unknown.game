@@ -1,0 +1,42 @@
+{
+    "__import": {
+        "pokelink-community:/pokemon-unknown/v1.6/unknown.items": null,
+        "pokelink:/locations/gen3.locations": null,
+        "pokelink:/locations/frlg.nuzloc": null,
+        "pokelink:/badges/kanto.badges": null,
+        "pokelink:/base.natures": null,
+        "pokelink-community:/pokemon-unknown/v1.6/unknown.abilities": null,
+        "pokelink:/keybinds/frlg.keybinds": null,
+        "pokelink-community:/pokemon-unknown/v1.6/unknown.exp": null
+    },
+    "name": "Game.Name.PokemonUnknown",
+    "generation": 8,
+    "category": "Game.Category.supportedRomhacks",
+    "logo": "pokelink-community:/pokemon-unknown/logo.png",
+    "lightTheme": {
+        "color": "#ef4444",
+        "darkText": true
+    },
+    "darkTheme": {
+        "color": "#ef4444",
+        "darkText": true
+    },
+    "priority": 2,
+    "pokedex": {
+        "auto": "pokelink-community:/pokemon-unknown/v1.6/unknown.dex",
+        "manual": "pokelink-community:/pokemon-unknown/v1.6/unknown.dex"
+    },
+    "delayEggHatch": true,
+    "typeChart": "pokelink:/typeCharts/gen6.typeChart",
+    "moves": "pokelink-community:/pokemon-unknown/v1.6/unknown.moves",
+    "hatchMultiplier": 256,
+    "gameId": "FIRE_RED",
+    "console": "gba",
+    "memoryMaps": [
+        {
+            "__import": {
+                "pokelink-community:/pokemon-unknown/v1.6/unknown.nav": null
+            }
+        }
+    ]
+}
